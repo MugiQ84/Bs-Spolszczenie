@@ -1,2611 +1,2611 @@
 [
-  null,
-  {
-    "id": 1,
-    "autoRemovalTiming": 0,
-    "chanceByDamage": 100,
-    "iconIndex": 17,
-    "maxTurns": 1,
-    "message1": "は倒れた。",
-    "message2": "を倒した！",
-    "message3": "",
-    "message4": "は復活した！",
-    "minTurns": 1,
-    "motion": null,
-    "overlay": null,
-    "name": "戦闘不能",
-    "note": "ステート１番はＨＰが０になったときに自動的に付加されます。",
-    "priority": 100,
-    "removeAtBattleEnd": false,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 4,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 23,
-        "dataId": 9,
-        "value": 0.0
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "autoRemovalTiming": 0,
-    "chanceByDamage": 100,
-    "iconIndex": 18,
-    "maxTurns": 1,
-    "message1": "は毒に冒された！",
-    "message2": "は毒に冒された！",
-    "message3": "",
-    "message4": "の毒が消えた！",
-    "minTurns": 1,
-    "motion": null,
-    "overlay": null,
-    "name": "毒",
-    "note": "",
-    "priority": 65,
-    "removeAtBattleEnd": false,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 7,
-        "value": -0.05
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "iconIndex": 19,
-    "maxTurns": 5,
-    "message1": "は暗闇に閉ざされた！",
-    "message2": "を暗闇に閉ざした！",
-    "message3": "",
-    "message4": "の暗闇が消えた！",
-    "minTurns": 3,
-    "motion": null,
-    "overlay": null,
-    "name": "暗闇",
-    "note": "",
-    "priority": 70,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 0,
-        "value": -0.6
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "iconIndex": 20,
-    "maxTurns": 5,
-    "message1": "は沈黙になった！",
-    "message2": "は沈黙になった！",
-    "message3": "",
-    "message4": "の沈黙が解けた！",
-    "minTurns": 3,
-    "motion": null,
-    "overlay": null,
-    "name": "沈黙",
-    "note": "",
-    "priority": 75,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 42,
-        "dataId": 2,
-        "value": 0.0
-      },
-      {
-        "code": 14,
-        "dataId": 27,
-        "value": 0.0
-      }
-    ]
-  },
-  {
-    "id": 5,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 50,
-    "iconIndex": 21,
-    "maxTurns": 4,
-    "message1": "は混乱してしまった！",
-    "message2": "を混乱させた！",
-    "message3": "",
-    "message4": "は我に返った！",
-    "minTurns": 2,
-    "motion": null,
-    "overlay": null,
-    "name": "混乱",
-    "note": "",
-    "priority": 80,
-    "removeAtBattleEnd": true,
-    "removeByDamage": true,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 2,
-    "stepsToRemove": 100,
-    "traits": []
-  },
-  {
-    "id": 6,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "iconIndex": 22,
-    "maxTurns": 5,
-    "message1": "は眠ってしまった！",
-    "message2": "を眠らせた！",
-    "message3": "は眠っている……",
-    "message4": "は目を覚ました！",
-    "minTurns": 3,
-    "motion": null,
-    "overlay": null,
-    "name": "睡眠",
-    "note": "",
-    "priority": 85,
-    "removeAtBattleEnd": true,
-    "removeByDamage": true,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 4,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": -1.0
-      }
-    ]
-  },
-  {
-    "id": 7,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "iconIndex": 23,
-    "maxTurns": 6,
-    "message1": "はしびれて動けなくなった！",
-    "message2": "を麻痺させた！",
-    "message3": "は体がしびれて動けない！",
-    "message4": "の麻痺が解けた！",
-    "minTurns": 4,
-    "motion": null,
-    "overlay": null,
-    "name": "麻痺",
-    "note": "",
-    "priority": 90,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 4,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": -1.0
-      }
-    ]
-  },
-  {
-    "id": 8,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "iconIndex": 24,
-    "maxTurns": 3,
-    "message1": "はバランスを崩した！",
-    "message2": "はバランスを崩した！",
-    "message3": "はバランスを崩している……",
-    "message4": "は体勢を立て直した！",
-    "minTurns": 2,
-    "motion": null,
-    "overlay": null,
-    "name": "スタン",
-    "note": "",
-    "priority": 60,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 4,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": -1.0
-      }
-    ]
-  },
-  {
-    "id": 9,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 506,
-    "maxTurns": 2,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 2,
-    "motion": null,
-    "overlay": null,
-    "name": "防御",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": true,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 62,
-        "dataId": 1,
-        "value": 0.0
-      }
-    ]
-  },
-  {
-    "id": 10,
-    "autoRemovalTiming": 0,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 0,
-    "maxTurns": 1,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 1,
-    "motion": null,
-    "overlay": null,
-    "name": "不死身",
-    "note": "",
-    "priority": 0,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 14,
-        "dataId": 1,
-        "value": 0.0
-      }
-    ]
-  },
-  {
-    "id": 11,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 121,
-    "maxTurns": 5,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 5,
-    "motion": null,
-    "overlay": null,
-    "name": "かばう",
-    "note": "",
-    "priority": 0,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": true,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 62,
-        "dataId": 2,
-        "value": 0.0
-      }
-    ]
-  },
-  {
-    "id": 12,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 25,
-    "maxTurns": 5,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 5,
-    "motion": null,
-    "overlay": null,
-    "name": "挑発",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 23,
-        "dataId": 0,
-        "value": 10.0
-      }
-    ]
-  },
-  {
-    "id": 13,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 121,
-    "maxTurns": 5,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 5,
-    "motion": null,
-    "overlay": null,
-    "name": "隠れる",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": true,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 23,
-        "dataId": 0,
-        "value": 0.1
-      }
-    ]
-  },
-  {
-    "id": 14,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 26,
-    "maxTurns": 5,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 5,
-    "motion": null,
-    "overlay": null,
-    "name": "HP再生",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 7,
-        "value": 0.1
-      }
-    ]
-  },
-  {
-    "id": 15,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 26,
-    "maxTurns": 4,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 4,
-    "motion": null,
-    "overlay": null,
-    "name": "MP再生",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 8,
-        "value": 0.3
-      }
-    ]
-  },
-  {
-    "id": 16,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 28,
-    "maxTurns": 2,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 2,
-    "motion": null,
-    "overlay": null,
-    "name": "回避",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": true,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 1.0
-      },
-      {
-        "code": 11,
-        "dataId": 3,
-        "value": 0.0
-      },
-      {
-        "code": 11,
-        "dataId": 4,
-        "value": 0.0
-      },
-      {
-        "code": 11,
-        "dataId": 5,
-        "value": 0.0
-      },
-      {
-        "code": 11,
-        "dataId": 6,
-        "value": 0.0
-      },
-      {
-        "code": 11,
-        "dataId": 7,
-        "value": 0.0
-      },
-      {
-        "code": 11,
-        "dataId": 8,
-        "value": 0.0
-      },
-      {
-        "code": 11,
-        "dataId": 9,
-        "value": 0.0
-      },
-      {
-        "code": 11,
-        "dataId": 10,
-        "value": 0.0
-      },
-      {
-        "code": 22,
-        "dataId": 4,
-        "value": 1.0
-      },
-      {
-        "code": 11,
-        "dataId": 1,
-        "value": 0.0
-      },
-      {
-        "code": 11,
-        "dataId": 2,
-        "value": 0.0
-      },
-      {
-        "code": 21,
-        "dataId": 6,
-        "value": 1.1
-      },
-      {
-        "code": 11,
-        "dataId": 11,
-        "value": 0.0
-      },
-      {
-        "code": 11,
-        "dataId": 12,
-        "value": 0.0
-      },
-      {
-        "code": 13,
-        "dataId": 1,
-        "value": 0.0
-      }
-    ]
-  },
-  {
-    "id": 17,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 29,
-    "maxTurns": 5,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 5,
-    "motion": null,
-    "overlay": null,
-    "name": "鉄壁の守り",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": true,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 23,
-        "dataId": 6,
-        "value": 0.1
-      }
-    ]
-  },
-  {
-    "id": 18,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 27,
-    "maxTurns": 2,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 2,
-    "motion": null,
-    "overlay": null,
-    "name": "反撃",
-    "note": "",
-    "priority": 90,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": true,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 6,
-        "value": 1.0
-      },
-      {
-        "code": 21,
-        "dataId": 3,
-        "value": 0.01
-      },
-      {
-        "code": 21,
-        "dataId": 5,
-        "value": 0.01
-      },
-      {
-        "code": 21,
-        "dataId": 2,
-        "value": 1.5
-      }
-    ]
-  },
-  {
-    "id": 19,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 536,
-    "maxTurns": 2,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 2,
-    "motion": null,
-    "overlay": null,
-    "name": "魔法回避",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 4,
-        "value": 1.0
-      }
-    ]
-  },
-  {
-    "id": 20,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 31,
-    "maxTurns": 2,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 2,
-    "motion": null,
-    "overlay": null,
-    "name": "魔法反射",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 5,
-        "value": 1.0
-      }
-    ]
-  },
-  {
-    "id": 21,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 104,
-    "maxTurns": 5,
-    "message1": "は炎の力を身にまとった。",
-    "message2": "は炎の力を身にまとった。",
-    "message3": "",
-    "message4": "",
-    "minTurns": 5,
-    "motion": null,
-    "overlay": null,
-    "name": "炎の力",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 31,
-        "dataId": 3,
-        "value": 1.0
-      },
-      {
-        "code": 21,
-        "dataId": 2,
-        "value": 1.5
-      },
-      {
-        "code": 32,
-        "dataId": 29,
-        "value": 0.5
-      }
-    ]
-  },
-  {
-    "id": 22,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 105,
-    "maxTurns": 5,
-    "message1": "は氷の力を身にまとった。",
-    "message2": "は氷の力を身にまとった。",
-    "message3": "",
-    "message4": "",
-    "minTurns": 5,
-    "motion": null,
-    "overlay": null,
-    "name": "氷の力",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 31,
-        "dataId": 4,
-        "value": 1.0
-      },
-      {
-        "code": 21,
-        "dataId": 2,
-        "value": 1.5
-      },
-      {
-        "code": 32,
-        "dataId": 31,
-        "value": 0.5
-      }
-    ]
-  },
-  {
-    "id": 23,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 106,
-    "maxTurns": 5,
-    "message1": "は雷の力を身にまとった。",
-    "message2": "は雷の力を身にまとった。",
-    "message3": "",
-    "message4": "",
-    "minTurns": 5,
-    "motion": null,
-    "overlay": null,
-    "name": "雷の力",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 31,
-        "dataId": 5,
-        "value": 1.0
-      },
-      {
-        "code": 21,
-        "dataId": 2,
-        "value": 1.5
-      },
-      {
-        "code": 32,
-        "dataId": 37,
-        "value": 0.5
-      }
-    ]
-  },
-  {
-    "id": 24,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 29,
-    "maxTurns": 10,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 10,
-    "motion": null,
-    "overlay": null,
-    "name": "異常防止",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 13,
-        "dataId": 2,
-        "value": 0.0
-      },
-      {
-        "code": 13,
-        "dataId": 3,
-        "value": 0.0
-      },
-      {
-        "code": 13,
-        "dataId": 4,
-        "value": 0.0
-      },
-      {
-        "code": 13,
-        "dataId": 5,
-        "value": 0.0
-      },
-      {
-        "code": 13,
-        "dataId": 6,
-        "value": 0.0
-      },
-      {
-        "code": 13,
-        "dataId": 7,
-        "value": 0.0
-      },
-      {
-        "code": 13,
-        "dataId": 8,
-        "value": 0.0
-      },
-      {
-        "code": 13,
-        "dataId": 55,
-        "value": 0.0
-      },
-      {
-        "code": 13,
-        "dataId": 31,
-        "value": 0.0
-      },
-      {
-        "code": 13,
-        "dataId": 26,
-        "value": 0.0
-      },
-      {
-        "code": 13,
-        "dataId": 29,
-        "value": 0.0
-      },
-      {
-        "code": 13,
-        "dataId": 37,
-        "value": 0.0
-      },
-      {
-        "code": 13,
-        "dataId": 54,
-        "value": 0.0
-      },
-      {
-        "code": 13,
-        "dataId": 55,
-        "value": 0.0
-      },
-      {
-        "code": 13,
-        "dataId": 56,
-        "value": 0.0
-      },
-      {
-        "code": 13,
-        "dataId": 63,
-        "value": 0.0
-      }
-    ]
-  },
-  {
-    "id": 25,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 14,
-    "maxTurns": 2,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 2,
-    "motion": null,
-    "overlay": null,
-    "name": "会心率上昇１００",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 2,
-        "value": 1.0
-      }
-    ]
-  },
-  {
-    "id": 26,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "iconIndex": 573,
-    "maxTurns": 5,
-    "message1": "は出血した！",
-    "message2": "は出血した！",
-    "message3": "",
-    "message4": "の出血が止まった",
-    "minTurns": 3,
-    "motion": null,
-    "overlay": null,
-    "name": "出血",
-    "note": "",
-    "priority": 65,
-    "removeAtBattleEnd": false,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 11,
-        "dataId": 11,
-        "value": 2.0
-      },
-      {
-        "code": 22,
-        "dataId": 7,
-        "value": -0.05
-      }
-    ]
-  },
-  {
-    "id": 27,
-    "autoRemovalTiming": 0,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 328,
-    "maxTurns": 10,
-    "message1": "は天使の加護を身に纏った！",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 10,
-    "motion": null,
-    "overlay": null,
-    "name": "天使の加護",
-    "note": "<自動蘇生:500,42,100>\r\n<自動蘇生破損:100>",
-    "priority": 50,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": []
-  },
-  {
-    "id": 28,
-    "autoRemovalTiming": 0,
-    "chanceByDamage": 100,
-    "iconIndex": 18,
-    "maxTurns": 1,
-    "message1": "の上から胃液が降り注いできた！",
-    "message2": "",
-    "message3": "は胃液に溶かされている！",
-    "message4": "",
-    "minTurns": 1,
-    "motion": null,
-    "overlay": null,
-    "name": "胃液",
-    "note": "",
-    "priority": 65,
-    "removeAtBattleEnd": false,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 7,
-        "value": -0.2
-      }
-    ]
-  },
-  {
-    "id": 29,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "iconIndex": 96,
-    "maxTurns": 2,
-    "message1": "の身体に炎が燃え移った！",
-    "message2": "の身体に炎が燃え移った！",
-    "message3": "",
-    "message4": "の炎が消えた。",
-    "minTurns": 2,
-    "motion": null,
-    "overlay": null,
-    "name": "燃焼",
-    "note": "",
-    "priority": 65,
-    "removeAtBattleEnd": false,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 7,
-        "value": -0.1
-      }
-    ]
-  },
-  {
-    "id": 30,
-    "autoRemovalTiming": 2,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 0,
-    "maxTurns": 1,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 1,
-    "motion": null,
-    "overlay": null,
-    "name": "召喚中",
-    "note": "",
-    "priority": 0,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": []
-  },
-  {
-    "id": 31,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "iconIndex": 97,
-    "maxTurns": 2,
-    "message1": "は凍り付いた！",
-    "message2": "は凍り付いた！",
-    "message3": "は凍っている。",
-    "message4": "の氷が解けた！",
-    "minTurns": 2,
-    "motion": null,
-    "overlay": null,
-    "name": "氷結",
-    "note": "",
-    "priority": 60,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 4,
-    "stepsToRemove": 100,
-    "traits": []
-  },
-  {
-    "id": 32,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 30,
-    "maxTurns": 2,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 2,
-    "motion": null,
-    "overlay": null,
-    "name": "力貯め",
-    "note": "",
-    "priority": 0,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": []
-  },
-  {
-    "id": 33,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 30,
-    "maxTurns": 5,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 5,
-    "motion": null,
-    "overlay": null,
-    "name": "会心率上昇",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 2,
-        "value": 0.3
-      }
-    ]
-  },
-  {
-    "id": 34,
-    "autoRemovalTiming": 0,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 0,
-    "maxTurns": 4,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 4,
-    "motion": null,
-    "overlay": null,
-    "name": "HP再生rasubosu",
-    "note": "",
-    "priority": 0,
-    "removeAtBattleEnd": false,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 7,
-        "value": 0.05
-      }
-    ]
-  },
-  {
-    "id": 35,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 25,
-    "maxTurns": 10,
-    "message1": "は暴走した！",
-    "message2": "は暴走した！",
-    "message3": "は暴走している！",
-    "message4": "は疲れ果てた。",
-    "minTurns": 10,
-    "motion": null,
-    "overlay": null,
-    "name": "暴走",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 1,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 21,
-        "dataId": 6,
-        "value": 2.0
-      },
-      {
-        "code": 21,
-        "dataId": 2,
-        "value": 2.0
-      }
-    ]
-  },
-  {
-    "id": 36,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 474,
-    "maxTurns": 5,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 5,
-    "motion": null,
-    "overlay": null,
-    "name": "回避率上昇",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0.3
-      }
-    ]
-  },
-  {
-    "id": 37,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "iconIndex": 481,
-    "maxTurns": 5,
-    "message1": "は腕が動かせない！",
-    "message2": "は腕が動かせない！",
-    "message3": "",
-    "message4": "の腕が動くようになった。",
-    "minTurns": 3,
-    "motion": null,
-    "overlay": null,
-    "name": "手封",
-    "note": "",
-    "priority": 75,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 44,
-        "dataId": 1,
-        "value": 0.0
-      }
-    ]
-  },
-  {
-    "id": 38,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 25,
-    "maxTurns": 10,
-    "message1": "は暴走した！",
-    "message2": "は暴走した！",
-    "message3": "は暴走している！",
-    "message4": "は疲れ果てた。",
-    "minTurns": 10,
-    "motion": null,
-    "overlay": null,
-    "name": "暴走２",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 1,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 21,
-        "dataId": 6,
-        "value": 2.0
-      },
-      {
-        "code": 21,
-        "dataId": 2,
-        "value": 2.0
-      }
-    ]
-  },
-  {
-    "id": 39,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 28,
-    "maxTurns": 4,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 4,
-    "motion": null,
-    "overlay": null,
-    "name": "アクロバット回避",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": true,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 1.0
-      },
-      {
-        "code": 11,
-        "dataId": 3,
-        "value": 0.0
-      },
-      {
-        "code": 11,
-        "dataId": 4,
-        "value": 0.0
-      },
-      {
-        "code": 11,
-        "dataId": 5,
-        "value": 0.0
-      },
-      {
-        "code": 11,
-        "dataId": 6,
-        "value": 0.0
-      },
-      {
-        "code": 11,
-        "dataId": 7,
-        "value": 0.0
-      },
-      {
-        "code": 11,
-        "dataId": 8,
-        "value": 0.0
-      },
-      {
-        "code": 11,
-        "dataId": 9,
-        "value": 0.0
-      },
-      {
-        "code": 11,
-        "dataId": 10,
-        "value": 0.0
-      },
-      {
-        "code": 22,
-        "dataId": 4,
-        "value": 1.0
-      },
-      {
-        "code": 11,
-        "dataId": 1,
-        "value": 0.0
-      },
-      {
-        "code": 11,
-        "dataId": 2,
-        "value": 0.0
-      },
-      {
-        "code": 21,
-        "dataId": 6,
-        "value": 1.1
-      },
-      {
-        "code": 11,
-        "dataId": 11,
-        "value": 0.0
-      },
-      {
-        "code": 11,
-        "dataId": 12,
-        "value": 0.0
-      },
-      {
-        "code": 13,
-        "dataId": 1,
-        "value": 0.0
-      }
-    ]
-  },
-  {
-    "id": 40,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 31,
-    "maxTurns": 2,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 2,
-    "motion": null,
-    "overlay": null,
-    "name": "魔法反射",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 5,
-        "value": 1.0
-      }
-    ]
-  },
-  {
-    "id": 41,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 555,
-    "maxTurns": 10,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 10,
-    "motion": null,
-    "overlay": null,
-    "name": "騎士の誇り",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": true,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 23,
-        "dataId": 6,
-        "value": 0.1
-      },
-      {
-        "code": 23,
-        "dataId": 7,
-        "value": 0.1
-      },
-      {
-        "code": 21,
-        "dataId": 0,
-        "value": 2.0
-      }
-    ]
-  },
-  {
-    "id": 42,
-    "autoRemovalTiming": 0,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 571,
-    "maxTurns": 10,
-    "message1": "は怒り狂った！",
-    "message2": "は怒り狂った！",
-    "message3": "は怒り狂っている！",
-    "message4": "は疲れ果てた。",
-    "minTurns": 10,
-    "motion": null,
-    "overlay": null,
-    "name": "怒り",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": true,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 21,
-        "dataId": 6,
-        "value": 2.0
-      },
-      {
-        "code": 21,
-        "dataId": 2,
-        "value": 2.0
-      },
-      {
-        "code": 61,
-        "dataId": 0,
-        "value": 1.0
-      },
-      {
-        "code": 21,
-        "dataId": 3,
-        "value": 2.0
-      },
-      {
-        "code": 21,
-        "dataId": 5,
-        "value": 2.0
-      }
-    ]
-  },
-  {
-    "id": 43,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 604,
-    "maxTurns": 5,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 5,
-    "motion": null,
-    "overlay": null,
-    "name": "マジカルリフレクト",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 5,
-        "value": 1.0
-      }
-    ]
-  },
-  {
-    "id": 44,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 605,
-    "maxTurns": 5,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 5,
-    "motion": null,
-    "overlay": null,
-    "name": "アタックリフレクト",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 6,
-        "value": 1.0
-      }
-    ]
-  },
-  {
-    "id": 45,
-    "autoRemovalTiming": 0,
-    "chanceByDamage": 100,
-    "iconIndex": 107,
-    "maxTurns": 6,
-    "message1": "",
-    "message2": "の身体が溶け始めた！",
-    "message3": "の身体が溶けていく！",
-    "message4": "",
-    "minTurns": 4,
-    "motion": null,
-    "overlay": null,
-    "name": "凍解",
-    "note": "",
-    "priority": 90,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 7,
-        "value": -0.08
-      }
-    ]
-  },
-  {
-    "id": 46,
-    "autoRemovalTiming": 0,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 29,
-    "maxTurns": 2,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 2,
-    "motion": null,
-    "overlay": null,
-    "name": "守られている",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": false,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 23,
-        "dataId": 6,
-        "value": 0.0
-      },
-      {
-        "code": 23,
-        "dataId": 7,
-        "value": 0.0
-      }
-    ]
-  },
-  {
-    "id": 47,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 553,
-    "maxTurns": 2,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 2,
-    "motion": null,
-    "overlay": null,
-    "name": "会心率上昇2",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 2,
-        "value": 1.0
-      },
-      {
-        "code": 21,
-        "dataId": 2,
-        "value": 2.0
-      }
-    ]
-  },
-  {
-    "id": 48,
-    "autoRemovalTiming": 0,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 126,
-    "maxTurns": 2,
-    "message1": "はソウルの加護を身に纏った！",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 2,
-    "motion": null,
-    "overlay": null,
-    "name": "ソウル二倍",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": false,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 64,
-        "dataId": 4,
-        "value": 0.0
-      }
-    ]
-  },
-  {
-    "id": 49,
-    "autoRemovalTiming": 0,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 125,
-    "maxTurns": 2,
-    "message1": "は幸運を身に纏った！",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 2,
-    "motion": null,
-    "overlay": null,
-    "name": "ドロップ二倍",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": false,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 64,
-        "dataId": 5,
-        "value": 0.0
-      }
-    ]
-  },
-  {
-    "id": 50,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 619,
-    "maxTurns": 10,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 10,
-    "motion": null,
-    "overlay": null,
-    "name": "ドロシー",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": true,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 61,
-        "dataId": 0,
-        "value": 1.0
-      },
-      {
-        "code": 21,
-        "dataId": 4,
-        "value": 4.0
-      },
-      {
-        "code": 22,
-        "dataId": 2,
-        "value": 1.0
-      }
-    ]
-  },
-  {
-    "id": 51,
-    "autoRemovalTiming": 0,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 448,
-    "maxTurns": 2,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 2,
-    "motion": null,
-    "overlay": null,
-    "name": "アリスの加護",
-    "note": "",
-    "priority": 90,
-    "removeAtBattleEnd": false,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 61,
-        "dataId": 0,
-        "value": 1.0
-      },
-      {
-        "code": 22,
-        "dataId": 7,
-        "value": 0.3
-      },
-      {
-        "code": 22,
-        "dataId": 8,
-        "value": 0.3
-      },
-      {
-        "code": 11,
-        "dataId": 1,
-        "value": 0.3
-      },
-      {
-        "code": 11,
-        "dataId": 2,
-        "value": 0.3
-      },
-      {
-        "code": 11,
-        "dataId": 3,
-        "value": 0.3
-      },
-      {
-        "code": 11,
-        "dataId": 4,
-        "value": 0.3
-      },
-      {
-        "code": 11,
-        "dataId": 5,
-        "value": 0.3
-      },
-      {
-        "code": 11,
-        "dataId": 6,
-        "value": 0.3
-      },
-      {
-        "code": 11,
-        "dataId": 7,
-        "value": 0.3
-      },
-      {
-        "code": 11,
-        "dataId": 8,
-        "value": 0.3
-      },
-      {
-        "code": 11,
-        "dataId": 9,
-        "value": 0.3
-      },
-      {
-        "code": 11,
-        "dataId": 10,
-        "value": 0.3
-      }
-    ]
-  },
-  {
-    "id": 52,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 136,
-    "maxTurns": 10,
-    "message1": "の魔力が溢れる！",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 10,
-    "motion": null,
-    "overlay": null,
-    "name": "内なる大力",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 21,
-        "dataId": 4,
-        "value": 3.0
-      },
-      {
-        "code": 22,
-        "dataId": 7,
-        "value": -0.2
-      }
-    ]
-  },
-  {
-    "id": 53,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 509,
-    "maxTurns": 10,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 10,
-    "motion": null,
-    "overlay": null,
-    "name": "聖騎士の御旗",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": true,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 21,
-        "dataId": 3,
-        "value": 2.0
-      },
-      {
-        "code": 21,
-        "dataId": 5,
-        "value": 2.0
-      },
-      {
-        "code": 22,
-        "dataId": 7,
-        "value": 0.3
-      }
-    ]
-  },
-  {
-    "id": 54,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "iconIndex": 103,
-    "maxTurns": 5,
-    "message1": "の身体が脆くなった！",
-    "message2": "の身体が脆くなった！",
-    "message3": "",
-    "message4": "の身体が元に戻った。",
-    "minTurns": 3,
-    "motion": null,
-    "overlay": null,
-    "name": "脆弱",
-    "note": "",
-    "priority": 70,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 23,
-        "dataId": 6,
-        "value": 2.0
-      },
-      {
-        "code": 23,
-        "dataId": 7,
-        "value": 2.0
-      }
-    ]
-  },
-  {
-    "id": 55,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "iconIndex": 120,
-    "maxTurns": 10,
-    "message1": "は黒の霧に包み込まれた！",
-    "message2": "は黒の霧に包み込まれた！",
-    "message3": "",
-    "message4": "の霧が晴れた！",
-    "minTurns": 8,
-    "motion": null,
-    "overlay": null,
-    "name": "虚弱",
-    "note": "<HP回復無効:100>",
-    "priority": 70,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": []
-  },
-  {
-    "id": 56,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "iconIndex": 590,
-    "maxTurns": 5,
-    "message1": "は恐怖した！",
-    "message2": "は恐怖した！",
-    "message3": "",
-    "message4": "の震えが止まった。",
-    "minTurns": 3,
-    "motion": null,
-    "overlay": null,
-    "name": "恐怖",
-    "note": "",
-    "priority": 70,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 21,
-        "dataId": 6,
-        "value": 0.3
-      }
-    ]
-  },
-  {
-    "id": 57,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 101,
-    "maxTurns": 2,
-    "message1": "は風を身に纏った。",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 2,
-    "motion": null,
-    "overlay": null,
-    "name": "風神",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": true,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 21,
-        "dataId": 6,
-        "value": 2.0
-      },
-      {
-        "code": 21,
-        "dataId": 6,
-        "value": 2.0
-      },
-      {
-        "code": 21,
-        "dataId": 6,
-        "value": 2.0
-      },
-      {
-        "code": 21,
-        "dataId": 6,
-        "value": 2.0
-      },
-      {
-        "code": 21,
-        "dataId": 6,
-        "value": 2.0
-      },
-      {
-        "code": 21,
-        "dataId": 6,
-        "value": 2.0
-      }
-    ]
-  },
-  {
-    "id": 58,
-    "autoRemovalTiming": 0,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 0,
-    "maxTurns": 1,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 1,
-    "motion": null,
-    "overlay": null,
-    "name": "",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": false,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": []
-  },
-  {
-    "id": 59,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 139,
-    "maxTurns": 2,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 2,
-    "motion": null,
-    "overlay": null,
-    "name": "食いしばり",
-    "note": "",
-    "priority": 90,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": true,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": []
-  },
-  {
-    "id": 60,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 28,
-    "maxTurns": 2,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 2,
-    "motion": null,
-    "overlay": null,
-    "name": "回避",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": true,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 1.0
-      },
-      {
-        "code": 11,
-        "dataId": 3,
-        "value": 0.0
-      },
-      {
-        "code": 11,
-        "dataId": 4,
-        "value": 0.0
-      },
-      {
-        "code": 11,
-        "dataId": 5,
-        "value": 0.0
-      },
-      {
-        "code": 11,
-        "dataId": 6,
-        "value": 0.0
-      },
-      {
-        "code": 11,
-        "dataId": 7,
-        "value": 0.0
-      },
-      {
-        "code": 11,
-        "dataId": 8,
-        "value": 0.0
-      },
-      {
-        "code": 11,
-        "dataId": 9,
-        "value": 0.0
-      },
-      {
-        "code": 11,
-        "dataId": 10,
-        "value": 0.0
-      },
-      {
-        "code": 22,
-        "dataId": 4,
-        "value": 1.0
-      },
-      {
-        "code": 11,
-        "dataId": 1,
-        "value": 0.0
-      },
-      {
-        "code": 11,
-        "dataId": 2,
-        "value": 0.0
-      },
-      {
-        "code": 21,
-        "dataId": 6,
-        "value": 1.1
-      },
-      {
-        "code": 11,
-        "dataId": 12,
-        "value": 0.0
-      },
-      {
-        "code": 13,
-        "dataId": 1,
-        "value": 0.0
-      },
-      {
-        "code": 11,
-        "dataId": 11,
-        "value": 0.0
-      }
-    ]
-  },
-  {
-    "id": 61,
-    "autoRemovalTiming": 0,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 0,
-    "maxTurns": 1,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 1,
-    "motion": null,
-    "overlay": null,
-    "name": "",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": false,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": []
-  },
-  {
-    "id": 62,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 46,
-    "maxTurns": 3,
-    "message1": "は加速した！",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 3,
-    "motion": null,
-    "overlay": null,
-    "name": "加速",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": true,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 21,
-        "dataId": 6,
-        "value": 2.0
-      },
-      {
-        "code": 21,
-        "dataId": 6,
-        "value": 2.0
-      },
-      {
-        "code": 21,
-        "dataId": 6,
-        "value": 2.0
-      },
-      {
-        "code": 21,
-        "dataId": 6,
-        "value": 2.0
-      },
-      {
-        "code": 21,
-        "dataId": 6,
-        "value": 2.0
-      },
-      {
-        "code": 21,
-        "dataId": 6,
-        "value": 2.0
-      }
-    ]
-  },
-  {
-    "id": 63,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 62,
-    "maxTurns": 3,
-    "message1": "は減速した！",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 3,
-    "motion": null,
-    "overlay": null,
-    "name": "減速",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": true,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 21,
-        "dataId": 6,
-        "value": 0.5
-      }
-    ]
-  },
-  {
-    "id": 64,
-    "autoRemovalTiming": 0,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 0,
-    "maxTurns": 1,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 1,
-    "motion": null,
-    "overlay": null,
-    "name": "",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": false,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": []
-  },
-  {
-    "id": 65,
-    "autoRemovalTiming": 1,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 110,
-    "maxTurns": 10,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 10,
-    "motion": null,
-    "overlay": null,
-    "name": "会心回避",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": true,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 3,
-        "value": 1.0
-      }
-    ]
-  },
-  {
-    "id": 66,
-    "autoRemovalTiming": 0,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 0,
-    "maxTurns": 1,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 1,
-    "motion": null,
-    "overlay": null,
-    "name": "",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": false,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": []
-  },
-  {
-    "id": 67,
-    "autoRemovalTiming": 0,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 0,
-    "maxTurns": 1,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 1,
-    "motion": null,
-    "overlay": null,
-    "name": "",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": false,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": []
-  },
-  {
-    "id": 68,
-    "autoRemovalTiming": 0,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 0,
-    "maxTurns": 1,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 1,
-    "motion": null,
-    "overlay": null,
-    "name": "",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": false,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": []
-  },
-  {
-    "id": 69,
-    "autoRemovalTiming": 0,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 0,
-    "maxTurns": 1,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 1,
-    "motion": null,
-    "overlay": null,
-    "name": "",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": false,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": []
-  },
-  {
-    "id": 70,
-    "autoRemovalTiming": 0,
-    "chanceByDamage": 100,
-    "description": "",
-    "iconIndex": 0,
-    "maxTurns": 1,
-    "message1": "",
-    "message2": "",
-    "message3": "",
-    "message4": "",
-    "minTurns": 1,
-    "motion": null,
-    "overlay": null,
-    "name": "",
-    "note": "",
-    "priority": 50,
-    "removeAtBattleEnd": false,
-    "removeByDamage": false,
-    "removeByRestriction": false,
-    "removeByWalking": false,
-    "restriction": 0,
-    "stepsToRemove": 100,
-    "traits": []
-  }
+    null,
+    {
+        "id": 1,
+        "autoRemovalTiming": 0,
+        "chanceByDamage": 100,
+        "iconIndex": 17,
+        "maxTurns": 1,
+        "message1": " upadł.",
+        "message2": " został pokonany!",
+        "message3": "",
+        "message4": " został wskrzeszony!",
+        "minTurns": 1,
+        "motion": null,
+        "overlay": null,
+        "name": "Niezdolny do walki",
+        "note": "ステート１番はＨＰが０になったときに自動的に付加されます。",
+        "priority": 100,
+        "removeAtBattleEnd": false,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 4,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 23,
+                "dataId": 9,
+                "value": 0.0
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "autoRemovalTiming": 0,
+        "chanceByDamage": 100,
+        "iconIndex": 18,
+        "maxTurns": 1,
+        "message1": " został zatruty!",
+        "message2": " został zatruty!",
+        "message3": "",
+        "message4": " został wyleczony z trucizny!",
+        "minTurns": 1,
+        "motion": null,
+        "overlay": null,
+        "name": "Trucizna",
+        "note": "",
+        "priority": 65,
+        "removeAtBattleEnd": false,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 7,
+                "value": -0.05
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "iconIndex": 19,
+        "maxTurns": 5,
+        "message1": " został zamknięty w ciemności!",
+        "message2": " został zamknięty w ciemności!",
+        "message3": "",
+        "message4": " ciemność zniknęła!",
+        "minTurns": 3,
+        "motion": null,
+        "overlay": null,
+        "name": "Ciemność",
+        "note": "",
+        "priority": 70,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": -0.6
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "iconIndex": 20,
+        "maxTurns": 5,
+        "message1": " został uciszony!",
+        "message2": " został uciszony!",
+        "message3": "",
+        "message4": " przestał być uciszony!",
+        "minTurns": 3,
+        "motion": null,
+        "overlay": null,
+        "name": "Cisza",
+        "note": "",
+        "priority": 75,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 42,
+                "dataId": 2,
+                "value": 0.0
+            },
+            {
+                "code": 14,
+                "dataId": 27,
+                "value": 0.0
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 50,
+        "iconIndex": 21,
+        "maxTurns": 4,
+        "message1": " popadł w zamęt!",
+        "message2": " został wprowadzony w zamęt!",
+        "message3": "",
+        "message4": " odzyskał jasność umysłu!",
+        "minTurns": 2,
+        "motion": null,
+        "overlay": null,
+        "name": "Zamęt",
+        "note": "",
+        "priority": 80,
+        "removeAtBattleEnd": true,
+        "removeByDamage": true,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 2,
+        "stepsToRemove": 100,
+        "traits": []
+    },
+    {
+        "id": 6,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "iconIndex": 22,
+        "maxTurns": 5,
+        "message1": " zasnął!",
+        "message2": " został uśpiony!",
+        "message3": " śpi……",
+        "message4": " się obudził!",
+        "minTurns": 3,
+        "motion": null,
+        "overlay": null,
+        "name": "Sen",
+        "note": "",
+        "priority": 85,
+        "removeAtBattleEnd": true,
+        "removeByDamage": true,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 4,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": -1.0
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "iconIndex": 23,
+        "maxTurns": 6,
+        "message1": " was paralyzed and couldn't move!",
+        "message2": " was paralyzed!",
+        "message3": "'s body is paralyzed and cannot move!",
+        "message4": "'s paralysis has worn off!",
+        "minTurns": 4,
+        "motion": null,
+        "overlay": null,
+        "name": "Paraliż",
+        "note": "",
+        "priority": 90,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 4,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": -1.0
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "iconIndex": 24,
+        "maxTurns": 3,
+        "message1": " stracił równowagę!",
+        "message2": " stracił równowagę!",
+        "message3": " traci równowagę...",
+        "message4": " odzyskał równowagę!",
+        "minTurns": 2,
+        "motion": null,
+        "overlay": null,
+        "name": "Oszołomienie",
+        "note": "",
+        "priority": 60,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 4,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": -1.0
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 506,
+        "maxTurns": 2,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 2,
+        "motion": null,
+        "overlay": null,
+        "name": "Obrona",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": true,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 62,
+                "dataId": 1,
+                "value": 0.0
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "autoRemovalTiming": 0,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 0,
+        "maxTurns": 1,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 1,
+        "motion": null,
+        "overlay": null,
+        "name": "Nieśmiertelność",
+        "note": "",
+        "priority": 0,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 14,
+                "dataId": 1,
+                "value": 0.0
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 121,
+        "maxTurns": 5,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 5,
+        "motion": null,
+        "overlay": null,
+        "name": "Osłona",
+        "note": "",
+        "priority": 0,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": true,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 62,
+                "dataId": 2,
+                "value": 0.0
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 25,
+        "maxTurns": 5,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 5,
+        "motion": null,
+        "overlay": null,
+        "name": "Prowokacja",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 23,
+                "dataId": 0,
+                "value": 10.0
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 121,
+        "maxTurns": 5,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 5,
+        "motion": null,
+        "overlay": null,
+        "name": "Ukrycie",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": true,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 23,
+                "dataId": 0,
+                "value": 0.1
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 26,
+        "maxTurns": 5,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 5,
+        "motion": null,
+        "overlay": null,
+        "name": "Regeneracja HP",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 7,
+                "value": 0.1
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 26,
+        "maxTurns": 4,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 4,
+        "motion": null,
+        "overlay": null,
+        "name": "Regeneracja MP",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 8,
+                "value": 0.3
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 28,
+        "maxTurns": 2,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 2,
+        "motion": null,
+        "overlay": null,
+        "name": "Unik",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": true,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 1.0
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.0
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.0
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.0
+            },
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 0.0
+            },
+            {
+                "code": 11,
+                "dataId": 7,
+                "value": 0.0
+            },
+            {
+                "code": 11,
+                "dataId": 8,
+                "value": 0.0
+            },
+            {
+                "code": 11,
+                "dataId": 9,
+                "value": 0.0
+            },
+            {
+                "code": 11,
+                "dataId": 10,
+                "value": 0.0
+            },
+            {
+                "code": 22,
+                "dataId": 4,
+                "value": 1.0
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 0.0
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 0.0
+            },
+            {
+                "code": 21,
+                "dataId": 6,
+                "value": 1.1
+            },
+            {
+                "code": 11,
+                "dataId": 11,
+                "value": 0.0
+            },
+            {
+                "code": 11,
+                "dataId": 12,
+                "value": 0.0
+            },
+            {
+                "code": 13,
+                "dataId": 1,
+                "value": 0.0
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 29,
+        "maxTurns": 5,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 5,
+        "motion": null,
+        "overlay": null,
+        "name": "Żelazna obrona",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": true,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 23,
+                "dataId": 6,
+                "value": 0.1
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 27,
+        "maxTurns": 2,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 2,
+        "motion": null,
+        "overlay": null,
+        "name": "Kontratak",
+        "note": "",
+        "priority": 90,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": true,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 6,
+                "value": 1.0
+            },
+            {
+                "code": 21,
+                "dataId": 3,
+                "value": 0.01
+            },
+            {
+                "code": 21,
+                "dataId": 5,
+                "value": 0.01
+            },
+            {
+                "code": 21,
+                "dataId": 2,
+                "value": 1.5
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 536,
+        "maxTurns": 2,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 2,
+        "motion": null,
+        "overlay": null,
+        "name": "Unik magii",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 4,
+                "value": 1.0
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 31,
+        "maxTurns": 2,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 2,
+        "motion": null,
+        "overlay": null,
+        "name": "Odbicie Magii",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 5,
+                "value": 1.0
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 104,
+        "maxTurns": 5,
+        "message1": " otoczył się mocą ognia.",
+        "message2": " otoczył się mocą ognia.",
+        "message3": "",
+        "message4": "",
+        "minTurns": 5,
+        "motion": null,
+        "overlay": null,
+        "name": "Moc ognia",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 3,
+                "value": 1.0
+            },
+            {
+                "code": 21,
+                "dataId": 2,
+                "value": 1.5
+            },
+            {
+                "code": 32,
+                "dataId": 29,
+                "value": 0.5
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 105,
+        "maxTurns": 5,
+        "message1": " otoczył się mocą lodu.",
+        "message2": " otoczył się mocą lodu.",
+        "message3": "",
+        "message4": "",
+        "minTurns": 5,
+        "motion": null,
+        "overlay": null,
+        "name": "Moc lodu",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 4,
+                "value": 1.0
+            },
+            {
+                "code": 21,
+                "dataId": 2,
+                "value": 1.5
+            },
+            {
+                "code": 32,
+                "dataId": 31,
+                "value": 0.5
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 106,
+        "maxTurns": 5,
+        "message1": " otoczył się mocą piorunów.",
+        "message2": " otoczył się mocą piorunów.",
+        "message3": "",
+        "message4": "",
+        "minTurns": 5,
+        "motion": null,
+        "overlay": null,
+        "name": "Moc piorunów",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 5,
+                "value": 1.0
+            },
+            {
+                "code": 21,
+                "dataId": 2,
+                "value": 1.5
+            },
+            {
+                "code": 32,
+                "dataId": 37,
+                "value": 0.5
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 29,
+        "maxTurns": 10,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 10,
+        "motion": null,
+        "overlay": null,
+        "name": "Zapobieganie błędom",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 13,
+                "dataId": 2,
+                "value": 0.0
+            },
+            {
+                "code": 13,
+                "dataId": 3,
+                "value": 0.0
+            },
+            {
+                "code": 13,
+                "dataId": 4,
+                "value": 0.0
+            },
+            {
+                "code": 13,
+                "dataId": 5,
+                "value": 0.0
+            },
+            {
+                "code": 13,
+                "dataId": 6,
+                "value": 0.0
+            },
+            {
+                "code": 13,
+                "dataId": 7,
+                "value": 0.0
+            },
+            {
+                "code": 13,
+                "dataId": 8,
+                "value": 0.0
+            },
+            {
+                "code": 13,
+                "dataId": 55,
+                "value": 0.0
+            },
+            {
+                "code": 13,
+                "dataId": 31,
+                "value": 0.0
+            },
+            {
+                "code": 13,
+                "dataId": 26,
+                "value": 0.0
+            },
+            {
+                "code": 13,
+                "dataId": 29,
+                "value": 0.0
+            },
+            {
+                "code": 13,
+                "dataId": 37,
+                "value": 0.0
+            },
+            {
+                "code": 13,
+                "dataId": 54,
+                "value": 0.0
+            },
+            {
+                "code": 13,
+                "dataId": 55,
+                "value": 0.0
+            },
+            {
+                "code": 13,
+                "dataId": 56,
+                "value": 0.0
+            },
+            {
+                "code": 13,
+                "dataId": 63,
+                "value": 0.0
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 14,
+        "maxTurns": 2,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 2,
+        "motion": null,
+        "overlay": null,
+        "name": "Wzrost szansy na trafienie krytyczne 100",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 2,
+                "value": 1.0
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "iconIndex": 573,
+        "maxTurns": 5,
+        "message1": " zaczął krwawić!",
+        "message2": " zaczął krwawić!",
+        "message3": "",
+        "message4": "Krwawienie  ustało",
+        "minTurns": 3,
+        "motion": null,
+        "overlay": null,
+        "name": "Krwawienie",
+        "note": "",
+        "priority": 65,
+        "removeAtBattleEnd": false,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 11,
+                "value": 2.0
+            },
+            {
+                "code": 22,
+                "dataId": 7,
+                "value": -0.05
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "autoRemovalTiming": 0,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 328,
+        "maxTurns": 10,
+        "message1": " został otoczony błogosławieństwem anioła!",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 10,
+        "motion": null,
+        "overlay": null,
+        "name": "Błogosławieństwo anioła",
+        "note": "<自動蘇生:500,42,100>\r\n<自動蘇生破損:100>",
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": []
+    },
+    {
+        "id": 28,
+        "autoRemovalTiming": 0,
+        "chanceByDamage": 100,
+        "iconIndex": 18,
+        "maxTurns": 1,
+        "message1": " został oblany sokami żołądkowymi!",
+        "message2": "",
+        "message3": " jest rozpuszczany przez soki żołądkowe!",
+        "message4": "",
+        "minTurns": 1,
+        "motion": null,
+        "overlay": null,
+        "name": "Soki żołądkowe",
+        "note": "",
+        "priority": 65,
+        "removeAtBattleEnd": false,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 7,
+                "value": -0.2
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "iconIndex": 96,
+        "maxTurns": 2,
+        "message1": " was set on fire!",
+        "message2": " was set on fire!",
+        "message3": "",
+        "message4": "'s fire went out.",
+        "minTurns": 2,
+        "motion": null,
+        "overlay": null,
+        "name": "Podpalenie",
+        "note": "",
+        "priority": 65,
+        "removeAtBattleEnd": false,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 7,
+                "value": -0.1
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "autoRemovalTiming": 2,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 0,
+        "maxTurns": 1,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 1,
+        "motion": null,
+        "overlay": null,
+        "name": "Przyzywanie",
+        "note": "",
+        "priority": 0,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": []
+    },
+    {
+        "id": 31,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "iconIndex": 97,
+        "maxTurns": 2,
+        "message1": " został zamrożony!",
+        "message2": " został zamrożony!",
+        "message3": " jest zamrożony.",
+        "message4": "Lód na  stopniał!",
+        "minTurns": 2,
+        "motion": null,
+        "overlay": null,
+        "name": "Zamrożenie",
+        "note": "",
+        "priority": 60,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 4,
+        "stepsToRemove": 100,
+        "traits": []
+    },
+    {
+        "id": 32,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 30,
+        "maxTurns": 2,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 2,
+        "motion": null,
+        "overlay": null,
+        "name": "Gromadzenie siły",
+        "note": "",
+        "priority": 0,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": []
+    },
+    {
+        "id": 33,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 30,
+        "maxTurns": 5,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 5,
+        "motion": null,
+        "overlay": null,
+        "name": "Zwiększenie szansy na trafienie krytyczne",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 2,
+                "value": 0.3
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "autoRemovalTiming": 0,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 0,
+        "maxTurns": 4,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 4,
+        "motion": null,
+        "overlay": null,
+        "name": "Regeneracja HP bossa",
+        "note": "",
+        "priority": 0,
+        "removeAtBattleEnd": false,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 7,
+                "value": 0.05
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 25,
+        "maxTurns": 10,
+        "message1": " wpadł w szał!",
+        "message2": " wpadł w szał!",
+        "message3": " jest w szale!",
+        "message4": " jest wyczerpany.",
+        "minTurns": 10,
+        "motion": null,
+        "overlay": null,
+        "name": "Szał",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 1,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 6,
+                "value": 2.0
+            },
+            {
+                "code": 21,
+                "dataId": 2,
+                "value": 2.0
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 474,
+        "maxTurns": 5,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 5,
+        "motion": null,
+        "overlay": null,
+        "name": "Wzrost uniku",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.3
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "iconIndex": 481,
+        "maxTurns": 5,
+        "message1": " nie może poruszyć rękami!",
+        "message2": " nie może poruszyć rękami!",
+        "message3": "",
+        "message4": " odzyskał władzę w rękach.",
+        "minTurns": 3,
+        "motion": null,
+        "overlay": null,
+        "name": "Unieruchomienie rąk",
+        "note": "",
+        "priority": 75,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 44,
+                "dataId": 1,
+                "value": 0.0
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 25,
+        "maxTurns": 10,
+        "message1": " wpadł w szał!",
+        "message2": " wpadł w szał!",
+        "message3": " jest w szale!",
+        "message4": " jest wyczerpany.",
+        "minTurns": 10,
+        "motion": null,
+        "overlay": null,
+        "name": "Szał 2",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 1,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 6,
+                "value": 2.0
+            },
+            {
+                "code": 21,
+                "dataId": 2,
+                "value": 2.0
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 28,
+        "maxTurns": 4,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 4,
+        "motion": null,
+        "overlay": null,
+        "name": "Akrobatyczny unik",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": true,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 1.0
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.0
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.0
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.0
+            },
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 0.0
+            },
+            {
+                "code": 11,
+                "dataId": 7,
+                "value": 0.0
+            },
+            {
+                "code": 11,
+                "dataId": 8,
+                "value": 0.0
+            },
+            {
+                "code": 11,
+                "dataId": 9,
+                "value": 0.0
+            },
+            {
+                "code": 11,
+                "dataId": 10,
+                "value": 0.0
+            },
+            {
+                "code": 22,
+                "dataId": 4,
+                "value": 1.0
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 0.0
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 0.0
+            },
+            {
+                "code": 21,
+                "dataId": 6,
+                "value": 1.1
+            },
+            {
+                "code": 11,
+                "dataId": 11,
+                "value": 0.0
+            },
+            {
+                "code": 11,
+                "dataId": 12,
+                "value": 0.0
+            },
+            {
+                "code": 13,
+                "dataId": 1,
+                "value": 0.0
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 31,
+        "maxTurns": 2,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 2,
+        "motion": null,
+        "overlay": null,
+        "name": "Odbicie Magii",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 5,
+                "value": 1.0
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 555,
+        "maxTurns": 10,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 10,
+        "motion": null,
+        "overlay": null,
+        "name": "Duma rycerza",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": true,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 23,
+                "dataId": 6,
+                "value": 0.1
+            },
+            {
+                "code": 23,
+                "dataId": 7,
+                "value": 0.1
+            },
+            {
+                "code": 21,
+                "dataId": 0,
+                "value": 2.0
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "autoRemovalTiming": 0,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 571,
+        "maxTurns": 10,
+        "message1": " wpadł w szał!",
+        "message2": " wpadł w szał!",
+        "message3": " jest wściekły!",
+        "message4": " jest wyczerpany.",
+        "minTurns": 10,
+        "motion": null,
+        "overlay": null,
+        "name": "Gniew",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": true,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 6,
+                "value": 2.0
+            },
+            {
+                "code": 21,
+                "dataId": 2,
+                "value": 2.0
+            },
+            {
+                "code": 61,
+                "dataId": 0,
+                "value": 1.0
+            },
+            {
+                "code": 21,
+                "dataId": 3,
+                "value": 2.0
+            },
+            {
+                "code": 21,
+                "dataId": 5,
+                "value": 2.0
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 604,
+        "maxTurns": 5,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 5,
+        "motion": null,
+        "overlay": null,
+        "name": "Magiczne Odbicie",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 5,
+                "value": 1.0
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 605,
+        "maxTurns": 5,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 5,
+        "motion": null,
+        "overlay": null,
+        "name": "Odbicie Ataku",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 6,
+                "value": 1.0
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "autoRemovalTiming": 0,
+        "chanceByDamage": 100,
+        "iconIndex": 107,
+        "maxTurns": 6,
+        "message1": "",
+        "message2": "'s body has started to melt!",
+        "message3": "'s body is melting away!",
+        "message4": "",
+        "minTurns": 4,
+        "motion": null,
+        "overlay": null,
+        "name": "Rozmrożenie",
+        "note": "",
+        "priority": 90,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 7,
+                "value": -0.08
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "autoRemovalTiming": 0,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 29,
+        "maxTurns": 2,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 2,
+        "motion": null,
+        "overlay": null,
+        "name": "Jest chroniony",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": false,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 23,
+                "dataId": 6,
+                "value": 0.0
+            },
+            {
+                "code": 23,
+                "dataId": 7,
+                "value": 0.0
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 553,
+        "maxTurns": 2,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 2,
+        "motion": null,
+        "overlay": null,
+        "name": "Wzrost szansy na trafienie krytyczne 2",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 2,
+                "value": 1.0
+            },
+            {
+                "code": 21,
+                "dataId": 2,
+                "value": 2.0
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "autoRemovalTiming": 0,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 126,
+        "maxTurns": 2,
+        "message1": " was enveloped in the protection of souls!",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 2,
+        "motion": null,
+        "overlay": null,
+        "name": "Podwójna ilość dusz",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": false,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 64,
+                "dataId": 4,
+                "value": 0.0
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "autoRemovalTiming": 0,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 125,
+        "maxTurns": 2,
+        "message1": " został otoczony szczęściem!",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 2,
+        "motion": null,
+        "overlay": null,
+        "name": "Podwójny drop",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": false,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 64,
+                "dataId": 5,
+                "value": 0.0
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 619,
+        "maxTurns": 10,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 10,
+        "motion": null,
+        "overlay": null,
+        "name": "Dorothy",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": true,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 61,
+                "dataId": 0,
+                "value": 1.0
+            },
+            {
+                "code": 21,
+                "dataId": 4,
+                "value": 4.0
+            },
+            {
+                "code": 22,
+                "dataId": 2,
+                "value": 1.0
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "autoRemovalTiming": 0,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 448,
+        "maxTurns": 2,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 2,
+        "motion": null,
+        "overlay": null,
+        "name": "Błogosławieństwo Alicji",
+        "note": "",
+        "priority": 90,
+        "removeAtBattleEnd": false,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 61,
+                "dataId": 0,
+                "value": 1.0
+            },
+            {
+                "code": 22,
+                "dataId": 7,
+                "value": 0.3
+            },
+            {
+                "code": 22,
+                "dataId": 8,
+                "value": 0.3
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 0.3
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 0.3
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.3
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.3
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.3
+            },
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 0.3
+            },
+            {
+                "code": 11,
+                "dataId": 7,
+                "value": 0.3
+            },
+            {
+                "code": 11,
+                "dataId": 8,
+                "value": 0.3
+            },
+            {
+                "code": 11,
+                "dataId": 9,
+                "value": 0.3
+            },
+            {
+                "code": 11,
+                "dataId": 10,
+                "value": 0.3
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 136,
+        "maxTurns": 10,
+        "message1": "'s magic power is overflowing!",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 10,
+        "motion": null,
+        "overlay": null,
+        "name": "Wewnętrzna Siła",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 4,
+                "value": 3.0
+            },
+            {
+                "code": 22,
+                "dataId": 7,
+                "value": -0.2
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 509,
+        "maxTurns": 10,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 10,
+        "motion": null,
+        "overlay": null,
+        "name": "Sztandar Paladyna",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": true,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 3,
+                "value": 2.0
+            },
+            {
+                "code": 21,
+                "dataId": 5,
+                "value": 2.0
+            },
+            {
+                "code": 22,
+                "dataId": 7,
+                "value": 0.3
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "iconIndex": 103,
+        "maxTurns": 5,
+        "message1": "'s body has become fragile!",
+        "message2": "'s body has become fragile!",
+        "message3": "",
+        "message4": "'s body has returned to normal.",
+        "minTurns": 3,
+        "motion": null,
+        "overlay": null,
+        "name": "Osłabienie",
+        "note": "",
+        "priority": 70,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 23,
+                "dataId": 6,
+                "value": 2.0
+            },
+            {
+                "code": 23,
+                "dataId": 7,
+                "value": 2.0
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "iconIndex": 120,
+        "maxTurns": 10,
+        "message1": " został spowity czarną mgłą!",
+        "message2": " został spowity czarną mgłą!",
+        "message3": "",
+        "message4": " mgła wokół  się rozwiała!",
+        "minTurns": 8,
+        "motion": null,
+        "overlay": null,
+        "name": "Słabość",
+        "note": "<HP回復無効:100>",
+        "priority": 70,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": []
+    },
+    {
+        "id": 56,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "iconIndex": 590,
+        "maxTurns": 5,
+        "message1": " was terrified!",
+        "message2": " was terrified!",
+        "message3": "",
+        "message4": " stopped trembling.",
+        "minTurns": 3,
+        "motion": null,
+        "overlay": null,
+        "name": "Strach",
+        "note": "",
+        "priority": 70,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 6,
+                "value": 0.3
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 101,
+        "maxTurns": 2,
+        "message1": " otulił się wiatrem.",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 2,
+        "motion": null,
+        "overlay": null,
+        "name": "Bóg Wiatru",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": true,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 6,
+                "value": 2.0
+            },
+            {
+                "code": 21,
+                "dataId": 6,
+                "value": 2.0
+            },
+            {
+                "code": 21,
+                "dataId": 6,
+                "value": 2.0
+            },
+            {
+                "code": 21,
+                "dataId": 6,
+                "value": 2.0
+            },
+            {
+                "code": 21,
+                "dataId": 6,
+                "value": 2.0
+            },
+            {
+                "code": 21,
+                "dataId": 6,
+                "value": 2.0
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "autoRemovalTiming": 0,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 0,
+        "maxTurns": 1,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 1,
+        "motion": null,
+        "overlay": null,
+        "name": "",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": false,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": []
+    },
+    {
+        "id": 59,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 139,
+        "maxTurns": 2,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 2,
+        "motion": null,
+        "overlay": null,
+        "name": "Zaciętość",
+        "note": "",
+        "priority": 90,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": true,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": []
+    },
+    {
+        "id": 60,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 28,
+        "maxTurns": 2,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 2,
+        "motion": null,
+        "overlay": null,
+        "name": "Unik",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": true,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 1.0
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.0
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.0
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.0
+            },
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 0.0
+            },
+            {
+                "code": 11,
+                "dataId": 7,
+                "value": 0.0
+            },
+            {
+                "code": 11,
+                "dataId": 8,
+                "value": 0.0
+            },
+            {
+                "code": 11,
+                "dataId": 9,
+                "value": 0.0
+            },
+            {
+                "code": 11,
+                "dataId": 10,
+                "value": 0.0
+            },
+            {
+                "code": 22,
+                "dataId": 4,
+                "value": 1.0
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 0.0
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 0.0
+            },
+            {
+                "code": 21,
+                "dataId": 6,
+                "value": 1.1
+            },
+            {
+                "code": 11,
+                "dataId": 12,
+                "value": 0.0
+            },
+            {
+                "code": 13,
+                "dataId": 1,
+                "value": 0.0
+            },
+            {
+                "code": 11,
+                "dataId": 11,
+                "value": 0.0
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "autoRemovalTiming": 0,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 0,
+        "maxTurns": 1,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 1,
+        "motion": null,
+        "overlay": null,
+        "name": "",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": false,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": []
+    },
+    {
+        "id": 62,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 46,
+        "maxTurns": 3,
+        "message1": " przyspieszył!",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 3,
+        "motion": null,
+        "overlay": null,
+        "name": "Przyspieszenie",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": true,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 6,
+                "value": 2.0
+            },
+            {
+                "code": 21,
+                "dataId": 6,
+                "value": 2.0
+            },
+            {
+                "code": 21,
+                "dataId": 6,
+                "value": 2.0
+            },
+            {
+                "code": 21,
+                "dataId": 6,
+                "value": 2.0
+            },
+            {
+                "code": 21,
+                "dataId": 6,
+                "value": 2.0
+            },
+            {
+                "code": 21,
+                "dataId": 6,
+                "value": 2.0
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 62,
+        "maxTurns": 3,
+        "message1": " został spowolniony!",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 3,
+        "motion": null,
+        "overlay": null,
+        "name": "Spowolnienie",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": true,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 6,
+                "value": 0.5
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "autoRemovalTiming": 0,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 0,
+        "maxTurns": 1,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 1,
+        "motion": null,
+        "overlay": null,
+        "name": "",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": false,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": []
+    },
+    {
+        "id": 65,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 110,
+        "maxTurns": 10,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 10,
+        "motion": null,
+        "overlay": null,
+        "name": "Unik krytyczny",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 3,
+                "value": 1.0
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "autoRemovalTiming": 0,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 0,
+        "maxTurns": 1,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 1,
+        "motion": null,
+        "overlay": null,
+        "name": "",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": false,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": []
+    },
+    {
+        "id": 67,
+        "autoRemovalTiming": 0,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 0,
+        "maxTurns": 1,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 1,
+        "motion": null,
+        "overlay": null,
+        "name": "",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": false,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": []
+    },
+    {
+        "id": 68,
+        "autoRemovalTiming": 0,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 0,
+        "maxTurns": 1,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 1,
+        "motion": null,
+        "overlay": null,
+        "name": "",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": false,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": []
+    },
+    {
+        "id": 69,
+        "autoRemovalTiming": 0,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 0,
+        "maxTurns": 1,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 1,
+        "motion": null,
+        "overlay": null,
+        "name": "",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": false,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": []
+    },
+    {
+        "id": 70,
+        "autoRemovalTiming": 0,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 0,
+        "maxTurns": 1,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 1,
+        "motion": null,
+        "overlay": null,
+        "name": "",
+        "note": "",
+        "priority": 50,
+        "removeAtBattleEnd": false,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": []
+    }
 ]

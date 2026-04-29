@@ -1,920 +1,920 @@
 [
-  null,
-  {
-    "id": 1,
-    "characterIndex": 5,
-    "characterName": "!Flame",
-    "classId": 13,
-    "equips": [
-      199,
-      0,
-      0,
-      59,
-      0
-    ],
-    "faceIndex": 7,
-    "faceName": "",
-    "traits": [
-      {
-        "code": 54,
-        "dataId": 1,
-        "value": 0.0
-      },
-      {
-        "code": 54,
-        "dataId": 2,
-        "value": 0.0
-      },
-      {
-        "code": 53,
-        "dataId": 3,
-        "value": 0.0
-      },
-      {
-        "code": 23,
-        "dataId": 8,
-        "value": 0.1
-      }
-    ],
-    "initialLevel": 1,
-    "maxLevel": 99,
-    "name": "",
-    "nickname": "",
-    "note": "<レベル限界増加:900>\r\n<戦闘終了後ステート解除:1>",
-    "profile": ""
-  },
-  {
-    "id": 2,
-    "characterIndex": 0,
-    "characterName": "$主人公",
-    "classId": 1,
-    "equips": [
-      101,
-      0,
-      0,
-      59,
-      0
-    ],
-    "faceIndex": 7,
-    "faceName": "",
-    "traits": [
-      {
-        "code": 54,
-        "dataId": 1,
-        "value": 0.0
-      },
-      {
-        "code": 54,
-        "dataId": 2,
-        "value": 0.0
-      },
-      {
-        "code": 53,
-        "dataId": 3,
-        "value": 0.0
-      },
-      {
-        "code": 23,
-        "dataId": 8,
-        "value": 0.1
-      }
-    ],
-    "initialLevel": 1,
-    "maxLevel": 99,
-    "name": "",
-    "nickname": "",
-    "note": "<レベル限界増加:900>\r\n<限界変動:0,99999>\r\n<限界変動:1,9999>\r\n<限界変動:2,9999>\r\n<限界変動:3,9999>\r\n<限界変動:4,9999>\r\n<限界変動:5,9999>\r\n<限界変動:6,9999>\r\n<限界変動:7,9999>\r\n<戦闘終了後ステート解除:1>",
-    "profile": ""
-  },
-  {
-    "id": 3,
-    "characterIndex": 2,
-    "characterName": "Evil",
-    "classId": 2,
-    "equips": [
-      112,
-      0,
-      0,
-      59,
-      0
-    ],
-    "faceIndex": 7,
-    "faceName": "",
-    "traits": [
-      {
-        "code": 54,
-        "dataId": 1,
-        "value": 0.0
-      },
-      {
-        "code": 54,
-        "dataId": 2,
-        "value": 0.0
-      },
-      {
-        "code": 53,
-        "dataId": 3,
-        "value": 0.0
-      },
-      {
-        "code": 23,
-        "dataId": 8,
-        "value": 0.1
-      }
-    ],
-    "initialLevel": 1,
-    "maxLevel": 99,
-    "name": "",
-    "nickname": "",
-    "note": "<レベル限界増加:900>\r\n<限界変動:0,99999>\r\n<限界変動:1,9999>\r\n<限界変動:2,9999>\r\n<限界変動:3,9999>\r\n<限界変動:4,9999>\r\n<限界変動:5,9999>\r\n<限界変動:6,9999>\r\n<限界変動:7,9999>\r\n<戦闘終了後ステート解除:1>",
-    "profile": ""
-  },
-  {
-    "id": 4,
-    "characterIndex": 5,
-    "characterName": "Evil",
-    "classId": 3,
-    "equips": [
-      167,
-      0,
-      0,
-      59,
-      0
-    ],
-    "faceIndex": 7,
-    "faceName": "",
-    "traits": [
-      {
-        "code": 54,
-        "dataId": 1,
-        "value": 0.0
-      },
-      {
-        "code": 54,
-        "dataId": 2,
-        "value": 0.0
-      },
-      {
-        "code": 53,
-        "dataId": 3,
-        "value": 0.0
-      },
-      {
-        "code": 23,
-        "dataId": 8,
-        "value": 0.1
-      }
-    ],
-    "initialLevel": 1,
-    "maxLevel": 99,
-    "name": "",
-    "nickname": "",
-    "note": "<レベル限界増加:900>\r\n<限界変動:0,99999>\r\n<限界変動:1,9999>\r\n<限界変動:2,9999>\r\n<限界変動:3,9999>\r\n<限界変動:4,9999>\r\n<限界変動:5,9999>\r\n<限界変動:6,9999>\r\n<限界変動:7,9999>\r\n<戦闘終了後ステート解除:1>",
-    "profile": ""
-  },
-  {
-    "id": 5,
-    "characterIndex": 0,
-    "characterName": "20150616223115b44",
-    "classId": 1,
-    "equips": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "faceIndex": 0,
-    "faceName": "",
-    "traits": [],
-    "initialLevel": 99,
-    "maxLevel": 99,
-    "name": "れべる上限",
-    "nickname": "",
-    "note": "<レベル限界増加:101>\r\n<限界変動:0,15000>\r\n<限界変動:1,3000>\r\n<限界変動:2,2000>\r\n<限界変動:3,2000>\r\n<限界変動:4,2000>\r\n<限界変動:5,2000>\r\n<限界変動:6,2000>\r\n<限界変動:7,2000>",
-    "profile": ""
-  },
-  {
-    "id": 6,
-    "characterIndex": 1,
-    "characterName": "",
-    "classId": 25,
-    "equips": [
-      7,
-      0,
-      0,
-      0,
-      0
-    ],
-    "faceIndex": 1,
-    "faceName": "poro",
-    "traits": [
-      {
-        "code": 54,
-        "dataId": 1,
-        "value": 0.0
-      },
-      {
-        "code": 54,
-        "dataId": 2,
-        "value": 0.0
-      },
-      {
-        "code": 53,
-        "dataId": 3,
-        "value": 0.0
-      },
-      {
-        "code": 62,
-        "dataId": 0,
-        "value": 0.0
-      },
-      {
-        "code": 62,
-        "dataId": 2,
-        "value": 0.0
-      },
-      {
-        "code": 51,
-        "dataId": 2,
-        "value": 0.0
-      }
-    ],
-    "initialLevel": 99,
-    "maxLevel": 99,
-    "name": "ポロ",
-    "nickname": "",
-    "note": "<レベル限界増加:900>\r\n<限界変動:0,99999>\r\n<限界変動:1,9999>\r\n<限界変動:2,9999>\r\n<限界変動:3,9999>\r\n<限界変動:4,9999>\r\n<限界変動:5,9999>\r\n<限界変動:6,9999>\r\n<限界変動:7,9999>",
-    "profile": "自動戦闘。紅ずきんに呼ばれる。"
-  },
-  {
-    "id": 7,
-    "characterIndex": 0,
-    "characterName": "",
-    "classId": 1,
-    "equips": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "faceIndex": 0,
-    "faceName": "",
-    "traits": [],
-    "initialLevel": 1,
-    "maxLevel": 99,
-    "name": "",
-    "nickname": "",
-    "note": "",
-    "profile": ""
-  },
-  {
-    "id": 8,
-    "characterIndex": 0,
-    "characterName": "",
-    "classId": 1,
-    "equips": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "faceIndex": 0,
-    "faceName": "",
-    "traits": [],
-    "initialLevel": 1,
-    "maxLevel": 99,
-    "name": "",
-    "nickname": "",
-    "note": "",
-    "profile": ""
-  },
-  {
-    "id": 9,
-    "characterIndex": 0,
-    "characterName": "$主人公",
-    "classId": 13,
-    "equips": [
-      0,
-      0,
-      0,
-      62,
-      92
-    ],
-    "faceIndex": 3,
-    "faceName": "People4",
-    "traits": [
-      {
-        "code": 54,
-        "dataId": 1,
-        "value": 0.0
-      },
-      {
-        "code": 54,
-        "dataId": 2,
-        "value": 0.0
-      },
-      {
-        "code": 53,
-        "dataId": 3,
-        "value": 0.0
-      }
-    ],
-    "initialLevel": 1,
-    "maxLevel": 99,
-    "name": "最強",
-    "nickname": "",
-    "note": "",
-    "profile": ""
-  },
-  {
-    "id": 10,
-    "characterIndex": 0,
-    "characterName": "",
-    "classId": 1,
-    "equips": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "faceIndex": 0,
-    "faceName": "",
-    "traits": [],
-    "initialLevel": 1,
-    "maxLevel": 99,
-    "name": "",
-    "nickname": "",
-    "note": "",
-    "profile": ""
-  },
-  {
-    "id": 11,
-    "characterIndex": 0,
-    "characterName": "$c_54b",
-    "classId": 1,
-    "equips": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "faceIndex": 0,
-    "faceName": "alice",
-    "traits": [],
-    "initialLevel": 1,
-    "maxLevel": 99,
-    "name": "アリス",
-    "nickname": "",
-    "note": "<レベル限界増加:101>\r\n<限界変動:0,10000>\r\n<限界変動:1,1000>\r\n<限界変動:2,1000>\r\n<限界変動:3,1000>\r\n<限界変動:4,1000>\r\n<限界変動:5,1000>\r\n<限界変動:6,1000>\r\n<限界変動:7,1000>",
-    "profile": ""
-  },
-  {
-    "id": 12,
-    "characterIndex": 0,
-    "characterName": "jnu",
-    "classId": 18,
-    "equips": [
-      20,
-      0,
-      0,
-      0,
-      0
-    ],
-    "faceIndex": 0,
-    "faceName": "jnnu",
-    "traits": [],
-    "initialLevel": 1,
-    "maxLevel": 99,
-    "name": "ジャンヌ",
-    "nickname": "",
-    "note": "<レベル限界増加:900>\r\n<限界変動:0,99999>\r\n<限界変動:1,9999>\r\n<限界変動:2,9999>\r\n<限界変動:3,9999>\r\n<限界変動:4,9999>\r\n<限界変動:5,9999>\r\n<限界変動:6,9999>\r\n<限界変動:7,9999>",
-    "profile": "仲間を護る事に特化。パリィ持ち"
-  },
-  {
-    "id": 13,
-    "characterIndex": 3,
-    "characterName": "妖精小",
-    "classId": 15,
-    "equips": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "faceIndex": 0,
-    "faceName": "ri-hu",
-    "traits": [
-      {
-        "code": 53,
-        "dataId": 0,
-        "value": 0.0
-      },
-      {
-        "code": 53,
-        "dataId": 4,
-        "value": 0.0
-      },
-      {
-        "code": 53,
-        "dataId": 3,
-        "value": 0.0
-      }
-    ],
-    "initialLevel": 1,
-    "maxLevel": 99,
-    "name": "リィフ",
-    "nickname": "",
-    "note": "<レベル限界増加:900>\r\n<限界変動:0,99999>\r\n<限界変動:1,9999>\r\n<限界変動:2,9999>\r\n<限界変動:3,9999>\r\n<限界変動:4,9999>\r\n<限界変動:5,9999>\r\n<限界変動:6,9999>\r\n<限界変動:7,9999>",
-    "profile": "妖精。"
-  },
-  {
-    "id": 14,
-    "characterIndex": 0,
-    "characterName": "",
-    "classId": 1,
-    "equips": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "faceIndex": 0,
-    "faceName": "",
-    "traits": [],
-    "initialLevel": 1,
-    "maxLevel": 99,
-    "name": "",
-    "nickname": "",
-    "note": "",
-    "profile": ""
-  },
-  {
-    "id": 15,
-    "characterIndex": 0,
-    "characterName": "$ミランダ",
-    "classId": 21,
-    "equips": [
-      94,
-      0,
-      0,
-      0,
-      0
-    ],
-    "faceIndex": 0,
-    "faceName": "miranda",
-    "traits": [],
-    "initialLevel": 1,
-    "maxLevel": 99,
-    "name": "ミランダ",
-    "nickname": "",
-    "note": "<レベル限界増加:900>\r\n<限界変動:0,99999>\r\n<限界変動:1,9999>\r\n<限界変動:2,9999>\r\n<限界変動:3,9999>\r\n<限界変動:4,9999>\r\n<限界変動:5,9999>\r\n<限界変動:6,9999>\r\n<限界変動:7,9999>",
-    "profile": "黒の裁判の一人。"
-  },
-  {
-    "id": 16,
-    "characterIndex": 5,
-    "characterName": "Actor5",
-    "classId": 20,
-    "equips": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "faceIndex": 0,
-    "faceName": "kata",
-    "traits": [],
-    "initialLevel": 1,
-    "maxLevel": 99,
-    "name": "カタリナ",
-    "nickname": "",
-    "note": "<レベル限界増加:900>\r\n<限界変動:0,99999>\r\n<限界変動:1,9999>\r\n<限界変動:2,9999>\r\n<限界変動:3,9999>\r\n<限界変動:4,9999>\r\n<限界変動:5,9999>\r\n<限界変動:6,9999>\r\n<限界変動:7,9999>",
-    "profile": "神聖魔法。回復特化"
-  },
-  {
-    "id": 17,
-    "characterIndex": 0,
-    "characterName": "$グース",
-    "classId": 19,
-    "equips": [
-      7,
-      0,
-      0,
-      0,
-      0
-    ],
-    "faceIndex": 0,
-    "faceName": "gu-su",
-    "traits": [],
-    "initialLevel": 1,
-    "maxLevel": 99,
-    "name": "グース",
-    "nickname": "",
-    "note": "<レベル限界増加:900>\r\n<限界変動:0,99999>\r\n<限界変動:1,9999>\r\n<限界変動:2,9999>\r\n<限界変動:3,9999>\r\n<限界変動:4,9999>\r\n<限界変動:5,9999>\r\n<限界変動:6,9999>\r\n<限界変動:7,9999>",
-    "profile": "富鳥。呼んで戦闘に勝利するとソウルアイテム2倍になる。\r\n回避持ち。"
-  },
-  {
-    "id": 18,
-    "characterIndex": 0,
-    "characterName": "$メイド",
-    "classId": 17,
-    "equips": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "faceIndex": 0,
-    "faceName": "biku",
-    "traits": [],
-    "initialLevel": 1,
-    "maxLevel": 99,
-    "name": "ヴィクトリア",
-    "nickname": "",
-    "note": "<レベル限界増加:900>\r\n<限界変動:0,99999>\r\n<限界変動:1,9999>\r\n<限界変動:2,9999>\r\n<限界変動:3,9999>\r\n<限界変動:4,9999>\r\n<限界変動:5,9999>\r\n<限界変動:6,9999>\r\n<限界変動:7,9999>",
-    "profile": "奉仕。MPを消費してアイテムを使える。"
-  },
-  {
-    "id": 19,
-    "characterIndex": 0,
-    "characterName": "$ドロシー",
-    "classId": 16,
-    "equips": [
-      167,
-      0,
-      0,
-      0,
-      0
-    ],
-    "faceIndex": 0,
-    "faceName": "doro",
-    "traits": [],
-    "initialLevel": 1,
-    "maxLevel": 99,
-    "name": "ドロシー",
-    "nickname": "",
-    "note": "<レベル限界増加:900>\r\n<限界変動:0,99999>\r\n<限界変動:1,9999>\r\n<限界変動:2,9999>\r\n<限界変動:3,9999>\r\n<限界変動:4,9999>\r\n<限界変動:5,9999>\r\n<限界変動:6,9999>\r\n<限界変動:7,9999>",
-    "profile": "攻撃魔法に特化。性転換して女になった。"
-  },
-  {
-    "id": 20,
-    "characterIndex": 1,
-    "characterName": "紅",
-    "classId": 24,
-    "equips": [
-      92,
-      0,
-      0,
-      0,
-      0
-    ],
-    "faceIndex": 0,
-    "faceName": "aka",
-    "traits": [],
-    "initialLevel": 1,
-    "maxLevel": 99,
-    "name": "紅ずきん",
-    "nickname": "",
-    "note": "<レベル限界増加:900>\r\n<限界変動:0,99999>\r\n<限界変動:1,9999>\r\n<限界変動:2,9999>\r\n<限界変動:3,9999>\r\n<限界変動:4,9999>\r\n<限界変動:5,9999>\r\n<限界変動:6,9999>\r\n<限界変動:7,9999>",
-    "profile": "万能型。ポロを呼べる。"
-  },
-  {
-    "id": 21,
-    "characterIndex": 0,
-    "characterName": "$マッチ売り",
-    "classId": 22,
-    "equips": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "faceIndex": 0,
-    "faceName": "eruma",
-    "traits": [],
-    "initialLevel": 1,
-    "maxLevel": 99,
-    "name": "エルマ",
-    "nickname": "",
-    "note": "<レベル限界増加:900>\r\n<限界変動:0,99999>\r\n<限界変動:1,9999>\r\n<限界変動:2,9999>\r\n<限界変動:3,9999>\r\n<限界変動:4,9999>\r\n<限界変動:5,9999>\r\n<限界変動:6,9999>\r\n<限界変動:7,9999>",
-    "profile": "状態異常特化。敵を弱体化させる。薬の知識。"
-  },
-  {
-    "id": 22,
-    "characterIndex": 0,
-    "characterName": "$カエル姫",
-    "classId": 1,
-    "equips": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "faceIndex": 0,
-    "faceName": "kaeru",
-    "traits": [],
-    "initialLevel": 1,
-    "maxLevel": 99,
-    "name": "カエル姫",
-    "nickname": "",
-    "note": "<レベル限界増加:900>\r\n<限界変動:0,99999>\r\n<限界変動:1,9999>\r\n<限界変動:2,9999>\r\n<限界変動:3,9999>\r\n<限界変動:4,9999>\r\n<限界変動:5,9999>\r\n<限界変動:6,9999>\r\n<限界変動:7,9999>",
-    "profile": ""
-  },
-  {
-    "id": 23,
-    "characterIndex": 0,
-    "characterName": "ラプンツェル",
-    "classId": 1,
-    "equips": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "faceIndex": 0,
-    "faceName": "lap",
-    "traits": [],
-    "initialLevel": 1,
-    "maxLevel": 99,
-    "name": "ラプンツェル",
-    "nickname": "",
-    "note": "<レベル限界増加:101>\r\n<限界変動:0,15000>\r\n<限界変動:1,3000>\r\n<限界変動:2,2000>\r\n<限界変動:3,2000>\r\n<限界変動:4,2000>\r\n<限界変動:5,2000>\r\n<限界変動:6,2000>\r\n<限界変動:7,2000>",
-    "profile": ""
-  },
-  {
-    "id": 24,
-    "characterIndex": 0,
-    "characterName": "$白雪姫",
-    "classId": 1,
-    "equips": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "faceIndex": 0,
-    "faceName": "sira",
-    "traits": [],
-    "initialLevel": 1,
-    "maxLevel": 99,
-    "name": "白雪姫",
-    "nickname": "",
-    "note": "<レベル限界増加:101>\r\n<限界変動:0,15000>\r\n<限界変動:1,3000>\r\n<限界変動:2,2000>\r\n<限界変動:3,2000>\r\n<限界変動:4,2000>\r\n<限界変動:5,2000>\r\n<限界変動:6,2000>\r\n<限界変動:7,2000>",
-    "profile": ""
-  },
-  {
-    "id": 25,
-    "characterIndex": 1,
-    "characterName": "Spiritual",
-    "classId": 1,
-    "equips": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "faceIndex": 0,
-    "faceName": "nin",
-    "traits": [],
-    "initialLevel": 1,
-    "maxLevel": 99,
-    "name": "人魚姫",
-    "nickname": "",
-    "note": "<レベル限界増加:101>\r\n<限界変動:0,15000>\r\n<限界変動:1,3000>\r\n<限界変動:2,2000>\r\n<限界変動:3,2000>\r\n<限界変動:4,2000>\r\n<限界変動:5,2000>\r\n<限界変動:6,2000>\r\n<限界変動:7,2000>",
-    "profile": ""
-  },
-  {
-    "id": 26,
-    "characterIndex": 0,
-    "characterName": "$シンデレラ",
-    "classId": 1,
-    "equips": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "faceIndex": 0,
-    "faceName": "sin",
-    "traits": [],
-    "initialLevel": 1,
-    "maxLevel": 99,
-    "name": "シンデレラ",
-    "nickname": "",
-    "note": "<レベル限界増加:101>\r\n<限界変動:0,15000>\r\n<限界変動:1,3000>\r\n<限界変動:2,2000>\r\n<限界変動:3,2000>\r\n<限界変動:4,2000>\r\n<限界変動:5,2000>\r\n<限界変動:6,2000>\r\n<限界変動:7,2000>",
-    "profile": ""
-  },
-  {
-    "id": 27,
-    "characterIndex": 0,
-    "characterName": "ベル",
-    "classId": 1,
-    "equips": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "faceIndex": 0,
-    "faceName": "beru",
-    "traits": [],
-    "initialLevel": 1,
-    "maxLevel": 99,
-    "name": "美女ラ・ベル",
-    "nickname": "",
-    "note": "<レベル限界増加:101>\r\n<限界変動:0,15000>\r\n<限界変動:1,3000>\r\n<限界変動:2,2000>\r\n<限界変動:3,2000>\r\n<限界変動:4,2000>\r\n<限界変動:5,2000>\r\n<限界変動:6,2000>\r\n<限界変動:7,2000>",
-    "profile": ""
-  },
-  {
-    "id": 28,
-    "characterIndex": 0,
-    "characterName": "$ごすろり",
-    "classId": 23,
-    "equips": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "faceIndex": 0,
-    "faceName": "eriza",
-    "traits": [],
-    "initialLevel": 1,
-    "maxLevel": 99,
-    "name": "エリザベート",
-    "nickname": "",
-    "note": "<レベル限界増加:900>\r\n<限界変動:0,99999>\r\n<限界変動:1,9999>\r\n<限界変動:2,9999>\r\n<限界変動:3,9999>\r\n<限界変動:4,9999>\r\n<限界変動:5,9999>\r\n<限界変動:6,9999>\r\n<限界変動:7,9999>",
-    "profile": "ドレイン型。"
-  },
-  {
-    "id": 29,
-    "characterIndex": 0,
-    "characterName": "",
-    "classId": 1,
-    "equips": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "faceIndex": 0,
-    "faceName": "",
-    "traits": [],
-    "initialLevel": 1,
-    "maxLevel": 99,
-    "name": "",
-    "nickname": "",
-    "note": "リィフ答え",
-    "profile": ""
-  },
-  {
-    "id": 30,
-    "characterIndex": 2,
-    "characterName": "baho",
-    "classId": 1,
-    "equips": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "faceIndex": 0,
-    "faceName": "ba",
-    "traits": [],
-    "initialLevel": 1,
-    "maxLevel": 99,
-    "name": "バフォメット",
-    "nickname": "",
-    "note": "<レベル限界増加:101>\r\n<限界変動:0,15000>\r\n<限界変動:1,3000>\r\n<限界変動:2,2000>\r\n<限界変動:3,2000>\r\n<限界変動:4,2000>\r\n<限界変動:5,2000>\r\n<限界変動:6,2000>\r\n<限界変動:7,2000>",
-    "profile": ""
-  },
-  {
-    "id": 31,
-    "characterIndex": 0,
-    "characterName": "$へんぜる",
-    "classId": 1,
-    "equips": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "faceIndex": 0,
-    "faceName": "hen",
-    "traits": [],
-    "initialLevel": 1,
-    "maxLevel": 99,
-    "name": "ヘンゼル",
-    "nickname": "",
-    "note": "<レベル限界増加:101>\r\n<限界変動:0,15000>\r\n<限界変動:1,3000>\r\n<限界変動:2,2000>\r\n<限界変動:3,2000>\r\n<限界変動:4,2000>\r\n<限界変動:5,2000>\r\n<限界変動:6,2000>\r\n<限界変動:7,2000>",
-    "profile": ""
-  },
-  {
-    "id": 32,
-    "characterIndex": 0,
-    "characterName": "$ぐれーてる",
-    "classId": 1,
-    "equips": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "faceIndex": 0,
-    "faceName": "gure",
-    "traits": [],
-    "initialLevel": 1,
-    "maxLevel": 99,
-    "name": "グレーテル",
-    "nickname": "",
-    "note": "<レベル限界増加:101>\r\n<限界変動:0,15000>\r\n<限界変動:1,3000>\r\n<限界変動:2,2000>\r\n<限界変動:3,2000>\r\n<限界変動:4,2000>\r\n<限界変動:5,2000>\r\n<限界変動:6,2000>\r\n<限界変動:7,2000>",
-    "profile": ""
-  },
-  {
-    "id": 33,
-    "characterIndex": 0,
-    "characterName": "$娼婦",
-    "classId": 1,
-    "equips": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "faceIndex": 0,
-    "faceName": "maria",
-    "traits": [],
-    "initialLevel": 1,
-    "maxLevel": 99,
-    "name": "マリアンナ",
-    "nickname": "",
-    "note": "<レベル限界増加:101>\r\n<限界変動:0,15000>\r\n<限界変動:1,3000>\r\n<限界変動:2,2000>\r\n<限界変動:3,2000>\r\n<限界変動:4,2000>\r\n<限界変動:5,2000>\r\n<限界変動:6,2000>\r\n<限界変動:7,2000>",
-    "profile": ""
-  },
-  {
-    "id": 34,
-    "characterIndex": 0,
-    "characterName": "",
-    "classId": 1,
-    "equips": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "faceIndex": 0,
-    "faceName": "",
-    "traits": [],
-    "initialLevel": 1,
-    "maxLevel": 99,
-    "name": "",
-    "nickname": "",
-    "note": "",
-    "profile": ""
-  },
-  {
-    "id": 35,
-    "characterIndex": 0,
-    "characterName": "",
-    "classId": 1,
-    "equips": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "faceIndex": 0,
-    "faceName": "",
-    "traits": [],
-    "initialLevel": 1,
-    "maxLevel": 99,
-    "name": "",
-    "nickname": "",
-    "note": "",
-    "profile": ""
-  }
+    null,
+    {
+        "id": 1,
+        "characterIndex": 5,
+        "characterName": "!Flame",
+        "classId": 13,
+        "equips": [
+            199,
+            0,
+            0,
+            59,
+            0
+        ],
+        "faceIndex": 7,
+        "faceName": "",
+        "traits": [
+            {
+                "code": 54,
+                "dataId": 1,
+                "value": 0.0
+            },
+            {
+                "code": 54,
+                "dataId": 2,
+                "value": 0.0
+            },
+            {
+                "code": 53,
+                "dataId": 3,
+                "value": 0.0
+            },
+            {
+                "code": 23,
+                "dataId": 8,
+                "value": 0.1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "<レベル限界増加:900>\r\n<戦闘終了後ステート解除:1>",
+        "profile": ""
+    },
+    {
+        "id": 2,
+        "characterIndex": 0,
+        "characterName": "$主人公",
+        "classId": 1,
+        "equips": [
+            101,
+            0,
+            0,
+            59,
+            0
+        ],
+        "faceIndex": 7,
+        "faceName": "",
+        "traits": [
+            {
+                "code": 54,
+                "dataId": 1,
+                "value": 0.0
+            },
+            {
+                "code": 54,
+                "dataId": 2,
+                "value": 0.0
+            },
+            {
+                "code": 53,
+                "dataId": 3,
+                "value": 0.0
+            },
+            {
+                "code": 23,
+                "dataId": 8,
+                "value": 0.1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "<レベル限界増加:900>\r\n<限界変動:0,99999>\r\n<限界変動:1,9999>\r\n<限界変動:2,9999>\r\n<限界変動:3,9999>\r\n<限界変動:4,9999>\r\n<限界変動:5,9999>\r\n<限界変動:6,9999>\r\n<限界変動:7,9999>\r\n<戦闘終了後ステート解除:1>",
+        "profile": ""
+    },
+    {
+        "id": 3,
+        "characterIndex": 2,
+        "characterName": "Evil",
+        "classId": 2,
+        "equips": [
+            112,
+            0,
+            0,
+            59,
+            0
+        ],
+        "faceIndex": 7,
+        "faceName": "",
+        "traits": [
+            {
+                "code": 54,
+                "dataId": 1,
+                "value": 0.0
+            },
+            {
+                "code": 54,
+                "dataId": 2,
+                "value": 0.0
+            },
+            {
+                "code": 53,
+                "dataId": 3,
+                "value": 0.0
+            },
+            {
+                "code": 23,
+                "dataId": 8,
+                "value": 0.1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "<レベル限界増加:900>\r\n<限界変動:0,99999>\r\n<限界変動:1,9999>\r\n<限界変動:2,9999>\r\n<限界変動:3,9999>\r\n<限界変動:4,9999>\r\n<限界変動:5,9999>\r\n<限界変動:6,9999>\r\n<限界変動:7,9999>\r\n<戦闘終了後ステート解除:1>",
+        "profile": ""
+    },
+    {
+        "id": 4,
+        "characterIndex": 5,
+        "characterName": "Evil",
+        "classId": 3,
+        "equips": [
+            167,
+            0,
+            0,
+            59,
+            0
+        ],
+        "faceIndex": 7,
+        "faceName": "",
+        "traits": [
+            {
+                "code": 54,
+                "dataId": 1,
+                "value": 0.0
+            },
+            {
+                "code": 54,
+                "dataId": 2,
+                "value": 0.0
+            },
+            {
+                "code": 53,
+                "dataId": 3,
+                "value": 0.0
+            },
+            {
+                "code": 23,
+                "dataId": 8,
+                "value": 0.1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "<レベル限界増加:900>\r\n<限界変動:0,99999>\r\n<限界変動:1,9999>\r\n<限界変動:2,9999>\r\n<限界変動:3,9999>\r\n<限界変動:4,9999>\r\n<限界変動:5,9999>\r\n<限界変動:6,9999>\r\n<限界変動:7,9999>\r\n<戦闘終了後ステート解除:1>",
+        "profile": ""
+    },
+    {
+        "id": 5,
+        "characterIndex": 0,
+        "characterName": "20150616223115b44",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 99,
+        "maxLevel": 99,
+        "name": "Limit poziomu",
+        "nickname": "",
+        "note": "<レベル限界増加:101>\r\n<限界変動:0,15000>\r\n<限界変動:1,3000>\r\n<限界変動:2,2000>\r\n<限界変動:3,2000>\r\n<限界変動:4,2000>\r\n<限界変動:5,2000>\r\n<限界変動:6,2000>\r\n<限界変動:7,2000>",
+        "profile": ""
+    },
+    {
+        "id": 6,
+        "characterIndex": 1,
+        "characterName": "",
+        "classId": 25,
+        "equips": [
+            7,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 1,
+        "faceName": "poro",
+        "traits": [
+            {
+                "code": 54,
+                "dataId": 1,
+                "value": 0.0
+            },
+            {
+                "code": 54,
+                "dataId": 2,
+                "value": 0.0
+            },
+            {
+                "code": 53,
+                "dataId": 3,
+                "value": 0.0
+            },
+            {
+                "code": 62,
+                "dataId": 0,
+                "value": 0.0
+            },
+            {
+                "code": 62,
+                "dataId": 2,
+                "value": 0.0
+            },
+            {
+                "code": 51,
+                "dataId": 2,
+                "value": 0.0
+            }
+        ],
+        "initialLevel": 99,
+        "maxLevel": 99,
+        "name": "Poro",
+        "nickname": "",
+        "note": "<レベル限界増加:900>\r\n<限界変動:0,99999>\r\n<限界変動:1,9999>\r\n<限界変動:2,9999>\r\n<限界変動:3,9999>\r\n<限界変動:4,9999>\r\n<限界変動:5,9999>\r\n<限界変動:6,9999>\r\n<限界変動:7,9999>",
+        "profile": "Automatyczna walka. Wezwana przez Czerwonego Kapturka."
+    },
+    {
+        "id": 7,
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 8,
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 9,
+        "characterIndex": 0,
+        "characterName": "$主人公",
+        "classId": 13,
+        "equips": [
+            0,
+            0,
+            0,
+            62,
+            92
+        ],
+        "faceIndex": 3,
+        "faceName": "People4",
+        "traits": [
+            {
+                "code": 54,
+                "dataId": 1,
+                "value": 0.0
+            },
+            {
+                "code": 54,
+                "dataId": 2,
+                "value": 0.0
+            },
+            {
+                "code": 53,
+                "dataId": 3,
+                "value": 0.0
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "Najsilniejszy",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 10,
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 11,
+        "characterIndex": 0,
+        "characterName": "$c_54b",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "alice",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "Alicja",
+        "nickname": "",
+        "note": "<レベル限界増加:101>\r\n<限界変動:0,10000>\r\n<限界変動:1,1000>\r\n<限界変動:2,1000>\r\n<限界変動:3,1000>\r\n<限界変動:4,1000>\r\n<限界変動:5,1000>\r\n<限界変動:6,1000>\r\n<限界変動:7,1000>",
+        "profile": ""
+    },
+    {
+        "id": 12,
+        "characterIndex": 0,
+        "characterName": "jnu",
+        "classId": 18,
+        "equips": [
+            20,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "jnnu",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "Joanna",
+        "nickname": "",
+        "note": "<レベル限界増加:900>\r\n<限界変動:0,99999>\r\n<限界変動:1,9999>\r\n<限界変動:2,9999>\r\n<限界変動:3,9999>\r\n<限界変動:4,9999>\r\n<限界変動:5,9999>\r\n<限界変動:6,9999>\r\n<限界変動:7,9999>",
+        "profile": "Wyspecjalizowana w ochronie sojuszników. Posiada parowanie."
+    },
+    {
+        "id": 13,
+        "characterIndex": 3,
+        "characterName": "妖精小",
+        "classId": 15,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "ri-hu",
+        "traits": [
+            {
+                "code": 53,
+                "dataId": 0,
+                "value": 0.0
+            },
+            {
+                "code": 53,
+                "dataId": 4,
+                "value": 0.0
+            },
+            {
+                "code": 53,
+                "dataId": 3,
+                "value": 0.0
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "Leaf",
+        "nickname": "",
+        "note": "<レベル限界増加:900>\r\n<限界変動:0,99999>\r\n<限界変動:1,9999>\r\n<限界変動:2,9999>\r\n<限界変動:3,9999>\r\n<限界変動:4,9999>\r\n<限界変動:5,9999>\r\n<限界変動:6,9999>\r\n<限界変動:7,9999>",
+        "profile": "Wróżka."
+    },
+    {
+        "id": 14,
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 15,
+        "characterIndex": 0,
+        "characterName": "$ミランダ",
+        "classId": 21,
+        "equips": [
+            94,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "miranda",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "Miranda",
+        "nickname": "",
+        "note": "<レベル限界増加:900>\r\n<限界変動:0,99999>\r\n<限界変動:1,9999>\r\n<限界変動:2,9999>\r\n<限界変動:3,9999>\r\n<限界変動:4,9999>\r\n<限界変動:5,9999>\r\n<限界変動:6,9999>\r\n<限界変動:7,9999>",
+        "profile": "Jedna z członkiń Black Trial."
+    },
+    {
+        "id": 16,
+        "characterIndex": 5,
+        "characterName": "Actor5",
+        "classId": 20,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "kata",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "Katarina",
+        "nickname": "",
+        "note": "<レベル限界増加:900>\r\n<限界変動:0,99999>\r\n<限界変動:1,9999>\r\n<限界変動:2,9999>\r\n<限界変動:3,9999>\r\n<限界変動:4,9999>\r\n<限界変動:5,9999>\r\n<限界変動:6,9999>\r\n<限界変動:7,9999>",
+        "profile": "Magia święta. Specjalizacja w leczeniu."
+    },
+    {
+        "id": 17,
+        "characterIndex": 0,
+        "characterName": "$グース",
+        "classId": 19,
+        "equips": [
+            7,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "gu-su",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "Goose",
+        "nickname": "",
+        "note": "<レベル限界増加:900>\r\n<限界変動:0,99999>\r\n<限界変動:1,9999>\r\n<限界変動:2,9999>\r\n<限界変動:3,9999>\r\n<限界変動:4,9999>\r\n<限界変動:5,9999>\r\n<限界変動:6,9999>\r\n<限界変動:7,9999>",
+        "profile": "Ptak bogactwa. Jeśli wezwiesz go i wygrasz walkę, otrzymasz podwójną\nliczbę przedmiotów typu Dusza. Posiada zdolność uniku."
+    },
+    {
+        "id": 18,
+        "characterIndex": 0,
+        "characterName": "$メイド",
+        "classId": 17,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "biku",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "Victoria",
+        "nickname": "",
+        "note": "<レベル限界増加:900>\r\n<限界変動:0,99999>\r\n<限界変動:1,9999>\r\n<限界変動:2,9999>\r\n<限界変動:3,9999>\r\n<限界変動:4,9999>\r\n<限界変動:5,9999>\r\n<限界変動:6,9999>\r\n<限界変動:7,9999>",
+        "profile": "Służba. Zużywa MP, aby użyć przedmiotu."
+    },
+    {
+        "id": 19,
+        "characterIndex": 0,
+        "characterName": "$ドロシー",
+        "classId": 16,
+        "equips": [
+            167,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "doro",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "Dorothy",
+        "nickname": "",
+        "note": "<レベル限界増加:900>\r\n<限界変動:0,99999>\r\n<限界変動:1,9999>\r\n<限界変動:2,9999>\r\n<限界変動:3,9999>\r\n<限界変動:4,9999>\r\n<限界変動:5,9999>\r\n<限界変動:6,9999>\r\n<限界変動:7,9999>",
+        "profile": "Specjalizuje się w magii ofensywnej. Zmienił płeć na żeńską."
+    },
+    {
+        "id": 20,
+        "characterIndex": 1,
+        "characterName": "紅",
+        "classId": 24,
+        "equips": [
+            92,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "aka",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "Czerwony Kapturek",
+        "nickname": "",
+        "note": "<レベル限界増加:900>\r\n<限界変動:0,99999>\r\n<限界変動:1,9999>\r\n<限界変動:2,9999>\r\n<限界変動:3,9999>\r\n<限界変動:4,9999>\r\n<限界変動:5,9999>\r\n<限界変動:6,9999>\r\n<限界変動:7,9999>",
+        "profile": "Typ wszechstronny. Może przyzwać Poro."
+    },
+    {
+        "id": 21,
+        "characterIndex": 0,
+        "characterName": "$マッチ売り",
+        "classId": 22,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "eruma",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "Elma",
+        "nickname": "",
+        "note": "<レベル限界増加:900>\r\n<限界変動:0,99999>\r\n<限界変動:1,9999>\r\n<限界変動:2,9999>\r\n<限界変動:3,9999>\r\n<限界変動:4,9999>\r\n<限界変動:5,9999>\r\n<限界変動:6,9999>\r\n<限界変動:7,9999>",
+        "profile": "Specjalizuje się w efektach statusowych. Osłabia wrogów. Posiada\nwiedzę o lekach."
+    },
+    {
+        "id": 22,
+        "characterIndex": 0,
+        "characterName": "$カエル姫",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "kaeru",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "Księżniczka Żaba",
+        "nickname": "",
+        "note": "<レベル限界増加:900>\r\n<限界変動:0,99999>\r\n<限界変動:1,9999>\r\n<限界変動:2,9999>\r\n<限界変動:3,9999>\r\n<限界変動:4,9999>\r\n<限界変動:5,9999>\r\n<限界変動:6,9999>\r\n<限界変動:7,9999>",
+        "profile": ""
+    },
+    {
+        "id": 23,
+        "characterIndex": 0,
+        "characterName": "ラプンツェル",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "lap",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "Roszpunka",
+        "nickname": "",
+        "note": "<レベル限界増加:101>\r\n<限界変動:0,15000>\r\n<限界変動:1,3000>\r\n<限界変動:2,2000>\r\n<限界変動:3,2000>\r\n<限界変動:4,2000>\r\n<限界変動:5,2000>\r\n<限界変動:6,2000>\r\n<限界変動:7,2000>",
+        "profile": ""
+    },
+    {
+        "id": 24,
+        "characterIndex": 0,
+        "characterName": "$白雪姫",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "sira",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "Królewna Śnieżka",
+        "nickname": "",
+        "note": "<レベル限界増加:101>\r\n<限界変動:0,15000>\r\n<限界変動:1,3000>\r\n<限界変動:2,2000>\r\n<限界変動:3,2000>\r\n<限界変動:4,2000>\r\n<限界変動:5,2000>\r\n<限界変動:6,2000>\r\n<限界変動:7,2000>",
+        "profile": ""
+    },
+    {
+        "id": 25,
+        "characterIndex": 1,
+        "characterName": "Spiritual",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "nin",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "Mała Syrenka",
+        "nickname": "",
+        "note": "<レベル限界増加:101>\r\n<限界変動:0,15000>\r\n<限界変動:1,3000>\r\n<限界変動:2,2000>\r\n<限界変動:3,2000>\r\n<限界変動:4,2000>\r\n<限界変動:5,2000>\r\n<限界変動:6,2000>\r\n<限界変動:7,2000>",
+        "profile": ""
+    },
+    {
+        "id": 26,
+        "characterIndex": 0,
+        "characterName": "$シンデレラ",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "sin",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "Kopciuszek",
+        "nickname": "",
+        "note": "<レベル限界増加:101>\r\n<限界変動:0,15000>\r\n<限界変動:1,3000>\r\n<限界変動:2,2000>\r\n<限界変動:3,2000>\r\n<限界変動:4,2000>\r\n<限界変動:5,2000>\r\n<限界変動:6,2000>\r\n<限界変動:7,2000>",
+        "profile": ""
+    },
+    {
+        "id": 27,
+        "characterIndex": 0,
+        "characterName": "ベル",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "beru",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "Piękna (Belle)",
+        "nickname": "",
+        "note": "<レベル限界増加:101>\r\n<限界変動:0,15000>\r\n<限界変動:1,3000>\r\n<限界変動:2,2000>\r\n<限界変動:3,2000>\r\n<限界変動:4,2000>\r\n<限界変動:5,2000>\r\n<限界変動:6,2000>\r\n<限界変動:7,2000>",
+        "profile": ""
+    },
+    {
+        "id": 28,
+        "characterIndex": 0,
+        "characterName": "$ごすろり",
+        "classId": 23,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "eriza",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "Elżbieta",
+        "nickname": "",
+        "note": "<レベル限界増加:900>\r\n<限界変動:0,99999>\r\n<限界変動:1,9999>\r\n<限界変動:2,9999>\r\n<限界変動:3,9999>\r\n<限界変動:4,9999>\r\n<限界変動:5,9999>\r\n<限界変動:6,9999>\r\n<限界変動:7,9999>",
+        "profile": "Typ wysysający."
+    },
+    {
+        "id": 29,
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "リィフ答え",
+        "profile": ""
+    },
+    {
+        "id": 30,
+        "characterIndex": 2,
+        "characterName": "baho",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "ba",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "Baphomet",
+        "nickname": "",
+        "note": "<レベル限界増加:101>\r\n<限界変動:0,15000>\r\n<限界変動:1,3000>\r\n<限界変動:2,2000>\r\n<限界変動:3,2000>\r\n<限界変動:4,2000>\r\n<限界変動:5,2000>\r\n<限界変動:6,2000>\r\n<限界変動:7,2000>",
+        "profile": ""
+    },
+    {
+        "id": 31,
+        "characterIndex": 0,
+        "characterName": "$へんぜる",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "hen",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "Hansel",
+        "nickname": "",
+        "note": "<レベル限界増加:101>\r\n<限界変動:0,15000>\r\n<限界変動:1,3000>\r\n<限界変動:2,2000>\r\n<限界変動:3,2000>\r\n<限界変動:4,2000>\r\n<限界変動:5,2000>\r\n<限界変動:6,2000>\r\n<限界変動:7,2000>",
+        "profile": ""
+    },
+    {
+        "id": 32,
+        "characterIndex": 0,
+        "characterName": "$ぐれーてる",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "gure",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "Gretel",
+        "nickname": "",
+        "note": "<レベル限界増加:101>\r\n<限界変動:0,15000>\r\n<限界変動:1,3000>\r\n<限界変動:2,2000>\r\n<限界変動:3,2000>\r\n<限界変動:4,2000>\r\n<限界変動:5,2000>\r\n<限界変動:6,2000>\r\n<限界変動:7,2000>",
+        "profile": ""
+    },
+    {
+        "id": 33,
+        "characterIndex": 0,
+        "characterName": "$娼婦",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "maria",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "Marianna",
+        "nickname": "",
+        "note": "<レベル限界増加:101>\r\n<限界変動:0,15000>\r\n<限界変動:1,3000>\r\n<限界変動:2,2000>\r\n<限界変動:3,2000>\r\n<限界変動:4,2000>\r\n<限界変動:5,2000>\r\n<限界変動:6,2000>\r\n<限界変動:7,2000>",
+        "profile": ""
+    },
+    {
+        "id": 34,
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 35,
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    }
 ]
