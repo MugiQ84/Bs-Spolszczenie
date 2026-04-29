@@ -1,8 +1,0 @@
-RPGMaker VX Ace JSON Converter - RV2JSON - v1.2.0
-Using default data directory: data
-Using default json directory: ace_json
-Using default output directory (data dir): data
-Detected Engine: vxace
-Running create (dumpFiles) -> json: ace_json
-Start dumping scripts...
-Dumping of 181 scripts done
