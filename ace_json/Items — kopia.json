@@ -11,7 +11,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Leczy 50% PŻ. Uzupełnij przy ognisku.\nŚwięta woda kojąca rany wojownika.",
+        "description": "Przywraca 50% HP. Można uzupełnić przy ognisku. Nie bój się kroczyć\nprzez mgłę. Butelka z ziołami to święta woda, która leczy rany\nwojownika.",
         "effects": [
             {
                 "code": 11,
@@ -44,7 +44,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Leczy 50% MP. Uzupełnij przy ognisku.\nJednak nie daj sie pochłonąć magii..",
+        "description": "Przywraca 50% MP. Można uzupełnić przy ognisku. Niezbędnik maga.\nJednak nie daj się pochłonąć magii.",
         "effects": [
             {
                 "code": 12,
@@ -77,7 +77,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Przywraca 150 HP. Gorzki smak, od którego\nchce się wymiotować, wypełnia całe usta.",
+        "description": "Przywraca 150 HP. Gorzki smak, od którego chce się wymiotować,\nwypełnia całe usta.",
         "effects": [
             {
                 "code": 11,
@@ -110,7 +110,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Leczy zatrucie. Smakuje lepiej w tempurze niż na surowo.\n- Wiedźma Dorota",
+        "description": "Leczy zatrucie. Smakuje lepiej w tempurze niż na surowo. - Wiedźma\nDorothy",
         "effects": [
             {
                 "code": 22,
@@ -143,7 +143,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Leczy krwawienie. Wielu umiera z wykrwawienia,\nzanim zdąży go użyć.",
+        "description": "Leczy krwawienie. Wielu umiera z wykrwawienia, zanim zdąży go użyć.",
         "effects": [
             {
                 "code": 22,
@@ -155,7 +155,7 @@
         "hitType": 0,
         "iconIndex": 203,
         "itypeId": 1,
-        "name": "Środek na krwawienie",
+        "name": "Środek tamujący krwawienie",
         "note": "",
         "occasion": 0,
         "price": 100,
@@ -209,7 +209,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Leczy wszystkie prawie stany negatywne. Istnieje teoria\nże to narkotyk, ale niektórzy twierdzą, że naprawdę leczy.",
+        "description": "Leczy wszystkie stany negatywne poza nieprzytomnością. Istnieje\nteoria, że to tylko narkotyk, który daje złudne poczucie wyleczenia.",
         "effects": [
             {
                 "code": 22,
@@ -326,7 +326,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Całkowicie przywraca HP i MP. Nie można uzupełnić.\n \"Miłosierdzie tego boga to prawdziwa miłość.\"",
+        "description": "Całkowicie przywraca HP i MP. Nie można uzupełnić. Miłosierdzie tego\nboga to prawdziwa miłość.",
         "effects": [
             {
                 "code": 11,
@@ -344,7 +344,7 @@
         "hitType": 0,
         "iconIndex": 211,
         "itypeId": 1,
-        "name": "Łaska bogini",
+        "name": "Błogosławieństwo bogini",
         "note": "",
         "occasion": 0,
         "price": 3000,
@@ -710,7 +710,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Powrót do ostatniego ogniska.\nNieumarli, którzy stali się kośćmi, lgną do niego",
+        "description": "Powrót do ostatniego ogniska. \n Nieumarli, którzy stali się kośćmi, lgną do niego",
         "effects": [
             {
                 "code": 44,
@@ -776,7 +776,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rozsypanie na ciele zmyli wzrok wroga. Moich bestii, takim\npyłem nie oszukasz! - Księżniczka Demonów Roszpunka",
+        "description": "Rozsypanie na ciele zmyli wzrok wroga. Bestii, które wytresowałam,\ntakim pyłem nie oszukasz! - Księżniczka Demonów Roszpunka",
         "effects": [
             {
                 "code": 44,
@@ -835,7 +835,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użycie podczas walki przywraca MP przez kilka tur. Odłamki \nwbijają sie w ciało, pozwalając czerpać moc.",
+        "description": "Użycie podczas walki przywraca MP przez kilka tur. Odłamki trzymane w\ndłoni wbijają się w ciało, pozwalając czerpać magiczną moc.",
         "effects": [
             {
                 "code": 21,
@@ -868,7 +868,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Odbija magię Wroga w walce.Uroda tak wielka, że nawett lustro uległo\nLustro Księżniczki Śnieżki.",
+        "description": "Użycie podczas walki odbija magię wroga. Moja uroda jest tak wielka,\nże nawet lustro musi się w niej zakochać... - Demoniczna księżniczka\nŚnieżka",
         "effects": [
             {
                 "code": 21,
@@ -901,7 +901,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użycie podczas walki usypia jednego wroga. Wystarczy złapać\npobliską wróżkę i mocno nią potrząsnąć.",
+        "description": "Użycie podczas walki usypia jednego wroga. Wystarczy złapać pobliską\nwróżkę i mocno nią potrząsnąć, by wywołać festiwal pyłu.",
         "effects": [
             {
                 "code": 21,
@@ -1064,7 +1064,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Wybucha, zadając obrażenia od ognia. Koktajl Mołotowa to\njuż klasyka. Ale rzadko co przebija klasykę.",
+        "description": "Wybucha, zadając obrażenia od ognia. Koktajl Mołotowa to już klasyka.\nAle rzadko co przebija klasykę.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 271,
@@ -1123,7 +1123,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Na pewien czas nadaje atrybut ognia. Skuteczny przeciwko\nbestiom, drzewom i innym stworom bojącym sie ognia.",
+        "description": "Przez pewien czas nadaje użytkownikowi atrybut ognia. Szczególnie\nskuteczny przeciwko bestiom, wijącym się drzewom i innym stworzeniom\nbojącym się ognia.",
         "effects": [
             {
                 "code": 21,
@@ -1156,7 +1156,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Na pewien czas nadaje użytkownikowi atrybut lodu. Lód zazdrości\nBiałego Śniegu zamrozi wszystko.",
+        "description": "Przez pewien czas nadaje użytkownikowi atrybut lodu. Lód zazdrości\nBiałego Śniegu zamrozi wszystko.",
         "effects": [
             {
                 "code": 21,
@@ -1189,7 +1189,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Na pewien czas nadaje użytkownikowi atrybut pioruna.\nBoski piorun spadnie na złoczyńców. - Święta Katarina",
+        "description": "Przez pewien czas nadaje użytkownikowi atrybut pioruna. Boski piorun\nspadnie na złoczyńców. - Święta Katarina",
         "effects": [
             {
                 "code": 21,
@@ -1611,7 +1611,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Otwiera każdy zamek.\n\"Zmiennokształtny klucz z Akademii Elheim\",",
+        "description": "Potrafi otworzyć każdy zamek. Magiczny klucz stworzony w Akademii\nMagii Elheim, który zmienia swój kształt, by dopasować się do dziurki\nod klucza.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 242,
@@ -1637,7 +1637,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Przez pewien czas zwiększa moc magiczną sojusznika.\nten przedmiot można różnie zinterpretować...",
+        "description": "Przez pewien czas zwiększa moc magiczną jednego sojusznika.\nInterpretacja tego przedmiotu może różnić się w zależności od osoby.",
         "effects": [
             {
                 "code": 31,
@@ -1670,7 +1670,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Pyszny cukierek. Może stanie się coś dobrego\njeśli zbierzesz ich więcej.",
+        "description": "Pyszny cukierek. Może stanie się coś dobrego, jeśli zbierzesz ich\nwięcej.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 340,
@@ -1813,7 +1813,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Lekarstwo o nazwie zapałka. Przywraca 3000 HP i MP, ale...\nMożna użyć tylko podczas walki.",
+        "description": "Lekarstwo o nazwie zapałka. Przywraca 3000 HP i MP, ale... Można użyć\ntylko podczas walki.",
         "effects": [
             {
                 "code": 11,
@@ -5082,7 +5082,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Wstążka pozostawiona przez Alicję.\nW poszukiwaniu jeszcze nieznanej Alicji w twoich snach.",
+        "description": "Wstążka pozostawiona przez Alicję. W poszukiwaniu nieznanej Alicji w\nsnach.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 448,
@@ -5134,7 +5134,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Zużywa wszystkie dusze, aby powrócić do świętego Lasu.\nOdradzaj się w nieskończoność aby przeżywać to na nowo.",
+        "description": "Zużywa wszystkie posiadane dusze, aby powrócić do Świętego Lasu.\nMożesz odradzać się nieskończenie wiele razy i przeżywać tę historię\nna nowo.",
         "effects": [
             {
                 "code": 44,
@@ -5167,7 +5167,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Zwiększa zwinność na czas walki.\"Może i Płaczą i wrzeszczą\nale czyż i tak nie są nieśmiertelne?\".",
+        "description": "Przez pewien czas zwiększa zwinność jednego sojusznika. Nieważne, czy\nwróżka płacze, czy krzyczy, i tak się odrodzi, więc nie ma żadnych\npraw.",
         "effects": [
             {
                 "code": 31,
@@ -5200,7 +5200,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Budzi ze śmierci upadłych towarzyszy.\n-Ognisty ptak bez piór swego boga.",
+        "description": "Wskrzesza sojusznika z nieprzytomności. Ptak ognia, który patrzył na\nludzi z góry, ściągnął na siebie gniew bogów i wyrwano mu wszystkie\npióra.",
         "effects": [
             {
                 "code": 22,
@@ -6364,7 +6364,7 @@
         "hitType": 0,
         "iconIndex": 122,
         "itypeId": 2,
-        "name": "Dorota",
+        "name": "Dorothy",
         "note": "",
         "occasion": 0,
         "price": 0,
