@@ -3,7 +3,7 @@
     {
         "id": 1,
         "animationId": 7,
-        "description": "Mały topór używany do wyrębu.",
+        "description": "Mały topór do wyrębu.",
         "etypeId": 0,
         "traits": [
             {
@@ -41,7 +41,7 @@
     {
         "id": 2,
         "animationId": 7,
-        "description": "Obosieczny topór stworzony do walki.",
+        "description": "Dwustronny topór bojowy.",
         "etypeId": 0,
         "traits": [
             {
@@ -79,7 +79,7 @@
     {
         "id": 3,
         "animationId": 7,
-        "description": "Topór bojowy z ostrzem w kształcie półksiężyca.",
+        "description": "Topór z ostrzem w kształcie półksiężyca.",
         "etypeId": 0,
         "traits": [
             {
@@ -99,7 +99,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "Bardysza",
+        "name": "Bardza",
         "note": "",
         "params": [
             0,
@@ -117,7 +117,7 @@
     {
         "id": 4,
         "animationId": 7,
-        "description": "Topór wykonany z magicznego metalu, mithrilu.",
+        "description": "Topór z magicznego mithrilu.",
         "etypeId": 0,
         "traits": [
             {
@@ -132,7 +132,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "Topór z mithrilu",
+        "name": "Mithrilowy topór",
         "note": "",
         "params": [
             0,
@@ -150,7 +150,7 @@
     {
         "id": 5,
         "animationId": 7,
-        "description": "Topór bojowy przesiąknięty szkarłatem.",
+        "description": "Szkarłatny topór bojowy.",
         "etypeId": 0,
         "traits": [
             {
@@ -188,7 +188,7 @@
     {
         "id": 6,
         "animationId": 7,
-        "description": "Ciężki topór, którego rzekomo używał bohater olbrzymów.",
+        "description": "Ciężki topór bohatera olbrzymów.",
         "etypeId": 0,
         "traits": [
             {
@@ -213,7 +213,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "Demoniczny topór Gigantes",
+        "name": "Magiczny Topór Gigant",
         "note": "",
         "params": [
             0,
@@ -231,7 +231,7 @@
     {
         "id": 7,
         "animationId": 82,
-        "description": "Rękawice z kolcami na kłykciach.",
+        "description": "Rękawica z kolcami na pięści.",
         "etypeId": 0,
         "traits": [
             {
@@ -274,7 +274,7 @@
     {
         "id": 8,
         "animationId": 1,
-        "description": "Broń do walki wręcz wyposażona w cztery krótkie pazury.",
+        "description": "Broń z czterema krótkimi pazurami.",
         "etypeId": 0,
         "traits": [
             {
@@ -299,7 +299,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "Bagh nakh",
+        "name": "Bagh Nakh",
         "note": "",
         "params": [
             0,
@@ -317,7 +317,7 @@
     {
         "id": 9,
         "animationId": 1,
-        "description": "Rękawice z wbudowanymi stalowymi szponami.",
+        "description": "Rękawica ze stalowymi pazurami.",
         "etypeId": 0,
         "traits": [
             {
@@ -342,7 +342,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "Żelazny szpon",
+        "name": "Żelazny Szpon",
         "note": "",
         "params": [
             0,
@@ -360,7 +360,7 @@
     {
         "id": 10,
         "animationId": 1,
-        "description": "Rękawice z wbudowanymi mithrilowymi szponami.",
+        "description": "Rękawica z mitrilowymi pazurami.",
         "etypeId": 0,
         "traits": [
             {
@@ -385,7 +385,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "Szpon z mithrilu",
+        "name": "Mithrilowy Szpon",
         "note": "",
         "params": [
             0,
@@ -403,7 +403,7 @@
     {
         "id": 11,
         "animationId": 1,
-        "description": "Rękawice z kłami smoka.",
+        "description": "Rękawice ze smoczymi kłami.",
         "etypeId": 0,
         "traits": [
             {
@@ -446,7 +446,7 @@
     {
         "id": 12,
         "animationId": 1,
-        "description": "Magiczne pazury noszące imię zachodniego wiatru.",
+        "description": "Magiczne pazury Zachodniego Wiatru.",
         "etypeId": 0,
         "traits": [
             {
@@ -489,7 +489,7 @@
     {
         "id": 13,
         "animationId": 13,
-        "description": "Krótka włócznia wyspecjalizowana w pchnięciach.",
+        "description": "Krótka włócznia do pchnięć.",
         "etypeId": 0,
         "traits": [
             {
@@ -522,7 +522,7 @@
     {
         "id": 14,
         "animationId": 13,
-        "description": "Stalowa długa włócznia z szerokim ostrzem.",
+        "description": "Stalowa włócznia z szerokim ostrzem.",
         "etypeId": 0,
         "traits": [
             {
@@ -542,7 +542,7 @@
             }
         ],
         "iconIndex": 146,
-        "name": "Partyzana",
+        "name": "Partyza",
         "note": "",
         "params": [
             0,
@@ -560,7 +560,7 @@
     {
         "id": 15,
         "animationId": 13,
-        "description": "Włócznia z głowicą topora przymocowaną do grotu.",
+        "description": "Włócznia z głowicą topora.",
         "etypeId": 0,
         "traits": [
             {
@@ -598,7 +598,7 @@
     {
         "id": 16,
         "animationId": 13,
-        "description": "Długa włócznia wykonana z magicznego metalu, mithrilu.",
+        "description": "Długa włócznia z mithrilu.",
         "etypeId": 0,
         "traits": [
             {
@@ -613,7 +613,7 @@
             }
         ],
         "iconIndex": 146,
-        "name": "Mithrilowa Włócznia",
+        "name": "Włócznia z mithrilu",
         "note": "",
         "params": [
             0,
@@ -631,7 +631,7 @@
     {
         "id": 17,
         "animationId": 13,
-        "description": "Święta włócznia pobłogosławiona przez białego boga.",
+        "description": "Święta włócznia z błogosławieństwem.",
         "etypeId": 0,
         "traits": [
             {
@@ -651,7 +651,7 @@
             }
         ],
         "iconIndex": 146,
-        "name": "Święta Lanca",
+        "name": "Święta lanca",
         "note": "",
         "params": [
             0,
@@ -669,7 +669,7 @@
     {
         "id": 18,
         "animationId": 13,
-        "description": "Włócznia przesiąknięta magią, przekazywana w krainie cieni.",
+        "description": "Magiczna włócznia z Krainy Cieni.",
         "etypeId": 0,
         "traits": [
             {
@@ -689,7 +689,7 @@
             }
         ],
         "iconIndex": 146,
-        "name": "Magiczna Włócznia Gae Bolg",
+        "name": "Magiczna włócznia Gae Bolg",
         "note": "",
         "params": [
             0,
@@ -707,7 +707,7 @@
     {
         "id": 19,
         "animationId": 7,
-        "description": "Miecz o krótkiej klindze, lekki i łatwy w użyciu.",
+        "description": "Lekki i poręczny krótki miecz.",
         "etypeId": 0,
         "traits": [
             {
@@ -722,7 +722,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "Krótki Miecz",
+        "name": "Krótki miecz",
         "note": "",
         "params": [
             0,
@@ -740,7 +740,7 @@
     {
         "id": 20,
         "animationId": 125,
-        "description": "Długi miecz bojowy szczycący się niezwykłą ostrością.",
+        "description": "Ostra bojowa długi miecz.",
         "etypeId": 0,
         "traits": [
             {
@@ -755,7 +755,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "Długi Miecz",
+        "name": "Długi miecz",
         "note": "",
         "params": [
             0,
@@ -773,7 +773,7 @@
     {
         "id": 21,
         "animationId": 7,
-        "description": "Szeroki miecz o zakrzywionej głowni.",
+        "description": "Szeroki miecz z zakrzywioną głownią.",
         "etypeId": 0,
         "traits": [
             {
@@ -806,7 +806,7 @@
     {
         "id": 22,
         "animationId": 7,
-        "description": "Długi miecz wykonany z magicznego metalu, mithrilu.",
+        "description": "Długi miecz z magicznego mithrilu.",
         "etypeId": 0,
         "traits": [
             {
@@ -839,7 +839,7 @@
     {
         "id": 23,
         "animationId": 7,
-        "description": "Miecz z runami wyrytymi na głowni.",
+        "description": "Miecz z runami wyrytymi na ostrzu.",
         "etypeId": 0,
         "traits": [
             {
@@ -854,7 +854,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "Ostrze runiczne",
+        "name": "Runiczne ostrze",
         "note": "",
         "params": [
             0,
@@ -872,7 +872,7 @@
     {
         "id": 24,
         "animationId": 7,
-        "description": "Przeklęty miecz przynoszący zwycięstwo i nieszczęście.",
+        "description": "Magiczny miecz niosący zwycięstwo i zgubę.",
         "etypeId": 0,
         "traits": [
             {
@@ -887,7 +887,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "Magiczny miecz Tyrfing",
+        "name": "Miecz Tyrfing",
         "note": "",
         "params": [
             0,
@@ -905,7 +905,7 @@
     {
         "id": 25,
         "animationId": 7,
-        "description": "Smukła katana bez żadnych inskrypcji.",
+        "description": "Smukła katana bez sygnatury.",
         "etypeId": 0,
         "traits": [
             {
@@ -943,7 +943,7 @@
     {
         "id": 26,
         "animationId": 7,
-        "description": "Tachi o wyjątkowej sile niszczycielskiej.",
+        "description": "Miecz o wielkiej sile.",
         "etypeId": 0,
         "traits": [
             {
@@ -981,7 +981,7 @@
     {
         "id": 27,
         "animationId": 7,
-        "description": "Mistrzowskie ostrze wykute przez słynnego płatnerza.",
+        "description": "Mistrzowskie ostrze.",
         "etypeId": 0,
         "traits": [
             {
@@ -1019,7 +1019,7 @@
     {
         "id": 28,
         "animationId": 7,
-        "description": "Tachi wykonane z magicznego metalu.",
+        "description": "Miecz z magicznego metalu.",
         "etypeId": 0,
         "traits": [
             {
@@ -1039,7 +1039,7 @@
             }
         ],
         "iconIndex": 148,
-        "name": "Duchowy srebrny miecz",
+        "name": "Miecz z mithrilu",
         "note": "",
         "params": [
             0,
@@ -1057,7 +1057,7 @@
     {
         "id": 29,
         "animationId": 7,
-        "description": "Starożytna katana skrywająca moc wypędzania zła.",
+        "description": "Starożytny miecz egzorcyzmów.",
         "etypeId": 0,
         "traits": [
             {
@@ -1077,7 +1077,7 @@
             }
         ],
         "iconIndex": 148,
-        "name": "Shichishito",
+        "name": "Nanatsusaya",
         "note": "",
         "params": [
             0,
@@ -1095,7 +1095,7 @@
     {
         "id": 30,
         "animationId": 7,
-        "description": "Demoniczna katana, która piła krew wielu szermierzy.",
+        "description": "Przeklęty miecz pijący krew.",
         "etypeId": 0,
         "traits": [
             {
@@ -1115,7 +1115,7 @@
             }
         ],
         "iconIndex": 148,
-        "name": "Przeklęty miecz Muramasa",
+        "name": "Przeklęty Muramasa",
         "note": "",
         "params": [
             0,
@@ -1133,7 +1133,7 @@
     {
         "id": 31,
         "animationId": 13,
-        "description": "Krótki łuk stworzony do polowań.",
+        "description": "Krótki łuk myśliwski.",
         "etypeId": 0,
         "traits": [
             {
@@ -1163,7 +1163,7 @@
             }
         ],
         "iconIndex": 149,
-        "name": "Krótki Łuk",
+        "name": "Krótki łuk",
         "note": "",
         "params": [
             0,
@@ -1181,7 +1181,7 @@
     {
         "id": 32,
         "animationId": 13,
-        "description": "Długi łuk bojowy o zwiększonej mocy.",
+        "description": "Wzmocniony łuk bojowy.",
         "etypeId": 0,
         "traits": [
             {
@@ -1211,7 +1211,7 @@
             }
         ],
         "iconIndex": 149,
-        "name": "Długi Łuk",
+        "name": "Długi łuk",
         "note": "",
         "params": [
             0,
@@ -1229,7 +1229,7 @@
     {
         "id": 33,
         "animationId": 13,
-        "description": "Kusza wystrzeliwująca strzały za pomocą silnej sprężyny.",
+        "description": "Kusza o dużej sile naciągu.",
         "etypeId": 0,
         "traits": [
             {
@@ -1277,7 +1277,7 @@
     {
         "id": 34,
         "animationId": 13,
-        "description": "Łuk wykonany z magicznego metalu, mithrilu.",
+        "description": "Łuk z magicznego mithrilu.",
         "etypeId": 0,
         "traits": [
             {
@@ -1307,7 +1307,7 @@
             }
         ],
         "iconIndex": 149,
-        "name": "Łuk z Mithrilu",
+        "name": "Mithrilowy łuk",
         "note": "",
         "params": [
             0,
@@ -1325,7 +1325,7 @@
     {
         "id": 35,
         "animationId": 13,
-        "description": "Łuk wykonany z duchowego drzewa rosnącego w Lesie Wróżek.",
+        "description": "Łuk z drzewa z lasu wróżek.",
         "etypeId": 0,
         "traits": [
             {
@@ -1355,7 +1355,7 @@
             }
         ],
         "iconIndex": 149,
-        "name": "Elfi Łuk",
+        "name": "Elfi łuk",
         "note": "",
         "params": [
             0,
@@ -1373,7 +1373,7 @@
     {
         "id": 36,
         "animationId": 13,
-        "description": "Srebrny łuk noszący imię bogini księżyca.",
+        "description": "Srebrny łuk nazwany imieniem bogini księżyca.",
         "etypeId": 0,
         "traits": [
             {
@@ -1403,7 +1403,7 @@
             }
         ],
         "iconIndex": 149,
-        "name": "Magiczny Łuk Artemida",
+        "name": "Magiczny Łuk Artemis",
         "note": "",
         "params": [
             0,
@@ -1421,7 +1421,7 @@
     {
         "id": 37,
         "animationId": 7,
-        "description": "Nóż, który można używać także na co dzień.",
+        "description": "Nóż przydatny w codziennym życiu.",
         "etypeId": 0,
         "traits": [
             {
@@ -1464,7 +1464,7 @@
     {
         "id": 38,
         "animationId": 7,
-        "description": "Bojowy nóż o szerokim ostrzu.",
+        "description": "Szeroki sztylet bojowy.",
         "etypeId": 0,
         "traits": [
             {
@@ -1507,7 +1507,7 @@
     {
         "id": 39,
         "animationId": 7,
-        "description": "Sztylet, którym można także parować ataki.",
+        "description": "Sztylet zdolny parować ataki.",
         "etypeId": 0,
         "traits": [
             {
@@ -1550,7 +1550,7 @@
     {
         "id": 40,
         "animationId": 7,
-        "description": "Nóż wykonany z magicznego metalu, mithrilu.",
+        "description": "Nóż z magicznego mithrilu.",
         "etypeId": 0,
         "traits": [
             {
@@ -1575,7 +1575,7 @@
             }
         ],
         "iconIndex": 150,
-        "name": "Nóż z Mithrilu",
+        "name": "Mithrilowy Nóż",
         "note": "",
         "params": [
             0,
@@ -1593,7 +1593,7 @@
     {
         "id": 41,
         "animationId": 7,
-        "description": "Czarny jak smoła sztylet, ulubione narzędzie skrytobójców.",
+        "description": "Czarny sztylet zabójców.",
         "etypeId": 0,
         "traits": [
             {
@@ -1618,7 +1618,7 @@
             }
         ],
         "iconIndex": 150,
-        "name": "Sztylet Asasyna",
+        "name": "Sztylet Zabójcy",
         "note": "",
         "params": [
             0,
@@ -1636,7 +1636,7 @@
     {
         "id": 42,
         "animationId": 7,
-        "description": "Magiczny sztylet noszący imię trąby powietrznej.",
+        "description": "Magiczny sztylet tornada.",
         "etypeId": 0,
         "traits": [
             {
@@ -1679,7 +1679,7 @@
     {
         "id": 43,
         "animationId": 19,
-        "description": "Metalowa pałka o zwiększonej sile uderzenia.",
+        "description": "Metalowa pałka bojowa.",
         "etypeId": 0,
         "traits": [
             {
@@ -1694,7 +1694,7 @@
             }
         ],
         "iconIndex": 151,
-        "name": "Maczuga",
+        "name": "Buława",
         "note": "",
         "params": [
             0,
@@ -1712,7 +1712,7 @@
     {
         "id": 44,
         "animationId": 19,
-        "description": "Broń obuchowa z żelazną kulą przymocowaną łańcuchem do rękojeści.",
+        "description": "Korbacz z żelazną kulą.",
         "etypeId": 0,
         "traits": [
             {
@@ -1727,7 +1727,7 @@
             }
         ],
         "iconIndex": 151,
-        "name": "Cep",
+        "name": "Korbacz",
         "note": "",
         "params": [
             0,
@@ -1760,7 +1760,7 @@
             }
         ],
         "iconIndex": 151,
-        "name": "Młot Wojenny",
+        "name": "Młot Bojowy",
         "note": "",
         "params": [
             0,
@@ -1778,7 +1778,7 @@
     {
         "id": 46,
         "animationId": 19,
-        "description": "Młot bojowy wykonany z magicznego metalu, mithrilu.",
+        "description": "Młot bojowy z mithrilu.",
         "etypeId": 0,
         "traits": [
             {
@@ -1793,7 +1793,7 @@
             }
         ],
         "iconIndex": 151,
-        "name": "Maczuga z Mithrilu",
+        "name": "Mace z mithrilu",
         "note": "",
         "params": [
             0,
@@ -1811,7 +1811,7 @@
     {
         "id": 47,
         "animationId": 19,
-        "description": "Magiczny młot skrywający moc ziemi.",
+        "description": "Magiczny młot z mocą ziemi.",
         "etypeId": 0,
         "traits": [
             {
@@ -1826,7 +1826,7 @@
             }
         ],
         "iconIndex": 151,
-        "name": "Rozbijacz Ziemi",
+        "name": "Łamacz Ziemi",
         "note": "",
         "params": [
             0,
@@ -1844,7 +1844,7 @@
     {
         "id": 48,
         "animationId": 19,
-        "description": "Młot boga wojny, zwany 'Kruszycielem'.",
+        "description": "Młot boga wojny, „Pogromca'.",
         "etypeId": 0,
         "traits": [
             {
@@ -1877,7 +1877,7 @@
     {
         "id": 49,
         "animationId": 19,
-        "description": "Twarda laska wykonana z dębu.",
+        "description": "Twardy kostur z drewna dębu.",
         "etypeId": 0,
         "traits": [
             {
@@ -1897,7 +1897,7 @@
             }
         ],
         "iconIndex": 152,
-        "name": "Drewniany Kostur",
+        "name": "Drewniany kostur",
         "note": "",
         "params": [
             0,
@@ -1915,7 +1915,7 @@
     {
         "id": 50,
         "animationId": 19,
-        "description": "Laska zakończona kulą ułatwiającą koncentrację.",
+        "description": "Kostur z kulą do medytacji.",
         "etypeId": 0,
         "traits": [
             {
@@ -1935,7 +1935,7 @@
             }
         ],
         "iconIndex": 152,
-        "name": "Laska Maga",
+        "name": "Kostur maga",
         "note": "",
         "params": [
             0,
@@ -1953,7 +1953,7 @@
     {
         "id": 51,
         "animationId": 19,
-        "description": "Srebrna laska wzmacniająca magiczną moc użytkownika.",
+        "description": "Srebrna różdżka wzmacniająca magię.",
         "etypeId": 0,
         "traits": [
             {
@@ -1991,7 +1991,7 @@
     {
         "id": 52,
         "animationId": 19,
-        "description": "Laska wykonana z magicznego metalu, mithrilu.",
+        "description": "Różdżka z magicznego mithrilu.",
         "etypeId": 0,
         "traits": [
             {
@@ -2011,7 +2011,7 @@
             }
         ],
         "iconIndex": 152,
-        "name": "Różdżka z Mithrilu",
+        "name": "Mithrilowy Kostur",
         "note": "",
         "params": [
             0,
@@ -2029,7 +2029,7 @@
     {
         "id": 53,
         "animationId": 19,
-        "description": "Laska wykonana ze starego drewna jemioły.",
+        "description": "Różdżka ze starej jemioły.",
         "etypeId": 0,
         "traits": [
             {
@@ -2049,7 +2049,7 @@
             }
         ],
         "iconIndex": 152,
-        "name": "Laska Ducha Drzewa",
+        "name": "Kostur z Drzewa Dusz",
         "note": "",
         "params": [
             0,
@@ -2067,7 +2067,7 @@
     {
         "id": 54,
         "animationId": 19,
-        "description": "Magiczna różdżka z osadzonym Kamieniem Mędrca.",
+        "description": "Różdżka z Kamieniem Filozoficznym.",
         "etypeId": 0,
         "traits": [
             {
@@ -2087,7 +2087,7 @@
             }
         ],
         "iconIndex": 152,
-        "name": "Magiczna Laska Azoth",
+        "name": "Magiczna Różdżka Azoth",
         "note": "",
         "params": [
             0,
@@ -2105,7 +2105,7 @@
     {
         "id": 55,
         "animationId": 91,
-        "description": "Staromodny pistolet skałkowy.",
+        "description": "Stary pistolet skałkowy.",
         "etypeId": 0,
         "traits": [
             {
@@ -2130,7 +2130,7 @@
             }
         ],
         "iconIndex": 153,
-        "name": "Skałkówka",
+        "name": "Pistolet Skałkowy",
         "note": "",
         "params": [
             0,
@@ -2148,7 +2148,7 @@
     {
         "id": 56,
         "animationId": 91,
-        "description": "Piechurzy karabin wydawany muszkieterom.",
+        "description": "Karabin piechoty dla muszkietera.",
         "etypeId": 0,
         "traits": [
             {
@@ -2191,7 +2191,7 @@
     {
         "id": 57,
         "animationId": 91,
-        "description": "Karabin używany przez kawalerię.",
+        "description": "Karabinek używany przez kawalerię.",
         "etypeId": 0,
         "traits": [
             {
@@ -2216,7 +2216,7 @@
             }
         ],
         "iconIndex": 153,
-        "name": "Smok",
+        "name": "Dragoon",
         "note": "",
         "params": [
             0,
@@ -2234,7 +2234,7 @@
     {
         "id": 58,
         "animationId": 91,
-        "description": "Broń palna z lufą wykonaną z magicznego metalu, mithrilu.",
+        "description": "Broń z lufą z magicznego mithrilu.",
         "etypeId": 0,
         "traits": [
             {
@@ -2259,7 +2259,7 @@
             }
         ],
         "iconIndex": 153,
-        "name": "Srebrny Pistolet Duchów",
+        "name": "Srebrny pistolet",
         "note": "",
         "params": [
             0,
@@ -2277,7 +2277,7 @@
     {
         "id": 59,
         "animationId": 91,
-        "description": "Rewolwer na proch czarny.",
+        "description": "Rewolwer na czarny proch.",
         "etypeId": 0,
         "traits": [
             {
@@ -2302,7 +2302,7 @@
             }
         ],
         "iconIndex": 153,
-        "name": "Rozjemca",
+        "name": "Peacemaker",
         "note": "",
         "params": [
             0,
@@ -2320,7 +2320,7 @@
     {
         "id": 60,
         "animationId": 91,
-        "description": "Magiczna broń palna wystrzeliwująca pociski z duchowej energii.",
+        "description": "Magiczna broń strzelająca duszami.",
         "etypeId": 0,
         "traits": [
             {
@@ -2345,7 +2345,7 @@
             }
         ],
         "iconIndex": 153,
-        "name": "Magiczna Broń Eteryczny Podmuch",
+        "name": "Magiczny Eter-Blast",
         "note": "",
         "params": [
             0,
@@ -3287,7 +3287,7 @@
     {
         "id": 89,
         "animationId": 82,
-        "description": "Atak seryjny",
+        "description": "Atak wielokrotny",
         "etypeId": 0,
         "traits": [
             {
@@ -3302,7 +3302,7 @@
             }
         ],
         "iconIndex": 129,
-        "name": "Pazur Wilka",
+        "name": "Wilczy pazur",
         "note": "",
         "params": [
             0,
@@ -3386,7 +3386,7 @@
     {
         "id": 92,
         "animationId": 145,
-        "description": "Zakrwawiony nóż kuchenny. Natychmiastowa śmierć +80%",
+        "description": "Zakrwawiony nóż. Natychmiastowa śmierć +80%",
         "etypeId": 0,
         "traits": [
             {
@@ -3406,7 +3406,7 @@
             }
         ],
         "iconIndex": 385,
-        "name": "Nóż kuchenny Czerwonego Kapturka",
+        "name": "Nóż Czerwonego Kapturka",
         "note": "",
         "params": [
             0,
@@ -3457,7 +3457,7 @@
     {
         "id": 94,
         "animationId": 130,
-        "description": "Topór o niezwykłych rozmiarach.",
+        "description": "Nienaturalnie wielki topór.",
         "etypeId": 0,
         "traits": [
             {
@@ -3683,7 +3683,7 @@
     {
         "id": 101,
         "animationId": 125,
-        "description": "Miecz powszechnie używany wśród rycerzy Andoru. [Rozbrojenie/Rozbicie\npancerza]",
+        "description": "Miecz używany przez rycerzy Andoru. [Łamanie broni/pancerza]",
         "etypeId": 0,
         "traits": [
             {
@@ -3708,7 +3708,7 @@
             }
         ],
         "iconIndex": 398,
-        "name": "Miecz rycerza",
+        "name": "Miecz rycerski",
         "note": "捨てられの森",
         "params": [
             0,
@@ -3726,7 +3726,7 @@
     {
         "id": 102,
         "animationId": 125,
-        "description": "Miecz powszechnie używany wśród rycerzy Andoru. [Rozbrojenie/Rozbicie\npancerza]",
+        "description": "Miecz używany przez rycerzy Andoru. [Łamanie broni/pancerza]",
         "etypeId": 0,
         "traits": [
             {
@@ -3751,7 +3751,7 @@
             }
         ],
         "iconIndex": 398,
-        "name": "Miecz rycerza +1",
+        "name": "Miecz rycerski +1",
         "note": "",
         "params": [
             0,
@@ -3769,7 +3769,7 @@
     {
         "id": 103,
         "animationId": 125,
-        "description": "Miecz powszechnie używany wśród rycerzy Andoru. [Rozbrojenie/Rozbicie\npancerza]",
+        "description": "Miecz używany przez rycerzy Andoru. [Niszczenie\nbroni/pancerza]",
         "etypeId": 0,
         "traits": [
             {
@@ -3812,7 +3812,7 @@
     {
         "id": 104,
         "animationId": 125,
-        "description": "Miecz powszechnie używany wśród rycerzy Andoru. [Rozbrojenie/Rozbicie\npancerza]",
+        "description": "Miecz używany przez rycerzy Andoru. [Niszczenie\nbroni/pancerza]",
         "etypeId": 0,
         "traits": [
             {
@@ -3855,7 +3855,7 @@
     {
         "id": 105,
         "animationId": 125,
-        "description": "Miecz powszechnie używany wśród rycerzy Andoru. [Rozbrojenie/Rozbicie\npancerza]",
+        "description": "Miecz używany przez rycerzy Andoru. [Niszczenie\nbroni/pancerza]",
         "etypeId": 0,
         "traits": [
             {
@@ -3898,7 +3898,7 @@
     {
         "id": 106,
         "animationId": 125,
-        "description": "Miecz powszechnie używany wśród rycerzy Andoru. [Rozbrojenie/Rozbicie\npancerza]",
+        "description": "Miecz używany przez rycerzy Andoru. [Niszczenie\nbroni/pancerza]",
         "etypeId": 0,
         "traits": [
             {
@@ -3941,7 +3941,7 @@
     {
         "id": 107,
         "animationId": 125,
-        "description": "Miecz powszechnie używany wśród rycerzy Andoru. [Rozbrojenie/Rozbicie\npancerza]",
+        "description": "Miecz używany przez rycerzy Andoru. [Niszczenie\nbroni/pancerza]",
         "etypeId": 0,
         "traits": [
             {
@@ -3984,7 +3984,7 @@
     {
         "id": 108,
         "animationId": 125,
-        "description": "Miecz powszechnie używany wśród rycerzy Andoru. [Rozbrojenie/Rozbicie\npancerza]",
+        "description": "Miecz używany przez rycerzy Andoru. [Łamanie broni/pancerza]",
         "etypeId": 0,
         "traits": [
             {
@@ -4027,7 +4027,7 @@
     {
         "id": 109,
         "animationId": 125,
-        "description": "Miecz powszechnie używany wśród rycerzy Andoru. [Rozbrojenie/Rozbicie\npancerza]",
+        "description": "Miecz używany przez rycerzy Andoru. [Łamanie broni/pancerza]",
         "etypeId": 0,
         "traits": [
             {
@@ -4070,7 +4070,7 @@
     {
         "id": 110,
         "animationId": 125,
-        "description": "Miecz powszechnie używany wśród rycerzy Andoru. [Rozbrojenie/Rozbicie\npancerza]",
+        "description": "Miecz używany przez rycerzy Andoru. [Łamanie broni/pancerza]",
         "etypeId": 0,
         "traits": [
             {
@@ -4113,7 +4113,7 @@
     {
         "id": 111,
         "animationId": 125,
-        "description": "Miecz powszechnie używany wśród rycerzy Andoru. [Rozbrojenie/Rozbicie\npancerza/Duma rycerza/Podwójna obrona]",
+        "description": "Miecz używany przez rycerzy Andoru. [Łamanie\nbroni/pancerza/Duma rycerza/Obrona x2]",
         "etypeId": 0,
         "traits": [
             {
@@ -4171,7 +4171,7 @@
     {
         "id": 112,
         "animationId": 150,
-        "description": "Broń używana przez nikczemników, takich jak złodzieje i zbóje. [Atak\nseryjny/Dekapitacja]",
+        "description": "Broń złodziei i bandytów. [Atak wielokrotny/Dekapitacja]",
         "etypeId": 0,
         "traits": [
             {
@@ -4196,7 +4196,7 @@
             }
         ],
         "iconIndex": 385,
-        "name": "Sztylet Złodzieja",
+        "name": "Sztylet złodzieja",
         "note": "下水道",
         "params": [
             0,
@@ -4214,7 +4214,7 @@
     {
         "id": 113,
         "animationId": 150,
-        "description": "Broń używana przez nikczemników, takich jak złodzieje i zbóje. [Atak\nseryjny/Dekapitacja]",
+        "description": "Broń łotrów i bandytów. [Atak wielokrotny/Dekapitacja]",
         "etypeId": 0,
         "traits": [
             {
@@ -4239,7 +4239,7 @@
             }
         ],
         "iconIndex": 385,
-        "name": "Sztylet Złodzieja +1",
+        "name": "Sztylet złodzieja +1",
         "note": "",
         "params": [
             0,
@@ -4257,7 +4257,7 @@
     {
         "id": 114,
         "animationId": 150,
-        "description": "Broń używana przez nikczemników, takich jak złodzieje i zbóje. [Atak\nseryjny/Dekapitacja]",
+        "description": "Broń łotrów i bandytów. [Atak wielokrotny/Dekapitacja]",
         "etypeId": 0,
         "traits": [
             {
@@ -4282,7 +4282,7 @@
             }
         ],
         "iconIndex": 385,
-        "name": "Sztylet Złodzieja +2",
+        "name": "Sztylet złodzieja +2",
         "note": "",
         "params": [
             0,
@@ -4300,7 +4300,7 @@
     {
         "id": 115,
         "animationId": 150,
-        "description": "Broń używana przez nikczemników, takich jak złodzieje i zbóje. [Atak\nseryjny/Dekapitacja]",
+        "description": "Broń łotrów i bandytów. [Atak wielokrotny/Dekapitacja]",
         "etypeId": 0,
         "traits": [
             {
@@ -4325,7 +4325,7 @@
             }
         ],
         "iconIndex": 385,
-        "name": "Sztylet Złodzieja +3",
+        "name": "Sztylet złodzieja +3",
         "note": "",
         "params": [
             0,
@@ -4343,7 +4343,7 @@
     {
         "id": 116,
         "animationId": 150,
-        "description": "Broń używana przez nikczemników, takich jak złodzieje i zbóje. [Atak\nseryjny/Dekapitacja]",
+        "description": "Broń łotrów i bandytów. [Atak wielokrotny/Dekapitacja]",
         "etypeId": 0,
         "traits": [
             {
@@ -4368,7 +4368,7 @@
             }
         ],
         "iconIndex": 385,
-        "name": "Sztylet Złodzieja +4",
+        "name": "Sztylet złodzieja +4",
         "note": "",
         "params": [
             0,
@@ -4386,7 +4386,7 @@
     {
         "id": 117,
         "animationId": 150,
-        "description": "Broń używana przez nikczemników, takich jak złodzieje i zbóje. [Atak\nseryjny/Dekapitacja]",
+        "description": "Broń łotrów i bandytów. [Atak wielokrotny/Dekapitacja]",
         "etypeId": 0,
         "traits": [
             {
@@ -4411,7 +4411,7 @@
             }
         ],
         "iconIndex": 385,
-        "name": "Sztylet Złodzieja +5",
+        "name": "Sztylet złodzieja +5",
         "note": "",
         "params": [
             0,
@@ -4429,7 +4429,7 @@
     {
         "id": 118,
         "animationId": 150,
-        "description": "Broń używana przez nikczemników, takich jak złodzieje i zbóje. [Atak\nseryjny/Dekapitacja]",
+        "description": "Broń pospolitych łotrów i bandytów. [Atak seryjny/Podcięcie]",
         "etypeId": 0,
         "traits": [
             {
@@ -4454,7 +4454,7 @@
             }
         ],
         "iconIndex": 385,
-        "name": "Sztylet Złodzieja +6",
+        "name": "Sztylet złodzieja +6",
         "note": "",
         "params": [
             0,
@@ -4472,7 +4472,7 @@
     {
         "id": 119,
         "animationId": 150,
-        "description": "Broń używana przez nikczemników, takich jak złodzieje i zbóje. [Atak\nseryjny/Dekapitacja]",
+        "description": "Broń pospolitych łotrów i bandytów. [Atak seryjny/Podcięcie]",
         "etypeId": 0,
         "traits": [
             {
@@ -4497,7 +4497,7 @@
             }
         ],
         "iconIndex": 385,
-        "name": "Sztylet Złodzieja +7",
+        "name": "Sztylet złodzieja +7",
         "note": "",
         "params": [
             0,
@@ -4515,7 +4515,7 @@
     {
         "id": 120,
         "animationId": 150,
-        "description": "Broń używana przez nikczemników, takich jak złodzieje i zbóje. [Atak\nseryjny/Dekapitacja]",
+        "description": "Broń pospolitych łotrów i bandytów. [Atak seryjny/Podcięcie]",
         "etypeId": 0,
         "traits": [
             {
@@ -4540,7 +4540,7 @@
             }
         ],
         "iconIndex": 385,
-        "name": "Sztylet Złodzieja +8",
+        "name": "Sztylet złodzieja +8",
         "note": "",
         "params": [
             0,
@@ -4558,7 +4558,7 @@
     {
         "id": 121,
         "animationId": 150,
-        "description": "Broń używana przez nikczemników, takich jak złodzieje i zbóje. [Atak\nseryjny/Dekapitacja]",
+        "description": "Broń pospolitych łotrów i bandytów. [Atak seryjny/Podcięcie]",
         "etypeId": 0,
         "traits": [
             {
@@ -4583,7 +4583,7 @@
             }
         ],
         "iconIndex": 385,
-        "name": "Sztylet Złodzieja +9",
+        "name": "Sztylet złodzieja +9",
         "note": "",
         "params": [
             0,
@@ -4601,7 +4601,7 @@
     {
         "id": 122,
         "animationId": 150,
-        "description": "Broń używana przez nikczemników, takich jak złodzieje i zbóje. [Atak\nseryjny/Dekapitacja/Zetsuei]",
+        "description": "Broń pospolitych łotrów i bandytów. [Atak\nseryjny/Podcięcie/Cień]",
         "etypeId": 0,
         "traits": [
             {
@@ -4631,7 +4631,7 @@
             }
         ],
         "iconIndex": 385,
-        "name": "Sztylet Złodzieja +10",
+        "name": "Sztylet złodzieja +10",
         "note": "",
         "params": [
             0,
@@ -4649,7 +4649,7 @@
     {
         "id": 123,
         "animationId": 127,
-        "description": "Wielki miecz o niewyobrażalnej wadze i sile ataku. [Zamiatanie/Ryk\nberserka]",
+        "description": "Wielki miecz o ogromnej wadze i ataku. [Zamiatanie/Ryk\nberserka]",
         "etypeId": 0,
         "traits": [
             {
@@ -4674,7 +4674,7 @@
             }
         ],
         "iconIndex": 389,
-        "name": "Wielki Miecz",
+        "name": "Wielki miecz",
         "note": "鎧を来た猫",
         "params": [
             0,
@@ -4692,7 +4692,7 @@
     {
         "id": 124,
         "animationId": 127,
-        "description": "Wielki miecz o niewyobrażalnej wadze i sile ataku. [Zamiatanie/Ryk\nberserka]",
+        "description": "Wielki miecz o ogromnej wadze i ataku. [Zamiatanie/Ryk\nberserka]",
         "etypeId": 0,
         "traits": [
             {
@@ -4717,7 +4717,7 @@
             }
         ],
         "iconIndex": 389,
-        "name": "Wielki Miecz +1",
+        "name": "Wielki miecz +1",
         "note": "",
         "params": [
             0,
@@ -4735,7 +4735,7 @@
     {
         "id": 125,
         "animationId": 127,
-        "description": "Wielki miecz o niewyobrażalnej wadze i sile ataku. [Zamiatanie/Ryk\nberserka]",
+        "description": "Wielki miecz o ogromnej wadze i ataku. [Zamiatanie/Ryk\nberserka]",
         "etypeId": 0,
         "traits": [
             {
@@ -4760,7 +4760,7 @@
             }
         ],
         "iconIndex": 389,
-        "name": "Wielki Miecz +2",
+        "name": "Wielki miecz +2",
         "note": "",
         "params": [
             0,
@@ -4778,7 +4778,7 @@
     {
         "id": 126,
         "animationId": 127,
-        "description": "Wielki miecz o niewyobrażalnej wadze i sile ataku. [Zamiatanie/Ryk\nberserka]",
+        "description": "Wielki miecz o ogromnej wadze i ataku. [Zamiatanie/Ryk\nberserka]",
         "etypeId": 0,
         "traits": [
             {
@@ -4803,7 +4803,7 @@
             }
         ],
         "iconIndex": 389,
-        "name": "Wielki Miecz +3",
+        "name": "Wielki miecz +3",
         "note": "",
         "params": [
             0,
@@ -4821,7 +4821,7 @@
     {
         "id": 127,
         "animationId": 127,
-        "description": "Wielki miecz o niewyobrażalnej wadze i sile ataku. [Zamiatanie/Ryk\nberserka]",
+        "description": "Wielki miecz o ogromnej wadze i ataku. [Zamiatanie/Ryk\nberserka]",
         "etypeId": 0,
         "traits": [
             {
@@ -4846,7 +4846,7 @@
             }
         ],
         "iconIndex": 389,
-        "name": "Wielki Miecz +4",
+        "name": "Wielki miecz +4",
         "note": "",
         "params": [
             0,
@@ -4864,7 +4864,7 @@
     {
         "id": 128,
         "animationId": 127,
-        "description": "Wielki miecz o ogromnej wadze i sile ataku. [Zamiatanie/Ryk\nberserkera]",
+        "description": "Wielki miecz o ogromnej wadze i ataku. [Zamiatanie/Ryk\nberserka]",
         "etypeId": 0,
         "traits": [
             {
@@ -4889,7 +4889,7 @@
             }
         ],
         "iconIndex": 389,
-        "name": "Wielki miecz +5",
+        "name": "Wielki Miecz +5",
         "note": "",
         "params": [
             0,
@@ -4907,7 +4907,7 @@
     {
         "id": 129,
         "animationId": 127,
-        "description": "Wielki miecz o ogromnej wadze i sile ataku. [Zamiatanie/Ryk\nberserkera]",
+        "description": "Wielki miecz o ogromnej wadze i ataku. [Zamiatanie/Ryk\nberserka]",
         "etypeId": 0,
         "traits": [
             {
@@ -4932,7 +4932,7 @@
             }
         ],
         "iconIndex": 389,
-        "name": "Wielki miecz +6",
+        "name": "Wielki Miecz +6",
         "note": "",
         "params": [
             0,
@@ -4950,7 +4950,7 @@
     {
         "id": 130,
         "animationId": 127,
-        "description": "Wielki miecz o ogromnej wadze i sile ataku. [Zamiatanie/Ryk\nberserkera]",
+        "description": "Wielki miecz o ogromnej wadze i ataku. [Zamiatanie/Ryk\nberserka]",
         "etypeId": 0,
         "traits": [
             {
@@ -4975,7 +4975,7 @@
             }
         ],
         "iconIndex": 389,
-        "name": "Wielki miecz +7",
+        "name": "Wielki Miecz +7",
         "note": "",
         "params": [
             0,
@@ -4993,7 +4993,7 @@
     {
         "id": 131,
         "animationId": 127,
-        "description": "Wielki miecz o ogromnej wadze i sile ataku. [Zamiatanie/Ryk\nberserkera]",
+        "description": "Wielki miecz o ogromnej wadze i ataku. [Zamiatanie/Ryk\nberserka]",
         "etypeId": 0,
         "traits": [
             {
@@ -5018,7 +5018,7 @@
             }
         ],
         "iconIndex": 389,
-        "name": "Wielki miecz +8",
+        "name": "Wielki Miecz +8",
         "note": "",
         "params": [
             0,
@@ -5036,7 +5036,7 @@
     {
         "id": 132,
         "animationId": 127,
-        "description": "Wielki miecz o ogromnej wadze i sile ataku. [Zamiatanie/Ryk\nberserkera]",
+        "description": "Wielki miecz o ogromnej wadze i ataku. [Zamiatanie/Ryk\nberserka]",
         "etypeId": 0,
         "traits": [
             {
@@ -5061,7 +5061,7 @@
             }
         ],
         "iconIndex": 389,
-        "name": "Wielki miecz +9",
+        "name": "Wielki Miecz +9",
         "note": "",
         "params": [
             0,
@@ -5079,7 +5079,7 @@
     {
         "id": 133,
         "animationId": 127,
-        "description": "Wielki miecz o ogromnej wadze i sile ataku. [Zamiatanie/Ryk\nBerserka/Żelazny Młot/Siła ataku x2]",
+        "description": "Wielki miecz o ogromnej wadze i sile ataku. [Zamiatanie/Ryk\nberserka/Młot/Atak x2]",
         "etypeId": 0,
         "traits": [
             {
@@ -5132,7 +5132,7 @@
     {
         "id": 134,
         "animationId": 126,
-        "description": "Przeklęta katana z Orientu, która pożera zarówno wroga, jak i\nwłaściciela. [Hasso/Tsubame Gaeshi]",
+        "description": "Przeklęta katana z Orientu, która pożera wroga i\nwłaściciela. [Hasso/Tsubame-gaeshi]",
         "etypeId": 0,
         "traits": [
             {
@@ -5180,7 +5180,7 @@
     {
         "id": 135,
         "animationId": 126,
-        "description": "Przeklęta katana z Orientu, która pożera zarówno wroga, jak i\nwłaściciela. [Hasso/Tsubame Gaeshi]",
+        "description": "Przeklęta katana z Orientu, która pożera wroga i\nwłaściciela. [Hasso/Tsubame-gaeshi]",
         "etypeId": 0,
         "traits": [
             {
@@ -5228,7 +5228,7 @@
     {
         "id": 136,
         "animationId": 126,
-        "description": "Przeklęta katana z Orientu, która pożera zarówno wroga, jak i\nwłaściciela. [Hasso/Tsubame Gaeshi]",
+        "description": "Przeklęta katana z Orientu, która pożera wroga i\nwłaściciela. [Hasso/Tsubame-gaeshi]",
         "etypeId": 0,
         "traits": [
             {
@@ -5276,7 +5276,7 @@
     {
         "id": 137,
         "animationId": 126,
-        "description": "Przeklęta katana z Orientu, która pożera zarówno wroga, jak i\nwłaściciela. [Hasso/Tsubame Gaeshi]",
+        "description": "Przeklęta katana z Orientu, która pożera wroga i\nwłaściciela. [Hasso/Tsubame-gaeshi]",
         "etypeId": 0,
         "traits": [
             {
@@ -5324,7 +5324,7 @@
     {
         "id": 138,
         "animationId": 126,
-        "description": "Przeklęta katana z Orientu, która pożera zarówno wroga, jak i swojego\nwłaściciela. [Hassou/Tsubame Gaeshi]",
+        "description": "Przeklęta katana z Orientu, która pożera wroga i\nwłaściciela. [Hasso/Tsubame Gaeshi]",
         "etypeId": 0,
         "traits": [
             {
@@ -5372,7 +5372,7 @@
     {
         "id": 139,
         "animationId": 126,
-        "description": "Przeklęta katana z Orientu, która pożera zarówno wroga, jak i swojego\nwłaściciela. [Hassou/Tsubame Gaeshi]",
+        "description": "Przeklęta katana z Orientu, która pożera wroga i\nwłaściciela. [Hasso/Tsubame Gaeshi]",
         "etypeId": 0,
         "traits": [
             {
@@ -5420,7 +5420,7 @@
     {
         "id": 140,
         "animationId": 126,
-        "description": "Przeklęta katana z Orientu, która pożera zarówno wroga, jak i swojego\nwłaściciela. [Hassou/Tsubame Gaeshi]",
+        "description": "Przeklęta katana z Orientu, która pożera wroga i\nwłaściciela. [Hasso/Tsubame Gaeshi]",
         "etypeId": 0,
         "traits": [
             {
@@ -5468,7 +5468,7 @@
     {
         "id": 141,
         "animationId": 126,
-        "description": "Przeklęta katana z Orientu, która pożera zarówno wroga, jak i swojego\nwłaściciela. [Hassou/Tsubame Gaeshi]",
+        "description": "Przeklęta katana z Orientu, która pożera wroga i\nwłaściciela. [Hasso/Tsubame Gaeshi]",
         "etypeId": 0,
         "traits": [
             {
@@ -5516,7 +5516,7 @@
     {
         "id": 142,
         "animationId": 126,
-        "description": "Przeklęta katana z Orientu, która pożera zarówno wroga, jak i swojego\nwłaściciela. [Hassou/Tsubame Gaeshi]",
+        "description": "Przeklęta katana z Orientu, która pożera wroga i\nwłaściciela. [Hasso/Tsubame Gaeshi]",
         "etypeId": 0,
         "traits": [
             {
@@ -5564,7 +5564,7 @@
     {
         "id": 143,
         "animationId": 126,
-        "description": "Przeklęta katana z Orientu, która pożera zarówno wroga, jak i swojego\nwłaściciela. [Hasso/Tsubame Gaeshi]",
+        "description": "Przeklęta katana z Orientu, która pożera wroga i\nwłaściciela. [Hassou/Tsubame-gaeshi]",
         "etypeId": 0,
         "traits": [
             {
@@ -5612,7 +5612,7 @@
     {
         "id": 144,
         "animationId": 126,
-        "description": "Przeklęta katana z Orientu, która pożera zarówno wroga, jak i swojego\nwłaściciela. [Hasso/Tsubame Gaeshi/Issen]",
+        "description": "Przeklęta katana z Orientu, która pożera wroga i\nwłaściciela. [Hassou/Tsubame-gaeshi/Issen]",
         "etypeId": 0,
         "traits": [
             {
@@ -5665,7 +5665,7 @@
     {
         "id": 145,
         "animationId": 128,
-        "description": "Włócznia z szerokim grotem i ostrzem. [Celność +100%/Kontratak\n+50%/Podcięcie/Przebicie pancerza]",
+        "description": "Włócznia z szerokim ostrzem. [Celność +100%/Kontra\n+50%/Podcięcie/Przebicie pancerza]",
         "etypeId": 0,
         "traits": [
             {
@@ -5718,7 +5718,7 @@
     {
         "id": 146,
         "animationId": 128,
-        "description": "Włócznia z szerokim grotem i ostrzem. [Celność +100%/Kontratak\n+50%/Podcięcie/Przebicie pancerza]",
+        "description": "Włócznia z szerokim ostrzem. [Celność +100%/Kontra\n+50%/Podcięcie/Przebicie pancerza]",
         "etypeId": 0,
         "traits": [
             {
@@ -5771,7 +5771,7 @@
     {
         "id": 147,
         "animationId": 128,
-        "description": "Włócznia z szerokim grotem i ostrzem. [Celność +100%/Kontratak\n+50%/Podcięcie/Przebicie pancerza]",
+        "description": "Włócznia z szerokim ostrzem. [Celność +100%/Kontra\n+50%/Podcięcie/Przebicie pancerza]",
         "etypeId": 0,
         "traits": [
             {
@@ -5824,7 +5824,7 @@
     {
         "id": 148,
         "animationId": 128,
-        "description": "Włócznia z szerokim grotem i ostrzem. [Celność +100%/Szansa na\nkontratak +50%/Podcięcie/Przebicie pancerza]",
+        "description": "Włócznia z szerokim ostrzem. [Celność +100%/Kontra\n+50%/Podcięcie/Przebicie pancerza]",
         "etypeId": 0,
         "traits": [
             {
@@ -5877,7 +5877,7 @@
     {
         "id": 149,
         "animationId": 128,
-        "description": "Włócznia z szerokim grotem i ostrzem. [Celność +100%/Szansa na\nkontratak +50%/Podcięcie/Przebicie pancerza]",
+        "description": "Włócznia z szerokim ostrzem. [Celność +100%/Kontra\n+50%/Podcięcie/Przebicie pancerza]",
         "etypeId": 0,
         "traits": [
             {
@@ -5930,7 +5930,7 @@
     {
         "id": 150,
         "animationId": 128,
-        "description": "Włócznia z szerokim grotem i ostrzem. [Celność +100%/Szansa na\nkontratak +50%/Podcięcie/Przebicie pancerza]",
+        "description": "Włócznia z szerokim ostrzem. [Celność +100%/Kontra\n+50%/Podcięcie/Przebicie pancerza]",
         "etypeId": 0,
         "traits": [
             {
@@ -5983,7 +5983,7 @@
     {
         "id": 151,
         "animationId": 128,
-        "description": "Włócznia z szerokim grotem i ostrzem. [Celność +100%/Szansa na\nkontratak +50%/Podcięcie/Przebicie pancerza]",
+        "description": "Włócznia z szerokim ostrzem. [Celność +100%/Kontra\n+50%/Podcięcie/Przebicie pancerza]",
         "etypeId": 0,
         "traits": [
             {
@@ -6036,7 +6036,7 @@
     {
         "id": 152,
         "animationId": 128,
-        "description": "Włócznia z szerokim grotem i ostrzem. [Celność +100%/Szansa na\nkontratak +50%/Podcięcie/Przebicie pancerza]",
+        "description": "Włócznia z szerokim ostrzem. [Celność +100%/Kontra\n+50%/Podcięcie/Przebicie pancerza]",
         "etypeId": 0,
         "traits": [
             {
@@ -6089,7 +6089,7 @@
     {
         "id": 153,
         "animationId": 128,
-        "description": "Włócznia z szerokim grotem i ostrzem. [Celność +100%/Kontratak\n+50%/Podcięcie/Przebicie pancerza]",
+        "description": "Włócznia z szerokim ostrzem. [Celność +100%/Kontra\n+50%/Podcięcie/Przebicie pancerza]",
         "etypeId": 0,
         "traits": [
             {
@@ -6142,7 +6142,7 @@
     {
         "id": 154,
         "animationId": 128,
-        "description": "Włócznia z szerokim grotem i ostrzem. [Celność +100%/Kontratak\n+50%/Podcięcie/Przebicie pancerza]",
+        "description": "Włócznia z szerokim ostrzem. [Celność +100%/Kontra\n+50%/Podcięcie/Przebicie pancerza]",
         "etypeId": 0,
         "traits": [
             {
@@ -6195,7 +6195,7 @@
     {
         "id": 155,
         "animationId": 128,
-        "description": "Włócznia z szerokim grotem i ostrzem. [Celność +100%/Kontratak\n+100%/Podcięcie/Przebicie pancerza/Zekschturm]",
+        "description": "Włócznia z szerokim ostrzem. [Celność +100%/Kontra\n+100%/Podcięcie/Przebicie pancerza/Zekschturm]",
         "etypeId": 0,
         "traits": [
             {
@@ -6253,7 +6253,7 @@
     {
         "id": 156,
         "animationId": 129,
-        "description": "Żelazna kula na łańcuchu. Atak obszarowy. [Czakra/Grad ciosów/Szansa\nna ogłuszenie +10%]",
+        "description": "Żelazna kula na łańcuchu. Atak obszarowy. [Czakra/Seria\nciosów/Szansa na ogłuszenie +10%]",
         "etypeId": 0,
         "traits": [
             {
@@ -6296,7 +6296,7 @@
     {
         "id": 157,
         "animationId": 129,
-        "description": "Żelazna kula na łańcuchu. Atak obszarowy. [Czakra/Grad ciosów/Szansa\nna ogłuszenie +10%]",
+        "description": "Żelazna kula na łańcuchu. Atak obszarowy. [Czakra/Seria\nciosów/Szansa na ogłuszenie +10%]",
         "etypeId": 0,
         "traits": [
             {
@@ -6321,7 +6321,7 @@
             }
         ],
         "iconIndex": 426,
-        "name": "Wielka żelazna kula +1",
+        "name": "Wielka kula +1",
         "note": "<攻撃ID変更:131>",
         "params": [
             0,
@@ -6339,7 +6339,7 @@
     {
         "id": 158,
         "animationId": 129,
-        "description": "Żelazna kula, którą można wymachiwać. Atak obszarowy.\n[Czakra/Obijanie/Szansa na ogłuszenie +10%]",
+        "description": "Żelazna kula. Atak obszarowy. [Czakra/Obijanie/Szansa na\nogłuszenie +10%]",
         "etypeId": 0,
         "traits": [
             {
@@ -6364,7 +6364,7 @@
             }
         ],
         "iconIndex": 426,
-        "name": "Wielka żelazna kula +2",
+        "name": "Wielka kula +2",
         "note": "<攻撃ID変更:131>",
         "params": [
             0,
@@ -6382,7 +6382,7 @@
     {
         "id": 159,
         "animationId": 129,
-        "description": "Żelazna kula, którą można wymachiwać. Atak obszarowy.\n[Czakra/Obijanie/Szansa na ogłuszenie +10%]",
+        "description": "Żelazna kula. Atak obszarowy. [Czakra/Obijanie/Szansa na\nogłuszenie +10%]",
         "etypeId": 0,
         "traits": [
             {
@@ -6407,7 +6407,7 @@
             }
         ],
         "iconIndex": 426,
-        "name": "Wielka żelazna kula +3",
+        "name": "Wielka kula +3",
         "note": "<攻撃ID変更:131>",
         "params": [
             0,
@@ -6425,7 +6425,7 @@
     {
         "id": 160,
         "animationId": 129,
-        "description": "Żelazna kula, którą można wymachiwać. Atak obszarowy.\n[Czakra/Obijanie/Szansa na ogłuszenie +30%]",
+        "description": "Żelazna kula. Atak obszarowy. [Czakra/Obijanie/Szansa na\nogłuszenie +30%]",
         "etypeId": 0,
         "traits": [
             {
@@ -6450,7 +6450,7 @@
             }
         ],
         "iconIndex": 426,
-        "name": "Wielka żelazna kula +4",
+        "name": "Wielka kula +4",
         "note": "<攻撃ID変更:131>",
         "params": [
             0,
@@ -6468,7 +6468,7 @@
     {
         "id": 161,
         "animationId": 129,
-        "description": "Żelazna kula, którą można wymachiwać. Atak obszarowy.\n[Czakra/Obijanie/Szansa na ogłuszenie +30%]",
+        "description": "Żelazna kula. Atak obszarowy. [Czakra/Obijanie/Szansa na\nogłuszenie +30%]",
         "etypeId": 0,
         "traits": [
             {
@@ -6493,7 +6493,7 @@
             }
         ],
         "iconIndex": 426,
-        "name": "Wielka żelazna kula +5",
+        "name": "Wielka kula +5",
         "note": "<攻撃ID変更:131>",
         "params": [
             0,
@@ -6511,7 +6511,7 @@
     {
         "id": 162,
         "animationId": 129,
-        "description": "Żelazna kula, którą można wymachiwać. Atak obszarowy.\n[Czakra/Obijanie/Szansa na ogłuszenie +30%]",
+        "description": "Żelazna kula. Atak obszarowy. [Czakra/Obijanie/Szansa na\nogłuszenie +30%]",
         "etypeId": 0,
         "traits": [
             {
@@ -6536,7 +6536,7 @@
             }
         ],
         "iconIndex": 426,
-        "name": "Wielka żelazna kula +6",
+        "name": "Wielka kula +6",
         "note": "<攻撃ID変更:131>",
         "params": [
             0,
@@ -6554,7 +6554,7 @@
     {
         "id": 163,
         "animationId": 129,
-        "description": "Żelazna kula na łańcuchu. Atak obszarowy. [Czakra/Seria ciosów/Szansa\nna ogłuszenie +60%]",
+        "description": "Żelazna kula. Atak obszarowy. [Czakra/Seria/Szansa na\nogłuszenie +60%]",
         "etypeId": 0,
         "traits": [
             {
@@ -6579,7 +6579,7 @@
             }
         ],
         "iconIndex": 426,
-        "name": "Wielka żelazna kula +7",
+        "name": "Wielka kula +7",
         "note": "<攻撃ID変更:131>",
         "params": [
             0,
@@ -6597,7 +6597,7 @@
     {
         "id": 164,
         "animationId": 129,
-        "description": "Żelazna kula na łańcuchu. Atak obszarowy. [Czakra/Seria ciosów/Szansa\nna ogłuszenie +60%]",
+        "description": "Żelazna kula. Atak obszarowy. [Czakra/Seria/Szansa na\nogłuszenie +60%]",
         "etypeId": 0,
         "traits": [
             {
@@ -6622,7 +6622,7 @@
             }
         ],
         "iconIndex": 426,
-        "name": "Wielka żelazna kula +8",
+        "name": "Wielka kula +8",
         "note": "<攻撃ID変更:131>",
         "params": [
             0,
@@ -6640,7 +6640,7 @@
     {
         "id": 165,
         "animationId": 129,
-        "description": "Żelazna kula na łańcuchu. Atak obszarowy. [Czakra/Seria ciosów/Szansa\nna ogłuszenie +60%]",
+        "description": "Żelazna kula. Atak obszarowy. [Czakra/Seria/Szansa na\nogłuszenie +60%]",
         "etypeId": 0,
         "traits": [
             {
@@ -6665,7 +6665,7 @@
             }
         ],
         "iconIndex": 426,
-        "name": "Wielka żelazna kula +9",
+        "name": "Wielka kula +9",
         "note": "<攻撃ID変更:131>",
         "params": [
             0,
@@ -6683,7 +6683,7 @@
     {
         "id": 166,
         "animationId": 129,
-        "description": "Żelazna kula na łańcuchu. Atak obszarowy. [Czakra/Seria\nciosów/Podwójne uderzenie/Szansa na ogłuszenie +90%]",
+        "description": "Żelazna kula. Atak obszarowy. [Czakra/Seria/Podwójne\nuderzenie/Szansa na ogłuszenie +90%]",
         "etypeId": 0,
         "traits": [
             {
@@ -6713,7 +6713,7 @@
             }
         ],
         "iconIndex": 426,
-        "name": "Wielka żelazna kula +10",
+        "name": "Wielka kula +10",
         "note": "<攻撃ID変更:131>",
         "params": [
             0,
@@ -6731,7 +6731,7 @@
     {
         "id": 167,
         "animationId": 19,
-        "description": "Kostur czarnego maga. Służy jako katalizator do rzucania czarów.\n[Zużycie MP 1/2]",
+        "description": "Kostur czarnoksiężnika. Katalizator magii. [Koszt MP 1/2]",
         "etypeId": 0,
         "traits": [
             {
@@ -6769,7 +6769,7 @@
     {
         "id": 168,
         "animationId": 19,
-        "description": "Kostur należący do czarnego maga. Służy jako katalizator do rzucania\nczarów. [Zużycie MP 1/2]",
+        "description": "Kostur czarnego maga. Służy jako katalizator magii. [Zużycie\nMP 1/2]",
         "etypeId": 0,
         "traits": [
             {
@@ -6789,7 +6789,7 @@
             }
         ],
         "iconIndex": 413,
-        "name": "Kostur maga +1",
+        "name": "Kostur Maga +1",
         "note": "",
         "params": [
             0,
@@ -6807,7 +6807,7 @@
     {
         "id": 169,
         "animationId": 19,
-        "description": "Kostur należący do czarnego maga. Służy jako katalizator do rzucania\nczarów. [Zużycie MP 1/2]",
+        "description": "Kostur czarnego maga. Służy jako katalizator magii. [Zużycie\nMP 1/2]",
         "etypeId": 0,
         "traits": [
             {
@@ -6827,7 +6827,7 @@
             }
         ],
         "iconIndex": 413,
-        "name": "Kostur maga +2",
+        "name": "Kostur Maga +2",
         "note": "",
         "params": [
             0,
@@ -6845,7 +6845,7 @@
     {
         "id": 170,
         "animationId": 19,
-        "description": "Kostur należący do czarnego maga. Służy jako katalizator do rzucania\nczarów. [Zużycie MP 1/2]",
+        "description": "Kostur czarnego maga. Służy jako katalizator magii. [Zużycie\nMP 1/2]",
         "etypeId": 0,
         "traits": [
             {
@@ -6865,7 +6865,7 @@
             }
         ],
         "iconIndex": 413,
-        "name": "Kostur maga +3",
+        "name": "Kostur Maga +3",
         "note": "",
         "params": [
             0,
@@ -6883,7 +6883,7 @@
     {
         "id": 171,
         "animationId": 19,
-        "description": "Kostur należący do czarnego maga. Służy jako katalizator do rzucania\nczarów. [Zużycie MP 1/2]",
+        "description": "Kostur czarnego maga. Służy jako katalizator magii. [Zużycie\nMP 1/2]",
         "etypeId": 0,
         "traits": [
             {
@@ -6903,7 +6903,7 @@
             }
         ],
         "iconIndex": 413,
-        "name": "Kostur maga +4",
+        "name": "Kostur Maga +4",
         "note": "",
         "params": [
             0,
@@ -6921,7 +6921,7 @@
     {
         "id": 172,
         "animationId": 19,
-        "description": "Kostur należący do czarnego maga. Służy jako katalizator do rzucania\nczarów. [Zużycie MP 1/2]",
+        "description": "Kostur czarnego maga. Służy jako katalizator magii. [Zużycie\nMP 1/2]",
         "etypeId": 0,
         "traits": [
             {
@@ -6941,7 +6941,7 @@
             }
         ],
         "iconIndex": 413,
-        "name": "Kostur maga +5",
+        "name": "Kostur Maga +5",
         "note": "",
         "params": [
             0,
@@ -6959,7 +6959,7 @@
     {
         "id": 173,
         "animationId": 19,
-        "description": "Kostur należący do czarnego maga. Służy jako katalizator do rzucania\nczarów. [Zużycie MP 1/2]",
+        "description": "Kostur czarnego maga. Służy jako katalizator magii. [Zużycie\nMP 1/2]",
         "etypeId": 0,
         "traits": [
             {
@@ -6979,7 +6979,7 @@
             }
         ],
         "iconIndex": 413,
-        "name": "Kostur maga +6",
+        "name": "Kostur Maga +6",
         "note": "",
         "params": [
             0,
@@ -6997,7 +6997,7 @@
     {
         "id": 174,
         "animationId": 19,
-        "description": "Kostur należący do czarnego maga. Służy jako katalizator do rzucania\nczarów. [Zużycie MP 1/2]",
+        "description": "Kostur czarnego maga. Służy jako katalizator magii. [Zużycie\nMP 1/2]",
         "etypeId": 0,
         "traits": [
             {
@@ -7017,7 +7017,7 @@
             }
         ],
         "iconIndex": 413,
-        "name": "Kostur maga +7",
+        "name": "Kostur Maga +7",
         "note": "",
         "params": [
             0,
@@ -7035,7 +7035,7 @@
     {
         "id": 175,
         "animationId": 19,
-        "description": "Kostur należący do czarnego maga. Służy jako katalizator do rzucania\nczarów. [Zużycie MP 1/2]",
+        "description": "Kostur czarnego maga. Służy jako katalizator magii. [Zużycie\nMP 1/2]",
         "etypeId": 0,
         "traits": [
             {
@@ -7055,7 +7055,7 @@
             }
         ],
         "iconIndex": 413,
-        "name": "Kostur maga +8",
+        "name": "Kostur Maga +8",
         "note": "",
         "params": [
             0,
@@ -7073,7 +7073,7 @@
     {
         "id": 176,
         "animationId": 19,
-        "description": "Kostur należący do czarnego maga. Służy jako katalizator do rzucania\nczarów. [Zużycie MP 1/2]",
+        "description": "Kostur czarnego maga. Służy jako katalizator magii. [Zużycie\nMP 1/2]",
         "etypeId": 0,
         "traits": [
             {
@@ -7093,7 +7093,7 @@
             }
         ],
         "iconIndex": 413,
-        "name": "Kostur maga +9",
+        "name": "Kostur Maga +9",
         "note": "",
         "params": [
             0,
@@ -7111,7 +7111,7 @@
     {
         "id": 177,
         "animationId": 19,
-        "description": "Kostur należący do czarnego maga. Służy jako katalizator do rzucania\nczarów. [Zużycie MP 0]",
+        "description": "Kostur czarnego maga. Służy jako katalizator magii. [Zużycie\nMP 0]",
         "etypeId": 0,
         "traits": [
             {
@@ -7131,7 +7131,7 @@
             }
         ],
         "iconIndex": 413,
-        "name": "Kostur maga +10",
+        "name": "Kostur Maga +10",
         "note": "",
         "params": [
             0,
@@ -7149,7 +7149,7 @@
     {
         "id": 178,
         "animationId": 13,
-        "description": "Łuk myśliwski używany przez łowców. [Strzał w nogi/Potrójny\nstrzał/Szansa na trafienie krytyczne +5%]",
+        "description": "Łuk myśliwski. [Strzał w nogi/Potrójny strzał/Krytyk+5%]",
         "etypeId": 0,
         "traits": [
             {
@@ -7202,7 +7202,7 @@
     {
         "id": 179,
         "animationId": 13,
-        "description": "Łuk myśliwski używany przez łowców. [Strzał w nogi/Potrójny\nstrzał/Szansa na trafienie krytyczne +10%]",
+        "description": "Łuk myśliwski. [Strzał w nogi/Potrójny strzał/Krytyk+10%]",
         "etypeId": 0,
         "traits": [
             {
@@ -7237,7 +7237,7 @@
             }
         ],
         "iconIndex": 427,
-        "name": "Łuk Myśliwski +1",
+        "name": "Łuk Myśliwski+1",
         "note": "",
         "params": [
             0,
@@ -7255,7 +7255,7 @@
     {
         "id": 180,
         "animationId": 13,
-        "description": "Łuk myśliwski używany przez łowców. [Strzał w nogi/Potrójny\nstrzał/Szansa na trafienie krytyczne +15%]",
+        "description": "Łuk myśliwski. [Strzał w nogi/Potrójny strzał/Krytyk+15%]",
         "etypeId": 0,
         "traits": [
             {
@@ -7290,7 +7290,7 @@
             }
         ],
         "iconIndex": 427,
-        "name": "Łuk Myśliwski +2",
+        "name": "Łuk Myśliwski+2",
         "note": "",
         "params": [
             0,
@@ -7308,7 +7308,7 @@
     {
         "id": 181,
         "animationId": 13,
-        "description": "Łuk myśliwski używany przez łowców. [Strzał w nogi/Potrójny\nstrzał/Szansa na trafienie krytyczne +20%]",
+        "description": "Łuk myśliwski. [Strzał w nogi/Potrójny strzał/Krytyk+20%]",
         "etypeId": 0,
         "traits": [
             {
@@ -7343,7 +7343,7 @@
             }
         ],
         "iconIndex": 427,
-        "name": "Łuk Myśliwski +3",
+        "name": "Łuk Myśliwski+3",
         "note": "",
         "params": [
             0,
@@ -7361,7 +7361,7 @@
     {
         "id": 182,
         "animationId": 13,
-        "description": "Łuk myśliwski używany przez łowców. [Strzał w nogi/Potrójny\nstrzał/Szansa na trafienie krytyczne +25%]",
+        "description": "Łuk myśliwski. [Strzał w nogi/Potrójny strzał/Krytyk+25%]",
         "etypeId": 0,
         "traits": [
             {
@@ -7396,7 +7396,7 @@
             }
         ],
         "iconIndex": 427,
-        "name": "Łuk Myśliwski +4",
+        "name": "Łuk Myśliwski+4",
         "note": "",
         "params": [
             0,
@@ -7414,7 +7414,7 @@
     {
         "id": 183,
         "animationId": 13,
-        "description": "Łuk myśliwski używany przez łowców. [Strzał w nogi/Potrójny\nstrzał/Szansa na trafienie krytyczne +30%]",
+        "description": "Łuk myśliwski. [Strzał w nogi/Potrójny strzał/Krytyk+30%]",
         "etypeId": 0,
         "traits": [
             {
@@ -7449,7 +7449,7 @@
             }
         ],
         "iconIndex": 427,
-        "name": "Łuk Myśliwski+5",
+        "name": "Łuk Myśliwego+5",
         "note": "",
         "params": [
             0,
@@ -7467,7 +7467,7 @@
     {
         "id": 184,
         "animationId": 13,
-        "description": "Łuk myśliwski używany przez łowców. [Strzał w nogi/Potrójny\nstrzał/Szansa na trafienie krytyczne +35%]",
+        "description": "Łuk myśliwski. [Strzał w nogi/Potrójny strzał/Krytyk+35%]",
         "etypeId": 0,
         "traits": [
             {
@@ -7502,7 +7502,7 @@
             }
         ],
         "iconIndex": 427,
-        "name": "Łuk Myśliwski+6",
+        "name": "Łuk Myśliwego+6",
         "note": "",
         "params": [
             0,
@@ -7520,7 +7520,7 @@
     {
         "id": 185,
         "animationId": 13,
-        "description": "Łuk myśliwski używany przez łowców. [Strzał w nogi/Potrójny\nstrzał/Szansa na trafienie krytyczne +45%]",
+        "description": "Łuk myśliwski. [Strzał w nogi/Potrójny strzał/Krytyk+45%]",
         "etypeId": 0,
         "traits": [
             {
@@ -7555,7 +7555,7 @@
             }
         ],
         "iconIndex": 427,
-        "name": "Łuk Myśliwski+7",
+        "name": "Łuk Myśliwego+7",
         "note": "",
         "params": [
             0,
@@ -7573,7 +7573,7 @@
     {
         "id": 186,
         "animationId": 13,
-        "description": "Łuk myśliwski używany przez łowców. [Strzał w nogi/Potrójny\nstrzał/Szansa na trafienie krytyczne +55%]",
+        "description": "Łuk myśliwski. [Strzał w nogi/Potrójny strzał/Krytyk+55%]",
         "etypeId": 0,
         "traits": [
             {
@@ -7608,7 +7608,7 @@
             }
         ],
         "iconIndex": 427,
-        "name": "Łuk Myśliwski+8",
+        "name": "Łuk Myśliwego+8",
         "note": "",
         "params": [
             0,
@@ -7626,7 +7626,7 @@
     {
         "id": 187,
         "animationId": 13,
-        "description": "Łuk myśliwski używany przez łowców. [Strzał w nogi/Potrójny\nstrzał/Szansa na trafienie krytyczne +65%]",
+        "description": "Łuk myśliwski. [Strzał w nogi/Potrójny strzał/Krytyk+65%]",
         "etypeId": 0,
         "traits": [
             {
@@ -7661,7 +7661,7 @@
             }
         ],
         "iconIndex": 427,
-        "name": "Łuk Myśliwski+9",
+        "name": "Łuk Myśliwego+9",
         "note": "",
         "params": [
             0,
@@ -7679,7 +7679,7 @@
     {
         "id": 188,
         "animationId": 13,
-        "description": "Łuk myśliwski używany przez łowców. [Strzał w nogi/Potrójny\nstrzał/Tysiąc strzał/Szansa na trafienie krytyczne +85%]",
+        "description": "Łuk myśliwski. [Strzał w nogi/Potrójny/Tysiąc\nstrzał/Krytyk+85%]",
         "etypeId": 0,
         "traits": [
             {
@@ -7719,7 +7719,7 @@
             }
         ],
         "iconIndex": 427,
-        "name": "Łuk Myśliwski+10",
+        "name": "Łuk Łowcy+10",
         "note": "",
         "params": [
             0,
@@ -7737,7 +7737,7 @@
     {
         "id": 189,
         "animationId": 130,
-        "description": "Wielki topór o nienaturalnych rozmiarach. Zadaje podwójne obrażenia\nwrogom ze statusem krwawienia. [Odcięcie/Topór rzeźnika/Szansa na\nkrwawienie +30%]",
+        "description": "Wielki topór. 2x obrażenia krwawiącym.\n[Cięcie/Rzeź/Krwawienie+30%]",
         "etypeId": 0,
         "traits": [
             {
@@ -7767,7 +7767,7 @@
             }
         ],
         "iconIndex": 402,
-        "name": "Wielki Topór Rzeźnika",
+        "name": "Topór Rzeźnika",
         "note": "赤ずきんの家",
         "params": [
             0,
@@ -7785,7 +7785,7 @@
     {
         "id": 190,
         "animationId": 130,
-        "description": "Wielki topór o nienaturalnych rozmiarach. Zadaje podwójne obrażenia\nwrogom ze statusem krwawienia. [Odcięcie/Topór rzeźnika/Szansa na\nkrwawienie +35%]",
+        "description": "Wielki topór. 2x obrażenia krwawiącym.\n[Cięcie/Rzeź/Krwawienie+35%]",
         "etypeId": 0,
         "traits": [
             {
@@ -7815,7 +7815,7 @@
             }
         ],
         "iconIndex": 402,
-        "name": "Wielki Topór Rzeźnika+1",
+        "name": "Topór Rzeźnika+1",
         "note": "",
         "params": [
             0,
@@ -7833,7 +7833,7 @@
     {
         "id": 191,
         "animationId": 130,
-        "description": "Wielki topór o nienaturalnych rozmiarach. Zadaje podwójne obrażenia\nwrogom ze statusem krwawienia. [Odcięcie/Topór rzeźnika/Szansa na\nkrwawienie +40%]",
+        "description": "Wielki topór. 2x obrażenia krwawiącym.\n[Cięcie/Rzeź/Krwawienie+40%]",
         "etypeId": 0,
         "traits": [
             {
@@ -7863,7 +7863,7 @@
             }
         ],
         "iconIndex": 402,
-        "name": "Wielki Topór Rzeźnika+2",
+        "name": "Topór Rzeźnika+2",
         "note": "",
         "params": [
             0,
@@ -7881,7 +7881,7 @@
     {
         "id": 192,
         "animationId": 130,
-        "description": "Wielki topór o nienaturalnych rozmiarach. Zadaje podwójne obrażenia\nwrogom ze statusem krwawienia. [Odcięcie/Topór rzeźnika/Szansa na\nkrwawienie +45%]",
+        "description": "Wielki topór. 2x obrażenia krwawiącym.\n[Cięcie/Rzeź/Krwawienie+45%]",
         "etypeId": 0,
         "traits": [
             {
@@ -7911,7 +7911,7 @@
             }
         ],
         "iconIndex": 402,
-        "name": "Wielki Topór Rzeźnika+3",
+        "name": "Topór Rzeźnika+3",
         "note": "",
         "params": [
             0,
@@ -7929,7 +7929,7 @@
     {
         "id": 193,
         "animationId": 130,
-        "description": "Nienaturalnie wielki topór. Zadaje podwójne obrażenia krwawiącym\nwrogom. [Odcięcie/Topór Rzezi/Szansa na krwawienie +50%]",
+        "description": "Wielki topór. 2x obrażenia krwawiącym wrogom. [Cięcie/Topór\nRzezi/Krwawienie+50%]",
         "etypeId": 0,
         "traits": [
             {
@@ -7959,7 +7959,7 @@
             }
         ],
         "iconIndex": 402,
-        "name": "Wielki topór rzeźnika+4",
+        "name": "Topór Rzeźnika+4",
         "note": "",
         "params": [
             0,
@@ -7977,7 +7977,7 @@
     {
         "id": 194,
         "animationId": 130,
-        "description": "Nienaturalnie wielki topór. Zadaje podwójne obrażenia krwawiącym\nwrogom. [Odcięcie/Topór Rzezi/Szansa na krwawienie +55%]",
+        "description": "Wielki topór. 2x obrażenia krwawiącym wrogom. [Cięcie/Topór\nRzezi/Krwawienie+55%]",
         "etypeId": 0,
         "traits": [
             {
@@ -8007,7 +8007,7 @@
             }
         ],
         "iconIndex": 402,
-        "name": "Wielki topór rzeźnika+5",
+        "name": "Topór Rzeźnika+5",
         "note": "",
         "params": [
             0,
@@ -8025,7 +8025,7 @@
     {
         "id": 195,
         "animationId": 130,
-        "description": "Nienaturalnie wielki topór. Zadaje podwójne obrażenia krwawiącym\nwrogom. [Odcięcie/Topór Rzezi/Szansa na krwawienie +60%]",
+        "description": "Wielki topór. 2x obrażenia krwawiącym wrogom. [Cięcie/Topór\nRzezi/Krwawienie+60%]",
         "etypeId": 0,
         "traits": [
             {
@@ -8055,7 +8055,7 @@
             }
         ],
         "iconIndex": 402,
-        "name": "Wielki topór rzeźnika+6",
+        "name": "Topór Rzeźnika+6",
         "note": "",
         "params": [
             0,
@@ -8073,7 +8073,7 @@
     {
         "id": 196,
         "animationId": 130,
-        "description": "Nienaturalnie wielki topór. Zadaje podwójne obrażenia krwawiącym\nwrogom. [Odcięcie/Topór Rzezi/Szansa na krwawienie +65%]",
+        "description": "Wielki topór. 2x obrażenia krwawiącym wrogom. [Cięcie/Topór\nRzezi/Krwawienie+65%]",
         "etypeId": 0,
         "traits": [
             {
@@ -8103,7 +8103,7 @@
             }
         ],
         "iconIndex": 402,
-        "name": "Wielki topór rzeźnika+7",
+        "name": "Topór Rzeźnika+7",
         "note": "",
         "params": [
             0,
@@ -8121,7 +8121,7 @@
     {
         "id": 197,
         "animationId": 130,
-        "description": "Nienaturalnie wielki topór. Zadaje podwójne obrażenia krwawiącym\nwrogom. [Odcięcie/Topór Rzezi/Szansa na krwawienie +70%]",
+        "description": "Wielki topór. 2x obrażenia krwawiącym wrogom. [Cięcie/Topór\nRzezi/Krwawienie+70%]",
         "etypeId": 0,
         "traits": [
             {
@@ -8151,7 +8151,7 @@
             }
         ],
         "iconIndex": 402,
-        "name": "Wielki topór rzeźnika+8",
+        "name": "Topór Rzeźnika+8",
         "note": "",
         "params": [
             0,
@@ -8169,7 +8169,7 @@
     {
         "id": 198,
         "animationId": 130,
-        "description": "Nienaturalnie wielki topór. Zadaje podwójne obrażenia wrogom w stanie\nkrwawienia. [Odcięcie/Topór Rzezi/Szansa na krwawienie +75%]",
+        "description": "Nienaturalnie wielki topór. Podwójne obrażenia krwawiącym\nwrogom. [Odcięcie/Topór Rzezi/Krwawienie +75%]",
         "etypeId": 0,
         "traits": [
             {
@@ -8199,7 +8199,7 @@
             }
         ],
         "iconIndex": 402,
-        "name": "Wielki topór do cięcia mięsa+9",
+        "name": "Topór Rzeźnika+9",
         "note": "",
         "params": [
             0,
@@ -8217,7 +8217,7 @@
     {
         "id": 199,
         "animationId": 130,
-        "description": "Nienaturalnie wielki topór. Zadaje podwójne obrażenia wrogom w stanie\nkrwawienia. [Odcięcie/Topór Rzezi/Gigas Gilotyna/Szansa na krwawienie\n+100%]",
+        "description": "Nienaturalnie wielki topór. Podwójne obrażenia krwawiącym\nwrogom. [Odcięcie/Topór Rzezi/Gigas Gilotyna/Krwawienie\n+100%]",
         "etypeId": 0,
         "traits": [
             {
@@ -8252,7 +8252,7 @@
             }
         ],
         "iconIndex": 402,
-        "name": "Wielki topór do cięcia mięsa+10",
+        "name": "Topór Rzeźnika+10",
         "note": "",
         "params": [
             0,
@@ -8270,7 +8270,7 @@
     {
         "id": 200,
         "animationId": 92,
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Pojemność magazynka\n+1/Celność -40%]",
+        "description": "Bardzo ciężki karabin. Po ulepszeniu ma ogromną siłę ognia.\n[Proch/Zasłona/Amunicja +1/Celność -40%]",
         "etypeId": 0,
         "traits": [
             {
@@ -8300,7 +8300,7 @@
             }
         ],
         "iconIndex": 153,
-        "name": "Karabin maszynowy Hansa",
+        "name": "Karabin Hansa",
         "note": "鉄のハンス",
         "params": [
             0,
@@ -8318,7 +8318,7 @@
     {
         "id": 201,
         "animationId": 92,
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Pojemność magazynka\n+2/Celność -40%]",
+        "description": "Bardzo ciężki karabin. Po ulepszeniu ma ogromną siłę ognia.\n[Proch/Zasłona/Amunicja +2/Celność -40%]",
         "etypeId": 0,
         "traits": [
             {
@@ -8348,7 +8348,7 @@
             }
         ],
         "iconIndex": 153,
-        "name": "Karabin maszynowy Hansa+1",
+        "name": "Karabin Hansa+1",
         "note": "",
         "params": [
             0,
@@ -8366,7 +8366,7 @@
     {
         "id": 202,
         "animationId": 92,
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Pojemność magazynka\n+3/Celność -40%]",
+        "description": "Bardzo ciężki karabin. Po ulepszeniu ma ogromną siłę ognia.\n[Proch/Zasłona/Amunicja +3/Celność -40%]",
         "etypeId": 0,
         "traits": [
             {
@@ -8396,7 +8396,7 @@
             }
         ],
         "iconIndex": 153,
-        "name": "Karabin maszynowy Hansa+2",
+        "name": "Karabin Hansa+2",
         "note": "",
         "params": [
             0,
@@ -8414,7 +8414,7 @@
     {
         "id": 203,
         "animationId": 92,
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Liczba\namunicji+4/Celność-40%]",
+        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu ma ogromną\nsiłę ognia. [Uzupełnienie prochu/Zasłona\ndymna/Amunicja+4/Celność-40%]",
         "etypeId": 0,
         "traits": [
             {
@@ -8444,7 +8444,7 @@
             }
         ],
         "iconIndex": 153,
-        "name": "Karabin maszynowy Hansa +3",
+        "name": "Karabin Hansa +3",
         "note": "",
         "params": [
             0,
@@ -8462,7 +8462,7 @@
     {
         "id": 204,
         "animationId": 92,
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Liczba\namunicji+5/Celność-40%]",
+        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu ma ogromną\nsiłę ognia. [Uzupełnienie prochu/Zasłona\ndymna/Amunicja+5/Celność-40%]",
         "etypeId": 0,
         "traits": [
             {
@@ -8492,7 +8492,7 @@
             }
         ],
         "iconIndex": 153,
-        "name": "Karabin maszynowy Hansa +4",
+        "name": "Karabin Hansa +4",
         "note": "",
         "params": [
             0,
@@ -8510,7 +8510,7 @@
     {
         "id": 205,
         "animationId": 92,
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Liczba\namunicji+6/Celność-40%]",
+        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu ma ogromną\nsiłę ognia. [Uzupełnienie prochu/Zasłona\ndymna/Amunicja+6/Celność-40%]",
         "etypeId": 0,
         "traits": [
             {
@@ -8540,7 +8540,7 @@
             }
         ],
         "iconIndex": 153,
-        "name": "Karabin maszynowy Hansa +5",
+        "name": "Karabin Hansa +5",
         "note": "",
         "params": [
             0,
@@ -8558,7 +8558,7 @@
     {
         "id": 206,
         "animationId": 92,
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Liczba\namunicji+7/Celność-40%]",
+        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu ma ogromną\nsiłę ognia. [Uzupełnienie prochu/Zasłona\ndymna/Amunicja+7/Celność-40%]",
         "etypeId": 0,
         "traits": [
             {
@@ -8588,7 +8588,7 @@
             }
         ],
         "iconIndex": 153,
-        "name": "Karabin maszynowy Hansa +6",
+        "name": "Karabin Hansa +6",
         "note": "",
         "params": [
             0,
@@ -8606,7 +8606,7 @@
     {
         "id": 207,
         "animationId": 92,
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Liczba\namunicji+8/Celność-40%]",
+        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu ma ogromną\nsiłę ognia. [Uzupełnienie prochu/Zasłona\ndymna/Amunicja+8/Celność-40%]",
         "etypeId": 0,
         "traits": [
             {
@@ -8636,7 +8636,7 @@
             }
         ],
         "iconIndex": 153,
-        "name": "Karabin maszynowy Hansa +7",
+        "name": "Karabin Hansa +7",
         "note": "",
         "params": [
             0,
@@ -8654,7 +8654,7 @@
     {
         "id": 208,
         "animationId": 92,
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Pojemność magazynka\n+9/Celność -40%]",
+        "description": "Bardzo ciężki karabin. Po ulepszeniu ma ogromną siłę ognia.\n[Uzupełnienie prochu/Zasłona dymna/Amunicja+9/Celność-40%]",
         "etypeId": 0,
         "traits": [
             {
@@ -8684,7 +8684,7 @@
             }
         ],
         "iconIndex": 153,
-        "name": "Karabin maszynowy Hansa +8",
+        "name": "Karabin Hansa+8",
         "note": "",
         "params": [
             0,
@@ -8702,7 +8702,7 @@
     {
         "id": 209,
         "animationId": 92,
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Pojemność magazynka\n+10/Celność -40%]",
+        "description": "Bardzo ciężki karabin. Po ulepszeniu ma ogromną siłę ognia.\n[Uzupełnienie prochu/Zasłona dymna/Amunicja+10/Celność-40%]",
         "etypeId": 0,
         "traits": [
             {
@@ -8737,7 +8737,7 @@
             }
         ],
         "iconIndex": 153,
-        "name": "Karabin maszynowy Hansa +9",
+        "name": "Karabin Hansa+9",
         "note": "",
         "params": [
             0,
@@ -8755,7 +8755,7 @@
     {
         "id": 210,
         "animationId": 92,
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Szybkie dobycie/Pojemność\nmagazynka +11/Celność -50%]",
+        "description": "Bardzo ciężki karabin. Po ulepszeniu ma ogromną siłę ognia.\n[Uzupełnienie prochu/Zasłona dymna/Szybkie\ndobycie/Amunicja+11/Celność-50%]",
         "etypeId": 0,
         "traits": [
             {
@@ -8795,7 +8795,7 @@
             }
         ],
         "iconIndex": 153,
-        "name": "Karabin maszynowy Hansa +10",
+        "name": "Karabin Hansa+10",
         "note": "",
         "params": [
             0,
@@ -8813,7 +8813,7 @@
     {
         "id": 211,
         "animationId": 131,
-        "description": "Miecz posiadający moc burzy. Niegdyś pokonał latającą wielką bestię.\n[Władca Burz/Zawsze trafia/Zwiększona szansa na atak wyprzedzający]",
+        "description": "Miecz z mocą burzy. Niegdyś pokonał latającą bestię. [Władca\nBurz/Zawsze trafia/Większa szansa na atak]",
         "etypeId": 0,
         "traits": [
             {
@@ -8856,7 +8856,7 @@
     {
         "id": 212,
         "animationId": 131,
-        "description": "Miecz posiadający moc burzy. Niegdyś pokonał latającą wielką bestię.\n[Władca Burz/Zawsze trafia/Zwiększona szansa na atak wyprzedzający]",
+        "description": "Miecz z mocą burzy. Niegdyś pokonał latającą bestię. [Władca\nBurz/Zawsze trafia/Większa szansa na atak]",
         "etypeId": 0,
         "traits": [
             {
@@ -8881,7 +8881,7 @@
             }
         ],
         "iconIndex": 397,
-        "name": "Władca Burz +1",
+        "name": "Władca Burz+1",
         "note": "<攻撃ID変更:283>",
         "params": [
             0,
@@ -8899,7 +8899,7 @@
     {
         "id": 213,
         "animationId": 131,
-        "description": "Miecz posiadający moc burzy. Niegdyś pokonał latającą wielką bestię.\n[Król Burz/Zawsze trafia/Zwiększona szansa na atak wyprzedzający]",
+        "description": "Miecz z mocą burzy. Pokonał latającą bestię. [Król\nBurz/Zawsze trafia/Większa szansa na atak]",
         "etypeId": 0,
         "traits": [
             {
@@ -8942,7 +8942,7 @@
     {
         "id": 214,
         "animationId": 131,
-        "description": "Miecz posiadający moc burzy. Niegdyś pokonał latającą wielką bestię.\n[Król Burz/Zawsze trafia/Zwiększona szansa na atak wyprzedzający]",
+        "description": "Miecz z mocą burzy. Pokonał latającą bestię. [Król\nBurz/Zawsze trafia/Większa szansa na atak]",
         "etypeId": 0,
         "traits": [
             {
@@ -8985,7 +8985,7 @@
     {
         "id": 215,
         "animationId": 131,
-        "description": "Miecz posiadający moc burzy. Niegdyś pokonał latającą wielką bestię.\n[Król Burz/Zawsze trafia/Zwiększona szansa na atak wyprzedzający]",
+        "description": "Miecz z mocą burzy. Pokonał latającą bestię. [Król\nBurz/Zawsze trafia/Większa szansa na atak]",
         "etypeId": 0,
         "traits": [
             {
@@ -9028,7 +9028,7 @@
     {
         "id": 216,
         "animationId": 131,
-        "description": "Miecz posiadający moc burzy. Niegdyś pokonał latającą wielką bestię.\n[Król Burz/Zawsze trafia/Zwiększona szansa na atak wyprzedzający]",
+        "description": "Miecz z mocą burzy. Pokonał latającą bestię. [Król\nBurz/Zawsze trafia/Większa szansa na atak]",
         "etypeId": 0,
         "traits": [
             {
@@ -9071,7 +9071,7 @@
     {
         "id": 217,
         "animationId": 131,
-        "description": "Miecz posiadający moc burzy. Niegdyś pokonał latającą wielką bestię.\n[Król Burz/Zawsze trafia/Zwiększona szansa na atak wyprzedzający]",
+        "description": "Miecz z mocą burzy. Pokonał latającą bestię. [Król\nBurz/Zawsze trafia/Większa szansa na atak]",
         "etypeId": 0,
         "traits": [
             {
@@ -9114,7 +9114,7 @@
     {
         "id": 218,
         "animationId": 131,
-        "description": "Miecz posiadający moc burzy. Niegdyś pokonał latającą wielką bestię.\n[Król Burzy/Zawsze trafia/Zwiększona szansa na atak wyprzedzający]",
+        "description": "Miecz z mocą burzy. Pokonał latającą bestię. [Król\nBurz/Zawsze trafia/Większa szansa na atak]",
         "etypeId": 0,
         "traits": [
             {
@@ -9157,7 +9157,7 @@
     {
         "id": 219,
         "animationId": 131,
-        "description": "Miecz posiadający moc burzy. Niegdyś pokonał latającą wielką bestię.\n[Król Burzy/Zawsze trafia/Zwiększona szansa na atak wyprzedzający]",
+        "description": "Miecz z mocą burzy. Pokonał latającą bestię. [Król\nBurz/Zawsze trafia/Większa szansa na atak]",
         "etypeId": 0,
         "traits": [
             {
@@ -9200,7 +9200,7 @@
     {
         "id": 220,
         "animationId": 131,
-        "description": "Miecz posiadający moc burzy. Niegdyś pokonał latającą wielką bestię.\n[Król Burzy/Zawsze trafia/Zwiększona szansa na atak wyprzedzający]",
+        "description": "Miecz z mocą burzy. Pokonał latającą bestię. [Król\nBurz/Zawsze trafia/Większa szansa na atak]",
         "etypeId": 0,
         "traits": [
             {
@@ -9243,7 +9243,7 @@
     {
         "id": 221,
         "animationId": 131,
-        "description": "Miecz posiadający moc burzy. Niegdyś pokonał latającą wielką bestię.\n[Król Burzy/Zawsze trafia/Zwiększona szansa na atak wyprzedzający]",
+        "description": "Miecz z mocą burzy. Pokonał latającą bestię. [Król\nBurz/Zawsze trafia/Większa szansa na atak]",
         "etypeId": 0,
         "traits": [
             {
@@ -9286,7 +9286,7 @@
     {
         "id": 222,
         "animationId": 132,
-        "description": "Miecz przekazywany w upadłym królestwie. [Ostrze Aury/Dodatkowa liczba\nakcji +10%/Unik +10%]",
+        "description": "Miecz z upadłego królestwa. [Ostrze Aury/Dodatkowy ruch\n+10%/Unik +10%]",
         "etypeId": 0,
         "traits": [
             {
@@ -9334,7 +9334,7 @@
     {
         "id": 223,
         "animationId": 132,
-        "description": "Miecz przekazywany w upadłym królestwie. [Ostrze Aury/Dodatkowa liczba\nakcji +20%/Unik +10%]",
+        "description": "Miecz z upadłego królestwa. [Ostrze Aury/Akcje+20%/Unik+10%]",
         "etypeId": 0,
         "traits": [
             {
@@ -9382,7 +9382,7 @@
     {
         "id": 224,
         "animationId": 132,
-        "description": "Miecz przekazywany w upadłym królestwie. [Ostrze Aury/Dodatkowa liczba\nakcji +30%/Unik +10%]",
+        "description": "Miecz z upadłego królestwa. [Ostrze Aury/Akcje+30%/Unik+10%]",
         "etypeId": 0,
         "traits": [
             {
@@ -9430,7 +9430,7 @@
     {
         "id": 225,
         "animationId": 132,
-        "description": "Miecz przekazywany w upadłym królestwie. [Ostrze Aury/Dodatkowa liczba\nakcji +40%/Unik +10%]",
+        "description": "Miecz z upadłego królestwa. [Ostrze Aury/Akcje+40%/Unik+10%]",
         "etypeId": 0,
         "traits": [
             {
@@ -9478,7 +9478,7 @@
     {
         "id": 226,
         "animationId": 132,
-        "description": "Miecz przekazywany w upadłym królestwie. [Ostrze Aury/Dodatkowa liczba\nakcji +50%/Unik +10%]",
+        "description": "Miecz z upadłego królestwa. [Ostrze Aury/Akcje+50%/Unik+10%]",
         "etypeId": 0,
         "traits": [
             {
@@ -9526,7 +9526,7 @@
     {
         "id": 227,
         "animationId": 132,
-        "description": "Miecz przekazywany w upadłym królestwie. [Ostrze Aury/Dodatkowa liczba\nakcji +60%/Unik +10%]",
+        "description": "Miecz z upadłego królestwa. [Ostrze Aury/Akcje+60%/Unik+10%]",
         "etypeId": 0,
         "traits": [
             {
@@ -9574,7 +9574,7 @@
     {
         "id": 228,
         "animationId": 132,
-        "description": "Miecz przekazywany w upadłym królestwie. [Ostrze Aury/Dodatkowa liczba\nakcji +70%/Unik +10%]",
+        "description": "Miecz z upadłego królestwa. [Ostrze Aury/Dodatkowe\nakcje+70%/Unik+10%]",
         "etypeId": 0,
         "traits": [
             {
@@ -9622,7 +9622,7 @@
     {
         "id": 229,
         "animationId": 132,
-        "description": "Miecz przekazywany w upadłym królestwie. [Ostrze Aury/Dodatkowa liczba\nakcji +80%/Unik +10%]",
+        "description": "Miecz z upadłego królestwa. [Ostrze Aury/Dodatkowe\nakcje+80%/Unik+10%]",
         "etypeId": 0,
         "traits": [
             {
@@ -9670,7 +9670,7 @@
     {
         "id": 230,
         "animationId": 132,
-        "description": "Miecz przekazywany w upadłym królestwie. [Ostrze Aury/Dodatkowa liczba\nakcji +90%/Unik +10%]",
+        "description": "Miecz z upadłego królestwa. [Ostrze Aury/Dodatkowe\nakcje+90%/Unik+10%]",
         "etypeId": 0,
         "traits": [
             {
@@ -9718,7 +9718,7 @@
     {
         "id": 231,
         "animationId": 132,
-        "description": "Miecz przekazywany w upadłym królestwie. [Ostrze Aury/Dodatkowa liczba\nakcji +100%/Unik +10%]",
+        "description": "Miecz z upadłego królestwa. [Ostrze Aury/Dodatkowe\nakcje+100%/Unik+10%]",
         "etypeId": 0,
         "traits": [
             {
@@ -9766,7 +9766,7 @@
     {
         "id": 232,
         "animationId": 132,
-        "description": "Miecz przekazywany w upadłym królestwie. [Ostrze Aury/Promienne\nOstrze/Dodatkowa liczba akcji +100%/Unik +10%]",
+        "description": "Miecz z upadłego królestwa. [Ostrze Aury/Promienne\nOstrze/Dodatkowe akcje+100%/Unik+10%]",
         "etypeId": 0,
         "traits": [
             {
@@ -9819,7 +9819,7 @@
     {
         "id": 233,
         "animationId": 13,
-        "description": "Broń łącząca szeroki miecz z wytrzymałą tarczą. [Atak\nobronny/Odporność fizyczna +5%]",
+        "description": "Broń łącząca szeroki miecz i wytrzymałą tarczę. [Atak\nobronny/Odporność fiz. +5%]",
         "etypeId": 0,
         "traits": [
             {
@@ -9844,7 +9844,7 @@
             }
         ],
         "iconIndex": 401,
-        "name": "Tarcza-pal (Shield Bunker)",
+        "name": "Tarcza-Bunkier",
         "note": "<攻撃ID変更:286>\r\n旧淫腐街",
         "params": [
             0,
@@ -9862,7 +9862,7 @@
     {
         "id": 234,
         "animationId": 13,
-        "description": "Broń łącząca szeroki miecz z wytrzymałą tarczą. [Atak\nobronny/Odporność fizyczna +10%]",
+        "description": "Broń łącząca szeroki miecz i wytrzymałą tarczę. [Atak\nobronny/Odporność fiz. +10%]",
         "etypeId": 0,
         "traits": [
             {
@@ -9887,7 +9887,7 @@
             }
         ],
         "iconIndex": 401,
-        "name": "Tarcza-pal (Shield Bunker) +1",
+        "name": "Tarcza-Bunkier+1",
         "note": "<攻撃ID変更:286>",
         "params": [
             0,
@@ -9905,7 +9905,7 @@
     {
         "id": 235,
         "animationId": 13,
-        "description": "Broń łącząca szeroki miecz z wytrzymałą tarczą. [Atak\nobronny/Odporność fizyczna +15%]",
+        "description": "Broń łącząca szeroki miecz i wytrzymałą tarczę. [Atak\nobronny/Odporność fiz. +15%]",
         "etypeId": 0,
         "traits": [
             {
@@ -9930,7 +9930,7 @@
             }
         ],
         "iconIndex": 401,
-        "name": "Tarcza-pal (Shield Bunker) +2",
+        "name": "Tarcza-Bunkier+2",
         "note": "<攻撃ID変更:286>",
         "params": [
             0,
@@ -9948,7 +9948,7 @@
     {
         "id": 236,
         "animationId": 13,
-        "description": "Broń łącząca szeroki miecz z wytrzymałą tarczą. [Atak\nobronny/Odporność fizyczna +20%]",
+        "description": "Broń łącząca szeroki miecz i wytrzymałą tarczę. [Atak\nobronny/Odporność fiz. +20%]",
         "etypeId": 0,
         "traits": [
             {
@@ -9973,7 +9973,7 @@
             }
         ],
         "iconIndex": 401,
-        "name": "Tarcza-pal (Shield Bunker) +3",
+        "name": "Tarcza-Bunkier+3",
         "note": "<攻撃ID変更:286>",
         "params": [
             0,
@@ -9991,7 +9991,7 @@
     {
         "id": 237,
         "animationId": 13,
-        "description": "Broń łącząca szeroki miecz z wytrzymałą tarczą. [Atak\nobronny/Odporność fizyczna +25%]",
+        "description": "Broń łącząca szeroki miecz i wytrzymałą tarczę. [Atak\nobronny/Odporność fiz. +25%]",
         "etypeId": 0,
         "traits": [
             {
@@ -10016,7 +10016,7 @@
             }
         ],
         "iconIndex": 401,
-        "name": "Tarcza-pal (Shield Bunker) +4",
+        "name": "Tarcza-Bunkier+4",
         "note": "<攻撃ID変更:286>",
         "params": [
             0,
@@ -10034,7 +10034,7 @@
     {
         "id": 238,
         "animationId": 13,
-        "description": "Broń łącząca szeroki miecz z wytrzymałą tarczą. [Atak\nobronny/Odporność fizyczna +30%]",
+        "description": "Broń łącząca szeroki miecz i wytrzymałą tarczę. [Atak\nobronny/Odporność fizyczna +30%]",
         "etypeId": 0,
         "traits": [
             {
@@ -10059,7 +10059,7 @@
             }
         ],
         "iconIndex": 401,
-        "name": "Tarcza-Pal (Shield Bunker) +5",
+        "name": "Tarcza-Kafar +5",
         "note": "<攻撃ID変更:286>",
         "params": [
             0,
@@ -10077,7 +10077,7 @@
     {
         "id": 239,
         "animationId": 13,
-        "description": "Broń łącząca szeroki miecz z wytrzymałą tarczą. [Atak\nobronny/Odporność fizyczna +35%]",
+        "description": "Broń łącząca szeroki miecz i wytrzymałą tarczę. [Atak\nobronny/Odporność fizyczna +35%]",
         "etypeId": 0,
         "traits": [
             {
@@ -10102,7 +10102,7 @@
             }
         ],
         "iconIndex": 401,
-        "name": "Tarcza-Pal (Shield Bunker) +6",
+        "name": "Tarcza-Kafar +6",
         "note": "<攻撃ID変更:286>",
         "params": [
             0,
@@ -10120,7 +10120,7 @@
     {
         "id": 240,
         "animationId": 13,
-        "description": "Broń łącząca szeroki miecz z wytrzymałą tarczą. [Atak\nobronny/Odporność fizyczna +40%]",
+        "description": "Broń łącząca szeroki miecz i wytrzymałą tarczę. [Atak\nobronny/Odporność fizyczna +40%]",
         "etypeId": 0,
         "traits": [
             {
@@ -10145,7 +10145,7 @@
             }
         ],
         "iconIndex": 401,
-        "name": "Tarcza-Pal (Shield Bunker) +7",
+        "name": "Tarcza-Kafar +7",
         "note": "<攻撃ID変更:286>",
         "params": [
             0,
@@ -10163,7 +10163,7 @@
     {
         "id": 241,
         "animationId": 13,
-        "description": "Broń łącząca szeroki miecz z wytrzymałą tarczą. [Atak\nobronny/Odporność fizyczna +45%]",
+        "description": "Broń łącząca szeroki miecz i wytrzymałą tarczę. [Atak\nobronny/Odporność fizyczna +45%]",
         "etypeId": 0,
         "traits": [
             {
@@ -10188,7 +10188,7 @@
             }
         ],
         "iconIndex": 401,
-        "name": "Tarcza-Pal (Shield Bunker) +8",
+        "name": "Tarcza-Kafar +8",
         "note": "<攻撃ID変更:286>",
         "params": [
             0,
@@ -10206,7 +10206,7 @@
     {
         "id": 242,
         "animationId": 13,
-        "description": "Broń łącząca szeroki miecz z wytrzymałą tarczą. [Atak\nobronny/Odporność fizyczna +50%]",
+        "description": "Broń łącząca szeroki miecz i wytrzymałą tarczę. [Atak\nobronny/Odporność fizyczna +50%]",
         "etypeId": 0,
         "traits": [
             {
@@ -10231,7 +10231,7 @@
             }
         ],
         "iconIndex": 401,
-        "name": "Tarcza-Pal (Shield Bunker) +9",
+        "name": "Tarcza-Kafar +9",
         "note": "<攻撃ID変更:286>",
         "params": [
             0,
@@ -10249,7 +10249,7 @@
     {
         "id": 243,
         "animationId": 13,
-        "description": "Broń łącząca szeroki miecz z wytrzymałą tarczą. [Atak\nobronny/Odporność fizyczna +50%/Miażdżenie tarczą]",
+        "description": "Broń łącząca szeroki miecz i wytrzymałą tarczę. [Atak\nobronny/Odporność fizyczna +50%/Miażdżenie tarczą]",
         "etypeId": 0,
         "traits": [
             {
@@ -10279,7 +10279,7 @@
             }
         ],
         "iconIndex": 401,
-        "name": "Tarcza-Bunker +10",
+        "name": "Tarcza-Pal +10",
         "note": "<攻撃ID変更:286>\r\n",
         "params": [
             0,
@@ -10297,7 +10297,7 @@
     {
         "id": 244,
         "animationId": 166,
-        "description": "Kruczoczarny miecz prosty używany przez ocalałych z dawnego, małego\nkrólestwa zniszczonego przez mrok. [Przełamanie karmy/Ciemność]",
+        "description": "Czarny miecz używany przez ocalałych z upadłego królestwa.\n[Przełamanie karmy/Ciemność]",
         "etypeId": 0,
         "traits": [
             {
@@ -10340,7 +10340,7 @@
     {
         "id": 245,
         "animationId": 166,
-        "description": "Kruczoczarny miecz prosty używany przez ocalałych z dawnego, małego\nkrólestwa zniszczonego przez mrok. [Przełamanie karmy/Ciemność]",
+        "description": "Czarny miecz używany przez ocalałych z upadłego królestwa.\n[Przełamanie karmy/Ciemność]",
         "etypeId": 0,
         "traits": [
             {
@@ -10383,7 +10383,7 @@
     {
         "id": 246,
         "animationId": 166,
-        "description": "Kruczoczarny miecz prosty używany przez ocalałych z dawnego, małego\nkrólestwa zniszczonego przez mrok. [Przełamanie karmy/Ciemność]",
+        "description": "Czarny miecz używany przez ocalałych z upadłego królestwa.\n[Przełamanie karmy/Ciemność]",
         "etypeId": 0,
         "traits": [
             {
@@ -10426,7 +10426,7 @@
     {
         "id": 247,
         "animationId": 166,
-        "description": "Kruczoczarny miecz prosty używany przez ocalałych z dawnego, małego\nkrólestwa zniszczonego przez mrok. [Przełamanie karmy/Ciemność]",
+        "description": "Czarny miecz używany przez ocalałych z upadłego królestwa.\n[Przełamanie karmy/Ciemność]",
         "etypeId": 0,
         "traits": [
             {
@@ -10469,7 +10469,7 @@
     {
         "id": 248,
         "animationId": 166,
-        "description": "Kruczoczarny miecz prosty używany przez ocalałego z małego królestwa,\nktóre pochłonęła ciemność. [Karma Break/Darkness]",
+        "description": "Kruczoczarny miecz ocalałego z dawnego królestwa\nzniszczonego przez mrok. [Karma Break/Darkness]",
         "etypeId": 0,
         "traits": [
             {
@@ -10512,7 +10512,7 @@
     {
         "id": 249,
         "animationId": 166,
-        "description": "Kruczoczarny miecz prosty używany przez ocalałego z małego królestwa,\nktóre pochłonęła ciemność. [Karma Break/Darkness]",
+        "description": "Kruczoczarny miecz ocalałego z dawnego królestwa\nzniszczonego przez mrok. [Karma Break/Darkness]",
         "etypeId": 0,
         "traits": [
             {
@@ -10555,7 +10555,7 @@
     {
         "id": 250,
         "animationId": 166,
-        "description": "Kruczoczarny miecz prosty używany przez ocalałego z małego królestwa,\nktóre pochłonęła ciemność. [Karma Break/Darkness]",
+        "description": "Kruczoczarny miecz ocalałego z dawnego królestwa\nzniszczonego przez mrok. [Karma Break/Darkness]",
         "etypeId": 0,
         "traits": [
             {
@@ -10598,7 +10598,7 @@
     {
         "id": 251,
         "animationId": 166,
-        "description": "Kruczoczarny miecz prosty używany przez ocalałego z małego królestwa,\nktóre pochłonęła ciemność. [Karma Break/Darkness]",
+        "description": "Kruczoczarny miecz ocalałego z dawnego królestwa\nzniszczonego przez mrok. [Karma Break/Darkness]",
         "etypeId": 0,
         "traits": [
             {
@@ -10641,7 +10641,7 @@
     {
         "id": 252,
         "animationId": 166,
-        "description": "Kruczoczarny miecz prosty używany przez ocalałego z małego królestwa,\nktóre pochłonęła ciemność. [Karma Break/Darkness]",
+        "description": "Kruczoczarny miecz ocalałego z dawnego królestwa\nzniszczonego przez mrok. [Karma Break/Darkness]",
         "etypeId": 0,
         "traits": [
             {
@@ -10684,7 +10684,7 @@
     {
         "id": 253,
         "animationId": 166,
-        "description": "Kruczoczarny miecz prosty używany przez ocalałego z dawnego, małego\nkrólestwa, które pochłonęła ciemność. [Karma Break/Darkness]",
+        "description": "Czarny miecz prosty używany przez ocalałych z dawnego\nkrólestwa zniszczonego przez mrok. [Karma Break/Darkness]",
         "etypeId": 0,
         "traits": [
             {
@@ -10709,7 +10709,7 @@
             }
         ],
         "iconIndex": 393,
-        "name": "Miecz Mrocznego Księżyca +9",
+        "name": "Miecz Mrocznego Księżyca+9",
         "note": "",
         "params": [
             0,
@@ -10727,7 +10727,7 @@
     {
         "id": 254,
         "animationId": 166,
-        "description": "Kruczoczarny miecz prosty używany przez ocalałego z dawnego, małego\nkrólestwa, które pochłonęła ciemność. [Karma Break/Karma\nBurst/Darkness]",
+        "description": "Czarny miecz prosty używany przez ocalałych z dawnego\nkrólestwa zniszczonego przez mrok. [Karma Break/Karma\nBurst/Darkness]",
         "etypeId": 0,
         "traits": [
             {
@@ -10757,7 +10757,7 @@
             }
         ],
         "iconIndex": 393,
-        "name": "Miecz Mrocznego Księżyca +10",
+        "name": "Miecz Mrocznego Księżyca+10",
         "note": "",
         "params": [
             0,
@@ -10775,7 +10775,7 @@
     {
         "id": 255,
         "animationId": 169,
-        "description": "Broń stworzona z ogona wiwerny Hellkaisera. [Współczynnik spalania\n+30%/Smocza fala uderzeniowa]",
+        "description": "Broń stworzona z ogona smoka Hellkaisera. [Współczynnik\nspalania +30%/Smocza fala uderzeniowa]",
         "etypeId": 0,
         "traits": [
             {
@@ -10805,7 +10805,7 @@
             }
         ],
         "iconIndex": 399,
-        "name": "Miecz Wywerny",
+        "name": "Miecz Wiwerny",
         "note": "ヘルカイザー",
         "params": [
             0,
@@ -10823,7 +10823,7 @@
     {
         "id": 256,
         "animationId": 169,
-        "description": "Broń stworzona z ogona wiwerny Hellkaisera. [Współczynnik spalania\n+40%/Smocza fala uderzeniowa]",
+        "description": "Broń stworzona z ogona smoka Hellkaisera. [Współczynnik\nspalania +40%/Smocza fala uderzeniowa]",
         "etypeId": 0,
         "traits": [
             {
@@ -10853,7 +10853,7 @@
             }
         ],
         "iconIndex": 399,
-        "name": "Miecz Wywerny +1",
+        "name": "Miecz Wiwerny+1",
         "note": "",
         "params": [
             0,
@@ -10871,7 +10871,7 @@
     {
         "id": 257,
         "animationId": 169,
-        "description": "Broń stworzona z ogona wiwerny Hellkaisera. [Współczynnik spalania\n+50%/Smocza fala uderzeniowa]",
+        "description": "Broń stworzona z ogona smoka Hellkaisera. [Współczynnik\nspalania +50%/Smocza fala uderzeniowa]",
         "etypeId": 0,
         "traits": [
             {
@@ -10901,7 +10901,7 @@
             }
         ],
         "iconIndex": 399,
-        "name": "Miecz Wywerny +2",
+        "name": "Miecz Wiwerny+2",
         "note": "",
         "params": [
             0,
@@ -10919,7 +10919,7 @@
     {
         "id": 258,
         "animationId": 169,
-        "description": "Broń stworzona z ogona wiwerny Hellkaiser. [Współczynnik spalania\n+60%/Fala uderzeniowa smoka]",
+        "description": "Broń z ogona wiwerny Hellkaiser. [Spalanie+60%/Fala\nuderzeniowa]",
         "etypeId": 0,
         "traits": [
             {
@@ -10967,7 +10967,7 @@
     {
         "id": 259,
         "animationId": 169,
-        "description": "Broń stworzona z ogona wiwerny Hellkaiser. [Współczynnik spalania\n+70%/Fala uderzeniowa smoka]",
+        "description": "Broń z ogona wiwerny Hellkaiser. [Spalanie+70%/Fala\nuderzeniowa]",
         "etypeId": 0,
         "traits": [
             {
@@ -11015,7 +11015,7 @@
     {
         "id": 260,
         "animationId": 169,
-        "description": "Broń stworzona z ogona wiwerny Hellkaiser. [Współczynnik spalania\n+100%/Fala uderzeniowa smoka/Miecz Piekielnego Oddechu]",
+        "description": "Broń z ogona wiwerny Hellkaiser. [Spalanie+100%/Fala\nuderzeniowa/Hellbreath]",
         "etypeId": 0,
         "traits": [
             {
@@ -11068,7 +11068,7 @@
     {
         "id": 261,
         "animationId": 19,
-        "description": "Laska starego demona, o której krążą legendy. [Moc magiczna\n1,5x/Zużycie MP 2x]",
+        "description": "Kostur starego demona z legend. [Moc magiczna 1,5x/Koszt MP\n2x]",
         "etypeId": 0,
         "traits": [
             {
@@ -11111,7 +11111,7 @@
     {
         "id": 262,
         "animationId": 19,
-        "description": "Laska starego demona, o której krążą legendy. [Moc magiczna\n1,5x/Zużycie MP 2x]",
+        "description": "Kostur starego demona z legend. [Moc magiczna 1,5x/Koszt MP\n2x]",
         "etypeId": 0,
         "traits": [
             {
@@ -11154,7 +11154,7 @@
     {
         "id": 263,
         "animationId": 19,
-        "description": "Laska starego Daemona, o której krążą legendy. [Moc magiczna 1,5x /\nZużycie MP 2x]",
+        "description": "Legendarna laska starego Daemona. [Moc magii x1,5/Koszt MP\nx2]",
         "etypeId": 0,
         "traits": [
             {
@@ -11179,7 +11179,7 @@
             }
         ],
         "iconIndex": 418,
-        "name": "Różdżka Daemona +2",
+        "name": "Kostur Daemona+2",
         "note": "",
         "params": [
             0,
@@ -11197,7 +11197,7 @@
     {
         "id": 264,
         "animationId": 19,
-        "description": "Laska starego Daemona, o której krążą legendy. [Moc magiczna 1,5x /\nZużycie MP 2x]",
+        "description": "Legendarna laska starego Daemona. [Moc magii x1,5/Koszt MP\nx2]",
         "etypeId": 0,
         "traits": [
             {
@@ -11222,7 +11222,7 @@
             }
         ],
         "iconIndex": 418,
-        "name": "Różdżka Daemona +3",
+        "name": "Kostur Daemona+3",
         "note": "",
         "params": [
             0,
@@ -11240,7 +11240,7 @@
     {
         "id": 265,
         "animationId": 19,
-        "description": "Laska starego Daemona, o której krążą legendy. [Moc magiczna 1,5x /\nZużycie MP 2x]",
+        "description": "Legendarna laska starego Daemona. [Moc magii x1,5/Koszt MP\nx2]",
         "etypeId": 0,
         "traits": [
             {
@@ -11265,7 +11265,7 @@
             }
         ],
         "iconIndex": 418,
-        "name": "Różdżka Daemona +4",
+        "name": "Kostur Daemona+4",
         "note": "",
         "params": [
             0,
@@ -11283,7 +11283,7 @@
     {
         "id": 266,
         "animationId": 19,
-        "description": "Laska starego Daemona, o której krążą legendy. [Moc magiczna 1,5x /\nZużycie MP 2x]",
+        "description": "Legendarna laska starego Daemona. [Moc magii x1,5/Koszt MP\nx2]",
         "etypeId": 0,
         "traits": [
             {
@@ -11308,7 +11308,7 @@
             }
         ],
         "iconIndex": 418,
-        "name": "Różdżka Daemona +5",
+        "name": "Kostur Daemona+5",
         "note": "",
         "params": [
             0,
@@ -11326,7 +11326,7 @@
     {
         "id": 267,
         "animationId": 19,
-        "description": "Laska starego Daemona, o której krążą legendy. [Moc magiczna 1,5x /\nZużycie MP 2x]",
+        "description": "Legendarna laska starego Daemona. [Moc magii x1,5/Koszt MP\nx2]",
         "etypeId": 0,
         "traits": [
             {
@@ -11351,7 +11351,7 @@
             }
         ],
         "iconIndex": 418,
-        "name": "Różdżka Daemona +6",
+        "name": "Kostur Daemona+6",
         "note": "",
         "params": [
             0,
@@ -11369,7 +11369,7 @@
     {
         "id": 268,
         "animationId": 19,
-        "description": "Stara laska demona, o której krążą legendy. [Moc magiczna 1,5x /\nZużycie MP 2x]",
+        "description": "Stara laska demona z legend. [Moc magii x1,5/Koszt MP x2]",
         "etypeId": 0,
         "traits": [
             {
@@ -11412,7 +11412,7 @@
     {
         "id": 269,
         "animationId": 19,
-        "description": "Stara laska demona, o której krążą legendy. [Moc magiczna 1,5x /\nZużycie MP 2x]",
+        "description": "Stara laska demona z legend. [Moc magii x1,5/Koszt MP x2]",
         "etypeId": 0,
         "traits": [
             {
@@ -11455,7 +11455,7 @@
     {
         "id": 270,
         "animationId": 19,
-        "description": "Stara laska demona, o której krążą legendy. [Moc magiczna 1,5x /\nZużycie MP 2x]",
+        "description": "Stara laska demona z legend. [Moc magii x1,5/Koszt MP x2]",
         "etypeId": 0,
         "traits": [
             {
@@ -11498,7 +11498,7 @@
     {
         "id": 271,
         "animationId": 19,
-        "description": "Stara laska demona, o której krążą legendy. [Moc magiczna 2x / Zużycie\nMP 3x]",
+        "description": "Stara laska demona z legend. [Moc magii x2/Koszt MP x3]",
         "etypeId": 0,
         "traits": [
             {
@@ -11541,7 +11541,7 @@
     {
         "id": 272,
         "animationId": 176,
-        "description": "Broń stworzona z ogona białego smoka, o której krążą legendy.\n[Regeneracja HP/MP +5% / Ostrze Księżycowego Światła]",
+        "description": "Broń z ogona białego smoka. [Regen HP/MP +5%/Ostrze\nKsiężyca]",
         "etypeId": 0,
         "traits": [
             {
@@ -11571,7 +11571,7 @@
             }
         ],
         "iconIndex": 626,
-        "name": "Wielki Miecz Księżycowego Światła",
+        "name": "Wielki Miecz Księżyca",
         "note": "秘密の花園",
         "params": [
             0,
@@ -11589,7 +11589,7 @@
     {
         "id": 273,
         "animationId": 176,
-        "description": "Broń stworzona z ogona białego smoka, o której krążą legendy.\n[Regeneracja HP/MP +6%/Ostrze Księżycowego Światła]",
+        "description": "Broń z ogona białego smoka z legend. [Regen HP/MP+6%/Ostrze\nKsiężyca]",
         "etypeId": 0,
         "traits": [
             {
@@ -11619,7 +11619,7 @@
             }
         ],
         "iconIndex": 626,
-        "name": "Wielki Miecz Światła Księżyca+1",
+        "name": "Wielki Miecz Księżyca+1",
         "note": "",
         "params": [
             0,
@@ -11637,7 +11637,7 @@
     {
         "id": 274,
         "animationId": 176,
-        "description": "Broń stworzona z ogona białego smoka, o której krążą legendy.\n[Regeneracja HP/MP +7%/Ostrze Księżycowego Światła]",
+        "description": "Broń z ogona białego smoka z legend. [Regen HP/MP+7%/Ostrze\nKsiężyca]",
         "etypeId": 0,
         "traits": [
             {
@@ -11667,7 +11667,7 @@
             }
         ],
         "iconIndex": 626,
-        "name": "Wielki Miecz Światła Księżyca+2",
+        "name": "Wielki Miecz Księżyca+2",
         "note": "",
         "params": [
             0,
@@ -11685,7 +11685,7 @@
     {
         "id": 275,
         "animationId": 176,
-        "description": "Broń stworzona z ogona białego smoka, o której krążą legendy.\n[Regeneracja HP/MP +8%/Ostrze Księżycowego Światła]",
+        "description": "Broń z ogona białego smoka z legend. [Regen HP/MP+8%/Ostrze\nKsiężyca]",
         "etypeId": 0,
         "traits": [
             {
@@ -11715,7 +11715,7 @@
             }
         ],
         "iconIndex": 626,
-        "name": "Wielki Miecz Światła Księżyca+3",
+        "name": "Wielki Miecz Księżyca+3",
         "note": "",
         "params": [
             0,
@@ -11733,7 +11733,7 @@
     {
         "id": 276,
         "animationId": 176,
-        "description": "Broń stworzona z ogona białego smoka, o której krążą legendy.\n[Regeneracja HP/MP +9%/Ostrze Księżycowego Światła]",
+        "description": "Broń z ogona białego smoka z legend. [Regen HP/MP+9%/Ostrze\nKsiężyca]",
         "etypeId": 0,
         "traits": [
             {
@@ -11763,7 +11763,7 @@
             }
         ],
         "iconIndex": 626,
-        "name": "Wielki Miecz Światła Księżyca+4",
+        "name": "Wielki Miecz Księżyca+4",
         "note": "",
         "params": [
             0,
@@ -11781,7 +11781,7 @@
     {
         "id": 277,
         "animationId": 176,
-        "description": "Broń stworzona z ogona białego smoka, o której krążą legendy.\n[Regeneracja HP/MP +10%/Ostrze Księżycowego Światła]",
+        "description": "Broń z ogona białego smoka z legend. [Regen HP/MP+10%/Ostrze\nKsiężyca]",
         "etypeId": 0,
         "traits": [
             {
@@ -11811,7 +11811,7 @@
             }
         ],
         "iconIndex": 626,
-        "name": "Wielki Miecz Światła Księżyca+5",
+        "name": "Wielki Miecz Księżyca+5",
         "note": "",
         "params": [
             0,
@@ -11829,7 +11829,7 @@
     {
         "id": 278,
         "animationId": 176,
-        "description": "Broń stworzona z ogona białego smoka, o której krążą legendy.\n[Regeneracja HP/MP +11%/Ostrze Księżycowego Światła]",
+        "description": "Broń z ogona białego smoka z legend. [Regen HP/MP+11%/Ostrze\nKsiężyca]",
         "etypeId": 0,
         "traits": [
             {
@@ -11859,7 +11859,7 @@
             }
         ],
         "iconIndex": 626,
-        "name": "Wielki Miecz Światła Księżyca+6",
+        "name": "Wielki Miecz Księżyca+6",
         "note": "",
         "params": [
             0,
@@ -11877,7 +11877,7 @@
     {
         "id": 279,
         "animationId": 176,
-        "description": "Broń stworzona z ogona białego smoka, o której krążą legendy.\n[Regeneracja HP/MP +12%/Ostrze Księżycowego Światła]",
+        "description": "Broń z ogona białego smoka z legend. [Regen HP/MP+12%/Ostrze\nKsiężyca]",
         "etypeId": 0,
         "traits": [
             {
@@ -11907,7 +11907,7 @@
             }
         ],
         "iconIndex": 626,
-        "name": "Wielki Miecz Światła Księżyca+7",
+        "name": "Wielki Miecz Księżyca+7",
         "note": "",
         "params": [
             0,
@@ -11925,7 +11925,7 @@
     {
         "id": 280,
         "animationId": 176,
-        "description": "Broń stworzona z ogona białego smoka, o której krążą legendy.\n[Regeneracja HP/MP +13%/Ostrze Księżycowego Światła]",
+        "description": "Broń z ogona białego smoka z legend. [Regen HP/MP+13%/Ostrze\nKsiężyca]",
         "etypeId": 0,
         "traits": [
             {
@@ -11955,7 +11955,7 @@
             }
         ],
         "iconIndex": 626,
-        "name": "Wielki Miecz Światła Księżyca+8",
+        "name": "Wielki Miecz Księżyca+8",
         "note": "",
         "params": [
             0,
@@ -11973,7 +11973,7 @@
     {
         "id": 281,
         "animationId": 176,
-        "description": "Broń stworzona z ogona białego smoka, o której krążą legendy.\n[Regeneracja HP/MP +14%/Ostrze Księżycowego Światła]",
+        "description": "Broń z ogona białego smoka z legend. [Regen HP/MP+14%/Ostrze\nKsiężyca]",
         "etypeId": 0,
         "traits": [
             {
@@ -12003,7 +12003,7 @@
             }
         ],
         "iconIndex": 626,
-        "name": "Wielki Miecz Światła Księżyca+9",
+        "name": "Wielki Miecz Księżyca+9",
         "note": "",
         "params": [
             0,
@@ -12021,7 +12021,7 @@
     {
         "id": 282,
         "animationId": 176,
-        "description": "Broń stworzona z ogona białego smoka, o której krążą legendy.\n[Regeneracja HP/MP +15%/Ostrze Księżycowego Światła/Rozdarcie\nKsiężycowego Światła]",
+        "description": "Broń z ogona białego smoka z legend. [Regen HP/MP+15%/Ostrze\nKsiężyca/Rozdarcie Księżyca]",
         "etypeId": 0,
         "traits": [
             {
@@ -12056,7 +12056,7 @@
             }
         ],
         "iconIndex": 626,
-        "name": "Wielki Miecz Światła Księżyca+10",
+        "name": "Wielki Miecz Księżyca+10",
         "note": "",
         "params": [
             0,
@@ -12074,7 +12074,7 @@
     {
         "id": 283,
         "animationId": 7,
-        "description": "Miecz, którego połowa ostrza została odłamana i utracona.\n[Samookaleczenie]",
+        "description": "Miecz z ułamanym ostrzem. [Samookaleczenie]",
         "etypeId": 0,
         "traits": [
             {
@@ -12112,7 +12112,7 @@
     {
         "id": 284,
         "animationId": 7,
-        "description": "Miecz, którego połowa ostrza została odłamana i utracona.\n[Samookaleczenie]",
+        "description": "Miecz z ułamanym ostrzem. [Samookaleczenie]",
         "etypeId": 0,
         "traits": [
             {
@@ -12132,7 +12132,7 @@
             }
         ],
         "iconIndex": 661,
-        "name": "Złamany miecz+1",
+        "name": "Złamany miecz +1",
         "note": "",
         "params": [
             0,
@@ -12150,7 +12150,7 @@
     {
         "id": 285,
         "animationId": 7,
-        "description": "Miecz, którego połowa ostrza została odłamana i utracona.\n[Samookaleczenie]",
+        "description": "Miecz z ułamanym ostrzem. [Samookaleczenie]",
         "etypeId": 0,
         "traits": [
             {
@@ -12170,7 +12170,7 @@
             }
         ],
         "iconIndex": 661,
-        "name": "Złamany miecz+2",
+        "name": "Złamany miecz +2",
         "note": "",
         "params": [
             0,
@@ -12188,7 +12188,7 @@
     {
         "id": 286,
         "animationId": 7,
-        "description": "Miecz, którego połowa ostrza została odłamana i utracona.\n[Samookaleczenie]",
+        "description": "Miecz z ułamanym ostrzem. [Samookaleczenie]",
         "etypeId": 0,
         "traits": [
             {
@@ -12208,7 +12208,7 @@
             }
         ],
         "iconIndex": 661,
-        "name": "Złamany miecz+3",
+        "name": "Złamany miecz +3",
         "note": "",
         "params": [
             0,
@@ -12226,7 +12226,7 @@
     {
         "id": 287,
         "animationId": 7,
-        "description": "Miecz, którego połowa ostrza została odłamana i utracona.\n[Samookaleczenie]",
+        "description": "Miecz z ułamanym ostrzem. [Samookaleczenie]",
         "etypeId": 0,
         "traits": [
             {
@@ -12246,7 +12246,7 @@
             }
         ],
         "iconIndex": 661,
-        "name": "Złamany miecz+4",
+        "name": "Złamany miecz +4",
         "note": "",
         "params": [
             0,
@@ -12264,7 +12264,7 @@
     {
         "id": 288,
         "animationId": 7,
-        "description": "Miecz, którego połowa ostrza została odłamana i utracona.\n[Samookaleczenie]",
+        "description": "Miecz z ułamanym ostrzem. [Samookaleczenie]",
         "etypeId": 0,
         "traits": [
             {
@@ -12302,7 +12302,7 @@
     {
         "id": 289,
         "animationId": 7,
-        "description": "Miecz, którego połowa ostrza została odłamana i utracona.\n[Samookaleczenie]",
+        "description": "Miecz z ułamanym ostrzem. [Samookaleczenie]",
         "etypeId": 0,
         "traits": [
             {
@@ -12340,7 +12340,7 @@
     {
         "id": 290,
         "animationId": 7,
-        "description": "Miecz, którego połowa ostrza została odłamana i utracona.\n[Samookaleczenie]",
+        "description": "Miecz z ułamanym ostrzem. [Samookaleczenie]",
         "etypeId": 0,
         "traits": [
             {
@@ -12378,7 +12378,7 @@
     {
         "id": 291,
         "animationId": 7,
-        "description": "Miecz, którego połowa ostrza została odłamana i utracona.\n[Samookaleczenie]",
+        "description": "Miecz z ułamanym ostrzem. [Samookaleczenie]",
         "etypeId": 0,
         "traits": [
             {
@@ -12416,7 +12416,7 @@
     {
         "id": 292,
         "animationId": 7,
-        "description": "Miecz, którego połowa ostrza została odłamana i utracona.\n[Samookaleczenie]",
+        "description": "Miecz z ułamanym ostrzem. [Samookaleczenie]",
         "etypeId": 0,
         "traits": [
             {
@@ -12454,7 +12454,7 @@
     {
         "id": 293,
         "animationId": 7,
-        "description": "Miecz, którego połowa ostrza została złamana i utracona.\n[Samookaleczenie/Cios umarłego]",
+        "description": "Miecz z ułamanym ostrzem. [Samookaleczenie/Cios umarłego]",
         "etypeId": 0,
         "traits": [
             {
