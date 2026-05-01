@@ -176,7 +176,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Leczy ślepotę.\r\n\"Pod żadnym pozorem nie używaj go na osobach\nniewidomych.\"",
+        "description": "Leczy ślepotę.\r\n\"Pod żadnym pozorem nie używaj go na osobach niewidomych.\"",
         "effects": [
             {
                 "code": 22,
