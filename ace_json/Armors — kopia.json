@@ -3,7 +3,7 @@
     {
         "id": 1,
         "atypeId": 1,
-        "description": "通気性の高い布の服。",
+        "description": "Ubranie z przewiewnego materiału.",
         "etypeId": 3,
         "traits": [
             {
@@ -13,7 +13,7 @@
             }
         ],
         "iconIndex": 168,
-        "name": "普段着",
+        "name": "Codzienne ubranie",
         "note": "",
         "params": [
             0,
@@ -30,7 +30,7 @@
     {
         "id": 2,
         "atypeId": 1,
-        "description": "なめし皮で作られたベスト。",
+        "description": "Kamizelka wykonana z garbowanej skóry.",
         "etypeId": 3,
         "traits": [
             {
@@ -40,7 +40,7 @@
             }
         ],
         "iconIndex": 168,
-        "name": "レザーベスト",
+        "name": "Skórzana kamizelka",
         "note": "",
         "params": [
             0,
@@ -57,7 +57,7 @@
     {
         "id": 3,
         "atypeId": 1,
-        "description": "過酷な旅にも耐えられる丈夫な服。",
+        "description": "Wytrzymałe ubranie, które przetrwa nawet najcięższą podróż.",
         "etypeId": 3,
         "traits": [
             {
@@ -67,7 +67,7 @@
             }
         ],
         "iconIndex": 168,
-        "name": "冒険者の服",
+        "name": "Strój poszukiwacza przygód",
         "note": "",
         "params": [
             0,
@@ -84,7 +84,7 @@
     {
         "id": 4,
         "atypeId": 1,
-        "description": "にかわで固めた硬皮のベスト。",
+        "description": "Kamizelka z utwardzanej skóry, wzmocniona klejem kostnym.",
         "etypeId": 3,
         "traits": [
             {
@@ -94,7 +94,7 @@
             }
         ],
         "iconIndex": 168,
-        "name": "ハードレザー",
+        "name": "Twarda skóra",
         "note": "",
         "params": [
             0,
@@ -111,7 +111,7 @@
     {
         "id": 5,
         "atypeId": 1,
-        "description": "鋼板で補強したなめし皮製の服。",
+        "description": "Ubranie z garbowanej skóry wzmocnione stalowymi płytami.",
         "etypeId": 3,
         "traits": [
             {
@@ -121,7 +121,7 @@
             }
         ],
         "iconIndex": 168,
-        "name": "ブリガンダイン",
+        "name": "Brygantyna",
         "note": "",
         "params": [
             0,
@@ -138,7 +138,7 @@
     {
         "id": 6,
         "atypeId": 1,
-        "description": "額を守る布製のハチマキ。",
+        "description": "Materiałowa opaska chroniąca czoło.",
         "etypeId": 2,
         "traits": [
             {
@@ -148,7 +148,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "バンダナ",
+        "name": "Bandana",
         "note": "",
         "params": [
             0,
@@ -165,7 +165,7 @@
     {
         "id": 7,
         "atypeId": 1,
-        "description": "額を守る皮製のハチマキ。",
+        "description": "Skórzana opaska chroniąca czoło.",
         "etypeId": 2,
         "traits": [
             {
@@ -175,7 +175,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "レザーバンダナ",
+        "name": "Skórzana bandana",
         "note": "",
         "params": [
             0,
@@ -192,7 +192,7 @@
     {
         "id": 8,
         "atypeId": 1,
-        "description": "毛皮で作られた帽子。",
+        "description": "Czapka wykonana z futra.",
         "etypeId": 2,
         "traits": [
             {
@@ -202,7 +202,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "毛皮の帽子",
+        "name": "Futrzana czapka",
         "note": "",
         "params": [
             0,
@@ -219,7 +219,7 @@
     {
         "id": 9,
         "atypeId": 1,
-        "description": "重ねて巻きつけて頭を守る厚手の布。",
+        "description": "Gruby materiał owijany wokół głowy dla ochrony.",
         "etypeId": 2,
         "traits": [
             {
@@ -229,7 +229,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ターバン",
+        "name": "Turban",
         "note": "",
         "params": [
             0,
@@ -246,7 +246,7 @@
     {
         "id": 10,
         "atypeId": 1,
-        "description": "極楽鳥の羽がついたオシャレな帽子。",
+        "description": "Stylowa czapka ozdobiona piórami rajskiego ptaka.",
         "etypeId": 2,
         "traits": [
             {
@@ -256,7 +256,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "羽根付き帽子",
+        "name": "Kapelusz z piórem",
         "note": "",
         "params": [
             0,
@@ -273,7 +273,7 @@
     {
         "id": 11,
         "atypeId": 2,
-        "description": "木綿で作られた厚手のローブ。",
+        "description": "Gruba szata wykonana z bawełny.",
         "etypeId": 3,
         "traits": [
             {
@@ -283,7 +283,7 @@
             }
         ],
         "iconIndex": 171,
-        "name": "木綿のローブ",
+        "name": "Bawełniana szata",
         "note": "",
         "params": [
             0,
@@ -300,7 +300,7 @@
     {
         "id": 12,
         "atypeId": 2,
-        "description": "絹で作られた上質なマント。",
+        "description": "Wysokiej jakości płaszcz wykonany z jedwabiu.",
         "etypeId": 3,
         "traits": [
             {
@@ -310,7 +310,7 @@
             }
         ],
         "iconIndex": 171,
-        "name": "絹のマント",
+        "name": "Jedwabna peleryna",
         "note": "",
         "params": [
             0,
@@ -327,7 +327,7 @@
     {
         "id": 13,
         "atypeId": 2,
-        "description": "裏地にルーン文字が刻まれたローブ。",
+        "description": "Szata z runami wyrytymi na podszewce.",
         "etypeId": 3,
         "traits": [
             {
@@ -337,7 +337,7 @@
             }
         ],
         "iconIndex": 171,
-        "name": "術士のローブ",
+        "name": "Szata maga",
         "note": "",
         "params": [
             0,
@@ -354,7 +354,7 @@
     {
         "id": 14,
         "atypeId": 2,
-        "description": "古の老賢者が身につけていたローブ。",
+        "description": "Szata, którą nosił dawny, stary mędrzec.",
         "etypeId": 3,
         "traits": [
             {
@@ -394,7 +394,7 @@
             }
         ],
         "iconIndex": 171,
-        "name": "ハーミットローブ",
+        "name": "Szata pustelnika",
         "note": "",
         "params": [
             0,
@@ -411,7 +411,7 @@
     {
         "id": 15,
         "atypeId": 2,
-        "description": "精霊王の力が宿る究極のマント。",
+        "description": "Ostateczny płaszcz, w którym drzemie moc Króla Duchów.",
         "etypeId": 3,
         "traits": [
             {
@@ -451,7 +451,7 @@
             }
         ],
         "iconIndex": 171,
-        "name": "エレメンタルマント",
+        "name": "Żywiołowa peleryna",
         "note": "",
         "params": [
             0,
@@ -468,7 +468,7 @@
     {
         "id": 16,
         "atypeId": 2,
-        "description": "青銅で作られた髪飾り。",
+        "description": "Ozdoba do włosów wykonana z brązu.",
         "etypeId": 2,
         "traits": [
             {
@@ -478,7 +478,7 @@
             }
         ],
         "iconIndex": 166,
-        "name": "銅の髪飾り",
+        "name": "Miedziana ozdoba do włosów",
         "note": "",
         "params": [
             0,
@@ -495,7 +495,7 @@
     {
         "id": 17,
         "atypeId": 2,
-        "description": "鉄で作られたリング状の額飾り。",
+        "description": "Ozdoba na czoło w kształcie pierścienia wykonana z żelaza.",
         "etypeId": 2,
         "traits": [
             {
@@ -505,7 +505,7 @@
             }
         ],
         "iconIndex": 166,
-        "name": "サークレット",
+        "name": "Diadem",
         "note": "",
         "params": [
             0,
@@ -522,7 +522,7 @@
     {
         "id": 18,
         "atypeId": 2,
-        "description": "身につけた者の魔力を高める髪飾り。",
+        "description": "Ozdoba do włosów, która zwiększa moc magiczną noszącego.",
         "etypeId": 2,
         "traits": [
             {
@@ -532,7 +532,7 @@
             }
         ],
         "iconIndex": 166,
-        "name": "銀の髪飾り",
+        "name": "Srebrna ozdoba do włosów",
         "note": "",
         "params": [
             0,
@@ -549,7 +549,7 @@
     {
         "id": 19,
         "atypeId": 2,
-        "description": "魔法の金属ミスリルで作られた額飾り。",
+        "description": "Ozdoba na czoło wykonana z magicznego metalu, mithrilu.",
         "etypeId": 2,
         "traits": [
             {
@@ -559,7 +559,7 @@
             }
         ],
         "iconIndex": 166,
-        "name": "ミスリルサークレット",
+        "name": "Mithrilowy diadem",
         "note": "",
         "params": [
             0,
@@ -576,7 +576,7 @@
     {
         "id": 20,
         "atypeId": 2,
-        "description": "古代魔法文明の技術で作られた額飾り。",
+        "description": "Ozdoba na czoło wykonana przy użyciu technologii starożytnej\ncywilizacji magicznej.",
         "etypeId": 2,
         "traits": [
             {
@@ -586,7 +586,7 @@
             }
         ],
         "iconIndex": 166,
-        "name": "賢者の額冠",
+        "name": "Diadem mędrca",
         "note": "",
         "params": [
             0,
@@ -603,7 +603,7 @@
     {
         "id": 21,
         "atypeId": 3,
-        "description": "なめし皮を重ねて組んだ鎧。\n",
+        "description": "Zbroja wykonana z warstw garbowanej skóry.",
         "etypeId": 3,
         "traits": [
             {
@@ -613,7 +613,7 @@
             }
         ],
         "iconIndex": 169,
-        "name": "レザーアーマー",
+        "name": "Skórzana zbroja",
         "note": "",
         "params": [
             0,
@@ -630,7 +630,7 @@
     {
         "id": 22,
         "atypeId": 3,
-        "description": "青銅で作られた粗末な胸当て。",
+        "description": "Prosty napierśnik wykonany z brązu.",
         "etypeId": 3,
         "traits": [
             {
@@ -640,7 +640,7 @@
             }
         ],
         "iconIndex": 169,
-        "name": "ブロンズブレスト",
+        "name": "Brązowy napierśnik",
         "note": "",
         "params": [
             0,
@@ -657,7 +657,7 @@
     {
         "id": 23,
         "atypeId": 3,
-        "description": "鋼板から打ち出した鉄の胸当て。",
+        "description": "Żelazny napierśnik wykuty ze stalowej płyty.",
         "etypeId": 3,
         "traits": [
             {
@@ -667,7 +667,7 @@
             }
         ],
         "iconIndex": 169,
-        "name": "アイアンブレスト",
+        "name": "Żelazny napierśnik",
         "note": "",
         "params": [
             0,
@@ -684,7 +684,7 @@
     {
         "id": 24,
         "atypeId": 3,
-        "description": "魔法の金属ミスリルで作られた胸当て。",
+        "description": "Napierśnik wykonany z magicznego metalu, mithrilu.",
         "etypeId": 3,
         "traits": [
             {
@@ -694,7 +694,7 @@
             }
         ],
         "iconIndex": 169,
-        "name": "ミスリルブレスト",
+        "name": "Mithrilowy napierśnik",
         "note": "",
         "params": [
             0,
@@ -711,7 +711,7 @@
     {
         "id": 25,
         "atypeId": 3,
-        "description": "竜の鱗から作られた胸当て。",
+        "description": "Napierśnik wykonany ze smoczych łusek.",
         "etypeId": 3,
         "traits": [
             {
@@ -726,7 +726,7 @@
             }
         ],
         "iconIndex": 169,
-        "name": "ドラゴンスケイル",
+        "name": "Smocza łuska",
         "note": "",
         "params": [
             0,
@@ -743,7 +743,7 @@
     {
         "id": 26,
         "atypeId": 3,
-        "description": "なめし皮で作られた帽子。",
+        "description": "Czapka wykonana z garbowanej skóry.",
         "etypeId": 2,
         "traits": [
             {
@@ -753,7 +753,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "レザーキャップ",
+        "name": "Skórzana czapka",
         "note": "",
         "params": [
             0,
@@ -770,7 +770,7 @@
     {
         "id": 27,
         "atypeId": 3,
-        "description": "青銅で補強された帽子。",
+        "description": "Czapka wzmocniona brązem.",
         "etypeId": 2,
         "traits": [
             {
@@ -780,7 +780,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "ブロンズキャップ",
+        "name": "Brązowa czapka",
         "note": "",
         "params": [
             0,
@@ -797,7 +797,7 @@
     {
         "id": 28,
         "atypeId": 3,
-        "description": "鋼板を加工して作った帽子。",
+        "description": "Czapka wykonana z obrobionych płyt stalowych.",
         "etypeId": 2,
         "traits": [
             {
@@ -807,7 +807,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "サレット",
+        "name": "Salada",
         "note": "",
         "params": [
             0,
@@ -824,7 +824,7 @@
     {
         "id": 29,
         "atypeId": 3,
-        "description": "ミスリル銀糸で編まれた帽子。",
+        "description": "Czapka utkana z nici z mithrilowego srebra.",
         "etypeId": 2,
         "traits": [
             {
@@ -834,7 +834,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "ミスリルキャップ",
+        "name": "Mithrilowa czapka",
         "note": "",
         "params": [
             0,
@@ -851,7 +851,7 @@
     {
         "id": 30,
         "atypeId": 3,
-        "description": "竜の皮膚から作られた帽子。",
+        "description": "Czapka wykonana ze smoczej skóry.",
         "etypeId": 2,
         "traits": [
             {
@@ -866,7 +866,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "ドラゴンスキン",
+        "name": "Smocza skóra",
         "note": "",
         "params": [
             0,
@@ -883,7 +883,7 @@
     {
         "id": 31,
         "atypeId": 4,
-        "description": "鉄の鎖を組み上げて作った鎧。",
+        "description": "Zbroja wykonana z żelaznych łańcuchów.",
         "etypeId": 3,
         "traits": [
             {
@@ -898,7 +898,7 @@
             }
         ],
         "iconIndex": 170,
-        "name": "チェインメイル",
+        "name": "Kolczuga",
         "note": "",
         "params": [
             0,
@@ -915,7 +915,7 @@
     {
         "id": 32,
         "atypeId": 4,
-        "description": "鋼鉄製の鎧。",
+        "description": "Stalowa zbroja.",
         "etypeId": 3,
         "traits": [
             {
@@ -930,7 +930,7 @@
             }
         ],
         "iconIndex": 170,
-        "name": "アイアンメイル",
+        "name": "Żelazna zbroja",
         "note": "",
         "params": [
             0,
@@ -947,7 +947,7 @@
     {
         "id": 33,
         "atypeId": 4,
-        "description": "騎士が身につける板金鎧。",
+        "description": "Pancerz płytowy noszony przez rycerzy.",
         "etypeId": 3,
         "traits": [
             {
@@ -962,7 +962,7 @@
             }
         ],
         "iconIndex": 170,
-        "name": "プレートメイル",
+        "name": "Płytowa zbroja",
         "note": "",
         "params": [
             0,
@@ -979,7 +979,7 @@
     {
         "id": 34,
         "atypeId": 4,
-        "description": "魔法の金属ミスリルで作られた鎧。",
+        "description": "Zbroja wykonana z magicznego metalu, mithrilu.",
         "etypeId": 3,
         "traits": [
             {
@@ -989,7 +989,7 @@
             }
         ],
         "iconIndex": 170,
-        "name": "ミスリルメイル",
+        "name": "Mithrilowa zbroja",
         "note": "",
         "params": [
             0,
@@ -1006,7 +1006,7 @@
     {
         "id": 35,
         "atypeId": 4,
-        "description": "竜の鱗から作られた鎧。",
+        "description": "Zbroja wykonana ze smoczych łusek.",
         "etypeId": 3,
         "traits": [
             {
@@ -1026,7 +1026,7 @@
             }
         ],
         "iconIndex": 170,
-        "name": "竜鱗の鎧",
+        "name": "Zbroja ze smoczej łuski",
         "note": "",
         "params": [
             0,
@@ -1043,7 +1043,7 @@
     {
         "id": 36,
         "atypeId": 4,
-        "description": "頭部を覆う鉄鎖で編まれたフード。",
+        "description": "Kaptur spleciony z żelaznych łańcuchów, zakrywający głowę.",
         "etypeId": 2,
         "traits": [
             {
@@ -1058,7 +1058,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "チェインコイフ",
+        "name": "Kolczuga na głowę",
         "note": "",
         "params": [
             0,
@@ -1075,7 +1075,7 @@
     {
         "id": 37,
         "atypeId": 4,
-        "description": "鋼鉄製の兜。",
+        "description": "Stalowy hełm.",
         "etypeId": 2,
         "traits": [
             {
@@ -1090,7 +1090,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "アイアンヘルム",
+        "name": "Żelazny hełm",
         "note": "",
         "params": [
             0,
@@ -1107,7 +1107,7 @@
     {
         "id": 38,
         "atypeId": 4,
-        "description": "騎士が身につける装飾された兜。",
+        "description": "Ozdobny hełm noszony przez rycerzy.",
         "etypeId": 2,
         "traits": [
             {
@@ -1122,7 +1122,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "ナイトヘルム",
+        "name": "Rycerski hełm",
         "note": "",
         "params": [
             0,
@@ -1139,7 +1139,7 @@
     {
         "id": 39,
         "atypeId": 4,
-        "description": "魔法の金属ミスリルで作られた兜。",
+        "description": "Hełm wykonany z magicznego metalu, mithrilu.",
         "etypeId": 2,
         "traits": [
             {
@@ -1149,7 +1149,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "ミスリルヘルム",
+        "name": "Mithrilowy hełm",
         "note": "",
         "params": [
             0,
@@ -1166,7 +1166,7 @@
     {
         "id": 40,
         "atypeId": 4,
-        "description": "竜の鱗から作られた兜。",
+        "description": "Hełm wykonany ze smoczych łusek.",
         "etypeId": 2,
         "traits": [
             {
@@ -1186,7 +1186,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "竜鱗の兜",
+        "name": "Hełm ze smoczej łuski",
         "note": "",
         "params": [
             0,
@@ -1203,7 +1203,7 @@
     {
         "id": 41,
         "atypeId": 5,
-        "description": "攻撃を受け流すための小型盾。",
+        "description": "Mała tarcza służąca do parowania ataków.",
         "etypeId": 1,
         "traits": [
             {
@@ -1213,7 +1213,7 @@
             }
         ],
         "iconIndex": 160,
-        "name": "バックラー",
+        "name": "Puklerz",
         "note": "",
         "params": [
             0,
@@ -1230,7 +1230,7 @@
     {
         "id": 42,
         "atypeId": 5,
-        "description": "鉄の枠で補強した木製の円盾。",
+        "description": "Drewniana okrągła tarcza wzmocniona żelazną ramą.",
         "etypeId": 1,
         "traits": [
             {
@@ -1240,7 +1240,7 @@
             }
         ],
         "iconIndex": 160,
-        "name": "ラウンドシールド",
+        "name": "Okrągła tarcza",
         "note": "",
         "params": [
             0,
@@ -1257,7 +1257,7 @@
     {
         "id": 43,
         "atypeId": 5,
-        "description": "表面に攻撃用のトゲがついた円盾。",
+        "description": "Okrągła tarcza z kolcami na powierzchni, służąca do ataku.",
         "etypeId": 1,
         "traits": [
             {
@@ -1267,7 +1267,7 @@
             }
         ],
         "iconIndex": 160,
-        "name": "スパイクシールド",
+        "name": "Kolczasta tarcza",
         "note": "",
         "params": [
             0,
@@ -1284,7 +1284,7 @@
     {
         "id": 44,
         "atypeId": 5,
-        "description": "魔法の金属ミスリルで作られた小型盾。",
+        "description": "Mała tarcza wykonana z magicznego metalu, mithrilu.",
         "etypeId": 1,
         "traits": [
             {
@@ -1294,7 +1294,7 @@
             }
         ],
         "iconIndex": 160,
-        "name": "ミスリルバックラー",
+        "name": "Mithrilowy puklerz",
         "note": "",
         "params": [
             0,
@@ -1311,7 +1311,7 @@
     {
         "id": 45,
         "atypeId": 5,
-        "description": "竜の鱗から作られた小型盾。",
+        "description": "Mała tarcza wykonana ze smoczych łusek.",
         "etypeId": 1,
         "traits": [
             {
@@ -1326,7 +1326,7 @@
             }
         ],
         "iconIndex": 160,
-        "name": "ドラゴンバックラー",
+        "name": "Smoczy puklerz",
         "note": "",
         "params": [
             0,
@@ -1343,7 +1343,7 @@
     {
         "id": 46,
         "atypeId": 6,
-        "description": "堅木を重ね合わせて作った盾。",
+        "description": "Tarcza wykonana z warstw twardego drewna.",
         "etypeId": 1,
         "traits": [
             {
@@ -1363,7 +1363,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "ウッドシールド",
+        "name": "Drewniana tarcza",
         "note": "",
         "params": [
             0,
@@ -1380,7 +1380,7 @@
     {
         "id": 47,
         "atypeId": 6,
-        "description": "鋼鉄製の盾。",
+        "description": "Stalowa tarcza.",
         "etypeId": 1,
         "traits": [
             {
@@ -1400,7 +1400,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "アイアンシールド",
+        "name": "Żelazna tarcza",
         "note": "",
         "params": [
             0,
@@ -1417,7 +1417,7 @@
     {
         "id": 48,
         "atypeId": 6,
-        "description": "グリフォンの紋章が刻まれた鋼の盾。",
+        "description": "Stalowa tarcza z wygrawerowanym herbem gryfa.",
         "etypeId": 1,
         "traits": [
             {
@@ -1437,7 +1437,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "ナイトシールド",
+        "name": "Rycerska tarcza",
         "note": "",
         "params": [
             0,
@@ -1454,7 +1454,7 @@
     {
         "id": 49,
         "atypeId": 6,
-        "description": "魔法の金属ミスリルで作られた盾。",
+        "description": "Tarcza wykonana z magicznego metalu, mithrilu.",
         "etypeId": 1,
         "traits": [
             {
@@ -1469,7 +1469,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "ミスリルシールド",
+        "name": "Mithrilowa tarcza",
         "note": "",
         "params": [
             0,
@@ -1729,7 +1729,7 @@
     {
         "id": 59,
         "atypeId": 1,
-        "description": "Black cloth, the gown of the undead.\r\nWithout it, you'll turn into black dust and vanish.",
+        "description": "Czarna szata, którą podobno noszą nieumarli. Bez niej obróciliby się w\nczarny pył i zniknęli.",
         "etypeId": 3,
         "traits": [
             {
@@ -1744,7 +1744,7 @@
             }
         ],
         "iconIndex": 456,
-        "name": "Black Cloth",
+        "name": "Czarny materiał",
         "note": "",
         "params": [
             0,
@@ -1815,7 +1815,7 @@
     {
         "id": 62,
         "atypeId": 1,
-        "description": "Cenny czerwony kaptur od babci.",
+        "description": "Cenny czerwony kaptur otrzymany od babci.",
         "etypeId": 3,
         "traits": [
             {
@@ -2225,7 +2225,7 @@
     {
         "id": 77,
         "atypeId": 1,
-        "description": "Pierścień wysysający życie.",
+        "description": "Pierścień, który wysysa życie z każdego, kto go założy.",
         "etypeId": 4,
         "traits": [
             {
@@ -2279,7 +2279,7 @@
     {
         "id": 79,
         "atypeId": 1,
-        "description": "Zwiększa maks. HP.",
+        "description": "Zwiększa maksymalne HP.",
         "etypeId": 4,
         "traits": [
             {
@@ -2360,7 +2360,7 @@
     {
         "id": 82,
         "atypeId": 1,
-        "description": "Odporność fiz. +30%",
+        "description": "Odporność fizyczna +30%",
         "etypeId": 4,
         "traits": [
             {
@@ -2375,7 +2375,7 @@
             }
         ],
         "iconIndex": 513,
-        "name": "Pierścień Żelaznej Ochr.",
+        "name": "Pierścień żelaznej ochrony",
         "note": "ゴーテル",
         "params": [
             0,
@@ -2402,7 +2402,7 @@
             }
         ],
         "iconIndex": 513,
-        "name": "Pierścień Ognistego Kam.",
+        "name": "Pierścień ognistego kamienia",
         "note": "ヤーコプ",
         "params": [
             0,
@@ -2419,7 +2419,7 @@
     {
         "id": 84,
         "atypeId": 1,
-        "description": "Odporność na błysk. +50%",
+        "description": "Odporność na błyskawice +50%",
         "etypeId": 4,
         "traits": [
             {
@@ -2429,7 +2429,7 @@
             }
         ],
         "iconIndex": 513,
-        "name": "Pierścień Piorun. Kam.",
+        "name": "Pierścień piorunującego kamienia",
         "note": "ヘルサ",
         "params": [
             0,
@@ -2456,7 +2456,7 @@
             }
         ],
         "iconIndex": 513,
-        "name": "Pierścień Lodowego Kam.",
+        "name": "Pierścień lodowego kamienia",
         "note": "白雪の庭",
         "params": [
             0,
@@ -2477,7 +2477,7 @@
         "etypeId": 4,
         "traits": [],
         "iconIndex": 513,
-        "name": "Pierścień Magicznego Kam.",
+        "name": "Pierścień magicznego kamienia",
         "note": "白雪城\r\n浜辺",
         "params": [
             0,
@@ -2494,7 +2494,7 @@
     {
         "id": 87,
         "atypeId": 1,
-        "description": "Podwaja dusze z wrogów.",
+        "description": "Ilość dusz otrzymywanych od wrogów zostaje podwojona.",
         "etypeId": 4,
         "traits": [
             {
@@ -2521,7 +2521,7 @@
     {
         "id": 88,
         "atypeId": 1,
-        "description": "Szansa dropu x2.",
+        "description": "Szansa na drop podwojona.",
         "etypeId": 4,
         "traits": [
             {
@@ -2548,7 +2548,7 @@
     {
         "id": 89,
         "atypeId": 1,
-        "description": "Odporność na truciznę +100%.",
+        "description": "Odporność na truciznę +100%. Możesz chodzić po trujących bagnach.",
         "etypeId": 4,
         "traits": [
             {
@@ -2563,7 +2563,7 @@
             }
         ],
         "iconIndex": 513,
-        "name": "Pierścień jadowitego kęsa",
+        "name": "Pierścień jadowitego ukąszenia",
         "note": "アイバーン",
         "params": [
             0,
@@ -2580,7 +2580,7 @@
     {
         "id": 90,
         "atypeId": 1,
-        "description": "Regen HP +3%, odporność na krwawienie +100%.",
+        "description": "Regeneracja HP +3%. Odporność na krwawienie +100%.",
         "etypeId": 4,
         "traits": [
             {
@@ -2595,7 +2595,7 @@
             }
         ],
         "iconIndex": 513,
-        "name": "Pierścień krwawego kęsa",
+        "name": "Pierścień krwawego ukąszenia",
         "note": "ベヒモス牧場",
         "params": [
             0,
@@ -2612,7 +2612,7 @@
     {
         "id": 91,
         "atypeId": 1,
-        "description": "Zwiększa atak.",
+        "description": "Zwiększa siłę ataku.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 513,
@@ -2633,7 +2633,7 @@
     {
         "id": 92,
         "atypeId": 1,
-        "description": "Odporność na krytyki i śmierć.",
+        "description": "Odporność na trafienia krytyczne i natychmiastową śmierć.",
         "etypeId": 4,
         "traits": [
             {
@@ -2648,7 +2648,7 @@
             }
         ],
         "iconIndex": 513,
-        "name": "Pierścień Antykrytyk",
+        "name": "Pierścień ochrony przed trafieniem krytycznym",
         "note": "アトランティカ",
         "params": [
             0,
@@ -2665,7 +2665,7 @@
     {
         "id": 93,
         "atypeId": 1,
-        "description": "Szansa na krytyk +20%",
+        "description": "Szansa na trafienie krytyczne +20%",
         "etypeId": 4,
         "traits": [
             {
@@ -2675,7 +2675,7 @@
             }
         ],
         "iconIndex": 513,
-        "name": "Pierścień Szerszenia",
+        "name": "Pierścień szerszenia",
         "note": "ヘルサ砂漠",
         "params": [
             0,
@@ -2696,7 +2696,7 @@
         "etypeId": 4,
         "traits": [],
         "iconIndex": 513,
-        "name": "Pierścień Ochrony",
+        "name": "Pierścień ochrony",
         "note": "骸骨迷宮\r\n白雪",
         "params": [
             0,
@@ -2723,7 +2723,7 @@
             }
         ],
         "iconIndex": 513,
-        "name": "Pierścień Bogini",
+        "name": "Pierścień bogini",
         "note": "ゴーテルの塔",
         "params": [
             0,
@@ -2794,7 +2794,7 @@
     {
         "id": 98,
         "atypeId": 1,
-        "description": "Zwiększa szybkość. Unik +10%",
+        "description": "Zwiększa zwinność. Unik +10%",
         "etypeId": 4,
         "traits": [
             {
@@ -2809,7 +2809,7 @@
             }
         ],
         "iconIndex": 513,
-        "name": "Pierścień Wiatru",
+        "name": "Pierścień Boga Wiatru",
         "note": "骸骨迷宮\r\nゴーテル",
         "params": [
             0,
@@ -2830,7 +2830,7 @@
         "etypeId": 4,
         "traits": [],
         "iconIndex": 513,
-        "name": "Pierścień Klątw",
+        "name": "Pierścień Zaklęć",
         "note": "ぺろぺろちょうだい\r\n穢れ沼",
         "params": [
             0,
@@ -2847,7 +2847,7 @@
     {
         "id": 100,
         "atypeId": 1,
-        "description": "Szansa na cel +300%",
+        "description": "Szansa na bycie celem +300%",
         "etypeId": 4,
         "traits": [
             {
@@ -2874,7 +2874,7 @@
     {
         "id": 101,
         "atypeId": 1,
-        "description": "Odporność na chaos +100%",
+        "description": "Odporność na zamęt +100%",
         "etypeId": 4,
         "traits": [
             {
@@ -2884,7 +2884,7 @@
             }
         ],
         "iconIndex": 513,
-        "name": "Pierścień Spokoju",
+        "name": "Pierścień Ochrony przed Obłędem",
         "note": "淫腐町",
         "params": [
             0,
@@ -2901,7 +2901,7 @@
     {
         "id": 102,
         "atypeId": 1,
-        "description": "Szansa na ciemność +50% Odp. na ciemność +100%",
+        "description": "Szansa na oślepienie +50% Odporność na oślepienie +100%",
         "etypeId": 4,
         "traits": [
             {
@@ -2933,7 +2933,7 @@
     {
         "id": 103,
         "atypeId": 1,
-        "description": "Odp. na mrok +50%",
+        "description": "Odporność na mrok +50%",
         "etypeId": 4,
         "traits": [
             {
@@ -2960,7 +2960,7 @@
     {
         "id": 104,
         "atypeId": 1,
-        "description": "Regen. HP -20%",
+        "description": "Regeneracja HP -20%",
         "etypeId": 4,
         "traits": [
             {
@@ -2987,7 +2987,7 @@
     {
         "id": 105,
         "atypeId": 1,
-        "description": "Atak: trucizna, cisza, chaos, ciemność, blokada +50%",
+        "description": "Podczas ataku: trucizna, uciszenie, zamęt, oślepienie, blokada rąk\n+50%",
         "etypeId": 4,
         "traits": [
             {
@@ -3034,7 +3034,7 @@
     {
         "id": 106,
         "atypeId": 1,
-        "description": "Regen. HP +50% Regen. MP +50%",
+        "description": "Regeneracja HP +50% Regeneracja MP +50%",
         "etypeId": 4,
         "traits": [
             {
@@ -3066,7 +3066,7 @@
     {
         "id": 107,
         "atypeId": 1,
-        "description": "Odporność fiz. +50%, mag. +50%, na żywioły +30%",
+        "description": "Odporność fizyczna +50% Odporność magiczna +50% Odporność na wszystkie\nżywioły +30%",
         "etypeId": 4,
         "traits": [
             {
@@ -3141,7 +3141,7 @@
             }
         ],
         "iconIndex": 176,
-        "name": "Łaska Śnieżki",
+        "name": "Ulubienica Śnieżki",
         "note": "",
         "params": [
             0,
@@ -3158,7 +3158,7 @@
     {
         "id": 108,
         "atypeId": 1,
-        "description": "Dodatkowe akcje +100%, Unik +90%",
+        "description": "Dodatkowa liczba akcji +100% Unik +90%",
         "etypeId": 4,
         "traits": [
             {
@@ -3173,7 +3173,7 @@
             }
         ],
         "iconIndex": 176,
-        "name": "Łaska Roszpunki",
+        "name": "Ulubienica Roszpunki",
         "note": "",
         "params": [
             0,
@@ -3190,7 +3190,7 @@
     {
         "id": 109,
         "atypeId": 1,
-        "description": "Odporność na spalenie, zamrożenie, uciszenie +50%",
+        "description": "Odporność na podpalenie, zamrożenie i unieruchomienie rąk +50%",
         "etypeId": 4,
         "traits": [
             {
@@ -3210,7 +3210,7 @@
             }
         ],
         "iconIndex": 513,
-        "name": "Czarny Pierścień",
+        "name": "Czarny pierścień",
         "note": "暗黒の鍾乳洞",
         "params": [
             0,
@@ -3227,7 +3227,7 @@
     {
         "id": 110,
         "atypeId": 1,
-        "description": "Znacznie zwiększa magię, ale podwaja zużycie MP.",
+        "description": "Znacznie zwiększa moc magiczną, ale zużycie MP wzrasta dwukrotnie.",
         "etypeId": 4,
         "traits": [
             {
@@ -3242,7 +3242,7 @@
             }
         ],
         "iconIndex": 513,
-        "name": "Pierścień Zmierzchu",
+        "name": "Pierścień zmierzchu",
         "note": "ぺろぺろ",
         "params": [
             0,
@@ -3269,7 +3269,7 @@
             }
         ],
         "iconIndex": 513,
-        "name": "Pierścień Cudów",
+        "name": "Cudowny pierścień",
         "note": "暗黒の鍾乳洞",
         "params": [
             0,
@@ -3286,7 +3286,7 @@
     {
         "id": 112,
         "atypeId": 1,
-        "description": "Obrażenia x2.",
+        "description": "Otrzymywane obrażenia zostają podwojone.",
         "etypeId": 4,
         "traits": [
             {
@@ -3301,7 +3301,7 @@
             }
         ],
         "iconIndex": 513,
-        "name": "Pierścień Zagłady",
+        "name": "Pierścień Katastrofy",
         "note": "カラミール",
         "params": [
             0,
@@ -3318,7 +3318,7 @@
     {
         "id": 113,
         "atypeId": 1,
-        "description": "Wszystkie statystyki w górę, MP = 0.",
+        "description": "Wszystkie statystyki znacznie wzrastają, ale MP spada do 0.",
         "etypeId": 4,
         "traits": [
             {
@@ -3328,7 +3328,7 @@
             }
         ],
         "iconIndex": 176,
-        "name": "Łaska Bafometa",
+        "name": "Ulubieniec Bafometa",
         "note": "バフォ",
         "params": [
             5000,
@@ -3481,7 +3481,7 @@
     {
         "id": 117,
         "atypeId": 1,
-        "description": "Szansa na sen +50% Odp. na sen +100%",
+        "description": "Szansa na sen +50% Odporność na sen +100%",
         "etypeId": 4,
         "traits": [
             {
@@ -3496,7 +3496,7 @@
             }
         ],
         "iconIndex": 513,
-        "name": "Pierścień Jabłka",
+        "name": "Pierścień jabłka",
         "note": "アトランティカ",
         "params": [
             0,
@@ -3513,7 +3513,7 @@
     {
         "id": 118,
         "atypeId": 1,
-        "description": "Szansa na ciszę +50% Odp. na ciszę +100%",
+        "description": "Szansa na uciszenie +50% Odporność na uciszenie +100%",
         "etypeId": 4,
         "traits": [
             {
@@ -3528,7 +3528,7 @@
             }
         ],
         "iconIndex": 513,
-        "name": "Pierścień Zabójcy Magów",
+        "name": "Pierścień zabójcy magów",
         "note": "ピラミッド頂上",
         "params": [
             0,
@@ -3545,7 +3545,7 @@
     {
         "id": 119,
         "atypeId": 1,
-        "description": "Dodatkowe ataki +1",
+        "description": "Dodatkowa liczba ataków +1",
         "etypeId": 4,
         "traits": [
             {
@@ -3555,7 +3555,7 @@
             }
         ],
         "iconIndex": 513,
-        "name": "Pierścień Czerwonej Peleryny",
+        "name": "Pierścień czerwonej peleryny",
         "note": "愚かな王子",
         "params": [
             0,
@@ -3582,7 +3582,7 @@
             }
         ],
         "iconIndex": 513,
-        "name": "Pierścień Snajpera",
+        "name": "Pierścień snajpera",
         "note": "淫腐街",
         "params": [
             0,
@@ -3599,7 +3599,7 @@
     {
         "id": 121,
         "atypeId": 1,
-        "description": "Regen. HP +10% Regen. MP +10%",
+        "description": "Regeneracja HP +10% Regeneracja MP +10%",
         "etypeId": 4,
         "traits": [
             {
@@ -3614,7 +3614,7 @@
             }
         ],
         "iconIndex": 513,
-        "name": "Pierścień Złego Króla",
+        "name": "Pierścień króla demonów",
         "note": "暗黒",
         "params": [
             0,
@@ -3631,7 +3631,7 @@
     {
         "id": 122,
         "atypeId": 1,
-        "description": "Zwiększa zwinność.",
+        "description": "Zwiększa zręczność.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 513,
@@ -3652,7 +3652,7 @@
     {
         "id": 123,
         "atypeId": 1,
-        "description": "Pierścień z wschodu. Zmienia unik w unik akrobatyczny.",
+        "description": "Specjalny pierścień wytwarzany na wschodnich ziemiach. Zmienia unik w\nunik akrobatyczny.",
         "etypeId": 4,
         "traits": [
             {
@@ -3684,7 +3684,7 @@
     {
         "id": 124,
         "atypeId": 1,
-        "description": "Zwiększa efekt przedmiotów leczących.",
+        "description": "Zwiększa skuteczność przedmiotów leczących.",
         "etypeId": 4,
         "traits": [
             {
@@ -3715,7 +3715,7 @@
         "etypeId": 4,
         "traits": [],
         "iconIndex": 513,
-        "name": "Pierścień Czterolistnej",
+        "name": "Pierścień Czterolistnej Koniczyny",
         "note": "ぺろぺろ\r\n水着イベント全て終わる",
         "params": [
             0,
@@ -3759,7 +3759,7 @@
     {
         "id": 127,
         "atypeId": 1,
-        "description": "Przyjmuje ataki za sojusznika z niskim HP.",
+        "description": "Przyjmuje ataki wymierzone w sojuszników z niskim HP.",
         "etypeId": 4,
         "traits": [
             {
@@ -3769,7 +3769,7 @@
             }
         ],
         "iconIndex": 513,
-        "name": "Pierścień Siłacza",
+        "name": "Pierścień Silnego",
         "note": "サバトの森庭",
         "params": [
             0,
@@ -3866,7 +3866,7 @@
             }
         ],
         "iconIndex": 176,
-        "name": "Łaska Kopciuszka",
+        "name": "Ulubienica Kopciuszka",
         "note": "",
         "params": [
             0,
@@ -3974,7 +3974,7 @@
     {
         "id": 132,
         "atypeId": 1,
-        "description": "Szansa na kryt. +100%",
+        "description": "Szansa na trafienie krytyczne +100%",
         "etypeId": 4,
         "traits": [
             {
@@ -3994,7 +3994,7 @@
             }
         ],
         "iconIndex": 513,
-        "name": "Pierścień śmiałka",
+        "name": "Pierścień lekkomyślnego wojownika",
         "note": "心折れた勇者",
         "params": [
             0,
@@ -4011,7 +4011,7 @@
     {
         "id": 133,
         "atypeId": 1,
-        "description": "Dodatkowa akcja +10%",
+        "description": "Dodatkowa liczba akcji +10%",
         "etypeId": 4,
         "traits": [
             {
@@ -4038,7 +4038,7 @@
     {
         "id": 134,
         "atypeId": 1,
-        "description": "Odporność na żyw. +20%",
+        "description": "Odporność na wszystkie żywioły +20%",
         "etypeId": 4,
         "traits": [
             {
@@ -4098,7 +4098,7 @@
             }
         ],
         "iconIndex": 513,
-        "name": "Pierścień egzorcyzmu",
+        "name": "Pierścień egzorcyzmów",
         "note": "バフォ",
         "params": [
             0,
@@ -4115,7 +4115,7 @@
     {
         "id": 135,
         "atypeId": 1,
-        "description": "Szansa na kryt. +40%",
+        "description": "Szansa na trafienie krytyczne +40%",
         "etypeId": 4,
         "traits": [
             {
@@ -4142,7 +4142,7 @@
     {
         "id": 136,
         "atypeId": 1,
-        "description": "Odporność na ogł. +100% Kontra +10%",
+        "description": "Odporność na ogłuszenie +100% Szansa na kontratak +10%",
         "etypeId": 4,
         "traits": [
             {
@@ -4157,7 +4157,7 @@
             }
         ],
         "iconIndex": 513,
-        "name": "Pierścień wojownika",
+        "name": "Pierścień gladiatora",
         "note": "ベヒモス牧場",
         "params": [
             0,
@@ -4174,7 +4174,7 @@
     {
         "id": 137,
         "atypeId": 1,
-        "description": "Dodatkowa akcja +100%",
+        "description": "Dodatkowa liczba akcji +100%",
         "etypeId": 4,
         "traits": [
             {
@@ -4184,7 +4184,7 @@
             }
         ],
         "iconIndex": 512,
-        "name": "Pierścień Królika Zdrajcy",
+        "name": "Pierścień Zdradzieckiego Królika",
         "note": "祈り主",
         "params": [
             0,
@@ -4201,7 +4201,7 @@
     {
         "id": 138,
         "atypeId": 1,
-        "description": "Znacznie zwiększa Atak. Celność -20%",
+        "description": "Znacznie zwiększa siłę ataku. Celność -20%",
         "etypeId": 4,
         "traits": [
             {
