@@ -23,7 +23,7 @@
         "hitType": 0,
         "iconIndex": 366,
         "itypeId": 1,
-        "name": "Fiolka z ziołami",
+        "name": "Fiolka ziołowa",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -56,7 +56,7 @@
         "hitType": 0,
         "iconIndex": 367,
         "itypeId": 1,
-        "name": "Fiolka z ziołami M",
+        "name": "Fiolka ziołowa M",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -596,7 +596,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Zwiększa wszystkie statystyki.\"Skażona dusza jest dla\nżniwiarza smakołykiem.\" - Zaklęcieny Sędzia Hein",
+        "description": "Zwiększa wszystkie statystyki.\"Skażona dusza jest dla\nżniwiarza smakołykiem.\" - Plugawy Sędzia Hein",
         "effects": [
             {
                 "code": 42,
@@ -743,7 +743,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Zwiększa karmę o 1. Równowagę świata musimy utrzymać my, \nZaklęcieny Trybunał. - Zaklęcieny Awangardzista Lindamea",
+        "description": "Zwiększa karmę o 1.\"Równowagę świata musimy utrzymać my,\nMroczny Trybunał. - Plugawy Awangardzista Lindamea\"",
         "effects": [
             {
                 "code": 44,
@@ -868,7 +868,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Odbija magię Wroga w walce.Uroda tak wielka, że nawett lustro uległo\nLustro Księżniczki Śnieżki.",
+        "description": "Odbija magię Wroga przez kilka tur.\nMoje piękno...\nnawet w lustrze jest zniewalające...\" - Śnieżka",
         "effects": [
             {
                 "code": 21,
@@ -934,7 +934,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Mleko wydojone od krowy. Słuchaj, krowa biedna, bo za dużo ją doisz.",
+        "description": "Mleko wydojone z krowy.\n\"Biedna krowa, po co ci tyle mleka...?\"",
         "effects": [],
         "hitType": 0,
         "iconIndex": 222,
@@ -1064,7 +1064,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Wybucha, zadając obrażenia od ognia. Koktajl Mołotowa to\njuż klasyka. Ale rzadko co przebija klasykę.",
+        "description": "Wybucha, zadając obrażenia od ognia.\nKoktajl Mołotowa to już klasyka. A mało co przebija klasykę",
         "effects": [],
         "hitType": 0,
         "iconIndex": 271,
@@ -1884,7 +1884,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Odcięta macka. Wciąż się porusza. Moja śliczna, kochana Kraken-chan.\nTo mój pupil. - Zaklęcieny Sędzia Baphomet",
+        "description": "Odcięta macka. Wciąż się porusza. Moja śliczna, kochana Kraken-chan.\nTo mój pupil. - Plugawy Sędzia Baphomet",
         "effects": [],
         "hitType": 0,
         "iconIndex": 270,
@@ -5146,7 +5146,7 @@
         "hitType": 0,
         "iconIndex": 357,
         "itypeId": 1,
-        "name": "Zaklęcieny Popiół",
+        "name": "Plugawy Popiół",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -5200,7 +5200,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Budzi ze śmierci upadłych towarzyszy.\n-Ognisty ptak bez piór swego boga.",
+        "description": "Budzi ze śmierci upadłych towarzyszy.\n\"Ognisty ptak bez piór swego boga.\"",
         "effects": [
             {
                 "code": 22,
@@ -5272,7 +5272,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "NIENIENIENIEE, w ten sposób nie stanę się *** dla ****. Muszę stworzyć\nwięcej uroczych dziewczynek.",
+        "description": "NIENIENIENIEE, w ten sposób nie stanę się *** dla ****.\nMuszę stworzyć więcej uroczych dziewczynek.",
         "effects": [
             {
                 "code": 42,
@@ -5422,7 +5422,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Znacząco zwiększa wszystkie statystyki. Czy miłość matki jest aż tak\nciepła? Czy ja też będę w stanie to zrozumieć?",
+        "description": "Znacząco zwiększa wszystkie statystyki. Miłośc matki, czy jest aż tak\nciepła? Czy ja też będę w stanie to zrozumieć?",
         "effects": [
             {
                 "code": 42,
@@ -5523,7 +5523,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Zwiększa wszystkie statystyki. To dusza, którą wyhodowałem. Delektuj\nsię nią porządnie, dobrze? - Zaklęcieny Sędzia Hain",
+        "description": "Zwiększa wszystkie statystyki. To dusza, którą wyhodowałem. Delektuj\nsię nią porządnie, dobrze? - Plugawy Sędzia Hain",
         "effects": [
             {
                 "code": 42,
@@ -5598,7 +5598,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "W pokoju wspomnień możesz przybrać puszystą postać. ※Nie sprawia to,\nże stajesz się szybszy.",
+        "description": "W pokoju wspomnień możesz przybrać puszystą postać.\n※Nie sprawia to, że stajesz się szybszy.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 632,
@@ -6650,7 +6650,7 @@
         "hitType": 0,
         "iconIndex": 96,
         "itypeId": 2,
-        "name": "Zaklęcieny Trybunał",
+        "name": "Plugawy Trybunał",
         "note": "",
         "occasion": 0,
         "price": 0,
