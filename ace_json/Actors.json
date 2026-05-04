@@ -519,7 +519,7 @@
         "name": "Goose",
         "nickname": "",
         "note": "<レベル限界増加:900>\r\n<限界変動:0,99999>\r\n<限界変動:1,9999>\r\n<限界変動:2,9999>\r\n<限界変動:3,9999>\r\n<限界変動:4,9999>\r\n<限界変動:5,9999>\r\n<限界変動:6,9999>\r\n<限界変動:7,9999>",
-        "profile": "Ptak bogactwa. Jeśli wezwiesz go i wygrasz walkę, otrzymasz podwójną\nliczbę przedmiotów typu Dusza. Posiada zdolność uniku."
+        "profile": "Ptak bogactwa. Jeśli wezwiesz go i wygrasz walkę, otrzymasz\npodwójną liczbę przedmiotów typu Dusza. Posiada zdolność\nuniku."
     },
     {
         "id": 18,
@@ -607,7 +607,7 @@
         "name": "Elma",
         "nickname": "",
         "note": "<レベル限界増加:900>\r\n<限界変動:0,99999>\r\n<限界変動:1,9999>\r\n<限界変動:2,9999>\r\n<限界変動:3,9999>\r\n<限界変動:4,9999>\r\n<限界変動:5,9999>\r\n<限界変動:6,9999>\r\n<限界変動:7,9999>",
-        "profile": "Specjalizuje się w efektach statusowych. Osłabia wrogów. Posiada\nwiedzę o lekach."
+        "profile": "Specjalizuje się w efektach statusowych. Osłabia wrogów.\nPosiada wiedzę o lekach."
     },
     {
         "id": 22,

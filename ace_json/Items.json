@@ -596,7 +596,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Zwiększa wszystkie statystyki.\"Skażona dusza jest dla\nżniwiarza smakołykiem.\" - Plugawy Sędzia Hein",
+        "description": "Zwiększa wszystkie statystyki.\"Skażona dusza jest dla\nżniwiarza smakołykiem.\" - Mroczny Arbiter Hein",
         "effects": [
             {
                 "code": 42,
@@ -650,7 +650,7 @@
         "hitType": 0,
         "iconIndex": 185,
         "itypeId": 1,
-        "name": "Plugawa Dusza",
+        "name": "Czarna Dusza",
         "note": "",
         "occasion": 2,
         "price": 10000,
@@ -1090,7 +1090,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Zatruwa wybranego przeciwnika.\n\"Nawet demoniczna księżniczka nie zdoła przełknąć tego placka...\".",
+        "description": "Zatruwa wybranego przeciwnika.\n\"Nawet demoniczna księżniczka nie zdoła przełknąć tego placka...\"",
         "effects": [
             {
                 "code": 21,
@@ -1255,7 +1255,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użycie pozwala zdobyć dusze.",
+        "description": "Użyj aby zyskać dusze.",
         "effects": [
             {
                 "code": 44,
@@ -1288,7 +1288,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użycie pozwala zdobyć dusze.",
+        "description": "Użyj aby zyskać dusze.",
         "effects": [
             {
                 "code": 44,
@@ -1321,7 +1321,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użycie pozwala zdobyć dusze.",
+        "description": "Użyj aby zyskać dusze.",
         "effects": [
             {
                 "code": 44,
@@ -1354,7 +1354,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użycie pozwala zdobyć dusze.",
+        "description": "Użyj aby zyskać dusze.",
         "effects": [
             {
                 "code": 44,
@@ -1366,7 +1366,7 @@
         "hitType": 0,
         "iconIndex": 119,
         "itypeId": 1,
-        "name": "Wielka dusza bezimiennego wojownika",
+        "name": "Wielka dusza bezimiennego żołnierza",
         "note": "",
         "occasion": 2,
         "price": 2000,
@@ -1387,7 +1387,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użycie pozwala zdobyć dusze.",
+        "description": "Użyj aby zyskać dusze.",
         "effects": [
             {
                 "code": 44,
@@ -1420,7 +1420,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Zyskaj duszę poprzez użycie.",
+        "description": "Użyj aby zyskać dusze.",
         "effects": [
             {
                 "code": 44,
@@ -1453,7 +1453,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Zyskaj duszę poprzez użycie.",
+        "description": "Użyj aby zyskać dusze.",
         "effects": [
             {
                 "code": 44,
@@ -1486,7 +1486,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Zyskaj duszę poprzez użycie.",
+        "description": "Użyj aby zyskać dusze.",
         "effects": [
             {
                 "code": 44,
@@ -1519,7 +1519,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Zyskaj duszę poprzez użycie.",
+        "description": "Użyj aby zyskać dusze.",
         "effects": [
             {
                 "code": 44,
@@ -1552,7 +1552,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Zyskaj duszę poprzez użycie.",
+        "description": "Użyj aby zyskać dusze.",
         "effects": [
             {
                 "code": 44,
@@ -1748,7 +1748,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Dla mojej ukochanej Śnieżki♡ Czy spodobał ci się książę twojej\nsiostrzyczki?♡ Chciałabym znów porozmawiać z tobą w naszym gniazdku\nmiłości♡ Podnieś to na tamtej plaży♡ Czekam♡",
+        "description": "Dla mojej ukochanej Śnieżki♡ Tak strasznie tęsknię♡\nBardzo Proszę, przynieś to na plażę♡ Bedę Czekać♡",
         "effects": [],
         "hitType": 0,
         "iconIndex": 238,
@@ -1858,12 +1858,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Prochy spalonej Jeanne. Wciąż są lekko ciepłe.",
+        "description": "Prochy spalonej Joanny.\nWciąż ciepłe.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 223,
         "itypeId": 1,
-        "name": "Prochy Jeanne",
+        "name": "Prochy Joanny",
         "note": "",
         "occasion": 3,
         "price": 10000,
@@ -1884,7 +1884,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Odcięta macka. Wciąż się porusza.\"Krakenusia-pieszczusia.\nMoje drogie zwierzątko.\" - Plugawy Sędzia Baphomet",
+        "description": "Odcięta macka. Wciąż się porusza.\"Krakenusia-pieszczusia.\nMoje drogie zwierzątko.\" - Mroczny Sędzia Baphomet",
         "effects": [],
         "hitType": 0,
         "iconIndex": 270,
@@ -5476,7 +5476,7 @@
         "hitType": 0,
         "iconIndex": 185,
         "itypeId": 1,
-        "name": "Wielka Plugawa dusza",
+        "name": "Wielka Czarna Dusza",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -5523,7 +5523,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Zwiększa wszystkie statystyki. \"To dusza, którą osobiście wychodowałem.\nChcesz spróbować jej smaku?\" - Plugawy Sędzia Hain",
+        "description": "Zwiększa wszystkie statystyki. \"To dusza, którą osobiście wychodowałem.\nChcesz spróbować jej smaku?\" - Mroczny Arbiter Hein",
         "effects": [
             {
                 "code": 42,
@@ -5577,7 +5577,7 @@
         "hitType": 0,
         "iconIndex": 185,
         "itypeId": 1,
-        "name": "Skażona Plugawa dusza",
+        "name": "Skażona Czarna Dusza",
         "note": "",
         "occasion": 2,
         "price": 40000,
@@ -5598,7 +5598,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "W pokoju wspomnień możesz przybrać puszystą postać.\n※Nie sprawia to, że stajesz się szybszy.",
+        "description": "W pokoju wspomnień możesz przybrać puszystą postać.\n※Nie sprawi to, że staniesz się szybszy.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 632,
@@ -5792,7 +5792,7 @@
         "hitType": 0,
         "iconIndex": 96,
         "itypeId": 2,
-        "name": "Zapomniany Las",
+        "name": "Las Zapomnienia",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -5844,7 +5844,7 @@
         "hitType": 0,
         "iconIndex": 96,
         "itypeId": 2,
-        "name": "Dzielnica Rozpusty",
+        "name": "Miasto Rozpusty",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -5870,7 +5870,7 @@
         "hitType": 0,
         "iconIndex": 96,
         "itypeId": 2,
-        "name": "Fort Aiburn",
+        "name": "Fort Ivern",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -5922,7 +5922,7 @@
         "hitType": 0,
         "iconIndex": 96,
         "itypeId": 2,
-        "name": "Kopalnia Jakob",
+        "name": "Nieużywana Kopalnia Jakoba",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6078,7 +6078,7 @@
         "hitType": 0,
         "iconIndex": 96,
         "itypeId": 2,
-        "name": "Ogród Śnieżnobiały",
+        "name": "Śnieżnobiały Ogród",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6104,7 +6104,7 @@
         "hitType": 0,
         "iconIndex": 96,
         "itypeId": 2,
-        "name": "Kuźnia Lopsa",
+        "name": "Kuźnia Ropsa",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6156,7 +6156,7 @@
         "hitType": 0,
         "iconIndex": 96,
         "itypeId": 2,
-        "name": "Kraina Zaklęcieów",
+        "name": "Kraina Czarów",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6182,7 +6182,7 @@
         "hitType": 0,
         "iconIndex": 96,
         "itypeId": 2,
-        "name": "Brama Zamkowa Zaginionego Imperium",
+        "name": "Brama Zaginionego Imperium",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6208,7 +6208,7 @@
         "hitType": 0,
         "iconIndex": 96,
         "itypeId": 2,
-        "name": "Środek Zaginionego Imperium",
+        "name": "Zaginione Imperium",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6312,7 +6312,7 @@
         "hitType": 0,
         "iconIndex": 96,
         "itypeId": 2,
-        "name": "Ogród Sabatu",
+        "name": "Las Sabatu",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6338,7 +6338,7 @@
         "hitType": 0,
         "iconIndex": 122,
         "itypeId": 2,
-        "name": "Liif",
+        "name": "Leaf",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6416,7 +6416,7 @@
         "hitType": 0,
         "iconIndex": 122,
         "itypeId": 2,
-        "name": "Jeanne",
+        "name": "Joanna",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6546,7 +6546,7 @@
         "hitType": 0,
         "iconIndex": 122,
         "itypeId": 2,
-        "name": "Elisabeth",
+        "name": "Elżbieta",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6650,7 +6650,7 @@
         "hitType": 0,
         "iconIndex": 96,
         "itypeId": 2,
-        "name": "Plugawy Trybunał",
+        "name": "Mroczny Trybunał",
         "note": "",
         "occasion": 0,
         "price": 0,
