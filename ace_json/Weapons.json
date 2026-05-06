@@ -4171,7 +4171,7 @@
     {
         "id": 112,
         "animationId": 150,
-        "description": "Broń złodziei i bandytów.\n【Wielokrotny Cios/Dekapitacja】",
+        "description": "Broń pospolitych łotrów i bandytów.\n【Wielokrotny Cios/Dekapitacja】",
         "etypeId": 0,
         "traits": [
             {
@@ -4214,7 +4214,7 @@
     {
         "id": 113,
         "animationId": 150,
-        "description": "Broń łotrów i bandytów.\n【Wielokrotny Cios/Dekapitacja】",
+        "description": "Broń pospolitych łotrów i bandytów.\n【Wielokrotny Cios/Dekapitacja】",
         "etypeId": 0,
         "traits": [
             {
@@ -4257,7 +4257,7 @@
     {
         "id": 114,
         "animationId": 150,
-        "description": "Broń łotrów i bandytów.\n【Wielokrotny Cios/Dekapitacja】",
+        "description": "Broń pospolitych łotrów i bandytów.\n【Wielokrotny Cios/Dekapitacja】",
         "etypeId": 0,
         "traits": [
             {
@@ -4300,7 +4300,7 @@
     {
         "id": 115,
         "animationId": 150,
-        "description": "Broń łotrów i bandytów.\n【Wielokrotny Cios/Dekapitacja】",
+        "description": "Broń pospolitych łotrów i bandytów.\n【Wielokrotny Cios/Dekapitacja】",
         "etypeId": 0,
         "traits": [
             {
@@ -4343,7 +4343,7 @@
     {
         "id": 116,
         "animationId": 150,
-        "description": "Broń łotrów i bandytów.\n【Wielokrotny Cios/Dekapitacja】",
+        "description": "Broń pospolitych łotrów i bandytów.\n【Wielokrotny Cios/Dekapitacja】",
         "etypeId": 0,
         "traits": [
             {
@@ -4386,7 +4386,7 @@
     {
         "id": 117,
         "animationId": 150,
-        "description": "Broń łotrów i bandytów.\n【Wielokrotny Cios/Dekapitacja】",
+        "description": "Broń pospolitych łotrów i bandytów.\n【Wielokrotny Cios/Dekapitacja】",
         "etypeId": 0,
         "traits": [
             {
@@ -4649,7 +4649,7 @@
     {
         "id": 123,
         "animationId": 127,
-        "description": "Wielki miecz o ogromnej wadze i ataku.\n【Koszenie/Ryk Berserkera】",
+        "description": "Wielki miecz o ogromnej wadze i ataku.\n【Zamach/Ryk Berserkera】",
         "etypeId": 0,
         "traits": [
             {
@@ -4692,7 +4692,7 @@
     {
         "id": 124,
         "animationId": 127,
-        "description": "Wielki miecz o ogromnej wadze i ataku.\n【Koszenie/Ryk Berserkera】",
+        "description": "Wielki miecz o ogromnej wadze i ataku.\n【Zamach/Ryk Berserkera】",
         "etypeId": 0,
         "traits": [
             {
@@ -4735,7 +4735,7 @@
     {
         "id": 125,
         "animationId": 127,
-        "description": "Wielki miecz o ogromnej wadze i ataku.\n【Koszenie/Ryk Berserkera】",
+        "description": "Wielki miecz o ogromnej wadze i ataku.\n【Zamach/Ryk Berserkera】",
         "etypeId": 0,
         "traits": [
             {
@@ -4778,7 +4778,7 @@
     {
         "id": 126,
         "animationId": 127,
-        "description": "Wielki miecz o ogromnej wadze i ataku.\n【Koszenie/Ryk Berserkera】",
+        "description": "Wielki miecz o ogromnej wadze i ataku.\n【Zamach/Ryk Berserkera】",
         "etypeId": 0,
         "traits": [
             {
@@ -4821,7 +4821,7 @@
     {
         "id": 127,
         "animationId": 127,
-        "description": "Wielki miecz o ogromnej wadze i ataku.\n【Koszenie/Ryk Berserkera】",
+        "description": "Wielki miecz o ogromnej wadze i ataku.\n【Zamach/Ryk Berserkera】",
         "etypeId": 0,
         "traits": [
             {
@@ -4864,7 +4864,7 @@
     {
         "id": 128,
         "animationId": 127,
-        "description": "Wielki miecz o ogromnej wadze i ataku.\n【Koszenie/Ryk Berserkera】",
+        "description": "Wielki miecz o ogromnej wadze i ataku.\n【Zamach/Ryk Berserkera】",
         "etypeId": 0,
         "traits": [
             {
@@ -4907,7 +4907,7 @@
     {
         "id": 129,
         "animationId": 127,
-        "description": "Wielki miecz o ogromnej wadze i ataku.\n【Koszenie/Ryk Berserkera】",
+        "description": "Wielki miecz o ogromnej wadze i ataku.\n【Zamach/Ryk Berserkera】",
         "etypeId": 0,
         "traits": [
             {
@@ -4950,7 +4950,7 @@
     {
         "id": 130,
         "animationId": 127,
-        "description": "Wielki miecz o ogromnej wadze i ataku.\n【Koszenie/Ryk Berserkera】",
+        "description": "Wielki miecz o ogromnej wadze i ataku.\n【Zamach/Ryk Berserkera】",
         "etypeId": 0,
         "traits": [
             {
@@ -4993,7 +4993,7 @@
     {
         "id": 131,
         "animationId": 127,
-        "description": "Wielki miecz o ogromnej wadze i ataku.\n【Koszenie/Ryk Berserkera】",
+        "description": "Wielki miecz o ogromnej wadze i ataku.\n【Zamach/Ryk Berserkera】",
         "etypeId": 0,
         "traits": [
             {
@@ -5036,7 +5036,7 @@
     {
         "id": 132,
         "animationId": 127,
-        "description": "Wielki miecz o ogromnej wadze i ataku.\n【Koszenie/Ryk Berserkera】",
+        "description": "Wielki miecz o ogromnej wadze i ataku.\n【Zamach/Ryk Berserkera】",
         "etypeId": 0,
         "traits": [
             {
@@ -5079,7 +5079,7 @@
     {
         "id": 133,
         "animationId": 127,
-        "description": "Wielki miecz o ogromnej wadze i sile ataku.\n【Koszenie/Ryk Berserkera/Młot/Podwójny Atak】",
+        "description": "Wielki miecz o ogromnej wadze i sile ataku.\n【Zamach/Ryk Berserkera/Żelazny Młot/Podwójny Atak】",
         "etypeId": 0,
         "traits": [
             {
@@ -5612,7 +5612,7 @@
     {
         "id": 144,
         "animationId": 126,
-        "description": "Przeklęta katana z Orientu.\n【Osiem Aspektów/Powrót Jaskółki/Mignięcie】",
+        "description": "Przeklęta katana z Orientu.\n【Osiem Aspektów/Cios Jaskółki/Mignięcie】",
         "etypeId": 0,
         "traits": [
             {
@@ -6253,7 +6253,7 @@
     {
         "id": 156,
         "animationId": 129,
-        "description": "Żelazna kula na łańcuchu. Atak obszarowy.\n【Czakra/Grad Ciosów/Ogłuszenie+10%】",
+        "description": "Żelazna kula na łańcuchu. Atakuje wszystkich przeciwników.\n【Czakra/Grad Ciosów/Ogłuszenie+10%】",
         "etypeId": 0,
         "traits": [
             {
@@ -6296,7 +6296,7 @@
     {
         "id": 157,
         "animationId": 129,
-        "description": "Żelazna kula na łańcuchu. Atak obszarowy.\n【Czakra/Grad Ciosów/Ogłuszenie+10%】",
+        "description": "Żelazna kula na łańcuchu. Atakuje wszystkich przeciwników.\n【Czakra/Grad Ciosów/Ogłuszenie+10%】",
         "etypeId": 0,
         "traits": [
             {
@@ -6339,7 +6339,7 @@
     {
         "id": 158,
         "animationId": 129,
-        "description": "Żelazna kula. Atak obszarowy.\n【Czakra/Miażdżenie/Ogłuszenie+10%】",
+        "description": "Żelazna kula na łańcuchu. Atakuje wszystkich przeciwników.\n【Czakra/Miażdżenie/Ogłuszenie+10%】",
         "etypeId": 0,
         "traits": [
             {
@@ -6382,7 +6382,7 @@
     {
         "id": 159,
         "animationId": 129,
-        "description": "Żelazna kula. Atak obszarowy.\n【Czakra/Miażdżenie/Ogłuszenie+10%】",
+        "description": "Żelazna kula na łańcuchu. Atakuje wszystkich przeciwników.\n【Czakra/Miażdżenie/Ogłuszenie+10%】",
         "etypeId": 0,
         "traits": [
             {
@@ -6425,7 +6425,7 @@
     {
         "id": 160,
         "animationId": 129,
-        "description": "Żelazna kula. Atak obszarowy.\n【Czakra/Miażdżenie/Ogłuszenie+30%】",
+        "description": "Żelazna kula na łańcuchu. Atakuje wszystkich przeciwników.\n【Czakra/Miażdżenie/Ogłuszenie+30%】",
         "etypeId": 0,
         "traits": [
             {
@@ -6468,7 +6468,7 @@
     {
         "id": 161,
         "animationId": 129,
-        "description": "Żelazna kula. Atak obszarowy.\n【Czakra/Miażdżenie/Ogłuszenie+30%】",
+        "description": "Żelazna kula na łańcuchu. Atakuje wszystkich przeciwników.\n【Czakra/Miażdżenie/Ogłuszenie+30%】",
         "etypeId": 0,
         "traits": [
             {
@@ -6511,7 +6511,7 @@
     {
         "id": 162,
         "animationId": 129,
-        "description": "Żelazna kula. Atak obszarowy.\n【Czakra/Miażdżenie/Ogłuszenie+30%】",
+        "description": "Żelazna kula na łańcuchu. Atakuje wszystkich przeciwników.\n【Czakra/Miażdżenie/Ogłuszenie+30%】",
         "etypeId": 0,
         "traits": [
             {
@@ -6554,7 +6554,7 @@
     {
         "id": 163,
         "animationId": 129,
-        "description": "Żelazna kula. Atak obszarowy.\n【Czakra/Grad Ciosów/Ogłuszenie+60%】",
+        "description": "Żelazna kula na łańcuchu. Atakuje wszystkich przeciwników.\n【Czakra/Grad Ciosów/Ogłuszenie+60%】",
         "etypeId": 0,
         "traits": [
             {
@@ -6597,7 +6597,7 @@
     {
         "id": 164,
         "animationId": 129,
-        "description": "Żelazna kula. Atak obszarowy.\n【Czakra/Grad Ciosów/Ogłuszenie+60%】",
+        "description": "Żelazna kula na łańcuchu. Atakuje wszystkich przeciwników.\n【Czakra/Grad Ciosów/Ogłuszenie+60%】",
         "etypeId": 0,
         "traits": [
             {
@@ -6640,7 +6640,7 @@
     {
         "id": 165,
         "animationId": 129,
-        "description": "Żelazna kula. Atak obszarowy.\n【Czakra/Grad Ciosów/Ogłuszenie+60%】",
+        "description": "Żelazna kula na łańcuchu. Atakuje wszystkich przeciwników.\n【Czakra/Grad Ciosów/Ogłuszenie+60%】",
         "etypeId": 0,
         "traits": [
             {
@@ -6683,7 +6683,7 @@
     {
         "id": 166,
         "animationId": 129,
-        "description": "Żelazna kula. Atak obszarowy.\n【Czakra/Grad Ciosów/Podwójne Uderzenie/Ogłuszenie+90%】",
+        "description": "Żelazna kula na łańcuchu. Atakuje wszystkich przeciwników.\n【Czakra/Grad Ciosów/Podwójne Uderzenie/Ogłuszenie+90%】",
         "etypeId": 0,
         "traits": [
             {
@@ -6731,7 +6731,7 @@
     {
         "id": 167,
         "animationId": 19,
-        "description": "Kostur czarnoksiężnika. Katalizator magii.\n【Koszt MP 1/2】",
+        "description": "Kostur czarnoksiężnika. Służy jako katalizator magii.\n【Koszt MP 1/2】",
         "etypeId": 0,
         "traits": [
             {
@@ -6769,7 +6769,7 @@
     {
         "id": 168,
         "animationId": 19,
-        "description": "Kostur czarnego maga. Służy jako katalizator magii.\n【Koszt MP 1/2】",
+        "description": "Kostur czarnoksiężnika. Służy jako katalizator magii.\n【Koszt MP 1/2】",
         "etypeId": 0,
         "traits": [
             {
@@ -6807,7 +6807,7 @@
     {
         "id": 169,
         "animationId": 19,
-        "description": "Kostur czarnego maga. Służy jako katalizator magii.\n【Koszt MP 1/2】",
+        "description": "Kostur czarnoksiężnika. Służy jako katalizator magii.\n【Koszt MP 1/2】",
         "etypeId": 0,
         "traits": [
             {
@@ -6845,7 +6845,7 @@
     {
         "id": 170,
         "animationId": 19,
-        "description": "Kostur czarnego maga. Służy jako katalizator magii.\n【Koszt MP 1/2】",
+        "description": "Kostur czarnoksiężnika. Służy jako katalizator magii.\n【Koszt MP 1/2】",
         "etypeId": 0,
         "traits": [
             {
@@ -6883,7 +6883,7 @@
     {
         "id": 171,
         "animationId": 19,
-        "description": "Kostur czarnego maga. Służy jako katalizator magii.\n【Koszt MP 1/2】",
+        "description": "Kostur czarnoksiężnika. Służy jako katalizator magii.\n【Koszt MP 1/2】",
         "etypeId": 0,
         "traits": [
             {
@@ -6921,7 +6921,7 @@
     {
         "id": 172,
         "animationId": 19,
-        "description": "Kostur czarnego maga. Służy jako katalizator magii.\n【Koszt MP 1/2】",
+        "description": "Kostur czarnoksiężnika. Służy jako katalizator magii.\n【Koszt MP 1/2】",
         "etypeId": 0,
         "traits": [
             {
@@ -6959,7 +6959,7 @@
     {
         "id": 173,
         "animationId": 19,
-        "description": "Kostur czarnego maga. Służy jako katalizator magii.\n【Koszt MP 1/2】",
+        "description": "Kostur czarnoksiężnika. Służy jako katalizator magii.\n【Koszt MP 1/2】",
         "etypeId": 0,
         "traits": [
             {
@@ -6997,7 +6997,7 @@
     {
         "id": 174,
         "animationId": 19,
-        "description": "Kostur czarnego maga. Służy jako katalizator magii.\n【Koszt MP 1/2】",
+        "description": "Kostur czarnoksiężnika. Służy jako katalizator magii.\n【Koszt MP 1/2】",
         "etypeId": 0,
         "traits": [
             {
@@ -7035,7 +7035,7 @@
     {
         "id": 175,
         "animationId": 19,
-        "description": "Kostur czarnego maga. Służy jako katalizator magii.\n【Koszt MP 1/2】",
+        "description": "Kostur czarnoksiężnika. Służy jako katalizator magii.\n【Koszt MP 1/2】",
         "etypeId": 0,
         "traits": [
             {
@@ -7073,7 +7073,7 @@
     {
         "id": 176,
         "animationId": 19,
-        "description": "Kostur czarnego maga. Służy jako katalizator magii.\n【Koszt MP 1/2】",
+        "description": "Kostur czarnoksiężnika. Służy jako katalizator magii.\n【Koszt MP 1/2】",
         "etypeId": 0,
         "traits": [
             {
@@ -7111,7 +7111,7 @@
     {
         "id": 177,
         "animationId": 19,
-        "description": "Kostur czarnego maga. Służy jako katalizator magii.\n【Koszt MP 0】",
+        "description": "Kostur czarnoksiężnika. Służy jako katalizator magii.\n【Koszt MP 0】",
         "etypeId": 0,
         "traits": [
             {
@@ -7737,7 +7737,7 @@
     {
         "id": 189,
         "animationId": 130,
-        "description": "Wielki topór.\n【Odcięcie/Topór Rzeźnika/Krwawienie+30%】",
+        "description": "Wielki, Spaczony Topór. Zadaje podwójne obrażenia krwawiącym celom.\n【Odcięcie/Topór Rzezi/Krwawienie+30%】",
         "etypeId": 0,
         "traits": [
             {
@@ -7785,7 +7785,7 @@
     {
         "id": 190,
         "animationId": 130,
-        "description": "Wielki topór.\n【Odcięcie/Topór Rzeźnika/Krwawienie+35%】",
+        "description": "Wielki, Spaczony Topór. Zadaje podwójne obrażenia krwawiącym celom.\n【Odcięcie/Topór Rzezi/Krwawienie+35%】",
         "etypeId": 0,
         "traits": [
             {
@@ -7833,7 +7833,7 @@
     {
         "id": 191,
         "animationId": 130,
-        "description": "Wielki topór.\n【Odcięcie/Topór Rzeźnika/Krwawienie+40%】",
+        "description": "Wielki, Spaczony Topór. Zadaje podwójne obrażenia krwawiącym celom.\n【Odcięcie/Topór Rzezi/Krwawienie+40%】",
         "etypeId": 0,
         "traits": [
             {
@@ -7881,7 +7881,7 @@
     {
         "id": 192,
         "animationId": 130,
-        "description": "Wielki topór.\n【Odcięcie/Topór Rzeźnika/Krwawienie+45%】",
+        "description": "Wielki, Spaczony Topór. Zadaje podwójne obrażenia krwawiącym celom.\n【Odcięcie/Topór Rzezi/Krwawienie+45%】",
         "etypeId": 0,
         "traits": [
             {
@@ -7929,7 +7929,7 @@
     {
         "id": 193,
         "animationId": 130,
-        "description": "Wielki topór.\n【Odcięcie/Topór Rzeźnika/Krwawienie+50%】",
+        "description": "Wielki, Spaczony Topór. Zadaje podwójne obrażenia krwawiącym celom.\n【Odcięcie/Topór Rzezi/Krwawienie+50%】",
         "etypeId": 0,
         "traits": [
             {
@@ -7977,7 +7977,7 @@
     {
         "id": 194,
         "animationId": 130,
-        "description": "Wielki topór.\n【Odcięcie/Topór Rzeźnika/Krwawienie+55%】",
+        "description": "Wielki, Spaczony Topór. Zadaje podwójne obrażenia krwawiącym celom.\n【Odcięcie/Topór Rzezi/Krwawienie+55%】",
         "etypeId": 0,
         "traits": [
             {
@@ -8025,7 +8025,7 @@
     {
         "id": 195,
         "animationId": 130,
-        "description": "Wielki topór.\n【Odcięcie/Topór Rzeźnika/Krwawienie+60%】",
+        "description": "Wielki, Spaczony Topór. Zadaje podwójne obrażenia krwawiącym celom.\n【Odcięcie/Topór Rzezi/Krwawienie+60%】",
         "etypeId": 0,
         "traits": [
             {
@@ -8073,7 +8073,7 @@
     {
         "id": 196,
         "animationId": 130,
-        "description": "Wielki topór.\n【Odcięcie/Topór Rzeźnika/Krwawienie+65%】",
+        "description": "Wielki, Spaczony Topór. Zadaje podwójne obrażenia krwawiącym celom.\n【Odcięcie/Topór Rzezi/Krwawienie+65%】",
         "etypeId": 0,
         "traits": [
             {
@@ -8121,7 +8121,7 @@
     {
         "id": 197,
         "animationId": 130,
-        "description": "Wielki topór.\n【Odcięcie/Topór Rzeźnika/Krwawienie+70%】",
+        "description": "Wielki, Spaczony Topór. Zadaje podwójne obrażenia krwawiącym celom.\n【Odcięcie/Topór Rzezi/Krwawienie+70%】",
         "etypeId": 0,
         "traits": [
             {
@@ -8169,7 +8169,7 @@
     {
         "id": 198,
         "animationId": 130,
-        "description": "Wielki topór.\n【Odcięcie/Topór Rzeźnika/Krwawienie+75%】",
+        "description": "Wielki, Spaczony Topór. Zadaje podwójne obrażenia krwawiącym celom.\n【Odcięcie/Topór Rzezi/Krwawienie+75%】",
         "etypeId": 0,
         "traits": [
             {
@@ -8217,7 +8217,7 @@
     {
         "id": 199,
         "animationId": 130,
-        "description": "Wielki topór.\n【Odcięcie/Rzeź/Topór Rzezi/Krwawienie+100%】",
+        "description": "Wielki, Spaczony Topór. Zadaje podwójne obrażenia krwawiącym celom.\n【Odcięcie/Topór Rzezi/Ostrze Egzekucji/Krwawienie+100%】",
         "etypeId": 0,
         "traits": [
             {
@@ -9286,7 +9286,7 @@
     {
         "id": 222,
         "animationId": 132,
-        "description": "Miecz z upadłego królestwa.\n【Aura Ostrza/10% Bonus do Akcji/Unik+10%】",
+        "description": "Miecz z upadłego królestwa.\n【Ostrze Aury/10% Bonus do Akcji/Unik+10%】",
         "etypeId": 0,
         "traits": [
             {
@@ -9819,7 +9819,7 @@
     {
         "id": 233,
         "animationId": 13,
-        "description": "Broń łącząca miecz i tarczę.\n【Atak Obronny/Redukcja obrażeń fiz.+5%】",
+        "description": "Broń która jest szerokim mieczem i silną tarczą w jednym.\n【Atak Obronny/Redukcja obrażeń fiz.+5%】",
         "etypeId": 0,
         "traits": [
             {
@@ -9844,7 +9844,7 @@
             }
         ],
         "iconIndex": 401,
-        "name": "Tarcza-Bunkier",
+        "name": "Bastion",
         "note": "<攻撃ID変更:286>\r\\n旧淫腐街",
         "params": [
             0,
@@ -9862,7 +9862,7 @@
     {
         "id": 234,
         "animationId": 13,
-        "description": "Broń łącząca miecz i tarczę.\n【Atak Obronny/Redukcja obrażeń fiz.+10%】",
+        "description": "Broń która jest szerokim mieczem i silną tarczą w jednym.\n【Atak Obronny/Redukcja obrażeń fiz.+10%】",
         "etypeId": 0,
         "traits": [
             {
@@ -9887,7 +9887,7 @@
             }
         ],
         "iconIndex": 401,
-        "name": "Tarcza-Bunkier+1",
+        "name": "Bastion+1",
         "note": "<攻撃ID変更:286>",
         "params": [
             0,
@@ -9905,7 +9905,7 @@
     {
         "id": 235,
         "animationId": 13,
-        "description": "Broń łącząca miecz i tarczę.\n【Atak Obronny/Redukcja obrażeń fiz.+15%】",
+        "description": "Broń która jest szerokim mieczem i silną tarczą w jednym.\n【Atak Obronny/Redukcja obrażeń fiz.+15%】",
         "etypeId": 0,
         "traits": [
             {
@@ -9930,7 +9930,7 @@
             }
         ],
         "iconIndex": 401,
-        "name": "Tarcza-Bunkier+2",
+        "name": "Bastion+2",
         "note": "<攻撃ID変更:286>",
         "params": [
             0,
@@ -9948,7 +9948,7 @@
     {
         "id": 236,
         "animationId": 13,
-        "description": "Broń łącząca miecz i tarczę.\n【Atak Obronny/Redukcja obrażeń fiz.+20%】",
+        "description": "Broń która jest szerokim mieczem i silną tarczą w jednym.\n【Atak Obronny/Redukcja obrażeń fiz.+20%】",
         "etypeId": 0,
         "traits": [
             {
@@ -9973,7 +9973,7 @@
             }
         ],
         "iconIndex": 401,
-        "name": "Tarcza-Bunkier+3",
+        "name": "Bastion+3",
         "note": "<攻撃ID変更:286>",
         "params": [
             0,
@@ -9991,7 +9991,7 @@
     {
         "id": 237,
         "animationId": 13,
-        "description": "Broń łącząca miecz i tarczę.\n【Atak Obronny/Redukcja obrażeń fiz.+25%】",
+        "description": "Broń która jest szerokim mieczem i silną tarczą w jednym.\n【Atak Obronny/Redukcja obrażeń fiz.+25%】",
         "etypeId": 0,
         "traits": [
             {
@@ -10016,7 +10016,7 @@
             }
         ],
         "iconIndex": 401,
-        "name": "Tarcza-Bunkier+4",
+        "name": "Bastion+4",
         "note": "<攻撃ID変更:286>",
         "params": [
             0,
@@ -10034,7 +10034,7 @@
     {
         "id": 238,
         "animationId": 13,
-        "description": "Broń łącząca miecz i tarczę.\n【Atak Obronny/Redukcja obrażeń fiz.+30%】",
+        "description": "Broń która jest szerokim mieczem i silną tarczą w jednym.\n【Atak Obronny/Redukcja obrażeń fiz.+30%】",
         "etypeId": 0,
         "traits": [
             {
@@ -10059,7 +10059,7 @@
             }
         ],
         "iconIndex": 401,
-        "name": "Tarcza-Kafar+5",
+        "name": "Bastion+5",
         "note": "<攻撃ID変更:286>",
         "params": [
             0,
@@ -10077,7 +10077,7 @@
     {
         "id": 239,
         "animationId": 13,
-        "description": "Broń łącząca miecz i tarczę.\n【Atak Obronny/Redukcja obrażeń fiz.+35%】",
+        "description": "Broń która jest szerokim mieczem i silną tarczą w jednym.\n【Atak Obronny/Redukcja obrażeń fiz.+35%】",
         "etypeId": 0,
         "traits": [
             {
@@ -10102,7 +10102,7 @@
             }
         ],
         "iconIndex": 401,
-        "name": "Tarcza-Kafar+6",
+        "name": "Bastion+6",
         "note": "<攻撃ID変更:286>",
         "params": [
             0,
@@ -10120,7 +10120,7 @@
     {
         "id": 240,
         "animationId": 13,
-        "description": "Broń łącząca miecz i tarczę.\n【Atak Obronny/Redukcja obrażeń fiz.+40%】",
+        "description": "Broń która jest szerokim mieczem i silną tarczą w jednym.\n【Atak Obronny/Redukcja obrażeń fiz.+40%】",
         "etypeId": 0,
         "traits": [
             {
@@ -10145,7 +10145,7 @@
             }
         ],
         "iconIndex": 401,
-        "name": "Tarcza-Kafar+7",
+        "name": "Bastion+7",
         "note": "<攻撃ID変更:286>",
         "params": [
             0,
@@ -10163,7 +10163,7 @@
     {
         "id": 241,
         "animationId": 13,
-        "description": "Broń łącząca miecz i tarczę.\n【Atak Obronny/Redukcja obrażeń fiz.+45%】",
+        "description": "Broń która jest szerokim mieczem i silną tarczą w jednym.\n【Atak Obronny/Redukcja obrażeń fiz.+45%】",
         "etypeId": 0,
         "traits": [
             {
@@ -10188,7 +10188,7 @@
             }
         ],
         "iconIndex": 401,
-        "name": "Tarcza-Kafar+8",
+        "name": "Bastion+8",
         "note": "<攻撃ID変更:286>",
         "params": [
             0,
@@ -10206,7 +10206,7 @@
     {
         "id": 242,
         "animationId": 13,
-        "description": "Broń łącząca miecz i tarczę.\n【Atak Obronny/Redukcja obrażeń fiz.+50%】",
+        "description": "Broń która jest szerokim mieczem i silną tarczą w jednym.\n【Atak Obronny/Redukcja obrażeń fiz.+50%】",
         "etypeId": 0,
         "traits": [
             {
@@ -10231,7 +10231,7 @@
             }
         ],
         "iconIndex": 401,
-        "name": "Tarcza-Kafar+9",
+        "name": "Bastion+9",
         "note": "<攻撃ID変更:286>",
         "params": [
             0,
@@ -10249,7 +10249,7 @@
     {
         "id": 243,
         "animationId": 13,
-        "description": "Broń łącząca miecz i tarczę.\n【Atak Obronny/Redukcja obrażeń fiz.+50%/Miażdżenie Tarczą】",
+        "description": "Broń która jest szerokim mieczem i silną tarczą w jednym.\n【Atak Obronny/Redukcja obrażeń fiz.+50%/Rozbicie Tarczy】",
         "etypeId": 0,
         "traits": [
             {
@@ -10279,7 +10279,7 @@
             }
         ],
         "iconIndex": 401,
-        "name": "Tarcza-Pal+10",
+        "name": "Bastion+10",
         "note": "<攻撃ID変更:286>\r\\n",
         "params": [
             0,
