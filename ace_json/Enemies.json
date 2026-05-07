@@ -13277,7 +13277,7 @@
             }
         ],
         "gold": 3500,
-        "name": "Rycerz Królik Lumirage",
+        "name": "Króliczy Rycerz Lumirage",
         "note": "",
         "params": [
             9700,
@@ -17177,7 +17177,7 @@
             }
         ],
         "gold": 0,
-        "name": "Modlący się",
+        "name": "Mistrz Modlitwy",
         "note": "",
         "params": [
             120000,
@@ -17610,7 +17610,7 @@
             }
         ],
         "gold": 50000,
-        "name": "Rycerz-Królik Lumirage",
+        "name": "Króliczy Rycerz Lumirage",
         "note": "終点",
         "params": [
             25600,
@@ -18598,7 +18598,7 @@
             }
         ],
         "gold": 75000,
-        "name": "Czarny Sędzia Hein",
+        "name": "Mroczny Arbiter Hein",
         "note": "",
         "params": [
             30000,
@@ -18911,7 +18911,7 @@
             }
         ],
         "gold": 65000,
-        "name": "Czarny Nauczyciel Ezwald",
+        "name": "Mentor Ezwald",
         "note": "聖森",
         "params": [
             36000,
@@ -32192,7 +32192,7 @@
             }
         ],
         "gold": 75000,
-        "name": "Czarny Sędzia Hein",
+        "name": "Mroczny Arbiter Hein",
         "note": "",
         "params": [
             30000,
@@ -32512,7 +32512,7 @@
             }
         ],
         "gold": 65000,
-        "name": "Czarny Nauczyciel Ezwald",
+        "name": "Mentor Ezwald",
         "note": "聖森",
         "params": [
             36000,
