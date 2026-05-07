@@ -5570,7 +5570,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Egzekucji ma podlegać królik zwany \\c[2]Modlącym się\\c[0].\""
+                                "\"Egzekucji ma podlegać królik zwany \\c[2]Mistrz Modlitwm się\\c[0].\""
                             ]
                         },
                         {
@@ -6037,7 +6037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Ten, kto chce być stracony, to królik zwany \\c[2]Modlącym\\c[0]~\""
+                                "\"Ten, kto chce być stracony, to królik zwany \\c[2]Mistrz Modlitwm\\c[0]~\""
                             ]
                         },
                         {
@@ -8269,7 +8269,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "NW名前指定 Oëntius,_Rycerz_Cieni"
+                                "NW名前指定 Mroczny Rycerz Oëntius"
                             ]
                         },
                         {
@@ -8539,7 +8539,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "NW名前指定 Oëntius,_Rycerz_Cieni"
+                                "NW名前指定 Mroczny Rycerz Oëntius"
                             ]
                         },
                         {
@@ -9292,7 +9292,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "NW名前指定 Mroczny_Sędzia_Hain"
+                                "NW名前指定 Mroczny Arbiter Hein"
                             ]
                         },
                         {
@@ -9316,7 +9316,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "NW名前指定 Mroczny_Sędzia_Hain"
+                                "NW名前指定 Mroczny Arbiter Hein"
                             ]
                         },
                         {
@@ -9340,7 +9340,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "NW名前指定 Mroczny_Sędzia_Hain"
+                                "NW名前指定 Mroczny Arbiter Hein"
                             ]
                         },
                         {
@@ -9383,7 +9383,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "NW名前指定 Mroczny_Sędzia_Hain"
+                                "NW名前指定 Mroczny Arbiter Hein"
                             ]
                         },
                         {
@@ -9407,7 +9407,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "NW名前指定 Mroczny_Sędzia_Hain"
+                                "NW名前指定 Mroczny Arbiter Hein"
                             ]
                         },
                         {
@@ -9444,7 +9444,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "NW名前指定 Mroczny_Sędzia_Hain"
+                                "NW名前指定 Mroczny Arbiter Hein"
                             ]
                         },
                         {
@@ -9468,7 +9468,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "NW名前指定 Mroczny_Sędzia_Hain"
+                                "NW名前指定 Mroczny Arbiter Hein"
                             ]
                         },
                         {
@@ -9580,7 +9580,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "NW名前指定 Mroczny_Sędzia_Hain"
+                                "NW名前指定 Mroczny Arbiter Hein"
                             ]
                         },
                         {
@@ -9604,7 +9604,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "NW名前指定 Mroczny_Sędzia_Hain"
+                                "NW名前指定 Mroczny Arbiter Hein"
                             ]
                         },
                         {
@@ -9628,7 +9628,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "NW名前指定 Mroczny_Sędzia_Hain"
+                                "NW名前指定 Mroczny Arbiter Hein"
                             ]
                         },
                         {
@@ -9645,14 +9645,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Następnie \\c[2]Spowiednik Ezwald\\c[0]. Podobno kiedyś był\nksiędzem. Osiągał dobre wyniki w Mrocznym Trybunale,\nale oszalał od nieustannych egzekucji. Opuścił\norganizację i zaginął. …Co za głupiec."
+                                "Następnie \\c[2]Inkwizytor Ezwald\\c[0]. Podobno kiedyś był\nksiędzem. Osiągał dobre wyniki w Mrocznym Trybunale,\nale oszalał od nieustannych egzekucji. Opuścił\norganizację i zaginął. …Co za głupiec."
                             ]
                         },
                         {
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "NW名前指定 Mroczny_Sędzia_Hain"
+                                "NW名前指定 Mroczny Arbiter Hein"
                             ]
                         },
                         {
@@ -9676,7 +9676,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "NW名前指定 Mroczny_Sędzia_Hain"
+                                "NW名前指定 Mroczny Arbiter Hein"
                             ]
                         },
                         {
@@ -9724,7 +9724,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "NW名前指定 Mroczny_Sędzia_Hain"
+                                "NW名前指定 Mroczny Arbiter Hein"
                             ]
                         },
                         {
@@ -9748,7 +9748,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "NW名前指定 Mroczny_Sędzia_Hain"
+                                "NW名前指定 Mroczny Arbiter Hein"
                             ]
                         },
                         {
@@ -9792,7 +9792,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "NW名前指定 Mroczny_Sędzia_Hain"
+                                "NW名前指定 Mroczny Arbiter Hein"
                             ]
                         },
                         {
@@ -9837,7 +9837,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "NW名前指定 Mroczny_Sędzia_Hain"
+                                "NW名前指定 Mroczny Arbiter Hein"
                             ]
                         },
                         {
@@ -9901,7 +9901,7 @@
                             "code": 108,
                             "indent": 2,
                             "parameters": [
-                                "NW名前指定 Mroczny_Sędzia_Hain"
+                                "NW名前指定 Mroczny Arbiter Hein"
                             ]
                         },
                         {
@@ -10084,7 +10084,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "NW名前指定 Mroczny_Sędzia_Hain"
+                                "NW名前指定 Mroczny Arbiter Hein"
                             ]
                         },
                         {
@@ -10108,7 +10108,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "NW名前指定 Mroczny_Sędzia_Hain"
+                                "NW名前指定 Mroczny Arbiter Hein"
                             ]
                         },
                         {
@@ -10132,7 +10132,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "NW名前指定 Mroczny_Sędzia_Hain"
+                                "NW名前指定 Mroczny Arbiter Hein"
                             ]
                         },
                         {
@@ -10156,7 +10156,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "NW名前指定 Mroczny_Sędzia_Hain"
+                                "NW名前指定 Mroczny Arbiter Hein"
                             ]
                         },
                         {
@@ -10180,7 +10180,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "NW名前指定 Mroczny_Sędzia_Hain"
+                                "NW名前指定 Mroczny Arbiter Hein"
                             ]
                         },
                         {
@@ -10228,7 +10228,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "NW名前指定 Mroczny_Sędzia_Hain"
+                                "NW名前指定 Mroczny Arbiter Hein"
                             ]
                         },
                         {
@@ -10252,7 +10252,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "NW名前指定 Mroczny_Sędzia_Hain"
+                                "NW名前指定 Mroczny Arbiter Hein"
                             ]
                         },
                         {
@@ -10296,7 +10296,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "NW名前指定 Mroczny_Sędzia_Hain"
+                                "NW名前指定 Mroczny Arbiter Hein"
                             ]
                         },
                         {
@@ -10341,7 +10341,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "NW名前指定 Mroczny_Sędzia_Hain"
+                                "NW名前指定 Mroczny Arbiter Hein"
                             ]
                         },
                         {
@@ -10405,7 +10405,7 @@
                             "code": 108,
                             "indent": 2,
                             "parameters": [
-                                "NW名前指定 Mroczny_Sędzia_Hain"
+                                "NW名前指定 Mroczny Arbiter Hein"
                             ]
                         },
                         {
@@ -10596,7 +10596,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "NW名前指定 Mroczny_Sędzia_Hain"
+                                "NW名前指定 Mroczny Arbiter Hein"
                             ]
                         },
                         {
@@ -10743,7 +10743,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "NW名前指定 Mroczny_Sędzia_Hain"
+                                "NW名前指定 Mroczny Arbiter Hein"
                             ]
                         },
                         {
@@ -10767,7 +10767,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "NW名前指定 Mroczny_Sędzia_Hain"
+                                "NW名前指定 Mroczny Arbiter Hein"
                             ]
                         },
                         {
@@ -10791,7 +10791,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "NW名前指定 Mroczny_Sędzia_Hain"
+                                "NW名前指定 Mroczny Arbiter Hein"
                             ]
                         },
                         {
@@ -10815,7 +10815,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "NW名前指定 Mroczny_Sędzia_Hain"
+                                "NW名前指定 Mroczny Arbiter Hein"
                             ]
                         },
                         {
