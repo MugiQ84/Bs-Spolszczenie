@@ -98,11 +98,11 @@
 
 $imported ||= {}
 
-$imported["A1_Name_Window"] = true
+$imported["A1 Name Window"] = true
 
-if $imported["A1_Common_Script"]
+if $imported["A1 Common Script"]
 
-old_common_script("ネームウィンドウ", "3.30") if common_version < 3.30
+old common script("ネームウィンドウ", "3.30") if common version < 3.30
 
 #==============================================================================
 
@@ -110,7 +110,7 @@ old_common_script("ネームウィンドウ", "3.30") if common_version < 3.30
 
 #==============================================================================
 
-module A1_System::NameWindow
+module A1 System::NameWindow
 
 
 
@@ -120,7 +120,7 @@ module A1_System::NameWindow
 
   #--------------------------------------------------------------------------
 
-  USE_NAME_WINDOW_CLASS = [Window_Message]
+  USE NAME WINDOW CLASS = [Window Message]
 
   
 
@@ -130,7 +130,7 @@ module A1_System::NameWindow
 
   #--------------------------------------------------------------------------
 
-  NAME_FONT = "UmePlus Gothic"
+  NAME FONT = "UmePlus Gothic"
 
   
 
@@ -140,7 +140,7 @@ module A1_System::NameWindow
 
   #--------------------------------------------------------------------------
 
-  FIX_LONG_NAME = false
+  FIX LONG NAME = false
 
   
 
@@ -150,7 +150,7 @@ module A1_System::NameWindow
 
   #
 
-  #  "[ファイル名]_[Index]" => "表示する名前" ※Index毎に設定
+  #  "[ファイル名] [Index]" => "表示する名前" ※Index毎に設定
 
   #  "[ファイル名]"         => "表示する名前" ※該当ファイル全てに適用
 
@@ -158,7 +158,7 @@ module A1_System::NameWindow
 
   #--------------------------------------------------------------------------
 
-  NAME_LIST = {
+  NAME LIST = {
 
     "aka"    => "Czerwony Kapturek",
 
@@ -238,9 +238,9 @@ module Cache
 
   #--------------------------------------------------------------------------
 
-  def self.name_bitmap(name)
+  def self.name bitmap(name)
 
-    return load_name_bitmap(name)
+    return load name bitmap(name)
 
   end
 
@@ -250,11 +250,11 @@ module Cache
 
   #--------------------------------------------------------------------------
 
-  def self.load_name_bitmap(name)
+  def self.load name bitmap(name)
 
     @cache ||= {}
 
-    key = [name, "name_window"]
+    key = [name, "name window"]
 
     return @cache[key] if include?(key)
 
@@ -264,11 +264,11 @@ module Cache
 
     bitmap = Cache.system("")
 
-    bitmap.font.name = A1_System::NameWindow::NAME_FONT
+    bitmap.font.name = A1 System::NameWindow::NAME FONT
 
     bitmap.font.size = 16
 
-    tw = bitmap.text_size(name).width + 8
+    tw = bitmap.text size(name).width + 8
 
     
 
@@ -276,13 +276,13 @@ module Cache
 
     bitmap = Bitmap.new(tw, bitmap.font.size + 4)
 
-    bitmap.font.name = A1_System::NameWindow::NAME_FONT
+    bitmap.font.name = A1 System::NameWindow::NAME FONT
 
     bitmap.font.size = 16
 
     bitmap.font.color = Color.new(255,255,255)
 
-    bitmap.draw_text(0, 0, bitmap.width, bitmap.height, name, 1)
+    bitmap.draw text(0, 0, bitmap.width, bitmap.height, name, 1)
 
     
 
@@ -296,13 +296,13 @@ end
 
 #==============================================================================
 
-# ■ Window_FaceName
+# ■ Window FaceName
 
 #==============================================================================
 
 
 
-class Window_FaceName < Window_Base
+class Window FaceName < Window Base
 
   #--------------------------------------------------------------------------
 
@@ -312,7 +312,7 @@ class Window_FaceName < Window_Base
 
   def initialize(name, z)
 
-    info = create_name_sprite(name)
+    info = create name sprite(name)
 
     super(0, 0, info[0], info[1])
 
@@ -324,11 +324,11 @@ class Window_FaceName < Window_Base
 
     skin = Cache.system("Window").clone
 
-    skin.clear_rect(80, 16, 32, 32)
+    skin.clear rect(80, 16, 32, 32)
 
     self.windowskin = skin
 
-    @name_sprite.z = self.z + 10
+    @name sprite.z = self.z + 10
 
   end
 
@@ -338,17 +338,17 @@ class Window_FaceName < Window_Base
 
   #--------------------------------------------------------------------------
 
-  def setup_name_window(name)
+  def setup name window(name)
 
-    info = create_name_sprite(name)
+    info = create name sprite(name)
 
     self.width  = info[0]
 
     self.height = info[1]
 
-    create_contents
+    create contents
 
-    @name_sprite.z = self.z + 10
+    @name sprite.z = self.z + 10
 
   end
 
@@ -362,11 +362,11 @@ class Window_FaceName < Window_Base
 
     super
 
-    @name_sprite.visible = self.visible && self.open?
+    @name sprite.visible = self.visible && self.open?
 
     return unless self.open?
 
-    @name_sprite.update
+    @name sprite.update
 
   end
 
@@ -378,9 +378,9 @@ class Window_FaceName < Window_Base
 
   def dispose
 
-    @name_sprite.bitmap.dispose
+    @name sprite.bitmap.dispose
 
-    @name_sprite.dispose
+    @name sprite.dispose
 
     super
 
@@ -396,9 +396,9 @@ class Window_FaceName < Window_Base
 
     super
 
-    @name_sprite.x = self.x + self.width / 2
+    @name sprite.x = self.x + self.width / 2
 
-    @name_sprite.y = self.y + self.height / 2
+    @name sprite.y = self.y + self.height / 2
 
   end
 
@@ -408,25 +408,25 @@ class Window_FaceName < Window_Base
 
   #--------------------------------------------------------------------------
 
-  def create_name_sprite(name)
+  def create name sprite(name)
 
     # ビットマップの取得
 
-    bitmap = Cache.name_bitmap(name)
+    bitmap = Cache.name bitmap(name)
 
     
 
     # スプライト設定
 
-    @name_sprite         = Sprite.new
+    @name sprite         = Sprite.new
 
-    @name_sprite.bitmap  = bitmap
+    @name sprite.bitmap  = bitmap
 
-    @name_sprite.ox      = bitmap.width / 2
+    @name sprite.ox      = bitmap.width / 2
 
-    @name_sprite.oy      = bitmap.height / 2
+    @name sprite.oy      = bitmap.height / 2
 
-    @name_sprite.visible = false
+    @name sprite.visible = false
 
     
 
@@ -438,7 +438,7 @@ end
 
 #==============================================================================
 
-# ■ Window_Base
+# ■ Window Base
 
 #------------------------------------------------------------------------------
 
@@ -448,7 +448,7 @@ end
 
 
 
-class Window_Base < Window
+class Window Base < Window
 
   #--------------------------------------------------------------------------
 
@@ -456,13 +456,13 @@ class Window_Base < Window
 
   #--------------------------------------------------------------------------
 
-  alias a1_name_window_window_base_initialize initialize 
+  alias a1 name window window base initialize initialize 
 
   def initialize(x, y, width, height)
 
-    a1_name_window_window_base_initialize(x, y, width, height)
+    a1 name window window base initialize(x, y, width, height)
 
-    create_name_window
+    create name window
 
   end
 
@@ -472,13 +472,13 @@ class Window_Base < Window
 
   #--------------------------------------------------------------------------
 
-  alias a1_name_window_window_base_update update 
+  alias a1 name window window base update update 
 
   def update
 
-    a1_name_window_window_base_update
+    a1 name window window base update
 
-    update_name_window
+    update name window
 
   end
 
@@ -488,13 +488,13 @@ class Window_Base < Window
 
   #--------------------------------------------------------------------------
 
-  alias a1_name_window_window_base_draw_face draw_face
+  alias a1 name window window base draw face draw face
 
-  def draw_face(face_name, face_index, x, y, size = 96)
+  def draw face(face name, face index, x, y, size = 96)
 
-    a1_name_window_window_base_draw_face(face_name, face_index, x, y, size)
+    a1 name window window base draw face(face name, face index, x, y, size)
 
-    show_name_window(face_name, face_index, x, size)
+    show name window(face name, face index, x, size)
 
   end
 
@@ -504,11 +504,11 @@ class Window_Base < Window
 
   #--------------------------------------------------------------------------
 
-  alias a1_name_window_window_base_close close
+  alias a1 name window window base close close
 
   def close
 
-    a1_name_window_window_base_close
+    a1 name window window base close
 
   end
 
@@ -518,13 +518,13 @@ class Window_Base < Window
 
   #--------------------------------------------------------------------------
 
-  alias a1_name_window_window_base_dispose dispose
+  alias a1 name window window base dispose dispose
 
   def dispose
 
-    a1_name_window_window_base_dispose
+    a1 name window window base dispose
 
-    dispose_name_window
+    dispose name window
 
   end
 
@@ -534,9 +534,9 @@ class Window_Base < Window
 
   #--------------------------------------------------------------------------
 
-  def dispose_name_window
+  def dispose name window
 
-    @name_windows.values.each {|window| window.dispose }
+    @name windows.values.each {|window| window.dispose }
 
   end
 
@@ -546,9 +546,9 @@ class Window_Base < Window
 
   #--------------------------------------------------------------------------
 
-  def update_name_window
+  def update name window
 
-    @name_windows.values.each {|window| window.update }
+    @name windows.values.each {|window| window.update }
 
   end
 
@@ -558,9 +558,9 @@ class Window_Base < Window
 
   #--------------------------------------------------------------------------
 
-  def use_name_window?
+  def use name window?
 
-    A1_System::NameWindow::USE_NAME_WINDOW_CLASS.each {|clas| return true if self.is_a?(clas) }
+    A1 System::NameWindow::USE NAME WINDOW CLASS.each {|clas| return true if self.is a?(clas) }
 
     return false
 
@@ -572,9 +572,9 @@ class Window_Base < Window
 
   #--------------------------------------------------------------------------
 
-  def create_name_window
+  def create name window
 
-    @name_windows = {}
+    @name windows = {}
 
   end
 
@@ -584,29 +584,29 @@ class Window_Base < Window
 
   #--------------------------------------------------------------------------
 
-  def show_name(face_name, face_index)
+  def show name(face name, face index)
 
-    return nil unless $game_system.use_name_window
+    return nil unless $game system.use name window
 
-    name = $game_temp.direct_show_name
+    name = $game temp.direct show name
 
     if name.empty?
 
-      return nil if face_name == nil || face_name.empty?
+      return nil if face name == nil || face name.empty?
 
-      name = A1_System::NameWindow::NAME_LIST[sprintf("%s_%d", face_name, face_index)]
+      name = A1 System::NameWindow::NAME LIST[sprintf("%s %d", face name, face index)]
 
-      name = A1_System::NameWindow::NAME_LIST[face_name] if name == nil
+      name = A1 System::NameWindow::NAME LIST[face name] if name == nil
 
-      name = name[$game_temp.name_index] if name.is_a?(Array)
+      name = name[$game temp.name index] if name.is a?(Array)
 
-      name = $game_actors[$1.to_i].name if name =~ /Actor\[(\d+)\]/
+      name = $game actors[$1.to i].name if name =~ /Actor\[(\d+)\]/
 
     end
 
-    $game_temp.name_index       = 0
+    $game temp.name index       = 0
 
-    $game_temp.direct_show_name = ""
+    $game temp.direct show name = ""
 
     return name
 
@@ -618,39 +618,39 @@ class Window_Base < Window
 
   #--------------------------------------------------------------------------
 
-  def show_name_window(face_name, face_index, x, size = 96)
+  def show name window(face name, face index, x, size = 96)
 
-    return unless use_name_window?
+    return unless use name window?
 
-    name = show_name(face_name, face_index)
+    name = show name(face name, face index)
 
     return if name == nil or name.empty?
 
-    @name_windows[name] ||= Window_FaceName.new(name, self.z + 10)
+    @name windows[name] ||= Window FaceName.new(name, self.z + 10)
 
     if x <= Graphics.width / 2
 
-      @name_windows[name].x = x + size + 20
+      @name windows[name].x = x + size + 20
 
-      @name_windows[name].x = 0 if @name_windows[name].x + @name_windows[name].width > Graphics.width / 2 and A1_System::NameWindow::FIX_LONG_NAME
+      @name windows[name].x = 0 if @name windows[name].x + @name windows[name].width > Graphics.width / 2 and A1 System::NameWindow::FIX LONG NAME
 
     else
 
-      @name_windows[name].x = Graphics.width - size - @name_windows[name].width 
+      @name windows[name].x = Graphics.width - size - @name windows[name].width 
 
-      @name_windows[name].x = Graphics.width - @name_windows[name].width if @name_windows[name].x < Graphics.width / 2 and A1_System::NameWindow::FIX_LONG_NAME
+      @name windows[name].x = Graphics.width - @name windows[name].width if @name windows[name].x < Graphics.width / 2 and A1 System::NameWindow::FIX LONG NAME
 
     end
 
-    @name_windows[name].y = self.y      - 16 if self.y  > 0
+    @name windows[name].y = self.y      - 16 if self.y  > 0
 
-    @name_windows[name].y = self.height - 16 if self.y == 0
+    @name windows[name].y = self.height - 16 if self.y == 0
 
-    @name_windows[name].openness = 255 if self.open?
+    @name windows[name].openness = 255 if self.open?
 
-    @name_windows[name].open
+    @name windows[name].open
 
-    @name_windows[name].visible = true
+    @name windows[name].visible = true
 
   end
 
@@ -660,9 +660,9 @@ class Window_Base < Window
 
   #--------------------------------------------------------------------------
 
-  def name_window_close
+  def name window close
 
-    @name_windows.values.each {|window| window.close }
+    @name windows.values.each {|window| window.close }
 
   end
 
@@ -672,9 +672,9 @@ class Window_Base < Window
 
   #--------------------------------------------------------------------------
 
-  def name_window_visible_false
+  def name window visible false
 
-    @name_windows.values.each {|window| window.visible = false }
+    @name windows.values.each {|window| window.visible = false }
 
   end
 
@@ -682,7 +682,7 @@ end
 
 #==============================================================================
 
-# ■ Window_Message
+# ■ Window Message
 
 #------------------------------------------------------------------------------
 
@@ -692,7 +692,7 @@ end
 
 
 
-class Window_Message
+class Window Message
 
   #--------------------------------------------------------------------------
 
@@ -702,7 +702,7 @@ class Window_Message
 
   def close
 
-    name_window_close
+    name window close
 
     super
 
@@ -716,11 +716,11 @@ end
 
 #==============================================================================
 
-if rgss_version == 3
+if rgss version == 3
 
 #==============================================================================
 
-# ■ Window_Message
+# ■ Window Message
 
 #------------------------------------------------------------------------------
 
@@ -730,7 +730,7 @@ if rgss_version == 3
 
 
 
-class Window_Message < Window_Base
+class Window Message < Window Base
 
   #--------------------------------------------------------------------------
 
@@ -738,13 +738,13 @@ class Window_Message < Window_Base
 
   #--------------------------------------------------------------------------
 
-  alias a1_name_window_window_message_new_page new_page 
+  alias a1 name window window message new page new page 
 
-  def new_page(text, pos)
+  def new page(text, pos)
 
-    name_window_visible_false
+    name window visible false
 
-    a1_name_window_window_message_new_page(text, pos)
+    a1 name window window message new page(text, pos)
 
   end
 
@@ -756,11 +756,11 @@ end
 
 #==============================================================================
 
-elsif rgss_version == 2
+elsif rgss version == 2
 
 #==============================================================================
 
-# ■ Window_Message
+# ■ Window Message
 
 #------------------------------------------------------------------------------
 
@@ -770,7 +770,7 @@ elsif rgss_version == 2
 
 
 
-class Window_Message < Window_Selectable
+class Window Message < Window Selectable
 
   #--------------------------------------------------------------------------
 
@@ -778,13 +778,13 @@ class Window_Message < Window_Selectable
 
   #--------------------------------------------------------------------------
 
-  alias a1_name_window_window_message_new_page new_page 
+  alias a1 name window window message new page new page 
 
-  def new_page
+  def new page
 
-    name_window_visible_false
+    name window visible false
 
-    a1_name_window_window_message_new_page
+    a1 name window window message new page
 
   end
 
@@ -796,25 +796,25 @@ end
 
 #==============================================================================
 
-elsif rgss_version == 1
+elsif rgss version == 1
 
 end
 
 #==============================================================================
 
-# ■ Game_System
+# ■ Game System
 
 #------------------------------------------------------------------------------
 
 # 　システム周りのデータを扱うクラスです。乗り物や BGM などの管理も行います。
 
-# このクラスのインスタンスは $game_system で参照されます。
+# このクラスのインスタンスは $game system で参照されます。
 
 #==============================================================================
 
 
 
-class Game_System
+class Game System
 
   #--------------------------------------------------------------------------
 
@@ -822,7 +822,7 @@ class Game_System
 
   #--------------------------------------------------------------------------
 
-  attr_accessor :use_name_window                # ネームウィンドウ表示フラグ
+  attr accessor :use name window                # ネームウィンドウ表示フラグ
 
   #--------------------------------------------------------------------------
 
@@ -830,13 +830,13 @@ class Game_System
 
   #--------------------------------------------------------------------------
 
-  alias a1_name_window_game_system_initialize initialize
+  alias a1 name window game system initialize initialize
 
   def initialize
 
-    a1_name_window_game_system_initialize
+    a1 name window game system initialize
 
-    @use_name_window = false
+    @use name window = false
 
   end
 
@@ -844,19 +844,19 @@ end
 
 #==============================================================================
 
-# ■ Game_Temp
+# ■ Game Temp
 
 #------------------------------------------------------------------------------
 
 # 　セーブデータに含まれない、一時的なデータを扱うクラスです。このクラスのイン
 
-# スタンスは $game_temp で参照されます。
+# スタンスは $game temp で参照されます。
 
 #==============================================================================
 
 
 
-class Game_Temp
+class Game Temp
 
   #--------------------------------------------------------------------------
 
@@ -864,9 +864,9 @@ class Game_Temp
 
   #--------------------------------------------------------------------------
 
-  attr_accessor :name_index
+  attr accessor :name index
 
-  attr_accessor :direct_show_name
+  attr accessor :direct show name
 
   #--------------------------------------------------------------------------
 
@@ -874,15 +874,15 @@ class Game_Temp
 
   #--------------------------------------------------------------------------
 
-  alias a1_name_window_gt_initialize initialize
+  alias a1 name window gt initialize initialize
 
   def initialize
 
-    a1_name_window_gt_initialize
+    a1 name window gt initialize
 
-    @name_index       = 0
+    @name index       = 0
 
-    @direct_show_name = ""
+    @direct show name = ""
 
   end
 
@@ -890,13 +890,13 @@ end
 
 #==============================================================================
 
-# ■ A1_System::CommonModule
+# ■ A1 System::CommonModule
 
 #==============================================================================
 
 
 
-class A1_System::CommonModule
+class A1 System::CommonModule
 
   #--------------------------------------------------------------------------
 
@@ -904,17 +904,17 @@ class A1_System::CommonModule
 
   #--------------------------------------------------------------------------
 
-  alias a1_name_window_define_command define_command
+  alias a1 name window define command define command
 
-  def define_command
+  def define command
 
-    a1_name_window_define_command
+    a1 name window define command
 
-    @cmd_108["ネームウィンドウ"] = :name_window
+    @cmd 108["ネームウィンドウ"] = :name window
 
-    @cmd_108["NWインデックス"]   = :nw_index
+    @cmd 108["NWインデックス"]   = :nw index
 
-    @cmd_108["NW名前指定"]       = :nw_set_name
+    @cmd 108["NW名前指定"]       = :nw set name
 
   end
 
@@ -922,19 +922,19 @@ end
 
 #==============================================================================
 
-# ■ Game_Interpreter
+# ■ Game Interpreter
 
 #------------------------------------------------------------------------------
 
-# 　イベントコマンドを実行するインタプリタです。このクラスは Game_Map クラス、
+# 　イベントコマンドを実行するインタプリタです。このクラスは Game Map クラス、
 
-# Game_Troop クラス、Game_Event クラスの内部で使用されます。
+# Game Troop クラス、Game Event クラスの内部で使用されます。
 
 #==============================================================================
 
 
 
-class Game_Interpreter
+class Game Interpreter
 
   #--------------------------------------------------------------------------
 
@@ -942,9 +942,9 @@ class Game_Interpreter
 
   #--------------------------------------------------------------------------
 
-  def name_window(params)
+  def name window(params)
 
-    $game_system.use_name_window = params[0] == "on" ? true : false
+    $game system.use name window = params[0] == "on" ? true : false
 
   end
 
@@ -954,9 +954,9 @@ class Game_Interpreter
 
   #--------------------------------------------------------------------------
 
-  def nw_index(params)
+  def nw index(params)
 
-    $game_temp.name_index = params[0].to_i
+    $game temp.name index = params[0].to i
 
   end
 
@@ -966,9 +966,9 @@ class Game_Interpreter
 
   #--------------------------------------------------------------------------
 
-  def nw_set_name(params)
+  def nw set name(params)
 
-    $game_temp.direct_show_name = params[0]
+    $game temp.direct show name = params[0]
 
   end
 
