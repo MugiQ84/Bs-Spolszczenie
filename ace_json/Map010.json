@@ -11943,7 +11943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Witaj z powrotem, \\n[1]-san. Nie przemęczasz się? Możesz\ntrochę odpocząć.\""
+                                "\"Witaj z powrotem, \\n[1]-san. Nie przemęczasz się?\nMożesz trochę odpocząć.\""
                             ]
                         },
                         {
@@ -19562,7 +19562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Polo zdaje się szukać Czerwonego Kapturka."
+                                "Poro zdaje się szukać Czerwonego Kapturka."
                             ]
                         },
                         {

@@ -54,7 +54,7 @@ module Prico
 
   # ウィンドウのタイトル文字列(半角で15文字以下にすること)
 
-  Var_Prefix = "Karma"
+  Var_Prefix = "Grzechy"
 
 
 

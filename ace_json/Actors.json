@@ -585,7 +585,7 @@
         "name": "Czerwony Kapturek",
         "nickname": "",
         "note": "<レベル限界増加:900>\r\n<限界変動:0,99999>\r\n<限界変動:1,9999>\r\n<限界変動:2,9999>\r\n<限界変動:3,9999>\r\n<限界変動:4,9999>\r\n<限界変動:5,9999>\r\n<限界変動:6,9999>\r\n<限界変動:7,9999>",
-        "profile": "Typ wszechstronny. Może przyzwać Poro."
+        "profile": "Typ wszechstronny. Może przyzwać Poro ."
     },
     {
         "id": 21,
@@ -824,7 +824,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "Hansel",
+        "name": "Jaś",
         "nickname": "",
         "note": "<レベル限界増加:101>\r\n<限界変動:0,15000>\r\n<限界変動:1,3000>\r\n<限界変動:2,2000>\r\n<限界変動:3,2000>\r\n<限界変動:4,2000>\r\n<限界変動:5,2000>\r\n<限界変動:6,2000>\r\n<限界変動:7,2000>",
         "profile": ""
@@ -846,7 +846,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "Gretel",
+        "name": "Małgosia",
         "nickname": "",
         "note": "<レベル限界増加:101>\r\n<限界変動:0,15000>\r\n<限界変動:1,3000>\r\n<限界変動:2,2000>\r\n<限界変動:3,2000>\r\n<限界変動:4,2000>\r\n<限界変動:5,2000>\r\n<限界変動:6,2000>\r\n<限界変動:7,2000>",
         "profile": ""

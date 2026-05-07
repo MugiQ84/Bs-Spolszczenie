@@ -16658,7 +16658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Odtworzyć wspomnienie: \\c[2]Gretel (Seks za zgodą)\\c[0]?"
+                                "Odtworzyć wspomnienie: \\c[2]Małgosia (Seks za zgodą)\\c[0]?"
                             ]
                         },
                         {
@@ -17022,7 +17022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wydarzenie z Hanslem i Gretel – wybierz Hansela."
+                                "Wydarzenie z Jasiem i Małgosią – wybierz Jasia."
                             ]
                         },
                         {
@@ -17090,7 +17090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz wspomnieć \\c[2]Hansel (za zgodą)\\c[0]?"
+                                "Czy chcesz wspomnieć \\c[2]Jaś (za zgodą)\\c[0]?"
                             ]
                         },
                         {
@@ -17098,8 +17098,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]

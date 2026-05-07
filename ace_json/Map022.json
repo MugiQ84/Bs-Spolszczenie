@@ -1393,7 +1393,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Patrz, Gretel! Pyszne słodycze! Ten braciszek nam je\ndał! Musimy mu podziękować!"
+                                "Patrz, Małgosiu! Pyszne słodycze! Ten braciszek nam je\ndał! Musimy mu podziękować!"
                             ]
                         },
                         {
@@ -1468,7 +1468,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "P-przepraszam, braciszku... Podziękuję też za Gretel...\nNaprawdę dziękuję..."
+                                "P-przepraszam, braciszku... Podziękuję też za Małgosię...\nNaprawdę dziękuję..."
                             ]
                         },
                         {
@@ -2304,7 +2304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Cukierki? Dałem je Gretel! Ja nie potrzebuję... Bo nie\njestem głodny...\""
+                                "\"Cukierki? Dałem je Małgosi! Ja nie potrzebuję... Bo nie\njestem głodny...\""
                             ]
                         },
                         {
@@ -3329,7 +3329,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Gretel... Przecież zawsze byliśmy razem...\""
+                                "\"Małgosiu... Przecież zawsze byliśmy razem...\""
                             ]
                         },
                         {
@@ -3929,7 +3929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Tak, na pewno wrócimy do domu! Wiedźma jest miła,\nzostańmy tu na jakiś czas! Prawda, Gretel?\""
+                                "\"Tak, na pewno wrócimy do domu! Wiedźma jest miła,\nzostańmy tu na jakiś czas! Prawda, Małgosiu?\""
                             ]
                         },
                         {
@@ -4284,7 +4284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Ten dom z piernika jest naprawdę pyszny, Gretel!!\nZamknęliśmy też złą czarownicę, więc jesteśmy\nszczęściarzami!!\""
+                                "\"Ten dom z piernika jest naprawdę pyszny, Małgosiu!!\nZamknęliśmy też złą czarownicę, więc jesteśmy\nszczęściarzami!!\""
                             ]
                         },
                         {
@@ -5610,7 +5610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Ten dom z piernika jest naprawdę pyszny, Gretel!!\nZamknęliśmy też złą czarownicę, więc jesteśmy\nszczęściarzami!!\""
+                                "\"Ten dom z piernika jest naprawdę pyszny, Małgosiu!!\nZamknęliśmy też złą czarownicę, więc jesteśmy\nszczęściarzami!!\""
                             ]
                         },
                         {
@@ -7530,7 +7530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Henzel, Gretel! Hej, to ja! Wasz starszy brat!\""
+                                "\"Henzel, Małgosiu! Hej, to ja! Wasz starszy brat!\""
                             ]
                         },
                         {
@@ -7721,7 +7721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Henzel... Gretel... Wy już zamieniliście się w\npotwory! Więc ja...! Teraz was uratuję!\""
+                                "\"Jasiu... Małgosiu... Wy już zamieniliście się w\npotwory! Więc ja...! Teraz was uratuję!\""
                             ]
                         },
                         {
@@ -8082,7 +8082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Chichot... Co ty wygadujesz? Drogi bracie Hansel,\njesteś chłopcem, więc nie możesz dostarczać.\""
+                                "\"Chichot... Co ty wygadujesz? Drogi bracie Jasiu,\njesteś chłopcem, więc nie możesz dostarczać.\""
                             ]
                         },
                         {
@@ -8239,8 +8239,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Daj Dusze Gretel",
-                                    "Daj Dusze Hensel",
+                                    "Daj Dusze Małgosi",
+                                    "Daj Dusze Jasiowi",
                                     "Daj Dusze obojgu"
                                 ],
                                 0
@@ -8404,7 +8404,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Och, Hansel. Jeszcze tu jesteś?\""
+                                "\"Och, Jaś. Jeszcze tu jesteś?\""
                             ]
                         },
                         {
@@ -8421,7 +8421,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Gretel... Jesteśmy rodzeństwem, prawda...?\""
+                                "\"Małgosiu... Jesteśmy rodzeństwem, prawda...?\""
                             ]
                         },
                         {
@@ -8941,7 +8941,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Gretel, wszystko z tobą w porządku...?\""
+                                "\"Małgosiu, wszystko z tobą w porządku...?\""
                             ]
                         },
                         {
@@ -9361,7 +9361,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"To dobrze, Gretel! Znowu możemy być razem!\""
+                                "\"To dobrze, Małgosiu! Znowu możemy być razem!\""
                             ]
                         },
                         {
@@ -9494,7 +9494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Hanseluuu……. Greteluuu………\""
+                                "\"Jasiuuu……. Małgosiuuu………\""
                             ]
                         },
                         {
@@ -19218,7 +19218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Gretel……\""
+                                "\"Małgosiu……\""
                             ]
                         },
                         {
