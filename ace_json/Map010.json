@@ -11903,7 +11903,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Więc... jeśli chodzi o... dostarczanie dusz... to z\n\\n[1]-san... ... N-nic, już nic...\""
+                                "\"Więc... jeśli chodzi o... ofiarowanie dusz... to z\n\\n[1]-san... ... N-nic, już nic...\""
                             ]
                         },
                         {
@@ -11943,7 +11943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Witaj z powrotem, \\n[1]-san. Nie przemęczasz się? Możesz\ntrochę odpocząć.\""
+                                "\"Witaj z powrotem, \\n[1]-san. Nie przemęczasz się?\nMożesz trochę odpocząć.\""
                             ]
                         },
                         {
@@ -11951,9 +11951,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Otrzymaj Dusze",
+                                    "Przekaż Dusze",
                                     "Zgwałć",
-                                    "Kup Pismo Święte",
+                                    "Kup Pisma Święte",
                                     "Odejdź"
                                 ],
                                 4

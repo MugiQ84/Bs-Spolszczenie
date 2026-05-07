@@ -1113,7 +1113,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]VICTORY ACHIEVED\\C[0]"
+                                "\\C[6]ZWYCIĘSTWO\\C[0]"
                             ]
                         },
                         {
@@ -2026,7 +2026,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]VICTORY ACHIEVED\\C[0]"
+                                "\\C[6]ZWYCIĘSTWO\\C[0]"
                             ]
                         },
                         {
@@ -2788,7 +2788,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]VICTORY ACHIEVED\\C[0]"
+                                "\\C[6]ZWYCIĘSTWO\\C[0]"
                             ]
                         },
                         {
@@ -5322,7 +5322,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]VICTORY ACHIEVED\\C[0]"
+                                "\\C[6]ZWYCIĘSTWO\\C[0]"
                             ]
                         },
                         {
@@ -6648,7 +6648,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]VICTORY ACHIEVED\\C[0]"
+                                "\\C[6]ZWYCIĘSTWO\\C[0]"
                             ]
                         },
                         {
@@ -7345,7 +7345,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]VICTORY ACHIEVED\\C[0]"
+                                "\\C[6]ZWYCIĘSTWO\\C[0]"
                             ]
                         },
                         {
@@ -7945,7 +7945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Tak... Dlatego chcę, żebyś dostarczył mi Dusze.\""
+                                "\"Tak... Dlatego chcę, żebyś przekazał mi swoje Dusze.\""
                             ]
                         },
                         {
@@ -8082,7 +8082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Chichot... Co ty wygadujesz? Drogi bracie Jasiu,\njesteś chłopcem, więc nie możesz dostarczać.\""
+                                "\"Chichot... Co ty wygadujesz? Drogi bracie Jasiu,\njesteś chłopcem, więc nie możesz przyjmować dusz.\""
                             ]
                         },
                         {
@@ -8148,7 +8148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Dostarczanie Dusz to rytuał przeprowadzany przez parę\nmężczyzny i kobiety. Jest najbardziej wydajny i ułatwia\nwchłanianie Dusz przez ciało.\""
+                                "\"Ofiarowanie Dusz to rytuał przeprowadzany przez parę\nmężczyzny i kobiety. Jest najbardziej wydajny i ułatwia\nwchłanianie Dusz przez ciało.\""
                             ]
                         },
                         {
@@ -16291,7 +16291,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]VICTORY ACHIEVED\\C[0]"
+                                "\\C[6]ZWYCIĘSTWO\\C[0]"
                             ]
                         },
                         {
@@ -17053,7 +17053,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]VICTORY ACHIEVED\\C[0]"
+                                "\\C[6]ZWYCIĘSTWO\\C[0]"
                             ]
                         },
                         {

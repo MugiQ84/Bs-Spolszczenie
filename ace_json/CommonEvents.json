@@ -57985,7 +57985,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\C[6]VICTORY ACHIEVED\\C[0]"
+                    "\\C[6]ZWYCIĘSTWO\\C[0]"
                 ]
             },
             {
@@ -80757,7 +80757,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\$\"Dasz mi dusze?\" (Obecny poziom \\V[50])"
+                    "\\$\"Dasz mi dusze?\" \n(Obecny poziom \\V[50])"
                 ]
             },
             {
@@ -81649,7 +81649,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\$\"Czy mogę wziąć duszę \\n[1]?\" (Obecny poziom \\V[53])"
+                    "\\$\"Czy mogę wziąć duszę \\n[1]?\" \n(Obecny poziom \\V[53])"
                 ]
             },
             {
@@ -92459,7 +92459,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\"Fiu... haa... dostarczanie Duszy to niezła robota, co\nnie?\""
+                    "\"Fiu... haa... Przekazywanie Dusz to niezła robota, co\nnie?\""
                 ]
             },
             {
@@ -95789,7 +95789,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "To, co miało być tylko dostarczaniem dusz, w pewnym\nmomencie zmieniło się w namiętny seks."
+                    "To, co miało być tylko ofiarowaniem Dusz, w pewnym\nmomencie zmieniło się w namiętny seks."
                 ]
             },
             {
@@ -100184,7 +100184,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\"Dostarczanie Dusz... Czy to nie mogłoby być coś innego\nniż seks?\""
+                    "\"Ofiarowanie Dusz... Czy to nie mogłoby być coś innego\nniż seks?\""
                 ]
             },
             {
@@ -127964,7 +127964,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\"To dostarczanie dusz. Więc się pośpiesz i dojdź.\""
+                    "\"To przekazywanie dusz. Więc się pośpiesz i dojdź.\""
                 ]
             },
             {
@@ -133054,8 +133054,8 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "Give Soul",
-                        "Do not give Soul"
+                        "Przekaż dusze",
+                        "Nie przekazuj"
                     ],
                     2
                 ]
@@ -136960,7 +136960,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\$\"Och… Dasz mi Dusze?\" (Obecny Poziom \\V[56])"
+                    "\\$\"Och… Dasz mi Dusze?\" \n(Obecny Poziom \\V[56])"
                 ]
             },
             {
@@ -136968,8 +136968,8 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "Give Soul",
-                        "Do not give Soul"
+                        "Przekaż dusze",
+                        "Nie przekazuj"
                     ],
                     2
                 ]
@@ -140898,8 +140898,8 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "Give Soul",
-                        "Do not give Soul"
+                        "Przekaż dusze",
+                        "Nie przekazuj"
                     ],
                     2
                 ]
@@ -144708,7 +144708,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\$\"Ach... Czy zamierzasz karmić mnie duszami...?\"\n(Obecnie Lv\\V[55])"
+                    "\\$\"Ach... Czy powinniśmy... ofiarowanie dusz...?\"\n(Obecnie Lv\\V[55])"
                 ]
             },
             {
@@ -144716,8 +144716,8 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "Give Soul",
-                        "Do not give Soul"
+                        "Przekaż dusze",
+                        "Nie przekazuj"
                     ],
                     2
                 ]
@@ -148622,7 +148622,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\$\"Dostarczanie Duszy… Skoro i to jest boskim\nprowadzeniem\" (Obecny Lv\\V[54])"
+                    "\\$\"Ofiarowanie Dusz… Skoro i to jest boskim\nprowadzeniem\"\n(Obecny Lv\\V[54])"
                 ]
             },
             {
@@ -148630,8 +148630,8 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "Give Soul",
-                        "Do not give Soul"
+                        "Przekaż dusze",
+                        "Nie przekazuj"
                     ],
                     2
                 ]
@@ -152803,8 +152803,8 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "Give Soul",
-                        "Do not give Soul"
+                        "Przekaż dusze",
+                        "Nie przekazuj"
                     ],
                     2
                 ]
@@ -162811,8 +162811,8 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "Give Soul",
-                        "Do not give Soul"
+                        "Przekaż dusze",
+                        "Nie przekazuj"
                     ],
                     2
                 ]
@@ -167377,7 +167377,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\"\\n[1] Starszy Bracie-sama... Czy mamy to lizać razem z\nHanslem...?\""
+                    "\"\\n[1] Starszy Bracie... Czy mamy to lizać razem z\nJasiem...?\""
                 ]
             },
             {
@@ -167411,7 +167411,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "To jest dostarczanie wam Dusz. Jaś posłusznie zbliża\nsię do członka. Małgosia również to robi, choć wyraźnie\nniezadowolona."
+                    "To jest ofiarowanie Dusz. Jaś posłusznie zbliża\nsię do członka. Małgosia również to robi, choć wyraźnie\nniezadowolona."
                 ]
             },
             {
@@ -167486,7 +167486,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\"Chu... mmm... ah... ten intensywny zapach... To jest\nwięc penis \\n[1] Starszego Brata-samy...♡\""
+                    "\"Chu... mmm... ah... ten intensywny zapach... To jest\nwięc penis braciszka \\n[1]-samy...♡\""
                 ]
             },
             {
@@ -167503,7 +167503,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\"Mmm... ah... \\n[1] Braciszku-chan... postaram się, żeby\nci było przyjemnie, dobrze?...♡\""
+                    "\"Mmm... ah... \\n[1] Onii-chan... postaram się, żeby\nci było przyjemnie, dobrze?...♡\""
                 ]
             },
             {
@@ -167537,7 +167537,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\"Auu... to straszne, Małgosiu... Ja też... dla mojego\nukochanego \\n[1] Braciszka-chana... potrafię zachowywać\nsię jak dziewczyna... chu... mmm...♡\""
+                    "\"Auu... to straszne, Małgosiu... Ja też... dla mojego\nukochanego.. \\n[1]-onii-sama... potrafię zachowywać\nsię jak dziewczyna... chu... mmm...♡\""
                 ]
             },
             {
@@ -167605,7 +167605,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\"Chu... mmm... fuu...♡ liz liz...♡ Starszy\nBracie-sama... ze mną jest przyjemniej, prawda?♡\""
+                    "\"Chu... mmm... fuu...♡ liz liz...♡ Starszy\nBracie... ze mną jest przyjemniej, prawda?♡\""
                 ]
             },
             {
@@ -167639,7 +167639,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\"\\n[1] Braciszku-chan...♡ Chcę, żebyś też poczuł\nprzyjemność moim językiem...♡ Chu... chuu...♡ liz liz\nchu...♡ chuuu...♡\""
+                    "\"\\n[1] Onii-chan...♡ Chcę, żebyś też poczuł\nprzyjemność moim językiem...♡ Chu... chuu...♡ liz liz\nchu...♡ chuuu...♡\""
                 ]
             },
             {
@@ -167707,7 +167707,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\"Braciszku-chan...♡ chu...♡ Mnie też...♡ Chcę tego\ngęstego...♡ mm...♡ chuuu...♡ liz... liz...♡\""
+                    "\"Braciszku...♡ chu...♡ Mnie też...♡ Chcę tego\ngęstego...♡ mm...♡ chuuu...♡ liz... liz...♡\""
                 ]
             },
             {
@@ -167781,7 +167781,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\"Mm...♡ Braciszku-chan... czy dobrze to robiłem?♡\""
+                    "\"Mm...♡ Braciszku... czy dobrze to robiłem?♡\""
                 ]
             },
             {

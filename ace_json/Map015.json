@@ -1515,7 +1515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Zmienić poziom trudności? (Maks. 9 poziomów) Obecny\npoziom: \\V[60]."
+                                "Zmienić poziom trudności? (Maks. 9 poziomów)\nObecny poziom: \\V[60]."
                             ]
                         },
                         {
