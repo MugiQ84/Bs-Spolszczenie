@@ -14127,7 +14127,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "「……あの子、まさか……？」"
+                                "\"……Tamta dziewczyna, czyżby……?\""
                             ]
                         },
                         {
@@ -14144,14 +14144,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "「いいえ、あり得ませんわ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "　きっとよく似ているだけですわ……」"
+                                "\"Nie, to niemożliwe... To na pewno tylko ktoś bardzo\npodobny...\""
                             ]
                         },
                         {
@@ -14221,14 +14214,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「私には何人もの娘がいます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　どれも気高く、美しい娘たちですわ」"
+                                "\"Mam wiele córek. Wszystkie są szlachetne i piękne.\""
                             ]
                         },
                         {
@@ -14245,14 +14231,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「でも一人だけ醜く愚かな娘がいます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　あの子は産むべきではありませんでした」"
+                                "\"Ale jest jedna brzydka i głupia córka. Nie powinnam\nbyła jej rodzić.\""
                             ]
                         },
                         {
@@ -14292,7 +14271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ごきげんよう。何か御用かしら？」"
+                                "\"Witam. W czym mogę pomóc?\""
                             ]
                         },
                         {
@@ -14300,9 +14279,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "魂を買いたい",
-                                    "犯す",
-                                    "立ち去る"
+                                    "I want to buy a soul.",
+                                    "Rape",
+                                    "Leave"
                                 ],
                                 3
                             ]
@@ -14329,7 +14308,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「うふふ。好きなだけ見ていってくださいまし」"
+                                "\"Hehe. Proszę patrzeć do woli.\""
                             ]
                         },
                         {
@@ -14417,14 +14396,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「お気に召しました？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　またいくらでも見せてあげますわ」"
+                                "\"Spodobało się? Jeszcze wiele Panu pokażę.\""
                             ]
                         },
                         {
@@ -14553,7 +14525,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "エリザベートを地下室へ監禁した。"
+                                "Uwięziłeś Elizabeth w piwnicy."
                             ]
                         },
                         {
@@ -14629,7 +14601,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "エリザベートを地下室へ監禁した。"
+                                "Uwięziłeś Elizabeth w piwnicy."
                             ]
                         },
                         {
@@ -14696,7 +14668,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「うふふ。さようなら不死者さん」"
+                                "\"Hehe. Żegnaj, nieumarły-san.\""
                             ]
                         },
                         {
@@ -14820,7 +14792,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "「……あの子、まさか……？」"
+                                "\"……To dziecko, czyżby……?\""
                             ]
                         },
                         {
@@ -14837,14 +14809,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "「いいえ、あり得ませんわ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "　きっとよく似ているだけですわ……」"
+                                "\"Nie, to niemożliwe……. Na pewno tylko bardzo\nprzypomina……\""
                             ]
                         },
                         {
@@ -14914,14 +14879,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「私には何人もの娘がいます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　どれも気高く、美しい娘たちですわ」"
+                                "\"Mam wiele córek. Wszystkie są szlachetne i piękne.\""
                             ]
                         },
                         {
@@ -14938,14 +14896,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「でも一人だけ醜く愚かな娘がいます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　あの子は産むべきではありませんでした」"
+                                "\"Ale jest jedna brzydka i głupia córka. Nie powinnam\nbyła jej rodzić.\""
                             ]
                         },
                         {
@@ -14985,14 +14936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あら…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ごきげんよう。何か御用かしら？」"
+                                "\"Ara…. Dzień dobry. Czy masz jakąś sprawę?\""
                             ]
                         },
                         {
@@ -15000,10 +14944,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ソウル供給",
-                                    "魂を買いたい",
-                                    "犯す",
-                                    "立ち去る"
+                                    "Dostarcz Dusze",
+                                    "Chcę kupić dusze",
+                                    "Zgwałcić",
+                                    "Odejść"
                                 ],
                                 4
                             ]
@@ -15050,7 +14994,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「うふふ。どうぞ見ていってくださいまし」"
+                                "\"Ufufu. Proszę, rozgość się i popatrz.\""
                             ]
                         },
                         {
@@ -15138,14 +15082,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「お気に召しました？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　貴方にならいくらでも見せてあげますわ」"
+                                "\"Spodobało ci się? Tobie mogę pokazać ile tylko\nzechcesz.\""
                             ]
                         },
                         {
@@ -15175,7 +15112,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「駄目ですわ。場の雰囲気を考えてくださいまし」"
+                                "\"To nie wypada. Proszę wziąć pod uwagę nastrój\nmiejsca.\""
                             ]
                         },
                         {
@@ -15205,7 +15142,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「うふふ。さようなら不死者さん」"
+                                "\"Ufufu. Żegnaj, nieumarły-san.\""
                             ]
                         },
                         {
@@ -15452,7 +15389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ロストエンパイアは素晴らしい国でした」"
+                                "\"Lost Empire było wspaniałym krajem\""
                             ]
                         },
                         {
@@ -15476,14 +15413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「女王も騎士も、人々も、素朴で、貧しいけれど力強く、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　乾いた暖かさがありました」"
+                                "\"Królowa, rycerze i ludzie byli prości, biedni, ale\nsilni, i biło od nich suchym, serdecznym ciepłem\""
                             ]
                         },
                         {
@@ -15507,14 +15437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私は、南の、多くの進んだ国で学びましたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いまだロストエンパイアより魅力的な国を知りません」"
+                                "\"Studiowałem w wielu rozwiniętych krajach na południu,\nale wciąż nie znam kraju bardziej urzekającego niż Lost\nEmpire\""
                             ]
                         },
                         {
@@ -15538,7 +15461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でも、なんだってこんなことに…」"
+                                "\"Ale czemu do tego doszło...\""
                             ]
                         },
                         {
@@ -15562,7 +15485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私には母が、これを望んだとは、どうしても思えないのです…」"
+                                "\"W żaden sposób nie mogę uwierzyć, że moja matka tego\nchciała...\""
                             ]
                         },
                         {
@@ -15656,14 +15579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「貴方のおかげで四人の魔姫は倒されました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私は行きます…。ロストエンパイアはすぐそこなんだ」"
+                                "Dzięki tobie cztery Demoniczne Księżniczki zostały\npokonane. Idę... Zaginione Imperium jest już blisko."
                             ]
                         },
                         {
@@ -15671,8 +15587,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "立ち去る",
-                                    "殺害する"
+                                    "Odejdź",
+                                    "Zabij"
                                 ],
                                 1
                             ]
@@ -15734,7 +15650,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「うあ……っ 母上……」"
+                                "Uaa... Matko..."
                             ]
                         },
                         {
@@ -15977,7 +15893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「やっほー\\n[1]。ボクに会いに来てくれたの？」"
+                                "\"Hej, \\n[1]! Przyszedłeś się ze mną spotkać?\""
                             ]
                         },
                         {
@@ -15994,10 +15910,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ソウル供給",
-                                    "犯す",
-                                    "シンデレラを殺した",
-                                    "立ち去る"
+                                    "Supply Souls",
+                                    "Rape",
+                                    "Killed Cinderella",
+                                    "Leave"
                                 ],
                                 4
                             ]
@@ -16044,7 +15960,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「だーめっ♡」"
+                                "\"Nie-e♡\""
                             ]
                         },
                         {
@@ -16069,7 +15985,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「その薬、他の子に効いてもボクには効かないからね」"
+                                "\"To lekarstwo może i działa na innych, ale na mnie nie\ndziała.\""
                             ]
                         },
                         {
@@ -16086,14 +16002,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「ボクは妖精のリーダーだもんっ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　ふふーん」"
+                                "\"Bo jestem przywódcą wróżek! Fu-fu♪\""
                             ]
                         },
                         {
@@ -16143,14 +16052,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「うふふ、\\n[1]ったらおかしー"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　まだ彼女は死んでないよ？ 霧が晴れていないもの」"
+                                "\"Ufufu, \\n[1], ty zabawny! Ona jeszcze nie umarła, wiesz?\nPrzecież mgła jeszcze nie opadła.\""
                             ]
                         },
                         {
@@ -16198,14 +16100,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「他の妖精の子っていじわるだけど、気にしないでね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　もし\\n[1]がいじめられたらボクが注意するからっ」"
+                                "\"Inne wróżki potrafią być wredne, ale nie przejmuj się\nnimi. Jeśli \\n[1] będzie gnębiony, to ja je skarcię!\""
                             ]
                         },
                         {
@@ -16233,9 +16128,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ソウル供給",
-                                    "犯す",
-                                    "立ち去る"
+                                    "Dostarcz Dusze",
+                                    "Zgwałć",
+                                    "Odejdź"
                                 ],
                                 3
                             ]
@@ -16282,7 +16177,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「だーめっ♡」"
+                                "\"Nie-e♡\""
                             ]
                         },
                         {
@@ -16307,7 +16202,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「その薬、他の子に効いてもボクには効かないからね」"
+                                "\"To lekarstwo może i działa na innych, ale na mnie nie\ndziała.\""
                             ]
                         },
                         {
@@ -16324,14 +16219,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「ボクは妖精のリーダーだもんっ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　ふふーん」"
+                                "\"Bo jestem przywódcą wróżek! Fu-fu♪\""
                             ]
                         },
                         {
@@ -16381,14 +16269,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「他の妖精の子っていじわるだけど、気にしないでね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　もし\\n[1]がいじめられたらボクが注意するからっ」"
+                                "\"Inne wróżki potrafią być wredne, ale nie przejmuj się\nnimi. Jeśli \\n[1] będzie gnębiony, to ja je skarcię!\""
                             ]
                         },
                         {
@@ -16495,14 +16376,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「んー？ どうかしたの\\n[1]。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　そんなにボクの顔を見つめて……」"
+                                "\"Hmm? Co się stało, \\n[1]? Tak bardzo wpatrujesz się w\nmoją twarz...\""
                             ]
                         },
                         {
@@ -16519,14 +16393,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「もしかして惚れ直しちゃったっ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　きゃーっ♡」"
+                                "\"Czyżbyś się na nowo zakochał? Kyaa~♡\""
                             ]
                         },
                         {
@@ -16561,7 +16428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「やっほー\\n[1]。ボクに会いに来てくれたの？」"
+                                "\"Hejka, \\n[1]! Przyszedłeś się ze mną spotkać?\""
                             ]
                         },
                         {
@@ -16578,10 +16445,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ソウル供給",
-                                    "犯す",
-                                    "シンデレラを殺した",
-                                    "立ち去る"
+                                    "Supply Souls",
+                                    "Rape",
+                                    "Killed Cinderella",
+                                    "Leave"
                                 ],
                                 4
                             ]
@@ -16628,7 +16495,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「だーめっ♡」"
+                                "\"Nie-e!♡\""
                             ]
                         },
                         {
@@ -16653,7 +16520,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「その薬、他の子に効いてもボクには効かないからね」"
+                                "\"Ten lek może działać na innych, ale na mnie nie\ndziała, wiesz!\""
                             ]
                         },
                         {
@@ -16670,14 +16537,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「ボクは妖精のリーダーだもんっ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　ふふーん」"
+                                "\"Jestem przywódczynią wróżek, no nie? Hihi~\""
                             ]
                         },
                         {
@@ -16727,14 +16587,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「うふふ、\\n[1]ったらおかしー"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　まだ彼女は死んでないよ？ 霧が晴れていないもの」"
+                                "\"Ufufu, \\n[1] ale jesteś zabawny! Ona przecież jeszcze\nnie umarła, mgła się jeszcze nie rozwiała.\""
                             ]
                         },
                         {
@@ -16782,14 +16635,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「他の妖精の子っていじわるだけど、気にしないでね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　もし\\n[1]がいじめられたらボクが注意するからっ」"
+                                "\"Inne wróżki bywają wredne, ale nie przejmuj się. Jeśli\n\\n[1] będą ci dokuczać, ja je upomnę!\""
                             ]
                         },
                         {
@@ -16817,9 +16663,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ソウル供給",
-                                    "犯す",
-                                    "立ち去る"
+                                    "Dostarcz Dusze",
+                                    "Zgwałć",
+                                    "Odejdź"
                                 ],
                                 3
                             ]
@@ -16866,7 +16712,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「だーめっ♡」"
+                                "\"Nie-e!♡\""
                             ]
                         },
                         {
@@ -16891,7 +16737,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「その薬、他の子に効いてもボクには効かないからね」"
+                                "\"Ten lek może działać na innych, ale na mnie nie\ndziała, wiesz!\""
                             ]
                         },
                         {
@@ -16908,14 +16754,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「ボクは妖精のリーダーだもんっ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　ふふーん」"
+                                "\"Jestem przywódczynią wróżek, no nie? Hihi~\""
                             ]
                         },
                         {
@@ -16965,14 +16804,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「他の妖精の子っていじわるだけど、気にしないでね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　もし\\n[1]がいじめられたらボクが注意するからっ」"
+                                "\"Inne wróżki bywają wredne, ale nie przejmuj się. Jeśli\n\\n[1] będą ci dokuczać, ja je upomnę!\""
                             ]
                         },
                         {
@@ -17088,14 +16920,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「久しぶりにここに来たが……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　妖精どもがうざったいのは変わらんな」"
+                                "\"Dawno tu nie byłem... Ale te wstrętne wróżki dalej są\nirytujące.\""
                             ]
                         },
                         {
@@ -17131,7 +16956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ん、お前か。どうしたんだ？」"
+                                "\"Hę? To ty. Co jest?\""
                             ]
                         },
                         {
@@ -17139,10 +16964,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ソウル供給",
-                                    "魔書を買いたい",
-                                    "犯す",
-                                    "立ち去る"
+                                    "Dostarcz Dusze",
+                                    "Kup Księgę Magii",
+                                    "Zgwałć",
+                                    "Odejdź"
                                 ],
                                 4
                             ]
@@ -17189,7 +17014,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「好きなだけ見ていけよ」"
+                                "\"Patrz, ile chcesz.\""
                             ]
                         },
                         {
@@ -17290,7 +17115,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「なーに言ってんだ馬鹿弟子め」"
+                                "\"Co ty wygadujesz, głupi uczniu!\""
                             ]
                         },
                         {
@@ -17460,7 +17285,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「あ、ご主人様っ！ここにいたんですね」"
+                                "Ach, Mistrzu! Tutaj jesteś!"
                             ]
                         },
                         {
@@ -17477,21 +17302,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ここは不思議ですね……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ふらふらと歩いていたら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　いつの間にかここへ来てしまいました」"
+                                "To miejsce jest takie tajemnicze... Kiedy tak się\nwałęsałam, nagle się tu znalazłam."
                             ]
                         },
                         {
@@ -17508,7 +17319,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「まるで本当におとぎ話の世界みたいですね…」"
+                                "Jakby to naprawdę był świat z bajki..."
                             ]
                         },
                         {
@@ -17548,7 +17359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おかえりなさいませ、ご主人様っ」"
+                                "Witaj w domu, Mistrzu!"
                             ]
                         },
                         {
@@ -17556,9 +17367,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ソウル供給",
-                                    "犯す",
-                                    "立ち去る"
+                                    "Dostarcz Dusze",
+                                    "Zgwałć",
+                                    "Odejdź"
                                 ],
                                 3
                             ]
@@ -17605,14 +17416,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「溜まっているのですか…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　申して下さればいつでも処理いたしますよ…？♡」"
+                                "Czy coś ci się nagromadziło...? Jeśli tylko powiesz,\nzawsze mogę się tym zająć...?♡"
                             ]
                         },
                         {
@@ -17781,14 +17585,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「カタリナ様は先ほどお目覚めになられました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　挨拶に行く際は失礼のないように…」"
+                                "\"Katarina-sama właśnie się obudziła. Gdy pójdziesz się\nprzywitać, postaraj się nie okazać braku szacunku...\""
                             ]
                         },
                         {
@@ -17805,14 +17602,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「カタリナ様は名家でありながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　真清らかな聖女なのです」"
+                                "\"Katarina-sama, choć pochodzi z zacnego rodu, jest\nnaprawdę nieskalaną Świętą.\""
                             ]
                         },
                         {
@@ -17829,14 +17619,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「ですので、…こほん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　責任は持ってくださいね……色々と」"
+                                "\"Dlatego... *ekhem*. Proszę wziąć odpowiedzialność...\nza różne sprawy.\""
                             ]
                         },
                         {
@@ -17926,14 +17709,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「私がこの国で初めて訪れたのが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　この妖精の地なのです」"
+                                "\"Gdy pierwszy raz przybyłam do tego kraju, odwiedziłam\nwłaśnie tę krainę wróżek.\""
                             ]
                         },
                         {
@@ -17950,21 +17726,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「行き場を失くした人間だけが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　訪れる事ができるという聖森…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　私も、そうなのでしょうか…」"
+                                "\"Mówi się, że tylko ludzie, którzy stracili swoje\nmiejsce, mogą odwiedzić ten Święty Las... Czy ja też do\nnich należę...?\""
                             ]
                         },
                         {
@@ -17988,21 +17750,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ところであのリィフという妖精…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　最初来た時には見なかった気がするのですが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　それとも隠れていただけでしょうか…？」"
+                                "\"A tak w ogóle, ta wróżka, Leaf... Wydaje mi się, że\nnie widziałam jej, gdy przyszłam tu po raz pierwszy...\nA może tylko się ukrywała...?\""
                             ]
                         },
                         {
@@ -18042,7 +17790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「\\n[1]さん、私に何か御用でしょうか」"
+                                "\"\\n[1]-san, czy masz do mnie jakąś sprawę?\""
                             ]
                         },
                         {
@@ -18050,9 +17798,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ソウル供給",
-                                    "犯す",
-                                    "立ち去る"
+                                    "Dostarcz Dusze",
+                                    "Zgwałć",
+                                    "Odejdź"
                                 ],
                                 3
                             ]
@@ -18099,7 +17847,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「そ、それは……駄目です……」"
+                                "\"T-to... nie wolno...\""
                             ]
                         },
                         {
@@ -18199,7 +17947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「………。貴方、多くの罪を犯したでしょう」"
+                                "……….Popełniłeś wiele grzechów, prawda?"
                             ]
                         },
                         {
@@ -18216,14 +17964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私には分かります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう貴方とは……共に戦えませんね」"
+                                "Rozumiem. Nie mogę już... walczyć u twego boku."
                             ]
                         },
                         {
@@ -18240,14 +17981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ロストエンパイアに行くのも私一人で十分です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今までありがとうございました」"
+                                "Sama poradzę sobie z wyprawą do Lost Empire. Dziękuję\nza wszystko do tej pory."
                             ]
                         },
                         {
@@ -18819,7 +18553,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「お母さんと話してみたけど、話にすらならなかった」"
+                                "\"Rozmawiałam z mamą, ale nawet nie chciała słuchać.\""
                             ]
                         },
                         {
@@ -18836,14 +18570,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「私が私だと分かった瞬間に罵詈雑言の嵐。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　そのまま聖森から出て行ったわ」"
+                                "\"Gdy tylko zdała sobie sprawę, kim jestem, posypały się\nwyzwiska. Po prostu wyszła ze Świętego Lasu.\""
                             ]
                         },
                         {
@@ -18860,7 +18587,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「まあ、こうなるのは分かっていたけど……」"
+                                "\"Cóż, wiedziałam, że tak będzie, ale...\""
                             ]
                         },
                         {
@@ -18957,21 +18684,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　お母さん、見つけた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　こんなところにいたなんて、ね」"
+                                "\"……… Znalazłam mamę. Kto by pomyślał, że tu jest.\""
                             ]
                         },
                         {
@@ -18988,14 +18701,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「ねぇ、私はどうしたらいい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　会って話すべきか、知らないフリをして過ごすか」"
+                                "\"Hej, co mam robić? Spotkać się z nią i porozmawiać,\nczy udawać, że nic nie wiem?\""
                             ]
                         },
                         {
@@ -19003,8 +18709,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "会って話すべきだ",
-                                    "無視しろ"
+                                    "You should meet and talk to her.",
+                                    "Ignore her."
                                 ],
                                 2
                             ]
@@ -19031,7 +18737,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "「……考えてみるわ」"
+                                "\"…… Pomyślę o tym.\""
                             ]
                         },
                         {
@@ -19084,14 +18790,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "「そうね……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "　私と分かった瞬間に、殺そうとしてくるだろうし」"
+                                "\"Tak... Gdy tylko się zorientuje, że to ja, z pewnością\nspróbuje mnie zabić.\""
                             ]
                         },
                         {
@@ -19162,7 +18861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どうかしたの？」"
+                                "\"Coś się stało?\""
                             ]
                         },
                         {
@@ -19170,9 +18869,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ソウル供給",
-                                    "犯す",
-                                    "立ち去る"
+                                    "Dostarcz Dusze",
+                                    "Zgwałć",
+                                    "Odejdź"
                                 ],
                                 3
                             ]
@@ -19219,7 +18918,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「…せめてポロがいない時にしてくれるかしら」"
+                                "\"... Czy mogłabyś przynajmniej zrobić to, gdy nie ma\nprzy mnie Polo?\""
                             ]
                         },
                         {
@@ -19370,7 +19069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「……わんっ」"
+                                "……Hau!"
                             ]
                         },
                         {
@@ -19378,10 +19077,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "頭を撫でる",
-                                    "わしゃわしゃする",
-                                    "マッサージする",
-                                    "立ち去る"
+                                    "Pogłaszcz po głowie",
+                                    "Potarmoś",
+                                    "Zrób masaż",
+                                    "Odejdź"
                                 ],
                                 4
                             ]
@@ -19417,7 +19116,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「わふわふっ…」"
+                                "Hau, hau…"
                             ]
                         },
                         {
@@ -19466,7 +19165,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「むう……ポロを撫でていいのは私だけなのに」"
+                                "Muu… A przecież tylko ja mogę głaskać Polo…"
                             ]
                         },
                         {
@@ -19537,7 +19236,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「わふううう…っ」"
+                                "Hauuuu…!"
                             ]
                         },
                         {
@@ -19586,7 +19285,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「私もわしゃわしゃさせろー」"
+                                "Pozwól mi też go pomiziać!"
                             ]
                         },
                         {
@@ -19603,7 +19302,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「わふううう……っ！？」"
+                                "Hauuuu…!?"
                             ]
                         },
                         {
@@ -19674,7 +19373,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「わっ……わふぅっ……♡」"
+                                "Hau… Hauu…♡"
                             ]
                         },
                         {
@@ -19723,7 +19422,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「気持ち良さそうねー、良かったわねー」"
+                                "O, wygląda na zadowolonego, co? To dobrze."
                             ]
                         },
                         {
@@ -19846,7 +19545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「きぅーん……きぅーん……」"
+                                "\"kwi-i i……kwi-i i……\""
                             ]
                         },
                         {
@@ -19863,7 +19562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポロは紅ずきんを探しているようだ。"
+                                "Polo zdaje się szukać Czerwonego Kapturka."
                             ]
                         },
                         {
@@ -19871,8 +19570,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "殺害する",
-                                    "立ち去る"
+                                    "Kill",
+                                    "Leave"
                                 ],
                                 2
                             ]
