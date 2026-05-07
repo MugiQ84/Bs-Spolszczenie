@@ -11,7 +11,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Leczy 50% HP. Uzupełnij przy ognisku. \"Krocz bez lęku w głąb\nmgły.\"",
+        "description": "Leczy 50% HP. Uzupełnij przy ognisku.\nŚwięta woda kojąca rany wojownika.",
         "effects": [
             {
                 "code": 11,
@@ -23,7 +23,7 @@
         "hitType": 0,
         "iconIndex": 366,
         "itypeId": 1,
-        "name": "Fiolka ziołowa",
+        "name": "Fiolka z ziołami",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -44,7 +44,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Leczy 50% MP. Uzupełnij przy ognisku. \"Jednak nie daj sie\npochłonąć magii..\"",
+        "description": "Leczy 50% MP. Uzupełni przy ognisku.\nJednak nie daj sie pochłonąć magii..",
         "effects": [
             {
                 "code": 12,
@@ -56,7 +56,7 @@
         "hitType": 0,
         "iconIndex": 367,
         "itypeId": 1,
-        "name": "Fiolka ziołowa M",
+        "name": "Fiolka z ziołami M",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -77,7 +77,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Przywraca 150 HP. \"Na tyle gorzki, że aż ciężko nie wypluć.\"",
+        "description": "Przywraca 150 HP. \"Gorzki smak, ciężko nie wypluć.\"",
         "effects": [
             {
                 "code": 11,
@@ -143,7 +143,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Leczy krwawienie.\"Wielu umiera z wykrwawienia, zanim zdąży\ngo użyć.\"",
+        "description": "Leczy krwawienie. Wielu umiera z wykrwawienia,\nzanim zdąży go użyć.",
         "effects": [
             {
                 "code": 22,
@@ -176,7 +176,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Leczy ślepotę. \"Pod żadnym pozorem nie używaj go na osobach\nniewidomych.\"",
+        "description": "Leczy ślepotę.\r\n\"Pod żadnym pozorem nie używaj go na osobach niewidomych.\"",
         "effects": [
             {
                 "code": 22,
@@ -209,7 +209,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Leczy wszystkie prawie stany negatywne.\"Istnieje teoria że\nto narkotyk, ale niektórzy twierdzą, że naprawdę leczy.\"",
+        "description": "Leczy wszystkie prawie stany negatywne. Istnieje teoria\nże to narkotyk, ale niektórzy twierdzą, że naprawdę leczy.",
         "effects": [
             {
                 "code": 22,
@@ -326,7 +326,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Całkowicie przywraca HP i MP. Nie można uzupełnić.\n\"Prawdziwa miłość objawia się w łasce Bogini\"",
+        "description": "Całkowicie przywraca HP i MP. Nie można uzupełnić.\n\"Miłosierdzie tego boga to prawdziwa miłość.\"",
         "effects": [
             {
                 "code": 11,
@@ -596,7 +596,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Zwiększa wszystkie statystyki.\"Skażona dusza jest dla\nżniwiarza smakołykiem.\" - Mroczny Arbiter Hein",
+        "description": "Zwiększa wszystkie statystyki.\"Skażona dusza jest dla\nżniwiarza smakołykiem.\" - Zaklęcieny Sędzia Hein",
         "effects": [
             {
                 "code": 42,
@@ -650,7 +650,7 @@
         "hitType": 0,
         "iconIndex": 185,
         "itypeId": 1,
-        "name": "Czarna Dusza",
+        "name": "Plugawa Dusza",
         "note": "",
         "occasion": 2,
         "price": 10000,
@@ -671,7 +671,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Całkowicie przywraca HP i MP.\"Nie uzupełnia się.Ten grzyb...\nchciałam go choć raz spróbować.\" - Plugawa Potępiająca\nMiranda",
+        "description": "Całkowicie przywraca HP i MP. Nie uzupełnia się. Ten grzyb... chciałam\ngo choć raz spróbować. - Plugawa Potępiająca Miranda",
         "effects": [
             {
                 "code": 11,
@@ -710,7 +710,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Powrót do ostatniego odwiedzonego ogniska. \"Ciepło przyciąga\ndo siebie nieumarłych którzy obrócili się w proch.\"",
+        "description": "Powrót do ostatniego odwiedzonego ogniska. \"Ognisko przyciąga\ndo siebie nieumarłych którzy obrócili się w proch.\"",
         "effects": [
             {
                 "code": 44,
@@ -743,7 +743,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Zwiększa karmę o 1.\"Równowagę świata musimy utrzymać my,\nMroczny Trybunał. - Mroczny Zwiastun Lindmea\"",
+        "description": "Zwiększa karmę o 1. Równowagę świata musimy utrzymać my, \nZaklęcieny Trybunał. - Zaklęcieny Awangardzista Lindamea",
         "effects": [
             {
                 "code": 44,
@@ -835,7 +835,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użycie podczas walki przywraca MP przez kilka tur.\"Odłamki\nwbijają sie w ciało, pozwalając czerpać moc.\"",
+        "description": "Użycie podczas walki przywraca MP przez kilka tur.\"Odłamki \nwbijają sie w ciało, pozwalając czerpać moc.\"",
         "effects": [
             {
                 "code": 21,
@@ -868,7 +868,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Odbija magię Wroga przez kilka tur.\"Moje piękno... nawet w\nlustrze jest zniewalające...\" - Śnieżka",
+        "description": "Odbija magię Wroga w walce.Uroda tak wielka, że nawett lustro uległo\nLustro Księżniczki Śnieżki.",
         "effects": [
             {
                 "code": 21,
@@ -901,7 +901,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użycie podczas walki usypia wybranego wroga.\"Wystarczy\nzłapać pobliską wróżkę i mocno nią potrząsnąć!\"",
+        "description": "Użycie podczas walki usypia jednego wroga.\"Wystarczy złapać\npobliską wróżkę i mocno nią potrząsnąć.\"",
         "effects": [
             {
                 "code": 21,
@@ -934,7 +934,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Mleko wydojone z krowy. \"Biedna krowa, po co ci tyle\nmleka...?\"",
+        "description": "Mleko wydojone od krowy. Słuchaj, krowa biedna, bo za dużo ją doisz.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 222,
@@ -1064,7 +1064,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Wybucha, zadając obrażenia od ognia. \"W tych czasach królują\nogniste butelki, ale klasyki nie przebijesz\"",
+        "description": "Wybucha, zadając obrażenia od ognia. Koktajl Mołotowa to\njuż klasyka. Ale rzadko co przebija klasykę.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 271,
@@ -1090,7 +1090,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Zatruwa wybranego przeciwnika. \"Nawet demoniczna księżniczka\nnie zdoła przełknąć tego placka...\"",
+        "description": "Zatruwa wroga. Jeśli Magiczna Księżniczka zje tę kupę gówna, nie\nbędzie jej do śmiechu.",
         "effects": [
             {
                 "code": 21,
@@ -1102,7 +1102,7 @@
         "hitType": 0,
         "iconIndex": 348,
         "itypeId": 1,
-        "name": "Ciasto z łajna",
+        "name": "Kupa łajna",
         "note": "",
         "occasion": 1,
         "price": 100,
@@ -1123,7 +1123,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Na pewien czas nadaje atrybut ognia twoim atakom. \"Bestie i\nrośliny lękają się płomienia\"",
+        "description": "Na pewien czas nadaje atrybut ognia. Skuteczny przeciwko\nbestiom, drzewom i innym stworom bojącym sie ognia.",
         "effects": [
             {
                 "code": 21,
@@ -1156,7 +1156,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Na pewien czas nadaje atrybut lodu twoim atakom. \"Lodowa\nzazdrość Śnieżki zamrozi ich wszystkich.\"",
+        "description": "Na pewien czas nadaje użytkownikowi atrybut lodu. Lód zazdrości\nBiałego Śniegu zamrozi wszystko.",
         "effects": [
             {
                 "code": 21,
@@ -1189,7 +1189,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Na pewien czas nadaje atrybut pioruna twoim atakom. \"Boski\npiorun spadnie na złoczyńców.\" -Święta Catherine",
+        "description": "Na pewien czas nadaje użytkownikowi atrybut pioruna.\nBoski piorun spadnie na złoczyńców. - Święta Katarina",
         "effects": [
             {
                 "code": 21,
@@ -1255,7 +1255,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użyj aby zyskać dusze.",
+        "description": "Użycie pozwala zdobyć dusze.",
         "effects": [
             {
                 "code": 44,
@@ -1288,7 +1288,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użyj aby zyskać dusze.",
+        "description": "Użycie pozwala zdobyć dusze.",
         "effects": [
             {
                 "code": 44,
@@ -1321,7 +1321,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użyj aby zyskać dusze.",
+        "description": "Użycie pozwala zdobyć dusze.",
         "effects": [
             {
                 "code": 44,
@@ -1354,7 +1354,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użyj aby zyskać dusze.",
+        "description": "Użycie pozwala zdobyć dusze.",
         "effects": [
             {
                 "code": 44,
@@ -1366,7 +1366,7 @@
         "hitType": 0,
         "iconIndex": 119,
         "itypeId": 1,
-        "name": "Wielka dusza bezimiennego żołnierza",
+        "name": "Wielka dusza bezimiennego wojownika",
         "note": "",
         "occasion": 2,
         "price": 2000,
@@ -1387,7 +1387,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użyj aby zyskać dusze.",
+        "description": "Użycie pozwala zdobyć dusze.",
         "effects": [
             {
                 "code": 44,
@@ -1420,7 +1420,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użyj aby zyskać dusze.",
+        "description": "Zyskaj duszę poprzez użycie.",
         "effects": [
             {
                 "code": 44,
@@ -1453,7 +1453,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użyj aby zyskać dusze.",
+        "description": "Zyskaj duszę poprzez użycie.",
         "effects": [
             {
                 "code": 44,
@@ -1486,7 +1486,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użyj aby zyskać dusze.",
+        "description": "Zyskaj duszę poprzez użycie.",
         "effects": [
             {
                 "code": 44,
@@ -1519,7 +1519,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użyj aby zyskać dusze.",
+        "description": "Zyskaj duszę poprzez użycie.",
         "effects": [
             {
                 "code": 44,
@@ -1552,7 +1552,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użyj aby zyskać dusze.",
+        "description": "Zyskaj duszę poprzez użycie.",
         "effects": [
             {
                 "code": 44,
@@ -1585,7 +1585,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rzadko kwitnąca róża, piękna niczym piasek. \"Chcę ją! Niech\nktoś mi ją przyniesie! Ktoś…Ktokolwiek?\" - Roszpunka",
+        "description": "Rzadko kwitnąca róża, piękna niczym piasek. Chcę ją! Niech ktoś mi ją\nprzyniesie! Ktoś... czy nikogo tu nie ma? - Demonica Roszpunka",
         "effects": [],
         "hitType": 0,
         "iconIndex": 519,
@@ -1611,7 +1611,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Otwiera każdy zamek. \"Zmiennokształtny klucz stworzony w\nAkademii Magii Elheim\",",
+        "description": "Otwiera każdy zamek.\n\"Zmiennokształtny klucz z Akademii Elheim\",",
         "effects": [],
         "hitType": 0,
         "iconIndex": 242,
@@ -1637,7 +1637,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Przez pewien czas zwiększa moc magiczną sojusznika. ten\nprzedmiot można różnie zinterpretować...",
+        "description": "Przez pewien czas zwiększa moc magiczną sojusznika.\nten przedmiot można różnie zinterpretować...",
         "effects": [
             {
                 "code": 31,
@@ -1670,7 +1670,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Pyszny cukierek. Może stanie się coś dobrego jeśli zbierzesz\nich więcej.",
+        "description": "Pyszny cukierek. Może stanie się coś dobrego\njeśli zbierzesz ich więcej.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 340,
@@ -1722,7 +1722,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Płyn w formie mgiełki. Po rozpyleniu wróżka natychmiast\ntraci zdolność ruchu.",
+        "description": "Płyn w formie mgiełki.\nPo rozpyleniu wróżka natychmiast traci zdolność ruchu.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 195,
@@ -1748,7 +1748,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Dla mojej ukochanej Śnieżki♡ Tak strasznie tęsknię♡ Bardzo\nProszę, przynieś to na plażę♡ Bedę Czekać♡",
+        "description": "Dla mojej ukochanej Śnieżki♡ Czy spodobał ci się książę twojej\nsiostrzyczki?♡ Chciałabym znów porozmawiać z tobą w naszym gniazdku\nmiłości♡ Podnieś to na tamtej plaży♡ Czekam♡",
         "effects": [],
         "hitType": 0,
         "iconIndex": 238,
@@ -1858,12 +1858,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Prochy spalonej Joanny. Wciąż ciepłe.",
+        "description": "Prochy spalonej Jeanne. Wciąż są lekko ciepłe.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 223,
         "itypeId": 1,
-        "name": "Prochy Joanny",
+        "name": "Prochy Jeanne",
         "note": "",
         "occasion": 3,
         "price": 10000,
@@ -1884,7 +1884,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Odcięta macka. Wciąż się porusza.\"Krakenusia-pieszczusia.\nMoje drogie zwierzątko.\" - Mroczny Sędzia Baphomet",
+        "description": "Odcięta macka. Wciąż się porusza. Moja śliczna, kochana Kraken-chan.\nTo mój pupil. - Zaklęcieny Sędzia Baphomet",
         "effects": [],
         "hitType": 0,
         "iconIndex": 270,
@@ -2170,7 +2170,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Broń używana przez podłych ludzi, takich jak złodzieje czy\nbandyci. [Atak Wielokrotny/Dekapitacja]",
+        "description": "Broń używana przez podłych ludzi, takich jak złodzieje czy bandyci.\n[Atak Wielokrotny/Dekapitacja]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 385,
@@ -2196,7 +2196,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Broń używana przez podłych ludzi, takich jak złodzieje czy\nbandyci. [Atak Wielokrotny/Dekapitacja]",
+        "description": "Broń używana przez podłych ludzi, takich jak złodzieje czy bandyci.\n[Atak Wielokrotny/Dekapitacja]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 385,
@@ -2222,7 +2222,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Broń używana przez podłych ludzi, takich jak złodzieje czy\nbandyci. [Atak Wielokrotny/Dekapitacja]",
+        "description": "Broń używana przez podłych ludzi, takich jak złodzieje czy bandyci.\n[Atak Wielokrotny/Dekapitacja]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 385,
@@ -2248,7 +2248,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Broń używana przez podłych ludzi, takich jak złodzieje czy\nbandyci. [Atak Wielokrotny/Dekapitacja]",
+        "description": "Broń używana przez podłych ludzi, takich jak złodzieje czy bandyci.\n[Atak Wielokrotny/Dekapitacja]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 385,
@@ -2274,7 +2274,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Broń należąca do nikczemników, takich jak złodzieje czy\nbandyci. [Atak wielokrotny/Dekapitacja]",
+        "description": "Broń należąca do nikczemników, takich jak złodzieje czy bandyci. [Atak\nwielokrotny/Dekapitacja]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 385,
@@ -2300,7 +2300,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Broń należąca do nikczemników, takich jak złodzieje czy\nbandyci. [Atak wielokrotny/Dekapitacja]",
+        "description": "Broń należąca do nikczemników, takich jak złodzieje czy bandyci. [Atak\nwielokrotny/Dekapitacja]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 385,
@@ -2326,7 +2326,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Broń należąca do nikczemników, takich jak złodzieje czy\nbandyci. [Atak wielokrotny/Dekapitacja]",
+        "description": "Broń należąca do nikczemników, takich jak złodzieje czy bandyci. [Atak\nwielokrotny/Dekapitacja]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 385,
@@ -2352,7 +2352,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Broń należąca do nikczemników, takich jak złodzieje czy\nbandyci. [Atak wielokrotny/Dekapitacja]",
+        "description": "Broń należąca do nikczemników, takich jak złodzieje czy bandyci. [Atak\nwielokrotny/Dekapitacja]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 385,
@@ -2378,7 +2378,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Broń należąca do nikczemników, takich jak złodzieje czy\nbandyci. [Atak wielokrotny/Dekapitacja]",
+        "description": "Broń należąca do nikczemników, takich jak złodzieje czy bandyci. [Atak\nwielokrotny/Dekapitacja]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 385,
@@ -2404,7 +2404,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Broń należąca do nikczemników, takich jak złodzieje czy\nbandyci. [Atak wielokrotny/Dekapitacja]",
+        "description": "Broń należąca do nikczemników, takich jak złodzieje czy bandyci. [Atak\nwielokrotny/Dekapitacja]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 385,
@@ -2430,7 +2430,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Wielki miecz o ogromnej wadze i sile ataku. [Zamiatanie/Ryk\nberserka]",
+        "description": "Wielki miecz o ogromnej wadze i sile ataku. [Zamiatanie/Ryk berserka]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 389,
@@ -2456,7 +2456,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Wielki miecz o ogromnej wadze i sile ataku. [Zamiatanie/Ryk\nberserka]",
+        "description": "Wielki miecz o ogromnej wadze i sile ataku. [Zamiatanie/Ryk berserka]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 389,
@@ -2482,7 +2482,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Wielki miecz o ogromnej wadze i sile ataku. [Zamiatanie/Ryk\nberserka]",
+        "description": "Wielki miecz o ogromnej wadze i sile ataku. [Zamiatanie/Ryk berserka]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 389,
@@ -2508,7 +2508,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Wielki miecz o ogromnej wadze i sile ataku. [Zamiatanie/Ryk\nberserka]",
+        "description": "Wielki miecz o ogromnej wadze i sile ataku. [Zamiatanie/Ryk berserka]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 389,
@@ -2534,7 +2534,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Wielki miecz o ogromnej wadze i sile ataku. [Zamiatanie/Ryk\nBerserka]",
+        "description": "Wielki miecz o ogromnej wadze i sile ataku. [Zamiatanie/Ryk Berserka]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 389,
@@ -2560,7 +2560,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Wielki miecz o ogromnej wadze i sile ataku. [Zamiatanie/Ryk\nBerserka]",
+        "description": "Wielki miecz o ogromnej wadze i sile ataku. [Zamiatanie/Ryk Berserka]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 389,
@@ -2586,7 +2586,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Wielki miecz o ogromnej wadze i sile ataku. [Zamiatanie/Ryk\nBerserka]",
+        "description": "Wielki miecz o ogromnej wadze i sile ataku. [Zamiatanie/Ryk Berserka]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 389,
@@ -2612,7 +2612,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Wielki miecz o ogromnej wadze i sile ataku. [Zamiatanie/Ryk\nBerserka]",
+        "description": "Wielki miecz o ogromnej wadze i sile ataku. [Zamiatanie/Ryk Berserka]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 389,
@@ -2638,7 +2638,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Wielki miecz o ogromnej wadze i sile ataku. [Zamiatanie/Ryk\nBerserka]",
+        "description": "Wielki miecz o ogromnej wadze i sile ataku. [Zamiatanie/Ryk Berserka]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 389,
@@ -2664,7 +2664,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Wielki miecz o ogromnej wadze i sile ataku. [Zamiatanie/Ryk\nBerserka]",
+        "description": "Wielki miecz o ogromnej wadze i sile ataku. [Zamiatanie/Ryk Berserka]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 389,
@@ -2690,7 +2690,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Przeklęta katana z Orientu, która pożera zarówno wroga, jak\ni właściciela. [Hassou/Tsubame Gaeshi]",
+        "description": "Przeklęta katana z Orientu, która pożera zarówno wroga, jak i\nwłaściciela. [Hassou/Tsubame Gaeshi]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 148,
@@ -2716,7 +2716,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Przeklęta katana z Orientu, która pożera zarówno wroga, jak\ni właściciela. [Hassou/Tsubame Gaeshi]",
+        "description": "Przeklęta katana z Orientu, która pożera zarówno wroga, jak i\nwłaściciela. [Hassou/Tsubame Gaeshi]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 148,
@@ -2742,7 +2742,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Przeklęta katana z Orientu, która pożera zarówno wroga, jak\ni właściciela. [Hassou/Tsubame Gaeshi]",
+        "description": "Przeklęta katana z Orientu, która pożera zarówno wroga, jak i\nwłaściciela. [Hassou/Tsubame Gaeshi]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 148,
@@ -2768,7 +2768,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Przeklęta katana z Orientu, która pożera zarówno wroga, jak\ni właściciela. [Hassou/Tsubame Gaeshi]",
+        "description": "Przeklęta katana z Orientu, która pożera zarówno wroga, jak i\nwłaściciela. [Hassou/Tsubame Gaeshi]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 148,
@@ -2794,7 +2794,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Przeklęta katana z Orientu, która pożera zarówno wroga, jak\ni swojego właściciela. [Hassou/Tsubame Gaeshi]",
+        "description": "Przeklęta katana z Orientu, która pożera zarówno wroga, jak i swojego\nwłaściciela. [Hassou/Tsubame Gaeshi]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 148,
@@ -2820,7 +2820,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Przeklęta katana z Orientu, która pożera zarówno wroga, jak\ni swojego właściciela. [Hassou/Tsubame Gaeshi]",
+        "description": "Przeklęta katana z Orientu, która pożera zarówno wroga, jak i swojego\nwłaściciela. [Hassou/Tsubame Gaeshi]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 148,
@@ -2846,7 +2846,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Przeklęta katana z Orientu, która pożera zarówno wroga, jak\ni swojego właściciela. [Hassou/Tsubame Gaeshi]",
+        "description": "Przeklęta katana z Orientu, która pożera zarówno wroga, jak i swojego\nwłaściciela. [Hassou/Tsubame Gaeshi]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 148,
@@ -2872,7 +2872,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Przeklęta katana z Orientu, która pożera zarówno wroga, jak\ni swojego właściciela. [Hassou/Tsubame Gaeshi]",
+        "description": "Przeklęta katana z Orientu, która pożera zarówno wroga, jak i swojego\nwłaściciela. [Hassou/Tsubame Gaeshi]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 148,
@@ -2898,7 +2898,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Przeklęta katana z Orientu, która pożera zarówno wroga, jak\ni swojego właściciela. [Hassou/Tsubame Gaeshi]",
+        "description": "Przeklęta katana z Orientu, która pożera zarówno wroga, jak i swojego\nwłaściciela. [Hassou/Tsubame Gaeshi]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 148,
@@ -2924,7 +2924,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Przeklęta katana z Orientu, która pożera zarówno wroga, jak\ni swojego właściciela. [Hassou/Tsubame Gaeshi]",
+        "description": "Przeklęta katana z Orientu, która pożera zarówno wroga, jak i swojego\nwłaściciela. [Hassou/Tsubame Gaeshi]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 148,
@@ -2950,7 +2950,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Włócznia z szerokim grotem i ostrzem. [Celność\n+100%/Kontratak +50%/Podcięcie/Przebicie pancerza]",
+        "description": "Włócznia z szerokim grotem i ostrzem. [Celność +100%/Kontratak\n+50%/Podcięcie/Przebicie pancerza]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 410,
@@ -2976,7 +2976,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Włócznia z szerokim grotem i ostrzem. [Celność\n+100%/Kontratak +50%/Podcięcie/Przebicie pancerza]",
+        "description": "Włócznia z szerokim grotem i ostrzem. [Celność +100%/Kontratak\n+50%/Podcięcie/Przebicie pancerza]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 410,
@@ -3002,7 +3002,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Włócznia z szerokim grotem i ostrzem. [Celność\n+100%/Kontratak +50%/Podcięcie/Przebicie pancerza]",
+        "description": "Włócznia z szerokim grotem i ostrzem. [Celność +100%/Kontratak\n+50%/Podcięcie/Przebicie pancerza]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 410,
@@ -3028,7 +3028,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Włócznia z szerokim grotem i ostrzem. [Celność\n+100%/Kontratak +50%/Podcięcie/Przebicie pancerza]",
+        "description": "Włócznia z szerokim grotem i ostrzem. [Celność +100%/Kontratak\n+50%/Podcięcie/Przebicie pancerza]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 410,
@@ -3054,7 +3054,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Włócznia z szerokim ostrzem na czubku. [Celność\n+100%/Kontratak +50%/Podcięcie/Przebicie pancerza]",
+        "description": "Włócznia z szerokim ostrzem na czubku. [Celność +100%/Kontratak\n+50%/Podcięcie/Przebicie pancerza]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 410,
@@ -3080,7 +3080,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Włócznia z szerokim ostrzem na czubku. [Celność\n+100%/Kontratak +50%/Podcięcie/Przebicie pancerza]",
+        "description": "Włócznia z szerokim ostrzem na czubku. [Celność +100%/Kontratak\n+50%/Podcięcie/Przebicie pancerza]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 410,
@@ -3106,7 +3106,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Włócznia z szerokim ostrzem na czubku. [Celność\n+100%/Kontratak +50%/Podcięcie/Przebicie pancerza]",
+        "description": "Włócznia z szerokim ostrzem na czubku. [Celność +100%/Kontratak\n+50%/Podcięcie/Przebicie pancerza]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 410,
@@ -3132,7 +3132,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Włócznia z szerokim ostrzem na czubku. [Celność\n+100%/Kontratak +50%/Podcięcie/Przebicie pancerza]",
+        "description": "Włócznia z szerokim ostrzem na czubku. [Celność +100%/Kontratak\n+50%/Podcięcie/Przebicie pancerza]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 410,
@@ -3158,7 +3158,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Włócznia z szerokim ostrzem na czubku. [Celność\n+100%/Kontratak +50%/Podcięcie/Przebicie pancerza]",
+        "description": "Włócznia z szerokim ostrzem na czubku. [Celność +100%/Kontratak\n+50%/Podcięcie/Przebicie pancerza]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 410,
@@ -3184,7 +3184,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Włócznia z szerokim ostrzem na czubku. [Celność\n+100%/Kontratak +50%/Podcięcie/Przebicie pancerza]",
+        "description": "Włócznia z szerokim ostrzem na czubku. [Celność +100%/Kontratak\n+50%/Podcięcie/Przebicie pancerza]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 410,
@@ -3210,7 +3210,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Żelazna kula na łańcuchu. Atak obszarowy. [Czakra/Seria\nciosów/Szansa na ogłuszenie +10%]",
+        "description": "Żelazna kula na łańcuchu. Atak obszarowy. [Czakra/Seria ciosów/Szansa\nna ogłuszenie +10%]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 426,
@@ -3236,7 +3236,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Żelazna kula na łańcuchu. Atak obszarowy. [Czakra/Seria\nciosów/Szansa na ogłuszenie +10%]",
+        "description": "Żelazna kula na łańcuchu. Atak obszarowy. [Czakra/Seria ciosów/Szansa\nna ogłuszenie +10%]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 426,
@@ -3262,7 +3262,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Żelazna kula na łańcuchu. Atak obszarowy. [Czakra/Seria\nciosów/Szansa na ogłuszenie +10%]",
+        "description": "Żelazna kula na łańcuchu. Atak obszarowy. [Czakra/Seria ciosów/Szansa\nna ogłuszenie +10%]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 426,
@@ -3288,7 +3288,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Żelazna kula na łańcuchu. Atak obszarowy. [Czakra/Seria\nciosów/Szansa na ogłuszenie +10%]",
+        "description": "Żelazna kula na łańcuchu. Atak obszarowy. [Czakra/Seria ciosów/Szansa\nna ogłuszenie +10%]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 426,
@@ -3314,7 +3314,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Żelazna kula, którą można wymachiwać. Atak obszarowy.\n[Czakra/Seria ciosów/Szansa na ogłuszenie +30%]",
+        "description": "Żelazna kula, którą można wymachiwać. Atak obszarowy. [Czakra/Seria\nciosów/Szansa na ogłuszenie +30%]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 426,
@@ -3340,7 +3340,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Żelazna kula, którą można wymachiwać. Atak obszarowy.\n[Czakra/Seria ciosów/Szansa na ogłuszenie +30%]",
+        "description": "Żelazna kula, którą można wymachiwać. Atak obszarowy. [Czakra/Seria\nciosów/Szansa na ogłuszenie +30%]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 426,
@@ -3366,7 +3366,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Żelazna kula, którą można wymachiwać. Atak obszarowy.\n[Czakra/Seria ciosów/Szansa na ogłuszenie +30%]",
+        "description": "Żelazna kula, którą można wymachiwać. Atak obszarowy. [Czakra/Seria\nciosów/Szansa na ogłuszenie +30%]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 426,
@@ -3392,7 +3392,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Żelazna kula, którą można wymachiwać. Atak obszarowy.\n[Czakra/Seria ciosów/Szansa na ogłuszenie +60%]",
+        "description": "Żelazna kula, którą można wymachiwać. Atak obszarowy. [Czakra/Seria\nciosów/Szansa na ogłuszenie +60%]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 426,
@@ -3418,7 +3418,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Żelazna kula, którą można wymachiwać. Atak obszarowy.\n[Czakra/Seria ciosów/Szansa na ogłuszenie +60%]",
+        "description": "Żelazna kula, którą można wymachiwać. Atak obszarowy. [Czakra/Seria\nciosów/Szansa na ogłuszenie +60%]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 426,
@@ -3444,7 +3444,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Żelazna kula, którą można wymachiwać. Atak obszarowy.\n[Czakra/Seria ciosów/Szansa na ogłuszenie +60%]",
+        "description": "Żelazna kula, którą można wymachiwać. Atak obszarowy. [Czakra/Seria\nciosów/Szansa na ogłuszenie +60%]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 426,
@@ -3730,7 +3730,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu posiada\nogromną siłę ognia. [Uzupełnienie Prochu/Zasłona\nDymna/Pojemność Magazynka+1]",
+        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu posiada ogromną siłę\nognia. [Uzupełnienie Prochu/Zasłona Dymna/Pojemność Magazynka+1]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 153,
@@ -3756,7 +3756,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu posiada\nogromną siłę ognia. [Uzupełnienie Prochu/Zasłona\nDymna/Pojemność Magazynka+1]",
+        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu posiada ogromną siłę\nognia. [Uzupełnienie Prochu/Zasłona Dymna/Pojemność Magazynka+1]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 153,
@@ -3782,7 +3782,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu posiada\nogromną siłę ognia. [Uzupełnienie Prochu/Zasłona\nDymna/Pojemność Magazynka+1]",
+        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu posiada ogromną siłę\nognia. [Uzupełnienie Prochu/Zasłona Dymna/Pojemność Magazynka+1]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 153,
@@ -3808,7 +3808,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu posiada\nogromną siłę ognia. [Uzupełnienie Prochu/Zasłona\nDymna/Pojemność Magazynka+1]",
+        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu posiada ogromną siłę\nognia. [Uzupełnienie Prochu/Zasłona Dymna/Pojemność Magazynka+1]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 153,
@@ -3834,7 +3834,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje\nogromną siłę ognia. [Uzupełnienie prochu/Zasłona\ndymna/Pojemność magazynka+1]",
+        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Pojemność magazynka+1]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 153,
@@ -3860,7 +3860,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje\nogromną siłę ognia. [Uzupełnienie prochu/Zasłona\ndymna/Pojemność magazynka+1]",
+        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Pojemność magazynka+1]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 153,
@@ -3886,7 +3886,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje\nogromną siłę ognia. [Uzupełnienie prochu/Zasłona\ndymna/Pojemność magazynka+1]",
+        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Pojemność magazynka+1]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 153,
@@ -3912,7 +3912,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje\nogromną siłę ognia. [Uzupełnienie prochu/Zasłona\ndymna/Pojemność magazynka+1]",
+        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Pojemność magazynka+1]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 153,
@@ -3938,7 +3938,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje\nogromną siłę ognia. [Uzupełnienie prochu/Zasłona\ndymna/Pojemność magazynka+1]",
+        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Pojemność magazynka+1]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 153,
@@ -3964,7 +3964,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje\nogromną siłę ognia. [Uzupełnienie prochu/Zasłona\ndymna/Pojemność magazynka+1]",
+        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Pojemność magazynka+1]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 153,
@@ -3990,7 +3990,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje\nogromną siłę ognia. [Uzupełnienie prochu/Zasłona\ndymna/Pojemność magazynka+1]",
+        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Pojemność magazynka+1]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 397,
@@ -4016,7 +4016,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje\nogromną siłę ognia. [Uzupełnienie prochu/Zasłona\ndymna/Pojemność magazynka+1]",
+        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Pojemność magazynka+1]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 397,
@@ -4042,7 +4042,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje\nogromną siłę ognia. [Uzupełnienie prochu/Zasłona\ndymna/Pojemność magazynka+1]",
+        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Pojemność magazynka+1]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 397,
@@ -4068,7 +4068,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje\nogromną siłę ognia. [Uzupełnienie prochu/Zasłona\ndymna/Pojemność magazynka+1]",
+        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Pojemność magazynka+1]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 397,
@@ -4094,7 +4094,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje\nogromną siłę ognia. [Uzupełnienie prochu/Zasłona\ndymna/Pojemność magazynka+1]",
+        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Pojemność magazynka+1]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 397,
@@ -4120,7 +4120,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje\nogromną siłę ognia. [Uzupełnienie prochu/Zasłona\ndymna/Pojemność magazynka+1]",
+        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Pojemność magazynka+1]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 397,
@@ -4146,7 +4146,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje\nogromną siłę ognia. [Uzupełnienie prochu/Zasłona\ndymna/Pojemność magazynka+1]",
+        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Pojemność magazynka+1]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 397,
@@ -4172,7 +4172,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje\nogromną siłę ognia. [Uzupełnienie prochu/Zasłona\ndymna/Pojemność magazynka+1]",
+        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Pojemność magazynka+1]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 397,
@@ -4198,7 +4198,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje\nogromną siłę ognia. [Uzupełnienie prochu/Zasłona\ndymna/Pojemność magazynka+1]",
+        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Pojemność magazynka+1]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 397,
@@ -4224,7 +4224,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje\nogromną siłę ognia. [Uzupełnienie prochu/Zasłona\ndymna/Pojemność magazynka+1]",
+        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Pojemność magazynka+1]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 397,
@@ -4250,7 +4250,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje\nogromną siłę ognia. [Uzupełnienie prochu/Zasłona\ndymna/Pojemność magazynka+1]",
+        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Pojemność magazynka+1]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 392,
@@ -4276,7 +4276,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje\nogromną siłę ognia. [Uzupełnienie prochu/Zasłona\ndymna/Pojemność magazynka+1]",
+        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Pojemność magazynka+1]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 392,
@@ -4302,7 +4302,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje\nogromną siłę ognia. [Uzupełnienie prochu/Zasłona\ndymna/Pojemność magazynka+1]",
+        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Pojemność magazynka+1]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 392,
@@ -4328,7 +4328,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje\nogromną siłę ognia. [Uzupełnienie prochu/Zasłona\ndymna/Pojemność magazynka+1]",
+        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu zyskuje ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Pojemność magazynka+1]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 392,
@@ -4354,7 +4354,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu posiada\nogromną siłę ognia. [Uzupełnienie prochu/Zasłona\ndymna/Pojemność magazynka+1]",
+        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu posiada ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Pojemność magazynka+1]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 392,
@@ -4380,7 +4380,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu posiada\nogromną siłę ognia. [Uzupełnienie prochu/Zasłona\ndymna/Pojemność magazynka+1]",
+        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu posiada ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Pojemność magazynka+1]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 392,
@@ -4406,7 +4406,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu posiada\nogromną siłę ognia. [Uzupełnienie prochu/Zasłona\ndymna/Pojemność magazynka+1]",
+        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu posiada ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Pojemność magazynka+1]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 392,
@@ -4432,7 +4432,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu posiada\nogromną siłę ognia. [Uzupełnienie prochu/Zasłona\ndymna/Pojemność magazynka+1]",
+        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu posiada ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Pojemność magazynka+1]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 392,
@@ -4458,7 +4458,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu posiada\nogromną siłę ognia. [Uzupełnienie prochu/Zasłona\ndymna/Pojemność magazynka+1]",
+        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu posiada ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Pojemność magazynka+1]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 392,
@@ -4484,7 +4484,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu posiada\nogromną siłę ognia. [Uzupełnienie prochu/Zasłona\ndymna/Pojemność magazynka+1]",
+        "description": "Bardzo ciężki karabin maszynowy. Po ulepszeniu posiada ogromną siłę\nognia. [Uzupełnienie prochu/Zasłona dymna/Pojemność magazynka+1]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 392,
@@ -4510,7 +4510,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.[Koszt MP -50%]",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 413,
@@ -4536,7 +4536,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.[Koszt MP -50%]",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 413,
@@ -4562,7 +4562,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.[Koszt MP -50%]",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 413,
@@ -4588,7 +4588,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.[Koszt MP -50%]",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 413,
@@ -4614,7 +4614,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.[Koszt MP -50%]",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 413,
@@ -4640,7 +4640,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.[Koszt MP -50%]",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 413,
@@ -4666,7 +4666,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.[Koszt MP -50%]",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 413,
@@ -4692,7 +4692,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.[Koszt MP -50%]",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 413,
@@ -4718,7 +4718,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.[Koszt MP -50%]",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 413,
@@ -4744,7 +4744,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur należący do Czarnego maga. Służy jako katalizator do\nrzucania Czarów. [Zużycie MP 0]",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 0]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 413,
@@ -4770,7 +4770,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.[Koszt MP -50%]",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 427,
@@ -4796,7 +4796,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.[Koszt MP -50%]",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 427,
@@ -4822,7 +4822,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.[Koszt MP -50%]",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 427,
@@ -4848,7 +4848,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.[Koszt MP -50%]",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 427,
@@ -4874,7 +4874,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.[Koszt MP -50%]",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 427,
@@ -4900,7 +4900,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.[Koszt MP -50%]",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 427,
@@ -4926,7 +4926,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.[Koszt MP -50%]",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 427,
@@ -4952,7 +4952,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.[Koszt MP -50%]",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 427,
@@ -4978,7 +4978,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.[Koszt MP -50%]",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 427,
@@ -5004,7 +5004,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.[Koszt MP -50%]",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 427,
@@ -5082,7 +5082,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Wstążka pozostawiona przez Alicję. W poszukiwaniu jeszcze\nnieznanej Alicji w twoich snach.",
+        "description": "Wstążka pozostawiona przez Alicję.\nW poszukiwaniu jeszcze nieznanej Alicji w twoich snach.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 448,
@@ -5134,7 +5134,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Zużywa wszystkie dusze, aby powrócić do świętego Lasu.\n\"Powstań tyle razy, ile musisz, by doświadczyć tej\npowieści.\"",
+        "description": "Zużywa wszystkie dusze, aby powrócić do świętego Lasu.\nOdradzaj się w nieskończoność aby przeżywać to na nowo.",
         "effects": [
             {
                 "code": 44,
@@ -5146,7 +5146,7 @@
         "hitType": 0,
         "iconIndex": 357,
         "itypeId": 1,
-        "name": "Plugawy Popiół",
+        "name": "Zaklęcieny Popiół",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -5167,7 +5167,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Zwiększa szybkość wybranego sojusznika na pewien czas.\n\"Wrzeszczą i płaczą... ale i tak są nieśmiertelne, prawda?\".",
+        "description": "Zwiększa zwinność na czas walki.\"Może i Płaczą i wrzeszczą\nale czyż i tak nie są nieśmiertelne?\".",
         "effects": [
             {
                 "code": 31,
@@ -5200,7 +5200,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Budzi ze śmierci upadłych towarzyszy. \"Zuchwały ptak\npozbawiony piór przez swego boga.\"",
+        "description": "Budzi ze śmierci upadłych towarzyszy.\n-Ognisty ptak bez piór swego boga.",
         "effects": [
             {
                 "code": 22,
@@ -5239,7 +5239,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Nakłada na wybranego wroga status osłabienia.\n\"Czy sukkuby są snem? A może są prawdziwe?\"",
+        "description": "Użyj podczas walki, aby nałożyć na jednego wroga status osłabienia.\nCzy sukkub to sen? A może rzeczywistość?",
         "effects": [
             {
                 "code": 21,
@@ -5272,7 +5272,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "NIENIENIENIEE, w ten sposób nie stanę się *** dla ****.\nMuszę stworzyć więcej uroczych dziewczynek.",
+        "description": "NIENIENIENIEE, w ten sposób nie stanę się *** dla ****. Muszę stworzyć\nwięcej uroczych dziewczynek.",
         "effects": [
             {
                 "code": 42,
@@ -5422,7 +5422,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Znacząco zwiększa wszystkie statystyki.\"Miłośc matki, czy jest aż tak\nciepła? Czy byłbym wstanie ją zrozumieć?\"",
+        "description": "Znacząco zwiększa wszystkie statystyki. Czy miłość matki jest aż tak\nciepła? Czy ja też będę w stanie to zrozumieć?",
         "effects": [
             {
                 "code": 42,
@@ -5476,7 +5476,7 @@
         "hitType": 0,
         "iconIndex": 185,
         "itypeId": 1,
-        "name": "Wielka Czarna Dusza",
+        "name": "Wielka Plugawa dusza",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -5523,7 +5523,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Zwiększa wszystkie statystyki. \"To dusza, którą osobiście wychodowałem.\nChcesz spróbować jej smaku?\" - Mroczny Arbiter Hein",
+        "description": "Zwiększa wszystkie statystyki. To dusza, którą wyhodowałem. Delektuj\nsię nią porządnie, dobrze? - Zaklęcieny Sędzia Hain",
         "effects": [
             {
                 "code": 42,
@@ -5577,7 +5577,7 @@
         "hitType": 0,
         "iconIndex": 185,
         "itypeId": 1,
-        "name": "Skażona Czarna Dusza",
+        "name": "Skażona Plugawa dusza",
         "note": "",
         "occasion": 2,
         "price": 40000,
@@ -5598,7 +5598,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "W pokoju wspomnień możesz przybrać puszystą postać.\n※Nie sprawi to, że staniesz się szybszy.",
+        "description": "W pokoju wspomnień możesz przybrać puszystą postać. ※Nie sprawia to,\nże stajesz się szybszy.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 632,
@@ -5792,7 +5792,7 @@
         "hitType": 0,
         "iconIndex": 96,
         "itypeId": 2,
-        "name": "Las Zapomnienia",
+        "name": "Zapomniany Las",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -5844,7 +5844,7 @@
         "hitType": 0,
         "iconIndex": 96,
         "itypeId": 2,
-        "name": "Miasto Rozpusty",
+        "name": "Dzielnica Rozpusty",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -5870,7 +5870,7 @@
         "hitType": 0,
         "iconIndex": 96,
         "itypeId": 2,
-        "name": "Fort Ivern",
+        "name": "Fort Aiburn",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -5922,7 +5922,7 @@
         "hitType": 0,
         "iconIndex": 96,
         "itypeId": 2,
-        "name": "Nieużywana Kopalnia Jakoba",
+        "name": "Kopalnia Jakob",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6078,7 +6078,7 @@
         "hitType": 0,
         "iconIndex": 96,
         "itypeId": 2,
-        "name": "Śnieżnobiały Ogród",
+        "name": "Ogród Śnieżnobiały",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6104,7 +6104,7 @@
         "hitType": 0,
         "iconIndex": 96,
         "itypeId": 2,
-        "name": "Kuźnia Ropsa",
+        "name": "Kuźnia Lopsa",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6156,7 +6156,7 @@
         "hitType": 0,
         "iconIndex": 96,
         "itypeId": 2,
-        "name": "Kraina Czarów",
+        "name": "Kraina Zaklęcieów",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6182,7 +6182,7 @@
         "hitType": 0,
         "iconIndex": 96,
         "itypeId": 2,
-        "name": "Brama Zaginionego Imperium",
+        "name": "Brama Zamkowa Zaginionego Imperium",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6208,7 +6208,7 @@
         "hitType": 0,
         "iconIndex": 96,
         "itypeId": 2,
-        "name": "Zaginione Imperium",
+        "name": "Środek Zaginionego Imperium",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6312,7 +6312,7 @@
         "hitType": 0,
         "iconIndex": 96,
         "itypeId": 2,
-        "name": "Las Sabatu",
+        "name": "Ogród Sabatu",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6338,7 +6338,7 @@
         "hitType": 0,
         "iconIndex": 122,
         "itypeId": 2,
-        "name": "Leaf",
+        "name": "Liif",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6416,7 +6416,7 @@
         "hitType": 0,
         "iconIndex": 122,
         "itypeId": 2,
-        "name": "Joanna",
+        "name": "Jeanne",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6546,7 +6546,7 @@
         "hitType": 0,
         "iconIndex": 122,
         "itypeId": 2,
-        "name": "Elżbieta",
+        "name": "Elisabeth",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6650,7 +6650,7 @@
         "hitType": 0,
         "iconIndex": 96,
         "itypeId": 2,
-        "name": "Mroczny Trybunał",
+        "name": "Zaklęcieny Trybunał",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -7763,7 +7763,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Opowieść o rodzeństwie porzuconym w czasie plagi głodu.\nJedząc leśne grzyby, oboje halucynują o domku z ciasta.",
+        "description": "Opowieść o rodzeństwie porzuconym przez matkę z powodu głodu.\nHalucynacje wywołane przez leśne grzyby sprawiły, że rodzeństwo\nwyśniło sobie domek z piernika.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
@@ -7789,7 +7789,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Potwór, którego wyhodowały trzy świnki, uciekł i je pożarł.\nHiena głodu osiedliła się na zniszczonym ranczu.",
+        "description": "Wyrośnięty potwór pożarł trzy uciekające w popłochu świnki. Na\nzniszczonej farmie zamieszkały wygłodniałe hieny.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
@@ -7815,12 +7815,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Pewien król nosił żelazną zbroję, nie do przebicia.\nJednak jako przeszkoda dla żądzy, zbroja musiała zniknąć.",
+        "description": "W pewnym królestwie żył król o żelaznej zbroi, nie do przebicia.\nJednak ponieważ przeszkadzała mu w kochaniu kobiet, założył\nniewidzialną zbroję.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
         "itypeId": 1,
-        "name": "Baśń【Szaty króla】",
+        "name": "Baśń【Nowe szaty króla】",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -7841,7 +7841,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Miau, miau, miau, my silni.\nMiau, miau, miau, my rycerz.",
+        "description": "Miau, miau, miau, jesteśmy silni. Miau, miau, miau, jesteśmy\nrycerzami.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
@@ -7867,7 +7867,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Wierny pies chronił ukochanego właściciela. Przed bestiami.\nPrzed chorobą. I przed głupcami, którzy go poświęcili.",
+        "description": "Wierny pies nieustannie chronił swojego ukochanego pana. Przed\nbestiami. Przed chorobami. A także przed głupim kościołem, który\nchciał złożyć go w ofierze.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
@@ -7893,12 +7893,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "♪Grasz na rogu z jednej z moich kości. Mój brat mnie zabił\ni zdobył księżniczkę, udając, że to on ubił bestię.",
+        "description": "♪ Flet, na którym grasz, jest z moich kości. Zostałem zabity przez\nbrata i pogrzebany. Mój brat chciał poślubić księżniczkę.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
         "itypeId": 1,
-        "name": "Baśń【Pieśń kości】",
+        "name": "Baśń【Śpiewająca kość】",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -7919,7 +7919,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Prześladowany za ubóstwo i wygnany, mężczyzna zemścił się,\nprowadząc szczury, by szerzyły zarazę i zniszczyły miasto.",
+        "description": "Mężczyzna był prześladowany przez miasto z powodu swojej biedy. Więc\npoprzysiągł zemstę. Za pomocą fletu kontrolował szczury,\nrozprzestrzeniał choroby i zniszczył to miasto.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
@@ -7945,7 +7945,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Wykorzystywane i porzucone zwierzęta przysięgają zemstę.\nMuzyka, którą grają, jest brutalna, upiorna, lecz piękna.",
+        "description": "Znęcane i porzucone bestie poprzysięgają zemstę na ludziach. Mówi się,\nże muzyka, którą grają, jest brutalna, makabryczna, a zarazem\nartystyczna.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
@@ -7971,12 +7971,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "To kaczątko miało rodzinę, ale wojna zabrała mu wszystko,\nzostawiając tylko żądzę krwi. Teraz żyje już tylko dla rzezi.",
+        "description": "To kaczątko miało rodzinę. Jednak przez wojnę straciło wszystko.\nKaczątko desperacko szukało siły. Ale teraz zapomniało o wszystkim i\npragnie jedynie walki.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
         "itypeId": 1,
-        "name": "Baśń【Brzydkie Kaczątko】",
+        "name": "Baśń【Brzydkie kaczątko】",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -7997,12 +7997,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Chłopiec został porzucony przez matkę z kilkoma fasolkami.\nGłodny, zjadł je i urósł do wielkich rozmiarów w mig.",
+        "description": "Pewien biedny chłopiec został porzucony przez matkę wraz z garścią\nfasoli. Cierpiąc głód, chłopiec zjadł fasolę i zaczął rosnąć w oczach.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
         "itypeId": 1,
-        "name": "Baśń【Magiczna fasola】",
+        "name": "Baśń【Jaś i magiczna fasola】",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -8023,7 +8023,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Piotruś Pan przychodzi po dzieci, które chodzą późno spać.\nZamyka je w więzieniu na zawsze. Nawet teraz, może gdzieś tam być…",
+        "description": "Do dzieci, które nie chcą spać, przychodzi Piotruś Pan. Porywa je i\nzamyka w krainie więziennej na całe życie. Spójrz, już jest za\noknem...",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
@@ -8049,12 +8049,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Przez tysiąc nocy Sindbad żeglował po siedmiu morzach.\nStracił człowieczeństwo, ale jego przygody będą trwać.",
+        "description": "Sindbad, który żeglował po siedmiu morzach i spędził tysiąc nocy. Jego\nprzygody trwają nadal, nawet jeśli porzucił ludzką postać.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
         "itypeId": 1,
-        "name": "Baśń【Przygody Sindbada】",
+        "name": "Baśń【Podróże Sindbada Żeglarza】",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -8075,12 +8075,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Dżin powiedział: „Spełnię jedno twoje życzenie”.\nWięc Aladyn odparł: „W takim razie oddaj mi swoją moc”.",
+        "description": "Demon rzekł: „Spełnię jedno twoje życzenie\u0027. Aladyn odpowiedział:\n„Oddaj mi swoją moc\u0027.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
         "itypeId": 1,
-        "name": "Baśń【Aladyn i Lampa】",
+        "name": "Baśń【Aladyn i cudowna lampa】",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -8101,12 +8101,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Gdy fryzjer wyjawia prawdę, król wpada w straszliwą furię.\nSkazuje wszystkich na śmierć, niszcząc swoje królestwo.",
+        "description": "Król, którego sekret został wyjawiony ludowi przez fryzjera, wpadł w\nfurię. Skazał na śmierć sługi i poddanych, aż w końcu królestwo\nupadło.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
         "itypeId": 1,
-        "name": "Baśń【Oślo uszy Król】",
+        "name": "Baśń【O królu, który miał ośle uszy】",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -8127,7 +8127,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Nie wolno go uwalniać, gdyż jest istną bronią rzezi.\nA jednak ignorancki książę postanowił uwolnić Hansa.",
+        "description": "Nie wolno go uwalniać, to broń masowego rażenia. Ignorancki książę\nuwolnił Żelaznego Hansa.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
@@ -8153,7 +8153,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Używając bestii, piękność zdobyła fortunę i pozycję.\nBestia pragnęła jej miłości, nieważne jak bardzo fałszywej.",
+        "description": "Piękna wykorzystała Bestię, by zdobyć status i majątek. Bestia\nzakochała się w Pięknej i chciała być kochana, nawet jeśli to było\nkłamstwo.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
@@ -8179,7 +8179,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Dwóch szalonych rycerzy i towarzyszy w ciągłej rywalizacji.\n「Zawody. Kto zabije, zgwałci i oszuka najwięcej ludzi?」",
+        "description": "Było dwóch szalonych rycerzy. Byli dla siebie śmiertelnymi wrogami i\ntowarzyszami zarazem. „Konkurs. Kto zabije, zgwałci lub oszuka więcej\nludzi?\u0027",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
@@ -8205,12 +8205,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Matka rzekła: \"Zapałki te pokażą ci cudowne sny.\nJak je zrobić? Wystarczą ciała kilku młodych kobiet...\"",
+        "description": "Matka powiedziała: „Te zapałki, kochanie, pokażą ci cudowne sny\u0027. „A\nwiesz, jak się je robi? Z mięsa kobiet, które kręcą się w pobliżu...\u0027.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
         "itypeId": 1,
-        "name": "Baśń【Dziewka z zapałkami】",
+        "name": "Baśń【Dziewczynka z zapałkami】",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -8231,12 +8231,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Alicja w końcu to pojęła. Ten cudowny świat jest fałszywy.\nWszystko jest tylko szaloną deluzją... nawet ja.",
+        "description": "Alicja zdała sobie sprawę. Ten cudowny świat to oszustwo. Wszystko to\ntylko czyjaś urojenie... w tym i ja.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
         "itypeId": 1,
-        "name": "Baśń【Alicja w Kraina Czarów】",
+        "name": "Baśń【Alicja w Krainie Zaklęcieów】",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -8257,12 +8257,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Z pomocą trzech sług zabiłem niezliczoną ilość wiedźm.\nWkrótce zostanę najpotężniejszym czarodziejem na świecie.",
+        "description": "Z trzema sługami, zabiłem wiele czarownic. Już niedługo.\nzostanę najpotężniejszym czarodziejem.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
         "itypeId": 1,
-        "name": "Baśń【Czarodziej z Oz】",
+        "name": "Baśń【Czarnoksiężnik z Oz】",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -8283,12 +8283,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Czemu toczymy wojny? Czemu ludzkość jest tak obrzydliwa?\nTylko Bogu mogę ufać - myślała wiedźma w piekielnym ogniu.",
+        "description": "Dlaczego toczymy wojny? Dlaczego ludzie są tak obrzydliwi? Już tylko w\nBogu mogę pokładać wiarę. Tak pomyślała Zaklęcieownica pośród piekielnego\nognia.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
         "itypeId": 1,
-        "name": "Baśń【Joanna d'Arc】",
+        "name": "Baśń【Joanna d\u0027Arc】",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -8309,7 +8309,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Ten ptak obdarza zwykłych ludzi niepojętym bogactwem.\nGdy jednak nagle się znudzi, odlatuje w siną dal.",
+        "description": "Ten ptak potrafi obdarzyć zwykłego śmiertelnika ogromnym bogactwem.\nJest jednak kapryśny i gdy tylko się znudzi, odlatuje w nieznane.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
@@ -8335,12 +8335,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Z najgłębszej wiary rodzi się zwątpienie w istnienie Boga.\nSkoro świat upadł tak nisko, gdzie podziewa się Stwórca?",
+        "description": "Im głębsza wiara, tym większe wątpliwości co do istnienia Boga. Nawet\nw takim świecie jak ten, gdzie On się podziewa?",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
         "itypeId": 1,
-        "name": "Baśń【Święta Sandrii】",
+        "name": "Baśń【Święta Dziewica z Sandrii】",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -8361,7 +8361,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Ludzkie ciało jest tak wspaniałe, że wręcz nienaturalne.\n- Mruczał Pinokio, robiąc sekcję kolejnych zwłok.",
+        "description": "Budowa człowieka jest doprawdy niezwykła. To nie mogło zostać\nstworzone przez naturę. Pinokio mruczał to pod nosem, sekcjonując dziś\nkolejne zwłoki.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
@@ -8387,7 +8387,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Dziewczyna ze złotymi włosami zniewala umysły i ciała.\nOpętani przez nią mężczyźni zbudowali dla niej królestwo.",
+        "description": "Pewnego razu żyła dziewczyna o urzekających złotych włosach, które\nzniewalały ciało i umysł. Przyciągając magią swoich włosów wielu\nmężczyzn i skarby, z czasem zbudowała własne królestwo.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
@@ -8413,12 +8413,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Książę zgubił but w bagnie. Ogromna ropucha wyskoczyła\ni zabiła go pocałunkiem. „On też nie był moim księciem...”",
+        "description": "Książę pewnego królestwa upuścił but do bagna. Wtedy pojawiła się\nogromna żaba, która siłą pocałowała księcia i go zabiła. Ach... ten\nmężczyzna również nie był moim księciem.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
         "itypeId": 1,
-        "name": "Baśń【Żabia królewna】",
+        "name": "Baśń【Żabia księżniczka】",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -8439,7 +8439,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Syrenka zakochała się w księciu. Jej ślepa miłość urosła\nw siłę i jako tsunami pochłonęła królestwo księcia.",
+        "description": "Pewnego dnia Mała Syrenka zakochała się w księciu na plaży. Ta\nniespełniona miłość z czasem urosła w siłę, aż w końcu tsunami\nuderzyło w królestwo księcia.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
@@ -8465,7 +8465,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Macocha zazdrościła Śnieżce urody i wielokrotnie próbowała\nją zabić. Ona zaś odpłaciła sie tym samym, pragnąc tego samego.",
+        "description": "Królewna Śnieżka, której macocha-królowa zazdrościła urody,\nwielokrotnie była bliska śmierci. Śnieżka jednak odpłacała tym samym,\npróbując zabić macochę, by stać się najpiękniejszą na świecie.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
@@ -8491,7 +8491,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Blada księżniczka zaprasza marzące o miłości kobiety na bal.\nNie wiedzą jednak, że ceną za marzenia będzie utrata ich dusz...",
+        "description": "Kopciuszek pojawia się przed kobietami marzącymi o miłości i karierze,\nzabierając je na bal. Nie wiedzą one jednak, że ceną za spełnienie\nmarzeń jest utrata duszy…….",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
@@ -8517,12 +8517,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Tyraniczna królowa wręcz uwielbiała torturować młode panny.\nNajbardziej lubiła pożerać ich dusze「Żelazną Dziewicą」",
+        "description": "Królowa tyranii miała w zwyczaju poddawać służące i córki szlachciców\nbrutalnym torturom. Jej ulubioną metodą było zabijanie ich w „Żelaznej\nDziewicy\u0027 i wysysanie ich dusz.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
         "itypeId": 1,
-        "name": "Baśń【Królowa Elżbieta】",
+        "name": "Baśń【Królowa Elisabeth】",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -8543,12 +8543,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Pewnego dnia wiatr starł się ze słońcem. Przez trzy dni\ni noce tajfuny oraz palący żar zniszczyły całą okolicę.",
+        "description": "Pewnego dnia Północny Wiatr i Słońce pokłócili się. Przez trzy dni i\ntrzy noce tajfuny i palący żar spadały na ziemię, niszcząc okoliczne\nwioski.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
         "itypeId": 1,
-        "name": "Baśń【Wiatr i słońce】",
+        "name": "Baśń【Wiatr północny i słońce】",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -8569,7 +8569,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Zakrwawiony xxxxxKapturekxxxxxstworzyłxxxxxxxxwilkaxxxxxxx\nxxxxsenne marzeniexxxxxxxktóre to już z koleixxxxxxxxx",
+        "description": "Zakrwawiony xxxxxKapturekxxxxxstworzeniexxxxxxxxwilkxxxxxxxxxx\nxxxxsenne marzeniexxxxxxxktórą jest już z koleixxxxxxxxxx",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
@@ -8881,7 +8881,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Wystrzeliwuje strzałę duszy w wybranego przeciwnika.\nMoc zależy od siły magicznej użytkownika.",
+        "description": "Wystrzeliwuje strzałę duszy. Moc zależy od siły magicznej użytkownika.",
         "effects": [
             {
                 "code": 43,
@@ -8893,7 +8893,7 @@
         "hitType": 0,
         "iconIndex": 375,
         "itypeId": 1,
-        "name": "Czar【Strzała duszy】",
+        "name": "Zaklęcie【Strzała duszy】",
         "note": "ドロシー",
         "occasion": 2,
         "price": 500,
@@ -8914,7 +8914,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Wystrzeliwuje 4 strzały duszy w losowe cele.\nMoc zależy od siły magicznej użytkownika.",
+        "description": "Wystrzeliwuje 4 strzały duszy w losowe cele. Moc zależy od siły\nmagicznej użytkownika.",
         "effects": [
             {
                 "code": 43,
@@ -8926,7 +8926,7 @@
         "hitType": 0,
         "iconIndex": 375,
         "itypeId": 1,
-        "name": "Czar【Seria dusz】",
+        "name": "Zaklęcie【Seria dusz】",
         "note": "ドロシー",
         "occasion": 2,
         "price": 1000,
@@ -8947,7 +8947,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Uzdrowienie duszy. Ilość przywróconego HP zależy od\nsiły magicznejużytkownika.",
+        "description": "Uzdrowienie duszy. Ilość przywróconego HP zależy od siły magicznej\nużytkownika.",
         "effects": [
             {
                 "code": 43,
@@ -8959,7 +8959,7 @@
         "hitType": 0,
         "iconIndex": 375,
         "itypeId": 1,
-        "name": "Czar【Światło duszy】",
+        "name": "Zaklęcie【Światło duszy】",
         "note": "ドロシー",
         "occasion": 2,
         "price": 500,
@@ -8980,7 +8980,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Zasypuje wszystkich wrogów strzałami duszy.\nMoc zależy od siły magicznej użytkownika.",
+        "description": "Zasypuje wszystkich wrogów strzałami duszy. Moc zależy od siły\nmagicznej użytkownika.",
         "effects": [
             {
                 "code": 43,
@@ -8992,7 +8992,7 @@
         "hitType": 0,
         "iconIndex": 375,
         "itypeId": 1,
-        "name": "Czar【Blask Duszy】",
+        "name": "Zaklęcie【Promieniowanie duszy】",
         "note": "エリクシール",
         "occasion": 2,
         "price": 1000,
@@ -9013,7 +9013,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Usuwa wszystkie efekty wzmocnień z wybranego wroga.",
+        "description": "Usuwa efekty wzmocnień z jednego wroga.",
         "effects": [
             {
                 "code": 43,
@@ -9025,7 +9025,7 @@
         "hitType": 0,
         "iconIndex": 375,
         "itypeId": 1,
-        "name": "Czar【Rozproszenie】",
+        "name": "Zaklęcie【Rozproszenie】",
         "note": "ドロシー",
         "occasion": 2,
         "price": 2000,
@@ -9046,7 +9046,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Atak na wybranego wroga, który zawsze trafia.",
+        "description": "Atak na jednego wroga, który zawsze trafia.",
         "effects": [
             {
                 "code": 43,
@@ -9058,7 +9058,7 @@
         "hitType": 0,
         "iconIndex": 375,
         "itypeId": 1,
-        "name": "Czar【Wszech. Uderzenie】",
+        "name": "Zaklęcie【Atak z wyprzedzeniem】",
         "note": "グースお礼",
         "occasion": 2,
         "price": 5000,
@@ -9091,7 +9091,7 @@
         "hitType": 0,
         "iconIndex": 375,
         "itypeId": 1,
-        "name": "Czar【Krwawy Carthus】",
+        "name": "Zaklęcie【Krwawy Kasas】",
         "note": "セト",
         "occasion": 2,
         "price": 5000,
@@ -9124,7 +9124,7 @@
         "hitType": 0,
         "iconIndex": 375,
         "itypeId": 1,
-        "name": "Czar【Trucizna】",
+        "name": "Zaklęcie 【Trucizna】",
         "note": "呪術師セト",
         "occasion": 2,
         "price": 3000,
@@ -9157,7 +9157,7 @@
         "hitType": 0,
         "iconIndex": 375,
         "itypeId": 1,
-        "name": "Czar【Ślepota】",
+        "name": "Zaklęcie 【Ślepota】",
         "note": "呪術師セト",
         "occasion": 2,
         "price": 3000,
@@ -9190,7 +9190,7 @@
         "hitType": 0,
         "iconIndex": 375,
         "itypeId": 1,
-        "name": "Czar【Sen】",
+        "name": "Zaklęcie 【Sen】",
         "note": "呪術師セト",
         "occasion": 2,
         "price": 3000,
@@ -9223,7 +9223,7 @@
         "hitType": 0,
         "iconIndex": 374,
         "itypeId": 1,
-        "name": "Cud【Leczenie】",
+        "name": "Cud 【Leczenie】",
         "note": "カタリナ",
         "occasion": 2,
         "price": 1000,
@@ -9256,7 +9256,7 @@
         "hitType": 0,
         "iconIndex": 375,
         "itypeId": 1,
-        "name": "Czar【Błogosławieństwo Magii】",
+        "name": "Zaklęcie 【Magiczny Oddech】",
         "note": "ドロシー",
         "occasion": 2,
         "price": 1000,
@@ -9289,7 +9289,7 @@
         "hitType": 0,
         "iconIndex": 374,
         "itypeId": 1,
-        "name": "Cud【Osłona】",
+        "name": "Cud 【Osłona】",
         "note": "カタリナ",
         "occasion": 2,
         "price": 1000,
@@ -9322,7 +9322,7 @@
         "hitType": 0,
         "iconIndex": 375,
         "itypeId": 1,
-        "name": "Czar【Ukrycie】",
+        "name": "Zaklęcie 【Ukrycie】",
         "note": "守護のカメレオン",
         "occasion": 2,
         "price": 5000,
@@ -9343,7 +9343,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Przywraca do walki nieprzytomnego sojusznika.",
+        "description": "Wskrzesza sojusznika ze stanu nieprzytomności.",
         "effects": [
             {
                 "code": 43,
@@ -9355,7 +9355,7 @@
         "hitType": 0,
         "iconIndex": 374,
         "itypeId": 1,
-        "name": "Cud【Wskrzeszenie】",
+        "name": "Cud 【Wskrzeszenie】",
         "note": "カタリナ",
         "occasion": 2,
         "price": 10000,
@@ -9388,7 +9388,7 @@
         "hitType": 0,
         "iconIndex": 375,
         "itypeId": 1,
-        "name": "Czar【Magiczne Odbicie】",
+        "name": "Zaklęcie 【Magiczne Odbicie】",
         "note": "ポセイドンホテル",
         "occasion": 2,
         "price": 20000,
@@ -9409,7 +9409,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Usuwa wszystkie osłabienia u jednego sojusznika.",
+        "description": "Usuwa osłabienia u jednego sojusznika.",
         "effects": [
             {
                 "code": 43,
@@ -9421,7 +9421,7 @@
         "hitType": 0,
         "iconIndex": 375,
         "itypeId": 1,
-        "name": "Czar【Wymazanie】",
+        "name": "Zaklęcie 【Wymazanie】",
         "note": "ドロシー",
         "occasion": 2,
         "price": 2000,
@@ -9454,7 +9454,7 @@
         "hitType": 0,
         "iconIndex": 374,
         "itypeId": 1,
-        "name": "Cud【Uzdrowienie】",
+        "name": "Cud 【Uzdrowienie】",
         "note": "カタリナ",
         "occasion": 2,
         "price": 5000,
@@ -9475,7 +9475,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Nakłada błogosławieństwo anioła na wybranego sojusznika,\nktóre pozwala wskrzesić się raz po upadku.",
+        "description": "Nakłada błogosławieństwo anioła na jednego sojusznika. Pozwala\nwskrzesić się raz po upadku.",
         "effects": [
             {
                 "code": 43,
@@ -9487,7 +9487,7 @@
         "hitType": 0,
         "iconIndex": 374,
         "itypeId": 1,
-        "name": "Cud【Wskrzeszenie】",
+        "name": "Cud 【Wskrzeszenie】",
         "note": "エリクシール\r\n",
         "occasion": 2,
         "price": 20000,
@@ -9508,7 +9508,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Jeśli otrzymane obrażenia byłyby śmiertelne,\nprzetrwasz, zachowując 1 PŻ.",
+        "description": "Pozostawia 1 HP po otrzymaniu śmiertelnych obrażeń.",
         "effects": [
             {
                 "code": 43,
@@ -9520,7 +9520,7 @@
         "hitType": 0,
         "iconIndex": 375,
         "itypeId": 1,
-        "name": "Czar【Zaciętość】",
+        "name": "Zaklęcie 【Zaciętość】",
         "note": "下水道",
         "occasion": 2,
         "price": 5000,
@@ -9553,7 +9553,7 @@
         "hitType": 0,
         "iconIndex": 375,
         "itypeId": 1,
-        "name": "Czar【Płomień】",
+        "name": "Zaklęcie 【Płomień】",
         "note": "淫腐",
         "occasion": 2,
         "price": 500,
@@ -9586,7 +9586,7 @@
         "hitType": 0,
         "iconIndex": 375,
         "itypeId": 1,
-        "name": "Czar【Bańka Ciszy】",
+        "name": "Zaklęcie 【Bańka Ciszy】",
         "note": "アイバーン",
         "occasion": 2,
         "price": 500,
@@ -9619,7 +9619,7 @@
         "hitType": 0,
         "iconIndex": 375,
         "itypeId": 1,
-        "name": "Czar【Ciemna Strona Księżyca】",
+        "name": "Zaklęcie 【Ciemna Strona Księżyca】",
         "note": "ヤーコプ",
         "occasion": 2,
         "price": 5000,
@@ -9640,7 +9640,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Uderza trzech wrogów gradem lodowych pocisków, nakładając status zamrożenia.",
+        "description": "Uderza trzech wrogów gradem lodowych pocisków, nakładając status\nzamrożenia.",
         "effects": [
             {
                 "code": 43,
@@ -9652,7 +9652,7 @@
         "hitType": 0,
         "iconIndex": 375,
         "itypeId": 1,
-        "name": "Czar【Lodowy Pocisk】",
+        "name": "Zaklęcie 【Lodowy Pocisk】",
         "note": "白雪の庭",
         "occasion": 2,
         "price": 5000,
@@ -9685,7 +9685,7 @@
         "hitType": 0,
         "iconIndex": 375,
         "itypeId": 1,
-        "name": "Czar【Piekielny Ogień】",
+        "name": "Zaklęcie 【Piekielny Ogień】",
         "note": "穢れ沼",
         "occasion": 2,
         "price": 5000,
@@ -9718,7 +9718,7 @@
         "hitType": 0,
         "iconIndex": 375,
         "itypeId": 1,
-        "name": "Czar【Burza Zagłady】",
+        "name": "Zaklęcie 【Burza Zagłady】",
         "note": "ロストエンパイア",
         "occasion": 2,
         "price": 10000,
@@ -9739,7 +9739,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Na pewien czas znacznie zwiększa moc magii.\nPodczas trwania efektu HP stale spada.",
+        "description": "Na pewien czas znacznie zwiększa moc magii. Podczas trwania efektu HP\nstale spada.",
         "effects": [
             {
                 "code": 43,
@@ -9751,7 +9751,7 @@
         "hitType": 0,
         "iconIndex": 136,
         "itypeId": 1,
-        "name": "Czar【Wewnętrzna Siła】",
+        "name": "Zaklęcie 【Wewnętrzna Siła】",
         "note": "穢れ沼",
         "occasion": 2,
         "price": 10000,
@@ -9772,7 +9772,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Wystrzeliwuje dużą strzałę duszy. Moc zależy od mocy magii\nużytkownika.",
+        "description": "Wystrzeliwuje grubą strzałę duszy. Moc zależy od mocy magii\nużytkownika.",
         "effects": [
             {
                 "code": 43,
@@ -9784,7 +9784,7 @@
         "hitType": 0,
         "iconIndex": 375,
         "itypeId": 1,
-        "name": "Czar【Duża Strzała Duszy】",
+        "name": "Zaklęcie 【Duża Strzała Duszy】",
         "note": "淫腐",
         "occasion": 2,
         "price": 1000,
@@ -9805,12 +9805,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 401,
         "itypeId": 2,
-        "name": "Tarcza-Bunkrowa",
+        "name": "Tarcza-Kafar",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -9831,12 +9831,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 401,
         "itypeId": 2,
-        "name": "Tarcza-Bunkrowa+1",
+        "name": "Tarcza-Kafar+1",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -9857,12 +9857,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 401,
         "itypeId": 2,
-        "name": "Tarcza-Bunkrowa+2",
+        "name": "Tarcza-Kafar+2",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -9883,12 +9883,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 401,
         "itypeId": 2,
-        "name": "Tarcza-Bunkrowa+3",
+        "name": "Tarcza-Kafar+3",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -9909,12 +9909,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 401,
         "itypeId": 2,
-        "name": "Tarcza-Bunkrowa+4",
+        "name": "Tarcza-Kafar+4",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -9935,12 +9935,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 401,
         "itypeId": 2,
-        "name": "Tarcza-Bunkrowa+5",
+        "name": "Tarcza-Kafar+5",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -9961,12 +9961,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 401,
         "itypeId": 2,
-        "name": "Tarcza-Bunkrowa+6",
+        "name": "Tarcza-Kafar+6",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -9987,12 +9987,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 401,
         "itypeId": 2,
-        "name": "Tarcza-Bunkrowa+7",
+        "name": "Tarcza-Kafar+7",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -10013,12 +10013,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 401,
         "itypeId": 2,
-        "name": "Tarcza-Bunkrowa+8",
+        "name": "Tarcza-Kafar+8",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -10039,12 +10039,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 401,
         "itypeId": 2,
-        "name": "Tarcza-Bunkrowa+9",
+        "name": "Tarcza Bunker+9",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -10065,7 +10065,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 393,
@@ -10091,7 +10091,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 393,
@@ -10117,7 +10117,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 393,
@@ -10143,7 +10143,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 393,
@@ -10169,7 +10169,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 393,
@@ -10195,7 +10195,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 393,
@@ -10221,7 +10221,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 393,
@@ -10247,7 +10247,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 393,
@@ -10273,7 +10273,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 393,
@@ -10299,7 +10299,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 393,
@@ -10325,7 +10325,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 399,
@@ -10351,7 +10351,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 399,
@@ -10377,7 +10377,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 399,
@@ -10403,7 +10403,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 399,
@@ -10429,7 +10429,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 399,
@@ -10455,7 +10455,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 418,
@@ -10481,7 +10481,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 418,
@@ -10507,7 +10507,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 418,
@@ -10533,7 +10533,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 418,
@@ -10559,7 +10559,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 418,
@@ -10585,7 +10585,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 418,
@@ -10611,7 +10611,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 418,
@@ -10637,7 +10637,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 418,
@@ -10663,7 +10663,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 418,
@@ -10689,7 +10689,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 418,
@@ -10715,7 +10715,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 626,
@@ -10741,7 +10741,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 626,
@@ -10767,7 +10767,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 626,
@@ -10793,7 +10793,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 626,
@@ -10819,7 +10819,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 626,
@@ -10845,7 +10845,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 626,
@@ -10871,7 +10871,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 626,
@@ -10897,7 +10897,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 626,
@@ -10923,7 +10923,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 626,
@@ -10949,7 +10949,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 626,
@@ -10975,7 +10975,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 661,
@@ -11001,7 +11001,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 661,
@@ -11027,7 +11027,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 661,
@@ -11053,7 +11053,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 661,
@@ -11079,7 +11079,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 661,
@@ -11105,7 +11105,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 661,
@@ -11131,7 +11131,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 661,
@@ -11157,7 +11157,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 661,
@@ -11183,7 +11183,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 661,
@@ -11209,7 +11209,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kostur czarnoksiężnika. Katalizator magii.【Koszt MP -50%】 ",
+        "description": "Kostur należący do Zaklęcienego maga. Służy jako katalizator do rzucania\nZaklęcieów. [Zużycie MP 1/2]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 661,
@@ -11273,7 +11273,7 @@
         "hitType": 0,
         "iconIndex": 375,
         "itypeId": 1,
-        "name": "Czar【Seria strzał duszy】",
+        "name": "Zaklęcie【Seria strzał duszy】",
         "note": "サバト",
         "occasion": 2,
         "price": 10000,
@@ -11306,7 +11306,7 @@
         "hitType": 0,
         "iconIndex": 375,
         "itypeId": 1,
-        "name": "Czar【Niewidzialne ciało】",
+        "name": "Zaklęcie【Niewidzialne ciało】",
         "note": "ベヒモス牧場",
         "occasion": 2,
         "price": 1000,

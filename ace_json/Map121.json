@@ -260,77 +260,91 @@
                             "code": 405,
                             "indent": 0,
                             "parameters": [
-                                "○CG絵 寿司勇者トロ ○シナリオ 寿司勇者トロ ○グラフィク等 てきとーツクール NK日記 白洋菓子店"
+                                "○Ilustracje CG 寿司勇者トロ ○Scenariusz 寿司勇者トロ ○Grafiki itp."
                             ]
                         },
                         {
                             "code": 405,
                             "indent": 0,
                             "parameters": [
-                                "CLOSET RPGツクールXP RTP アクションツクールRTP folce-zero ぴぽや そーいち"
+                                "てきとーツクール NK日記 白洋菓子店 CLOSET RPGツクールXP RTP アクションツクールRTP"
                             ]
                         },
                         {
                             "code": 405,
                             "indent": 0,
                             "parameters": [
-                                "ニルバーナ城 ＧＡＤＡＳＵ 王国興亡記 そらまにぶろぐ あにめかにかる 改々工房 どと†わうるど へぇ～太"
+                                "folce-zero ぴぽや そーいち ニルバーナ城 ＧＡＤＡＳＵ 王国興亡記 そらまにぶろぐ あにめかにかる"
                             ]
                         },
                         {
                             "code": 405,
                             "indent": 0,
                             "parameters": [
-                                "シアンのゆりかご sylfaの風のふくままに 神凪洸 LB工房 JUNKHUNT チョコミントの木"
+                                "改々工房 どと†わうるど へぇ～太 シアンのゆりかご sylfaの風のふくままに 神凪洸 LB工房"
                             ]
                         },
                         {
                             "code": 405,
                             "indent": 0,
                             "parameters": [
-                                "ピンクドラム 旅のヤドカリ きうきう 猫小屋素材ぶろぐ ○ＢＧＭ・効果音等 HURT RECORD"
+                                "JUNKHUNT チョコミントの木 ピンクドラム 旅のヤドカリ きうきう 猫小屋素材ぶろぐ ○BGM,"
                             ]
                         },
                         {
                             "code": 405,
                             "indent": 0,
                             "parameters": [
-                                "無料効果音素材 月に憑かれたピエロ タイガーリリー 魔王魂 Music is VFR WEB WAVE LIB"
+                                "efekty dźwiękowe itp. HURT RECORD 無料効果音素材 月に憑かれたピエロ"
                             ]
                         },
                         {
                             "code": 405,
                             "indent": 0,
                             "parameters": [
-                                "ザ・マチメイカァズ 秋山裕和 Wingless Seraph M-ART ilodolly"
+                                "タイガーリリー 魔王魂 Music is VFR WEB WAVE LIB ザ・マチメイカァズ 秋山裕和"
                             ]
                         },
                         {
                             "code": 405,
                             "indent": 0,
                             "parameters": [
-                                "brightwaltz Carol of the Bells-LordReserei ○スクリプト"
+                                "Wingless Seraph M-ART ilodolly brightwaltz Carol of the"
                             ]
                         },
                         {
                             "code": 405,
                             "indent": 0,
                             "parameters": [
-                                "gentlawk マプフォグ DEICIDE ALMA ももまるLab さば缶 C Winter 回想領域"
+                                "Bells-LordReserei ○Skrypty gentlawk マプフォグ DEICIDE ALMA"
                             ]
                         },
                         {
                             "code": 405,
                             "indent": 0,
                             "parameters": [
-                                "星潟 サリサ・タイクーン 白の魔 ひきも記 Libのツクールページ 奈々 マル mitsu-evo"
+                                "ももまるLab さば缶 C Winter 回想領域 星潟 サリサ・タイクーン 白の魔 ひきも記"
                             ]
                         },
                         {
                             "code": 405,
                             "indent": 0,
                             "parameters": [
-                                "○使用ツール RPGツクールVXAce パブリシング：OTAKU Plan 製作：イニミニマニモ?"
+                                "Libのツクールページ 奈々 マル mitsu-evo ○Użyte narzędzia"
+                            ]
+                        },
+                        {
+                            "code": 405,
+                            "indent": 0,
+                            "parameters": [
+                                "RPGツクールVXAce ○Publikacja: OTAKU Plan ○Produkcja:"
+                            ]
+                        },
+                        {
+                            "code": 405,
+                            "indent": 0,
+                            "parameters": [
+                                "イニミニマニモ?"
                             ]
                         },
                         {
