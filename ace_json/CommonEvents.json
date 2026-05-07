@@ -82152,7 +82152,7 @@
                 "code": 108,
                 "indent": 0,
                 "parameters": [
-                    "NW名前指定 フェアリーA"
+                    "NW名前指定 Wróżka  A"
                 ]
             },
             {
@@ -82186,7 +82186,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Spryskujesz miotającą się wróżkę sprayem Anty-Wróżka."
+                    "Spryskujesz miotającą się wróżkę eliksirem\nAntywróżkowym."
                 ]
             },
             {
@@ -82239,7 +82239,7 @@
                 "code": 108,
                 "indent": 0,
                 "parameters": [
-                    "NW名前指定 フェアリーA"
+                    "NW名前指定 Wróżka  A"
                 ]
             },
             {
@@ -82280,7 +82280,7 @@
                 "code": 108,
                 "indent": 0,
                 "parameters": [
-                    "NW名前指定 フェアリーA"
+                    "NW名前指定 Wróżka  A"
                 ]
             },
             {
@@ -82384,7 +82384,7 @@
                 "code": 108,
                 "indent": 0,
                 "parameters": [
-                    "NW名前指定 フェアリーA"
+                    "NW名前指定 Wróżka  A"
                 ]
             },
             {
@@ -82425,7 +82425,7 @@
                 "code": 108,
                 "indent": 0,
                 "parameters": [
-                    "NW名前指定 フェアリーA"
+                    "NW名前指定 Wróżka  A"
                 ]
             },
             {
@@ -82512,7 +82512,7 @@
                 "code": 108,
                 "indent": 0,
                 "parameters": [
-                    "NW名前指定 フェアリーA"
+                    "NW名前指定 Wróżka  A"
                 ]
             },
             {
@@ -82570,7 +82570,7 @@
                 "code": 108,
                 "indent": 0,
                 "parameters": [
-                    "NW名前指定 フェアリーA"
+                    "NW名前指定 Wróżka  A"
                 ]
             },
             {
@@ -82623,7 +82623,7 @@
                 "code": 108,
                 "indent": 0,
                 "parameters": [
-                    "NW名前指定 フェアリーA"
+                    "NW名前指定 Wróżka  A"
                 ]
             },
             {
@@ -82704,7 +82704,7 @@
                 "code": 108,
                 "indent": 0,
                 "parameters": [
-                    "NW名前指定 フェアリーA"
+                    "NW名前指定 Wróżka  A"
                 ]
             },
             {
@@ -82811,7 +82811,7 @@
                 "parameters": []
             }
         ],
-        "name": "シーン：フェアリーA",
+        "name": "シーン：Wróżka  A",
         "switchId": 1,
         "trigger": 0
     },
@@ -82883,7 +82883,7 @@
                 "code": 108,
                 "indent": 0,
                 "parameters": [
-                    "NW名前指定 フェアリーB"
+                    "NW名前指定 Wróżka  B"
                 ]
             },
             {
@@ -82970,7 +82970,7 @@
                 "code": 108,
                 "indent": 0,
                 "parameters": [
-                    "NW名前指定 フェアリーB"
+                    "NW名前指定 Wróżka  B"
                 ]
             },
             {
@@ -83011,7 +83011,7 @@
                 "code": 108,
                 "indent": 0,
                 "parameters": [
-                    "NW名前指定 フェアリーB"
+                    "NW名前指定 Wróżka  B"
                 ]
             },
             {
@@ -83115,7 +83115,7 @@
                 "code": 108,
                 "indent": 0,
                 "parameters": [
-                    "NW名前指定 フェアリーB"
+                    "NW名前指定 Wróżka  B"
                 ]
             },
             {
@@ -83156,7 +83156,7 @@
                 "code": 108,
                 "indent": 0,
                 "parameters": [
-                    "NW名前指定 フェアリーB"
+                    "NW名前指定 Wróżka  B"
                 ]
             },
             {
@@ -83243,7 +83243,7 @@
                 "code": 108,
                 "indent": 0,
                 "parameters": [
-                    "NW名前指定 フェアリーB"
+                    "NW名前指定 Wróżka  B"
                 ]
             },
             {
@@ -83301,7 +83301,7 @@
                 "code": 108,
                 "indent": 0,
                 "parameters": [
-                    "NW名前指定 フェアリーB"
+                    "NW名前指定 Wróżka  B"
                 ]
             },
             {
@@ -83354,7 +83354,7 @@
                 "code": 108,
                 "indent": 0,
                 "parameters": [
-                    "NW名前指定 フェアリーB"
+                    "NW名前指定 Wróżka  B"
                 ]
             },
             {
@@ -83435,7 +83435,7 @@
                 "code": 108,
                 "indent": 0,
                 "parameters": [
-                    "NW名前指定 フェアリーB"
+                    "NW名前指定 Wróżka  B"
                 ]
             },
             {
@@ -83542,7 +83542,7 @@
                 "parameters": []
             }
         ],
-        "name": "シーン：フェアリーB",
+        "name": "シーン：Wróżka  B",
         "switchId": 1,
         "trigger": 0
     },
@@ -83614,7 +83614,7 @@
                 "code": 108,
                 "indent": 0,
                 "parameters": [
-                    "NW名前指定 フェアリーC"
+                    "NW名前指定 Wróżka  C"
                 ]
             },
             {
@@ -83638,7 +83638,7 @@
                 "code": 108,
                 "indent": 0,
                 "parameters": [
-                    "NW名前指定 フェアリーC"
+                    "NW名前指定 Wróżka  C"
                 ]
             },
             {
@@ -83725,7 +83725,7 @@
                 "code": 108,
                 "indent": 0,
                 "parameters": [
-                    "NW名前指定 フェアリーC"
+                    "NW名前指定 Wróżka  C"
                 ]
             },
             {
@@ -83766,7 +83766,7 @@
                 "code": 108,
                 "indent": 0,
                 "parameters": [
-                    "NW名前指定 フェアリーC"
+                    "NW名前指定 Wróżka  C"
                 ]
             },
             {
@@ -83887,7 +83887,7 @@
                 "code": 108,
                 "indent": 0,
                 "parameters": [
-                    "NW名前指定 フェアリーC"
+                    "NW名前指定 Wróżka  C"
                 ]
             },
             {
@@ -83928,7 +83928,7 @@
                 "code": 108,
                 "indent": 0,
                 "parameters": [
-                    "NW名前指定 フェアリーC"
+                    "NW名前指定 Wróżka  C"
                 ]
             },
             {
@@ -84015,7 +84015,7 @@
                 "code": 108,
                 "indent": 0,
                 "parameters": [
-                    "NW名前指定 フェアリーC"
+                    "NW名前指定 Wróżka  C"
                 ]
             },
             {
@@ -84073,7 +84073,7 @@
                 "code": 108,
                 "indent": 0,
                 "parameters": [
-                    "NW名前指定 フェアリーC"
+                    "NW名前指定 Wróżka  C"
                 ]
             },
             {
@@ -84126,7 +84126,7 @@
                 "code": 108,
                 "indent": 0,
                 "parameters": [
-                    "NW名前指定 フェアリーC"
+                    "NW名前指定 Wróżka  C"
                 ]
             },
             {
@@ -84207,7 +84207,7 @@
                 "code": 108,
                 "indent": 0,
                 "parameters": [
-                    "NW名前指定 フェアリーC"
+                    "NW名前指定 Wróżka  C"
                 ]
             },
             {
@@ -84314,7 +84314,7 @@
                 "parameters": []
             }
         ],
-        "name": "シーン：フェアリーC",
+        "name": "シーン：Wróżka  C",
         "switchId": 1,
         "trigger": 0
     },
@@ -84413,7 +84413,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\"Dostarczanie dusz jest najskuteczniejsze, gdy\nuprawiasz seks i wystrzelisz, wiesz～\""
+                    "\"Ofiarowanie dusz jest najskuteczniejsze, gdy uprawiasz\nseks i wystrzelisz, wiesz～\""
                 ]
             },
             {
@@ -88174,7 +88174,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\"No cóż, zaopatrywanie w Dusze... Kiedyś przekazywano\nDusze przez długi czas, ale teraz podobno popularne\njest dostarczanie przez seks.\""
+                    "\"No cóż, zaopatrywanie w Dusze... Kiedyś przekazywano\nDusze przez długi czas, ale teraz podobno popularne\njest ofiarowanie przez seks.\""
                 ]
             },
             {
@@ -91818,7 +91818,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\"Znam sposób dostarczania Duszy... Wystarczy wypić\nspermę \\n[1], prawda?\""
+                    "\"Znam sposób Ofiarowania Dusz... Wystarczy wypić spermę\n\\n[1], prawda?\""
                 ]
             },
             {
@@ -140890,7 +140890,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\$\"Dostawa dusz…… prawda?\" （Obecny Lv\\V[58]）"
+                    "\\$\"ofiarowanie Dusz…… prawda?\" （Obecny Lv\\V[58]）"
                 ]
             },
             {
@@ -162803,7 +162803,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\$Jeśli chodzi o dostawę dusz, nawet Poro mi wybaczy\"\n（Akt. Lv\\V[59]）"
+                    "\\$Jeśli to tylko ofiarowanie Dusz, Poro mi wybaczy\"\n（Obecnie. Lv\\V[59]）"
                 ]
             },
             {
@@ -166959,7 +166959,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\"T-Tak!♡ Małgosia należy do starszego braciszka...!♡ To jest cipka\nmłodszej siostry tylko dla braciszka...!♡ Proszę,\nrozładowuj swoje seksualne pragnienia, kiedy tylko\nchcesz!♡\""
+                    "\"T-Tak!♡ Małgosia należy do starszego braciszka...!♡ To\njest cipka młodszej siostry tylko dla braciszka...!♡\nProszę, rozładowuj swoje seksualne pragnienia, kiedy\ntylko chcesz!♡\""
                 ]
             },
             {
@@ -166976,7 +166976,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Soki stopniowo się zwiększają, ułatwiając głębokie\npchnięcia. Małgosia jęczy, starając się przypodobać \\n[1]."
+                    "Soki stopniowo się zwiększają, ułatwiając głębokie\npchnięcia. Małgosia jęczy, starając się przypodobać\n\\n[1]."
                 ]
             },
             {
@@ -167181,7 +167181,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Ostatecznie, jej głównym celem jest Dusza. Ale jeśli\nbędziesz mógł nadal uprawiać seks z Małgosią, nic więcej\nsię nie liczy."
+                    "Ostatecznie, jej głównym celem jest Dusza. Ale jeśli\nbędziesz mógł nadal uprawiać seks z Małgosią, nic\nwięcej się nie liczy."
                 ]
             },
             {
@@ -167520,7 +167520,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\"Głupi Jaś. Jesteś chłopcem, więc nie potrafisz\nsprawić przyjemności \\n[1] Starszemu Bratu-samie. To\noczywiste, że takie rzeczy... mlask... powinna robić\ndziewczyna... liź...♡\""
+                    "\"Głupi Jaś. Jesteś chłopcem, więc nie potrafisz sprawić\nprzyjemności \\n[1] Starszemu Bratu-samie. To oczywiste,\nże takie rzeczy... mlask... powinna robić dziewczyna...\nliź...♡\""
                 ]
             },
             {
@@ -167622,7 +167622,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Małgosia spogląda uwodzicielsko spod rzęs, liżąc członka\njęzykiem. Widok małej dziewczynki, która to robi,\nbardzo cię podnieca."
+                    "Małgosia spogląda uwodzicielsko spod rzęs, liżąc\nczłonka językiem. Widok małej dziewczynki, która to\nrobi, bardzo cię podnieca."
                 ]
             },
             {

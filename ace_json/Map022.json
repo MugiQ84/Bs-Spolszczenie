@@ -1468,7 +1468,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "P-przepraszam, braciszku... Podziękuję też za Małgosię...\nNaprawdę dziękuję..."
+                                "P-przepraszam, braciszku... Podziękuję też za\nMałgosię... Naprawdę dziękuję..."
                             ]
                         },
                         {
@@ -2304,7 +2304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Cukierki? Dałem je Małgosi! Ja nie potrzebuję... Bo nie\njestem głodny...\""
+                                "\"Cukierki? Dałem je Małgosi! Ja nie potrzebuję... Bo\nnie jestem głodny...\""
                             ]
                         },
                         {

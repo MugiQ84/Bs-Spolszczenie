@@ -3120,7 +3120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Dostarcz Dusze Dorothy."
+                                "Przekaż Dusze Dorothy."
                             ]
                         },
                         {
@@ -3336,7 +3336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Dostarcz Dusze Dorocie (2. raz)"
+                                "Przekaż Dusze Dorocie (2. raz)"
                             ]
                         },
                         {
@@ -3404,7 +3404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz odtworzyć wspomnienie \\c[2]Dorothy (Dostawa Dusz\n2)\\c[0]?"
+                                "Czy chcesz odtworzyć wspomnienie \\c[2]Dorothy (ofiarowanie\nDusz 2)\\c[0]?"
                             ]
                         },
                         {
@@ -4416,7 +4416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Dostarcz Dusze Elmie."
+                                "Przekaż Dusze Elmie."
                             ]
                         },
                         {
@@ -4700,7 +4700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Elma (Dostawa Dusz 2)\\c[0] – wspomnienie?"
+                                "\\c[2]Elma (ofiarowanie Dusz 2)\\c[0] – wspomnienie?"
                             ]
                         },
                         {
@@ -6212,7 +6212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Przywołać \\c[2]Victoria (Dostawa Dusz)\\c[0]?"
+                                "Przywołać \\c[2]Victoria (ofiarowanie Dusz)\\c[0]?"
                             ]
                         },
                         {
@@ -6360,7 +6360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Dostarcz Dusze Victorii (2. raz)"
+                                "Przekaż Dusze Victorii (2. raz)"
                             ]
                         },
                         {
@@ -6428,7 +6428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Victoria (Dostawa Dusz 2)\\c[0] – przywołać wspomnienie?"
+                                "\\c[2]Victoria (ofiarowanie Dusz 2)\\c[0] – przywołać wspomnienie?"
                             ]
                         },
                         {
@@ -7379,7 +7379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Dostarcz Dusze do Goose."
+                                "Przekaż Dusze do Goose."
                             ]
                         },
                         {
@@ -8675,7 +8675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Dostarcz Dusze do Elizabeth."
+                                "Przekaż Dusze do Elizabeth."
                             ]
                         },
                         {
@@ -9971,7 +9971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Dostarcz Dusze Katarinie."
+                                "Przekaż Dusze Katarinie."
                             ]
                         },
                         {
@@ -10039,7 +10039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Przypomnieć sobie \\c[2]Katarinę (dostawa Dusz)\\c[0]?"
+                                "Przypomnieć sobie \\c[2]Katarinę (ofiarowanie Dusz)\\c[0]?"
                             ]
                         },
                         {
@@ -10187,7 +10187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Druga dostawa Dusz dla Katariny."
+                                "Druga ofiarowanie Dusz dla Katariny."
                             ]
                         },
                         {
@@ -10255,7 +10255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Katarina (Dostawa Dusz 2)\\c[0] Czy chcesz przywołać\nwspomnienie?"
+                                "\\c[2]Katarina (ofiarowanie Dusz 2)\\c[0] Czy chcesz przywołać\nwspomnienie?"
                             ]
                         },
                         {
@@ -12131,7 +12131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Dostarcz Dusze Mirandzie."
+                                "Przekaż Dusze Mirandzie."
                             ]
                         },
                         {
@@ -12199,7 +12199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz przypomnieć sobie \\c[2]Mirandę (Dostawa Dusz)\\c[0]?"
+                                "Czy chcesz przypomnieć sobie \\c[2]Mirandę (ofiarowanie\nDusz)\\c[0]?"
                             ]
                         },
                         {
@@ -12415,7 +12415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz przywołać wspomnienie \\c[2]Miranda (Dostawa Dusz\n2)\\c[0]?"
+                                "Czy chcesz przywołać wspomnienie \\c[2]Miranda (ofiarowanie\nDusz 2)\\c[0]?"
                             ]
                         },
                         {
@@ -15803,7 +15803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Dostarcz Dusze Czerwonemu Kapturkowi."
+                                "Przekaż Dusze Czerwonemu Kapturkowi."
                             ]
                         },
                         {
@@ -15871,7 +15871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Przypomnieć sobie \\c[2]Szkarłatny Kaptur (Dostawa Dusz)\\c[0]?"
+                                "Przypomnieć sobie \\c[2]Szkarłatny Kaptur (ofiarowanie Dusz)\\c[0]?"
                             ]
                         },
                         {
