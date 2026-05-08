@@ -2463,7 +2463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Och, Waszmość. Znowu się spotykamy. Wasz sługa dotarł\nwreszcie do Raju.」"
+                                "「Och, Waszmość. Znowu się spotykamy. Wasz sługa dotarł\n wreszcie do Raju.」"
                             ]
                         },
                         {
@@ -2487,7 +2487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Zda się, iż spoczywa tu \\c[2]skarb\\c[0]. Waszmość,\nwspółzawodniczmy. Zakład: kto pierwszy go odnajdzie.」"
+                                "「Zda się, iż spoczywa tu \\c[2]skarb\\c[0]. Waszmość,\n współzawodniczmy. Zakład: kto pierwszy go odnajdzie.」"
                             ]
                         },
                         {
@@ -2511,7 +2511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Jeśli wcześniej znajdę skarb, odstąpię go Waszmości.\nAch, zdaje się, nikt nas nie goni. Swobodnie więc\nprzystąpmy.」"
+                                "「Jeśli wcześniej znajdę skarb, odstąpię go Waszmości.\n Ach, zdaje się, nikt nas nie goni. Swobodnie więc\nprzystąpmy.」"
                             ]
                         },
                         {

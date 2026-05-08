@@ -6137,7 +6137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Tak, ale niestety przez to nie mogę nawet odlecieć.\nJak na świnie, to sprytne bestie, doprawdy.」"
+                                "「Tak, ale niestety przez to nie mogę nawet odlecieć.\n Jak na świnie, to sprytne bestie, doprawdy.」"
                             ]
                         },
                         {
@@ -6154,7 +6154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Po tym, co powiedziałam, chyba rozumiesz, \\n[1]-san.\nProszę, znajdź klucz do tych kajdan.」"
+                                "「Po tym, co powiedziałam, chyba rozumiesz, \\n[1]-san.\n Proszę, znajdź klucz do tych kajdan.」"
                             ]
                         },
                         {
@@ -6171,7 +6171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ostatnio nie widuję tamtych świńskich drani, ale nie\nwiem, kiedy wrócą.」"
+                                "「Ostatnio nie widuję tamtych świńskich drani, ale nie\n wiem, kiedy wrócą.」"
                             ]
                         },
                         {
@@ -6188,7 +6188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Proszę, pośpiesz się, ile możesz. Oczywiście,\nwynagrodzę cię.」"
+                                "「Proszę, pośpiesz się, ile możesz. Oczywiście,\n wynagrodzę cię.」"
                             ]
                         },
                         {
@@ -6281,7 +6281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Przepraszam, że tak nalegam, ale moje życie także wisi\nna włosku. Naprawdę jestem zdesperowana.」"
+                                "「Przepraszam, że tak nalegam, ale moje życie także wisi\n na włosku. Naprawdę jestem zdesperowana.」"
                             ]
                         },
                         {
@@ -6600,7 +6600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Przepraszam, że cię popędzam, ale chodzi o moje życie.\nUwierz, że też jestem zdesperowana.」"
+                                "「Przepraszam, że cię popędzam, ale chodzi o moje życie.\n Uwierz, że też jestem zdesperowana.」"
                             ]
                         },
                         {
@@ -7027,7 +7027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Większość zwierząt na tej farmie przemieniła się w\nmagiczne bestie... Co więcej, ci świńscy bracia, \\c[2]zdaje\nsię hodują coś niebezpiecznego」"
+                                "「Większość zwierząt na tej farmie przemieniła się w\n magiczne bestie... Co więcej, ci świńscy bracia, \\c[2]zdaje\nsię hodują coś niebezpiecznego」"
                             ]
                         },
                         {
@@ -8747,7 +8747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Halo? Ty, podróżnik-san. Czy mógłbyś mi pomóc, jeśli\nto możliwe?」"
+                                "「Halo? Ty, podróżnik-san. Czy mógłbyś mi pomóc, jeśli\n to możliwe?」"
                             ]
                         },
                         {
@@ -8935,7 +8935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Halo? Ty, podróżnik-san. Czy mógłbyś mi pomóc, jeśli\nto możliwe?」"
+                                "「Halo? Ty, podróżnik-san. Czy mógłbyś mi pomóc, jeśli\n to możliwe?」"
                             ]
                         },
                         {
@@ -9123,7 +9123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Halo? Ty, podróżnik-san. Czy mógłbyś mi pomóc, jeśli\nto możliwe?」"
+                                "「Halo? Ty, podróżnik-san. Czy mógłbyś mi pomóc, jeśli\n to możliwe?」"
                             ]
                         },
                         {
@@ -9311,7 +9311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Halo? Ty, podróżnik-san. Czy mógłbyś mi pomóc, jeśli\nto możliwe?」"
+                                "「Halo? Ty, podróżnik-san. Czy mógłbyś mi pomóc, jeśli\n to możliwe?」"
                             ]
                         },
                         {
@@ -9499,7 +9499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Halo? Ty, podróżnik-san. Czy mógłbyś mi pomóc, jeśli\nto możliwe?」"
+                                "「Halo? Ty, podróżnik-san. Czy mógłbyś mi pomóc, jeśli\n to możliwe?」"
                             ]
                         },
                         {
@@ -9687,7 +9687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Aby skontrować atak fizyczny – paruj. Aby uniknąć\nataku – unikaj. Jeśli nie możesz uniknąć, broń się.」"
+                                "「Aby skontrować atak fizyczny – paruj. Aby uniknąć\n ataku – unikaj. Jeśli nie możesz uniknąć, broń się.」"
                             ]
                         },
                         {
@@ -9704,7 +9704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「To jest sekret walki! Potem możesz też przywołać\nsojuszników i zrobić z nich mięsną ścianę, to też dobry\npomysł!」"
+                                "「To jest sekret walki! Potem możesz też przywołać\n sojuszników i zrobić z nich mięsną ścianę, to też dobry\npomysł!」"
                             ]
                         },
                         {

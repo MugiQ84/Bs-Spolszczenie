@@ -9019,7 +9019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Szczerze mówiąc, podobno przed nami jest jakiś skarb,\nale mam złe przeczucia. Ja, niezdara, jestem strasznie\nniezdecydowany.」"
+                                "「Szczerze mówiąc, podobno przed nami jest jakiś skarb,\n ale mam złe przeczucia. Ja, niezdara, jestem strasznie\nniezdecydowany.」"
                             ]
                         },
                         {
@@ -9170,7 +9170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ha ha ha! Nagle wpadłem do dziury i byłem zaskoczony.\nAle cieszę się, że jesteś cały.」"
+                                "「Ha ha ha! Nagle wpadłem do dziury i byłem zaskoczony.\n Ale cieszę się, że jesteś cały.」"
                             ]
                         },
                         {
@@ -9194,7 +9194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「W każdym razie, skarb należy do ciebie. Wygląda na to,\nże jest inny niż \\c[2]tajemny skarb\\c[0], którego szukam.」"
+                                "「W każdym razie, skarb należy do ciebie. Wygląda na to,\n że jest inny niż \\c[2]tajemny skarb\\c[0], którego szukam.」"
                             ]
                         },
                         {
@@ -9412,7 +9412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ostrożne działanie to moja zasada, otóż. Ten kraj\nzdaje się pełen dziwnych osobników. Wygląda na to, że\nsą i tacy, którzy mnie ścigają.」"
+                                "「Ostrożne działanie to moja zasada, otóż. Ten kraj\n zdaje się pełen dziwnych osobników. Wygląda na to, że\nsą i tacy, którzy mnie ścigają.」"
                             ]
                         },
                         {
@@ -9436,7 +9436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Sądzę, że zaszło jakieś nieporozumienie... Jakże to do\ntego doszło...」"
+                                "「Sądzę, że zaszło jakieś nieporozumienie... Jakże to do\n tego doszło...」"
                             ]
                         },
                         {

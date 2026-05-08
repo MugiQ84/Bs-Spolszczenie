@@ -1597,7 +1597,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "「Jesteś grzesznikiem \\n[1]…? Czy to ma być pokuta?\nPodobno nie ma grzechu, który by nie zniknął…」"
+                                "「Jesteś grzesznikiem \\n[1]…? Czy to ma być pokuta?\n Podobno nie ma grzechu, który by nie zniknął…」"
                             ]
                         },
                         {
@@ -1663,7 +1663,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「No cóż. Tamten nie żyje. Dzięki temu Bafomet będzie\nmógł działać swobodniej.」"
+                                "「No cóż. Tamten nie żyje. Dzięki temu Bafomet będzie\n mógł działać swobodniej.」"
                             ]
                         },
                         {
@@ -2840,7 +2840,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "「Przykro mi, Glinda. Gdybym tylko przyszedł\nwcześniej...」"
+                                "「Przykro mi, Glinda. Gdybym tylko przyszedł\n wcześniej...」"
                             ]
                         },
                         {
@@ -2889,7 +2889,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "「Ale jest coś, czego nie rozumiem... Glinda napisała o\nczerwonym niebie i upadku świata, ale to nie pasuje do\nobecnej sytuacji.」"
+                                "「Ale jest coś, czego nie rozumiem... Glinda napisała o\n czerwonym niebie i upadku świata, ale to nie pasuje do\nobecnej sytuacji.」"
                             ]
                         },
                         {

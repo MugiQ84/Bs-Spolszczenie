@@ -3050,7 +3050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Śmiertelnie jadowite motyle mnie dopadły... ledwo mogę\nruszać ciałem. Hej, ty... przyniesiesz mi \\c[2]Zioło\nOdtruwające\\c[0] i \\c[2]Zioło Lecznicze\\c[0]?」"
+                                "「Śmiertelnie jadowite motyle mnie dopadły... ledwo mogę\n ruszać ciałem. Hej, ty... przyniesiesz mi \\c[2]Zioło\nOdtruwające\\c[0] i \\c[2]Zioło Lecznicze\\c[0]?」"
                             ]
                         },
                         {
@@ -3157,7 +3157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Kaszlnięcie… \\c[2]Zioło Odtrutki\\c[0] i \\c[2]Zioło Lecznicze\\c[0]\nprzyniosłeś?」"
+                                "「Kaszlnięcie… \\c[2]Zioło Odtrutki\\c[0] i \\c[2]Zioło Lecznicze\\c[0]\n przyniosłeś?」"
                             ]
                         },
                         {
@@ -3237,7 +3237,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「U-uratowałeś mnie… He he, jesteś dobrym gościem. Długo\npożyjesz.」"
+                                "「U-uratowałeś mnie… He he, jesteś dobrym gościem. Długo\n pożyjesz.」"
                             ]
                         },
                         {
@@ -3358,7 +3358,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「Ach… P-przepraszam… N-no… Błagam, nie porzucaj mnie…\nJeszcze nie chcę umierać…」"
+                                "「Ach… P-przepraszam… N-no… Błagam, nie porzucaj mnie…\n Jeszcze nie chcę umierać…」"
                             ]
                         },
                         {
@@ -3426,7 +3426,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Ach… P-przepraszam… N-no… Błagam, nie porzucaj mnie…\nJeszcze nie chcę umierać…」"
+                                "「Ach… P-przepraszam… N-no… Błagam, nie porzucaj mnie…\n Jeszcze nie chcę umierać…」"
                             ]
                         },
                         {
@@ -3601,7 +3601,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「C-czekaj… Błagam, nie porzucaj mnie… Jeszcze nie chcę\numierać… Dam ci nagrodę, proszę…」"
+                                "「C-czekaj… Błagam, nie porzucaj mnie… Jeszcze nie chcę\n umierać… Dam ci nagrodę, proszę…」"
                             ]
                         },
                         {
@@ -3686,7 +3686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Kto by pomyślał, że w takiej opuszczonej kopalni\nzagnieżdżą się potwory… Ech, teraz to chyba wszędzie\njest ich pełno…」"
+                                "「Kto by pomyślał, że w takiej opuszczonej kopalni\n zagnieżdżą się potwory… Ech, teraz to chyba wszędzie\njest ich pełno…」"
                             ]
                         },
                         {
@@ -3710,7 +3710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Jeszcze trochę dojdę do siebie i spadam z tego\nponurego miejsca. Mam nadzieję, że kiedyś gdzieś\njeszcze na siebie wpadniemy」"
+                                "「Jeszcze trochę dojdę do siebie i spadam z tego\n ponurego miejsca. Mam nadzieję, że kiedyś gdzieś\njeszcze na siebie wpadniemy」"
                             ]
                         },
                         {
@@ -4520,7 +4520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Pomóc, czy nie pomóc…… Przebaczyć, czy nie\nprzebaczyć……」"
+                                "「Pomóc, czy nie pomóc…… Przebaczyć, czy nie\n przebaczyć……」"
                             ]
                         },
                         {

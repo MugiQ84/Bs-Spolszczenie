@@ -1041,7 +1041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ten zajazd powstał dzięki uprzejmości jednej z\nDemonicznych Księżniczek, \\c[2]Księżniczki Syreny-sama\\c[0], i\njest zajazdem miłości.」"
+                                "「Ten zajazd powstał dzięki uprzejmości jednej z\n Demonicznych Księżniczek, \\c[2]Księżniczki Syreny-sama\\c[0], i\njest zajazdem miłości.」"
                             ]
                         },
                         {
@@ -1065,7 +1065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Jeśli chcesz spędzić słodkie chwile z ukochaną bez\nprzeszkód, zapraszamy do skorzystania z Hotelu\nPosejdon...」"
+                                "「Jeśli chcesz spędzić słodkie chwile z ukochaną bez\n przeszkód, zapraszamy do skorzystania z Hotelu\nPosejdon...」"
                             ]
                         },
                         {
@@ -1160,7 +1160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ups... rzeczywiście. Gdy raz się tu zatrzymasz, nie\nwyjdziesz, chyba że \\c[2]się pokochasz z kimś lub jedno z\nwas umrze\\c[0].」"
+                                "「Ups... rzeczywiście. Gdy raz się tu zatrzymasz, nie\n wyjdziesz, chyba że \\c[2]się pokochasz z kimś lub jedno z\nwas umrze\\c[0].」"
                             ]
                         },
                         {
@@ -1184,7 +1184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Hohohoh... Proszę, uważaj, by nie doprowadzić do\nkrwawej jatki...」"
+                                "「Hohohoh... Proszę, uważaj, by nie doprowadzić do\n krwawej jatki...」"
                             ]
                         },
                         {
@@ -1436,7 +1436,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「Guh... Rozumiem, więc byłeś pachołkiem Mrocznego\nTrybunału...」"
+                                "「Guh... Rozumiem, więc byłeś pachołkiem Mrocznego\n Trybunału...」"
                             ]
                         },
                         {
@@ -1654,7 +1654,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "「... Tch! To była moja zdobycz! Niezły masz tupet, żeby\nmi ją sprzątnąć!」"
+                                "「... Tch! To była moja zdobycz! Niezły masz tupet, żeby\n mi ją sprzątnąć!」"
                             ]
                         },
                         {
@@ -1678,7 +1678,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "「Hę? Mówisz, że Baphomet cię wynajął? ... No, skoro\ntak, to nic nie poradzę. Tym razem odpuszczę.」"
+                                "「Hę? Mówisz, że Baphomet cię wynajął? ... No, skoro\n tak, to nic nie poradzę. Tym razem odpuszczę.」"
                             ]
                         },
                         {
@@ -1702,7 +1702,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "「Jestem jednym z Czterech Demonów Czasu Mrocznego\nTrybunału, \\c[2]Hain\\c[0]! Tak, to ja jestem najsilniejszy w\ncałym Mrocznym Trybunale. Zapamiętaj to sobie, dobra?\nHihihi...」"
+                                "「Jestem jednym z Czterech Demonów Czasu Mrocznego\n Trybunału, \\c[2]Hain\\c[0]! Tak, to ja jestem najsilniejszy w\ncałym Mrocznym Trybunale. Zapamiętaj to sobie, dobra?\nHihihi...」"
                             ]
                         },
                         {

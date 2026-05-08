@@ -279,7 +279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Kim jesteś, przybyszu? Jak tu wszedłeś? Co robi\nKameleon?」"
+                                "「Kim jesteś, przybyszu? Jak tu wszedłeś? Co robi\n Kameleon?」"
                             ]
                         },
                         {
@@ -322,7 +322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Bo oto Behemot, uznawany za najpotężniejszą z\nmagicznych bestii, już wkrótce przybędzie tu jako mój\nzwierzak!」"
+                                "「Bo oto Behemot, uznawany za najpotężniejszą z\n magicznych bestii, już wkrótce przybędzie tu jako mój\nzwierzak!」"
                             ]
                         },
                         {
@@ -368,7 +368,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「No właśnie, właśnie! Widzę, że całkiem dobrze to\nrozumiesz!」"
+                                "「No właśnie, właśnie! Widzę, że całkiem dobrze to\n rozumiesz!」"
                             ]
                         },
                         {
@@ -415,7 +415,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Czekałam na to z utęsknieniem, a ty...! Kara śmierci!\nJuż ja cię tu na miejscu uśmiercę!」"
+                                "「Czekałam na to z utęsknieniem, a ty...! Kara śmierci!\n Już ja cię tu na miejscu uśmiercę!」"
                             ]
                         },
                         {
@@ -1165,7 +1165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Na południe stąd... Na Pustyni Helsa podobno istnieje\n\\c[2]widmowa róża\\c[0], która rzadko kwitnie. Przynieś ją przede\nmnie.」"
+                                "「Na południe stąd... Na Pustyni Helsa podobno istnieje\n \\c[2]widmowa róża\\c[0], która rzadko kwitnie. Przynieś ją przede\nmnie.」"
                             ]
                         },
                         {
@@ -1182,7 +1182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Dopiero gdy przyniesiesz mi tę różę, uznam cię za\nmężczyznę godnego zawarcia ze mną przymierza.」"
+                                "「Dopiero gdy przyniesiesz mi tę różę, uznam cię za\n mężczyznę godnego zawarcia ze mną przymierza.」"
                             ]
                         },
                         {
@@ -1237,7 +1237,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Oo... więc to jest ta... Jakże piękna to róża,\nzaiste.」"
+                                "「Oo... więc to jest ta... Jakże piękna to róża,\n zaiste.」"
                             ]
                         },
                         {
@@ -1254,7 +1254,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Hehe, wspaniale. Jesteś godny, by być moim\nsprzymierzeńcem... Nie, być może nawet kimś więcej♪」"
+                                "「Hehe, wspaniale. Jesteś godny, by być moim\n sprzymierzeńcem... Nie, być może nawet kimś więcej♪」"
                             ]
                         },
                         {
@@ -1271,7 +1271,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Zgodnie z obietnicą, zawrę z tobą przymierze. No,\ndalej, pośpiesz się.」"
+                                "「Zgodnie z obietnicą, zawrę z tobą przymierze. No,\n dalej, pośpiesz się.」"
                             ]
                         },
                         {
@@ -1381,7 +1381,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Hmm... Coraz bardziej mi się podobasz. Zaczynam cię\npragnąć bardziej niż Behemota, wiesz!」"
+                                "「Hmm... Coraz bardziej mi się podobasz. Zaczynam cię\n pragnąć bardziej niż Behemota, wiesz!」"
                             ]
                         },
                         {
@@ -1398,7 +1398,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Dobrze! Od dziś jesteś moim mężem! Nie waż się\nopuszczać mego boku!」"
+                                "「Dobrze! Od dziś jesteś moim mężem! Nie waż się\n opuszczać mego boku!」"
                             ]
                         },
                         {
@@ -1482,7 +1482,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Już ci nie wybaczę! Zabiję cię i rzucę Behemotowi na\npożarcie!」"
+                                "「Już ci nie wybaczę! Zabiję cię i rzucę Behemotowi na\n pożarcie!」"
                             ]
                         },
                         {
@@ -1838,7 +1838,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Lepiej przynieś mi ją, zanim nadejdzie Behemot. Bo\nszybko się nudzę.」"
+                                "「Lepiej przynieś mi ją, zanim nadejdzie Behemot. Bo\n szybko się nudzę.」"
                             ]
                         },
                         {
@@ -2482,7 +2482,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Inne demoniczne księżniczki... cóż one teraz\nczynią...? A ja... przez cały ten czas na szczycie tej\nwieży... cóż ja czyniłam...?」"
+                                "「Inne demoniczne księżniczki... cóż one teraz\n czynią...? A ja... przez cały ten czas na szczycie tej\nwieży... cóż ja czyniłam...?」"
                             ]
                         },
                         {
@@ -2499,7 +2499,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Otoczona demonicznymi bestiami i złotem, choćbym\nzdobyła najcenniejsze skarby... i tak nic mnie nie\nzaspokaja...」"
+                                "「Otoczona demonicznymi bestiami i złotem, choćbym\n zdobyła najcenniejsze skarby... i tak nic mnie nie\nzaspokaja...」"
                             ]
                         },
                         {
@@ -2516,7 +2516,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Chcę wszystkich zobaczyć... Dość mam już\nsamotności...」"
+                                "「Chcę wszystkich zobaczyć... Dość mam już\n samotności...」"
                             ]
                         },
                         {
@@ -2542,7 +2542,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Chlip... Nie patrz na moją twarz... Ja... nic mi nie\njest...」"
+                                "「Chlip... Nie patrz na moją twarz... Ja... nic mi nie\n jest...」"
                             ]
                         },
                         {
@@ -2653,7 +2653,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Fufu... dobrze zatem. Czas na małżeńskie igraszki...\n♪」"
+                                "「Fufu... dobrze zatem. Czas na małżeńskie igraszki...\n ♪」"
                             ]
                         },
                         {
@@ -3023,7 +3023,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Jeśli zadurzysz się w innej kobiecie poza mną, nie\nwybaczę!」"
+                                "「Jeśli zadurzysz się w innej kobiecie poza mną, nie\n wybaczę!」"
                             ]
                         },
                         {

@@ -853,7 +853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Rejestruję cię oficjalnie jako Mistrza...\nZatwierdzenie... Jestem Alicja model 02-A. Proszę mówić\nmi Alicja.」"
+                                "「Rejestruję cię oficjalnie jako Mistrza...\n Zatwierdzenie... Jestem Alicja model 02-A. Proszę mówić\nmi Alicja.」"
                             ]
                         },
                         {
@@ -889,7 +889,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Osobą, którą Mistrz spotkał na początku, była\noryginalna Alicja. Ja jestem jedynie repliką.」"
+                                "「Osobą, którą Mistrz spotkał na początku, była\n oryginalna Alicja. Ja jestem jedynie repliką.」"
                             ]
                         },
                         {
@@ -946,7 +946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「W zastępstwie zmarłej Alicji 01, mam nadzieję, że będę\nmogła się Panu przydać, \\n[1]-sama.」"
+                                "「W zastępstwie zmarłej Alicji 01, mam nadzieję, że będę\n mogła się Panu przydać, \\n[1]-sama.」"
                             ]
                         },
                         {
@@ -1051,7 +1051,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Półka na książki jest już w połowie zapełniona.\nUwielbiam czytać bajki」"
+                                "「Półka na książki jest już w połowie zapełniona.\n Uwielbiam czytać bajki」"
                             ]
                         },
                         {
@@ -1126,7 +1126,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Ty i Alicja01 byliście sobie bliscy... To wspomnienie\nzostało mi zaimplantowane」"
+                                "「Ty i Alicja01 byliście sobie bliscy... To wspomnienie\n zostało mi zaimplantowane」"
                             ]
                         },
                         {
@@ -1160,7 +1160,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Dopiero co się obudziłam, więc też nie do końca\nrozumiem. Przykro mi, że nie mogę być pomocna」"
+                                "「Dopiero co się obudziłam, więc też nie do końca\n rozumiem. Przykro mi, że nie mogę być pomocna」"
                             ]
                         },
                         {
@@ -1177,7 +1177,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Jednak Alicja01 stworzyła mnie jako swoją\nnastępczynię. Być może przewidziała własną śmierć」"
+                                "「Jednak Alicja01 stworzyła mnie jako swoją\n następczynię. Być może przewidziała własną śmierć」"
                             ]
                         },
                         {
@@ -1207,7 +1207,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「To biblioteka, którą często odwiedzaliście razem:\nAlicja01 i \\n[1]-sama. Podobno szczególnie lubiliście\nrazem czytać bajki」"
+                                "「To biblioteka, którą często odwiedzaliście razem:\n Alicja01 i \\n[1]-sama. Podobno szczególnie lubiliście\nrazem czytać bajki」"
                             ]
                         },
                         {
@@ -1224,7 +1224,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Ale widzę, że brakuje tu kilku książek. Wygląda na to,\nże ktoś je zabrał」"
+                                "「Ale widzę, że brakuje tu kilku książek. Wygląda na to,\n że ktoś je zabrał」"
                             ]
                         },
                         {
@@ -1241,7 +1241,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Mistrzu. Jeśli znajdziesz te książki, czy mógłbyś je z\npowrotem odłożyć na miejsce?」"
+                                "「Mistrzu. Jeśli znajdziesz te książki, czy mógłbyś je z\n powrotem odłożyć na miejsce?」"
                             ]
                         },
                         {
@@ -1470,7 +1470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Mistrzu. Wszystkie książki zostały zapełnione.\nDziękuję za trud!」"
+                                "「Mistrzu. Wszystkie książki zostały zapełnione.\n Dziękuję za trud!」"
                             ]
                         },
                         {
@@ -1487,7 +1487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Zawsze z przyjemnością czytam baśnie, które mi\nprzynosisz, Mistrzu.」"
+                                "「Zawsze z przyjemnością czytam baśnie, które mi\n przynosisz, Mistrzu.」"
                             ]
                         },
                         {
@@ -1504,7 +1504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Jeśli pozwolisz, chciałabym ci się odwdzięczyć. Ciężko\npracowałeś, Mistrzu, więc…」"
+                                "「Jeśli pozwolisz, chciałabym ci się odwdzięczyć. Ciężko\n pracowałeś, Mistrzu, więc…」"
                             ]
                         },
                         {
@@ -1696,7 +1696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Prawdę mówiąc, była we mnie wbudowana wiadomość od\nAlicji01. Napisano, że warunkiem jej odtworzenia jest,\naby Mistrz najpierw zapełnił wszystkie książki.」"
+                                "「Prawdę mówiąc, była we mnie wbudowana wiadomość od\n Alicji01. Napisano, że warunkiem jej odtworzenia jest,\naby Mistrz najpierw zapełnił wszystkie książki.」"
                             ]
                         },
                         {
@@ -1768,7 +1768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「\\n[1]-san. Dzień dobry. Skoro tego słuchasz… oznacza to,\nże zapełniłeś wszystkie książki, prawda?……」"
+                                "「\\n[1]-san. Dzień dobry. Skoro tego słuchasz… oznacza to,\n że zapełniłeś wszystkie książki, prawda?……」"
                             ]
                         },
                         {
@@ -1819,7 +1819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…Rozumiem, co czujesz. Musi ci być teraz bardzo\nciężko.」"
+                                "「…Rozumiem, co czujesz. Musi ci być teraz bardzo\n ciężko.」"
                             ]
                         },
                         {
@@ -1836,7 +1836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Nie mogłam cię uzdrowić… A replice… wyrządziłam\nkrzywdę.」"
+                                "「Nie mogłam cię uzdrowić… A replice… wyrządziłam\n krzywdę.」"
                             ]
                         },
                         {
@@ -1853,7 +1853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ale… to jest droga prowadząca do prawdy. Aby… dla tego\nxx… xxxx…」"
+                                "「Ale… to jest droga prowadząca do prawdy. Aby… dla tego\n xx… xxxx…」"
                             ]
                         },
                         {
@@ -1889,7 +1889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「\\n[1]-san. Kiedy już podejmiesz decyzję, zakończ ten\nświat.」"
+                                "「\\n[1]-san. Kiedy już podejmiesz decyzję, zakończ ten\n świat.」"
                             ]
                         },
                         {
@@ -1964,7 +1964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「……Ach…! \\! Na koniec, jest jeszcze jedna rzecz, którą\nchcę ci powiedzieć.」"
+                                "「……Ach…! \\! Na koniec, jest jeszcze jedna rzecz, którą\n chcę ci powiedzieć.」"
                             ]
                         },
                         {
@@ -1981,7 +1981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「\\n[1]-san. Nawet jeśli mnie zapomnisz… Nawet jeśli umrę…\nMimo to…」"
+                                "「\\n[1]-san. Nawet jeśli mnie zapomnisz… Nawet jeśli umrę…\n Mimo to…」"
                             ]
                         },
                         {
@@ -2084,7 +2084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「W takim razie i ja będę o tobie myśleć. Bez względu na\nwszystko…」"
+                                "「W takim razie i ja będę o tobie myśleć. Bez względu na\n wszystko…」"
                             ]
                         },
                         {
@@ -2161,7 +2161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「A tak przy okazji, sprawdzałeś już drzwi w głębi? Ja\nteż je sprawdziłam, ale nie wiedziałam, jak je\notworzyć…」"
+                                "「A tak przy okazji, sprawdzałeś już drzwi w głębi? Ja\n też je sprawdziłam, ale nie wiedziałam, jak je\notworzyć…」"
                             ]
                         },
                         {
@@ -2178,7 +2178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Obecny Master może by je otworzył. To znaczy, nie ma\ngwarancji, ale…」"
+                                "「Obecny Master może by je otworzył. To znaczy, nie ma\n gwarancji, ale…」"
                             ]
                         },
                         {
@@ -2263,7 +2263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「……E? Była jeszcze jakaś książka, której nie zakopałeś?\nNajmocniej przepraszam… Myślałem, że wszystkie książki\nsą na tych półkach…」"
+                                "「……E? Była jeszcze jakaś książka, której nie zakopałeś?\n Najmocniej przepraszam… Myślałem, że wszystkie książki\nsą na tych półkach…」"
                             ]
                         },
                         {
@@ -2280,7 +2280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Prędzej czy później też ją znajdę i zakopię. Gdy\nwszystkie zostaną zakopane, może coś się wydarzy. To\nmoja intelektualna ciekawość.」"
+                                "「Prędzej czy później też ją znajdę i zakopię. Gdy\n wszystkie zostaną zakopane, może coś się wydarzy. To\nmoja intelektualna ciekawość.」"
                             ]
                         },
                         {

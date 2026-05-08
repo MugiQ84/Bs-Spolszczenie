@@ -83,7 +83,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Wspaniale, jak widzę pokonałeś Księżniczkę Demonów.\nNajpierw gratulacje, co nie?」"
+                                "「Wspaniale, jak widzę pokonałeś Księżniczkę Demonów.\n Najpierw gratulacje, co nie?」"
                             ]
                         },
                         {
@@ -107,7 +107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「……Jeśli to jest koniec, jakiego pragnąłeś, to ja\nrównież jestem szczęśliwy.」"
+                                "「……Jeśli to jest koniec, jakiego pragnąłeś, to ja\n również jestem szczęśliwy.」"
                             ]
                         },
                         {
@@ -921,7 +921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ostatecznie, do samego końca... wciąż tylko ty mnie\nratowałeś. A przecież jestem księciem tego kraju... to\ntakie żałosne」"
+                                "「Ostatecznie, do samego końca... wciąż tylko ty mnie\n ratowałeś. A przecież jestem księciem tego kraju... to\ntakie żałosne」"
                             ]
                         },
                         {
@@ -945,7 +945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Moja matko... dziękuję, że ją powstrzymałeś. Teraz już\ntylko tym uczuciem mam wypełnione serce」"
+                                "「Moja matko... dziękuję, że ją powstrzymałeś. Teraz już\n tylko tym uczuciem mam wypełnione serce」"
                             ]
                         },
                         {
@@ -1314,7 +1314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Nieumarły-san... Wstydzimy się, że patrzyliśmy na\nciebie z góry.」"
+                                "「Nieumarły-san... Wstydzimy się, że patrzyliśmy na\n ciebie z góry.」"
                             ]
                         },
                         {
@@ -1338,7 +1338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Właśnie dlatego, że jesteś nieumarły, możesz stawiać\nczoła przeciwnościom niezliczoną ilość razy... Więc o\nto chodziło.」"
+                                "「Właśnie dlatego, że jesteś nieumarły, możesz stawiać\n czoła przeciwnościom niezliczoną ilość razy... Więc o\nto chodziło.」"
                             ]
                         },
                         {
@@ -1490,7 +1490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ufufu... Ta pokojówka wygląda całkiem apetycznie,\nprawda?」"
+                                "「Ufufu... Ta pokojówka wygląda całkiem apetycznie,\n prawda?」"
                             ]
                         },
                         {
@@ -1635,7 +1635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Jak można się było spodziewać po moim uczniu... Już\nnie mam czego cię uczyć.」"
+                                "「Jak można się było spodziewać po moim uczniu... Już\n nie mam czego cię uczyć.」"
                             ]
                         },
                         {
@@ -1652,7 +1652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ale jeśli bardzo tego chcesz... to jeszcze mogę przy\ntobie zostać.」"
+                                "「Ale jeśli bardzo tego chcesz... to jeszcze mogę przy\n tobie zostać.」"
                             ]
                         },
                         {
@@ -1925,7 +1925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「\\n[1]-san... Ty naprawdę stajesz się światłem nadziei...\nJestem niezmiernie uradowana.」"
+                                "「\\n[1]-san... Ty naprawdę stajesz się światłem nadziei...\n Jestem niezmiernie uradowana.」"
                             ]
                         },
                         {
@@ -1942,7 +1942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Będziesz na zawsze pamiętany jako bohater w moim\nkraju.」"
+                                "「Będziesz na zawsze pamiętany jako bohater w moim\n kraju.」"
                             ]
                         },
                         {
@@ -2087,7 +2087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ja, Elma, jak urosnę, zostanę twoją żoną, \\n[1]... Nie\nmożna…?」"
+                                "「Ja, Elma, jak urosnę, zostanę twoją żoną, \\n[1]... Nie\n można…?」"
                             ]
                         },
                         {
@@ -2453,7 +2453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「\\n[1]-san... może to, że mogliśmy się spotkać, było\ndzięki Bożemu prowadzeniu, jak sądzę?」"
+                                "「\\n[1]-san... może to, że mogliśmy się spotkać, było\n dzięki Bożemu prowadzeniu, jak sądzę?」"
                             ]
                         },
                         {
@@ -2496,7 +2496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ojej, jakież to wstydliwe, co mówię... p-proszę,\nzapomnij o tym...」"
+                                "「Ojej, jakież to wstydliwe, co mówię... p-proszę,\n zapomnij o tym...」"
                             ]
                         },
                         {
@@ -3049,7 +3049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ufufu~, Demoniczna Księżniczka umarła i świat został\nocalony. Muszę odpowiednio wynagrodzić \\n[1] za jego\nwysiłek, prawda? ♡」"
+                                "「Ufufu~, Demoniczna Księżniczka umarła i świat został\n ocalony. Muszę odpowiednio wynagrodzić \\n[1] za jego\nwysiłek, prawda? ♡」"
                             ]
                         },
                         {
@@ -3066,7 +3066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Wybrałeś, by zostać bohaterem. To nie było błędem, my\nteż zostaliśmy ocaleni.」"
+                                "「Wybrałeś, by zostać bohaterem. To nie było błędem, my\n też zostaliśmy ocaleni.」"
                             ]
                         },
                         {

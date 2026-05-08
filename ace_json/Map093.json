@@ -634,7 +634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Jestem Księżniczka Demonów Cinderella... Królowa\nZaginionego Imperium」"
+                                "「Jestem Księżniczka Demonów Cinderella... Królowa\n Zaginionego Imperium」"
                             ]
                         },
                         {
@@ -651,7 +651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ta mgła kradnie Dusze wszystkich istot na świecie i\nzamienia je w bestie. ...Ale to tylko część planu」"
+                                "「Ta mgła kradnie Dusze wszystkich istot na świecie i\n zamienia je w bestie. ...Ale to tylko część planu」"
                             ]
                         },
                         {
@@ -668,7 +668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ten świat pełen jest absurdu i nierówności. Ubodzy są\ngnębieni, a tylko bogaci żyją w wolności」"
+                                "「Ten świat pełen jest absurdu i nierówności. Ubodzy są\n gnębieni, a tylko bogaci żyją w wolności」"
                             ]
                         },
                         {
@@ -685,7 +685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Zmienię ten świat... Ofiary są nieuniknione, by\nreforma się powiodła」"
+                                "「Zmienię ten świat... Ofiary są nieuniknione, by\n reforma się powiodła」"
                             ]
                         },
                         {
@@ -2012,7 +2012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Już nie musisz martwić się o dzwonek. Zdobyłam wieczną\nmagię.」"
+                                "「Już nie musisz martwić się o dzwonek. Zdobyłam wieczną\n magię.」"
                             ]
                         },
                         {
@@ -2184,7 +2184,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Uczucie miłości jest wspaniałe. Ale nie wolno ci się w\nnim zatracać jak Mała Syrenka.」"
+                                "「Uczucie miłości jest wspaniałe. Ale nie wolno ci się w\n nim zatracać jak Mała Syrenka.」"
                             ]
                         },
                         {
@@ -2687,7 +2687,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Moje ukochane dziecko... Matka zawsze czeka na twój\npowrót.」"
+                                "「Moje ukochane dziecko... Matka zawsze czeka na twój\n powrót.」"
                             ]
                         },
                         {

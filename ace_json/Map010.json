@@ -150,7 +150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Hej, ty też tu trafiłeś, co? Ach, nie, właściwie to\nraczej cię tu przyniesiono...」"
+                                "「Hej, ty też tu trafiłeś, co? Ach, nie, właściwie to\n raczej cię tu przyniesiono...」"
                             ]
                         },
                         {
@@ -174,7 +174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Spokojnie, to nie zaświaty. Tylko ci, którzy błąkają\nsię po drogach, mogą trafić do tego Punktu Dryfowania.」"
+                                "「Spokojnie, to nie zaświaty. Tylko ci, którzy błąkają\n się po drogach, mogą trafić do tego Punktu Dryfowania.」"
                             ]
                         },
                         {
@@ -231,7 +231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Czy uratujesz świat, czy zapanujesz nad całą\nludzkością, to nie moja sprawa.」"
+                                "「Czy uratujesz świat, czy zapanujesz nad całą\n ludzkością, to nie moja sprawa.」"
                             ]
                         },
                         {
@@ -255,7 +255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ale jeśli dasz mi Dusze, pomogę ci. Możesz nawet\nzamieszkać w tym lesie, jeśli chcesz.」"
+                                "「Ale jeśli dasz mi Dusze, pomogę ci. Możesz nawet\n zamieszkać w tym lesie, jeśli chcesz.」"
                             ]
                         },
                         {
@@ -279,7 +279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Przy okazji, na zewnątrz czyhają magiczne bestie, więc\nlepiej nie daj się zabić. Chociaż ty jesteś\nnieumarły, to nie ma się czego bać, haha.」"
+                                "「Przy okazji, na zewnątrz czyhają magiczne bestie, więc\n lepiej nie daj się zabić. Chociaż ty jesteś\nnieumarły, to nie ma się czego bać, haha.」"
                             ]
                         },
                         {
@@ -319,7 +319,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「A właśnie, zanim stąd wyjdziesz, poszukaj dziewczyny o\nimieniu \\c[2]Leaf\\c[0]. W przeciwieństwie do innych wróżek, ona\nna pewno ci pomoże.」"
+                                "「A właśnie, zanim stąd wyjdziesz, poszukaj dziewczyny o\n imieniu \\c[2]Leaf\\c[0]. W przeciwieństwie do innych wróżek, ona\nna pewno ci pomoże.」"
                             ]
                         },
                         {
@@ -522,7 +522,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「\\C[2]Jeśli mnie zabijesz, nigdy więcej nie zdobędziesz\nwyższego poziomu.\\C[0] I mimo to mnie zabijesz?」"
+                                "「\\C[2]Jeśli mnie zabijesz, nigdy więcej nie zdobędziesz\n wyższego poziomu.\\C[0] I mimo to mnie zabijesz?」"
                             ]
                         },
                         {
@@ -942,7 +942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Mgła, która zamienia ludzi w magiczne bestie... Nie\ndociera tutaj, bo ten Święty Las ma barierę.」"
+                                "「Mgła, która zamienia ludzi w magiczne bestie... Nie\n dociera tutaj, bo ten Święty Las ma barierę.」"
                             ]
                         },
                         {
@@ -966,7 +966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Dlatego mieszkańcy tutaj są bezpieczni. To nie jest\nmiejsce, do którego można przyjść ot tak, ahaha.」"
+                                "「Dlatego mieszkańcy tutaj są bezpieczni. To nie jest\n miejsce, do którego można przyjść ot tak, ahaha.」"
                             ]
                         },
                         {
@@ -1075,7 +1075,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「\\C[2]Jeśli mnie zabijesz, już nigdy nie podniesiesz swojego\npoziomu\\C[0]. Ale i tak chcesz to zrobić?」"
+                                "「\\C[2]Jeśli mnie zabijesz, już nigdy nie podniesiesz swojego\n poziomu\\C[0]. Ale i tak chcesz to zrobić?」"
                             ]
                         },
                         {
@@ -1181,7 +1181,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「Gugh... Nie, to niemożliwe... Zgromadziłeś aż tyle\nDusz...」"
+                                "「Gugh... Nie, to niemożliwe... Zgromadziłeś aż tyle\n Dusz...」"
                             ]
                         },
                         {
@@ -1519,7 +1519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Była wspaniałą kobietą, która walczyła za kraj i była\npełna wiary. Szkoda, że odeszła.」"
+                                "「Była wspaniałą kobietą, która walczyła za kraj i była\n pełna wiary. Szkoda, że odeszła.」"
                             ]
                         },
                         {
@@ -1543,7 +1543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Słyszałem, że gdzieś jest czarnoksiężnik potrafiący\nwskrzeszać ciała... Jeśli wierzysz w nadzieję, warto go\nposzukać.」"
+                                "「Słyszałem, że gdzieś jest czarnoksiężnik potrafiący\n wskrzeszać ciała... Jeśli wierzysz w nadzieję, warto go\nposzukać.」"
                             ]
                         },
                         {
@@ -1652,7 +1652,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「\\C[2]Jeśli mnie zabijesz, już nigdy nie podniesiesz\npoziomu\\C[0], ale i tak to zrobisz?」"
+                                "「\\C[2]Jeśli mnie zabijesz, już nigdy nie podniesiesz\n poziomu\\C[0], ale i tak to zrobisz?」"
                             ]
                         },
                         {
@@ -2783,7 +2783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ty też przybyłeś, by ze mnie drwić, prawda? W\nporządku... ja już...」"
+                                "「Ty też przybyłeś, by ze mnie drwić, prawda? W\n porządku... ja już...」"
                             ]
                         },
                         {
@@ -2962,7 +2962,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Zaginione Imperium jest na północ stąd. Przejdź przez\nLas Porzuconych, potem kanałami do Dzielnicy Rozpusty.\nZa fortecą Iburn powinieneś dotrzeć na miejsce.」"
+                                "「Zaginione Imperium jest na północ stąd. Przejdź przez\n Las Porzuconych, potem kanałami do Dzielnicy Rozpusty.\nZa fortecą Iburn powinieneś dotrzeć na miejsce.」"
                             ]
                         },
                         {
@@ -2986,7 +2986,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Najpierw odwiedź wiedźmę w \\C[2]Lesie Porzuconych\\C[0]. Jest\nprzekorna, ale w głębi serca dobra, więc powinna ci\npomóc.」"
+                                "「Najpierw odwiedź wiedźmę w \\C[2]Lesie Porzuconych\\C[0]. Jest\n przekorna, ale w głębi serca dobra, więc powinna ci\npomóc.」"
                             ]
                         },
                         {
@@ -3010,7 +3010,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「……Moi towarzysze wykitowali po drodze. Ty pewnie też\ntak skończysz.」"
+                                "「……Moi towarzysze wykitowali po drodze. Ty pewnie też\n tak skończysz.」"
                             ]
                         },
                         {
@@ -3245,7 +3245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ty... Dotarłeś do Zamku Zaginionego Imperium. Ale widziałeś, prawda?\nBrama zamku jest chroniona barierą, nie da się wejść.」"
+                                "「Ty... Dotarłeś do Zamku Zaginionego Imperium. Ale widziałeś, prawda?\n Brama zamku jest chroniona barierą, nie da się wejść.」"
                             ]
                         },
                         {
@@ -3269,7 +3269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Żeby tam wejść, potrzeba Dusz czterech Demonicznych\nKsiężniczek. ...Straciłem towarzyszy i w końcu\ndotarłem, ale załamałem się.」"
+                                "「Żeby tam wejść, potrzeba Dusz czterech Demonicznych\n Księżniczek. ...Straciłem towarzyszy i w końcu\ndotarłem, ale załamałem się.」"
                             ]
                         },
                         {
@@ -3293,7 +3293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Odpuść sobie... Ale jeśli nadal chcesz to robić, będę\ncię wspierać.」"
+                                "「Odpuść sobie... Ale jeśli nadal chcesz to robić, będę\n cię wspierać.」"
                             ]
                         },
                         {
@@ -3337,7 +3337,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Demoniczne Księżniczki... Kobiety, które chcą stworzyć\nkrólestwo demonicznych bestii. Sam ich nie widziałem,\nale podobno są piękne jak boginie, a każda ma okropny\ncharakter.」"
+                                "「Demoniczne Księżniczki... Kobiety, które chcą stworzyć\n królestwo demonicznych bestii. Sam ich nie widziałem,\nale podobno są piękne jak boginie, a każda ma okropny\ncharakter.」"
                             ]
                         },
                         {
@@ -3385,7 +3385,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「\\C[17]Jedna siedzi na szczycie wieży wznoszącej się ku niebu\ni zapuszcza włosy. \\! \\C[11]Druga bawi się z żabami na\nskalanych bagnach. \\! \\C[12]Trzecia na dnie morza wygrywa\nniekończącą się rapsodię szaleństwa. \\! \\C[23]Czwarta w lodowym\nzamku poszukuje wiecznego piękna.」"
+                                "「\\C[17]Jedna siedzi na szczycie wieży wznoszącej się ku niebu\n i zapuszcza włosy. \\! \\C[11]Druga bawi się z żabami na\nskalanych bagnach. \\! \\C[12]Trzecia na dnie morza wygrywa\nniekończącą się rapsodię szaleństwa. \\! \\C[23]Czwarta w lodowym\nzamku poszukuje wiecznego piękna.」"
                             ]
                         },
                         {
@@ -3409,7 +3409,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「A ostatnia Demoniczna Księżniczka... Podobno jest\nnajpotężniejsza, bo stoi u początków. Podobno siedzi na\ntronie Zaginionego Imperium. Jeśli zaprosi cię na bal, to już\nnigdy nie wrócisz żywy.」"
+                                "「A ostatnia Demoniczna Księżniczka... Podobno jest\n najpotężniejsza, bo stoi u początków. Podobno siedzi na\ntronie Zaginionego Imperium. Jeśli zaprosi cię na bal, to już\nnigdy nie wrócisz żywy.」"
                             ]
                         },
                         {
@@ -3433,7 +3433,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Wszystko to usłyszałem od mojego towarzysza maga.\nJeśli zabijesz Demoniczne Księżniczki, mgła ustanie...\nŚwiat zostanie ocalony. Ale ja nie dam rady...」"
+                                "「Wszystko to usłyszałem od mojego towarzysza maga.\n Jeśli zabijesz Demoniczne Księżniczki, mgła ustanie...\nŚwiat zostanie ocalony. Ale ja nie dam rady...」"
                             ]
                         },
                         {
@@ -3644,7 +3644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Naprawdę... Ty pokonałeś cztery Demoniczne\nKsiężniczki...?」"
+                                "「Naprawdę... Ty pokonałeś cztery Demoniczne\n Księżniczki...?」"
                             ]
                         },
                         {
@@ -3668,7 +3668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Niesamowite... Nie, podziwiam cię. Patrząc na ciebie,\nczuję, że nadzieja nie jest jeszcze stracona.」"
+                                "「Niesamowite... Nie, podziwiam cię. Patrząc na ciebie,\n czuję, że nadzieja nie jest jeszcze stracona.」"
                             ]
                         },
                         {
@@ -3692,7 +3692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「\\c[2]Ostatnia Demoniczna Księżniczka jest w Zaginionym Imperium.\\c[0]\nJeśli pokonałeś cztery Demoniczne Księżniczki,\npowinieneś móc tam wejść.」"
+                                "「\\c[2]Ostatnia Demoniczna Księżniczka jest w Zaginionym Imperium.\\c[0]\n Jeśli pokonałeś cztery Demoniczne Księżniczki,\npowinieneś móc tam wejść.」"
                             ]
                         },
                         {
@@ -3807,7 +3807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Czuję, że mnie uratowałeś… Bez względu na to, ile razy\nbym upadł, idę naprzód… Przypomniałem sobie odwagę, o\nktórej już prawie zapomniałem.」"
+                                "「Czuję, że mnie uratowałeś… Bez względu na to, ile razy\n bym upadł, idę naprzód… Przypomniałem sobie odwagę, o\nktórej już prawie zapomniałem.」"
                             ]
                         },
                         {
@@ -4390,7 +4390,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「...... Jakoś... Na twój widok przechodzą mnie\nciarki... Wynoś się stąd szybko.」"
+                                "「...... Jakoś... Na twój widok przechodzą mnie\n ciarki... Wynoś się stąd szybko.」"
                             ]
                         },
                         {
@@ -4717,7 +4717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Mówią, że jeśli dostaniesz zaproszenie na bal w Zamku\nUtraconego Imperium, to spełni się każde marzenie.」"
+                                "「Mówią, że jeśli dostaniesz zaproszenie na bal w Zamku\n Utraconego Imperium, to spełni się każde marzenie.」"
                             ]
                         },
                         {
@@ -4741,7 +4741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ale ponoć żadna kobieta nie wróciła stamtąd normalnie.\nLudzie są żałości, co nie?」"
+                                "「Ale ponoć żadna kobieta nie wróciła stamtąd normalnie.\n Ludzie są żałości, co nie?」"
                             ]
                         },
                         {
@@ -4974,7 +4974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Podobno, jeśli dostaniesz zaproszenie na bal w zamku\nZaginionego Imperium, każde marzenie może się spełnić.」"
+                                "「Podobno, jeśli dostaniesz zaproszenie na bal w zamku\n Zaginionego Imperium, każde marzenie może się spełnić.」"
                             ]
                         },
                         {
@@ -4998,7 +4998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ale ponoć żadna kobieta nie wróciła stamtąd w jednym\nkawałku. Ludzie są tacy żałośni.」"
+                                "「Ale ponoć żadna kobieta nie wróciła stamtąd w jednym\n kawałku. Ludzie są tacy żałośni.」"
                             ]
                         },
                         {
@@ -5983,7 +5983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Co ona widzi w takim śmierdzącym nieumarłym? Ej,\nmógłbyś się nie zbliżać?」"
+                                "「Co ona widzi w takim śmierdzącym nieumarłym? Ej,\n mógłbyś się nie zbliżać?」"
                             ]
                         },
                         {
@@ -6240,7 +6240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Co takiego widzi w takim śmierdzącym trupie? Hej, nie\nzbliżaj się, dobrze?」"
+                                "「Co takiego widzi w takim śmierdzącym trupie? Hej, nie\n zbliżaj się, dobrze?」"
                             ]
                         },
                         {
@@ -9843,7 +9843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Więc zrobiłam dla ciebie łódkę. Dzięki niej możesz\nprzeprawić się na drugą stronę rzeki」"
+                                "「Więc zrobiłam dla ciebie łódkę. Dzięki niej możesz\n przeprawić się na drugą stronę rzeki」"
                             ]
                         },
                         {
@@ -9867,7 +9867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Rzeka jest bezpieczna, więc możesz spokojnie\nprzepłynąć. Hehe」"
+                                "「Rzeka jest bezpieczna, więc możesz spokojnie\n przepłynąć. Hehe」"
                             ]
                         },
                         {
@@ -10124,7 +10124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Więc zrobiłam dla ciebie łódeczkę. Dzięki niej możesz\nprzeprawić się na drugi brzeg rzeki.」"
+                                "「Więc zrobiłam dla ciebie łódeczkę. Dzięki niej możesz\n przeprawić się na drugi brzeg rzeki.」"
                             ]
                         },
                         {
@@ -10148,7 +10148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「To bezpieczna rzeka, przepływaj bez obaw.\nChichocze...」"
+                                "「To bezpieczna rzeka, przepływaj bez obaw.\n Chichocze...」"
                             ]
                         },
                         {
@@ -10465,7 +10465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Podobno za rzeką był potwór? Hehe. No to dopiero\nkłopot, co?」"
+                                "「Podobno za rzeką był potwór? Hehe. No to dopiero\n kłopot, co?」"
                             ]
                         },
                         {
@@ -11196,7 +11196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Dzień dobry. Ten las jest spokojny i przyjemny,\nprawda?」"
+                                "「Dzień dobry. Ten las jest spokojny i przyjemny,\n prawda?」"
                             ]
                         },
                         {
@@ -11213,7 +11213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Jestem Katarina, przybywam z Sandorii. Czyżbyście o\nmnie nie słyszeli?」"
+                                "「Jestem Katarina, przybywam z Sandorii. Czyżbyście o\n mnie nie słyszeli?」"
                             ]
                         },
                         {
@@ -11279,7 +11279,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Cóż... jak widać, nie jestem tu zbyt znana... Jestem\njedną z Czternastu Świętych Wspomożycieli.」"
+                                "「Cóż... jak widać, nie jestem tu zbyt znana... Jestem\n jedną z Czternastu Świętych Wspomożycieli.」"
                             ]
                         },
                         {
@@ -11306,7 +11306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Chciałabym także i wam głosić nauki Boga, ale...\nspieszę się, więc innym razem.」"
+                                "「Chciałabym także i wam głosić nauki Boga, ale...\n spieszę się, więc innym razem.」"
                             ]
                         },
                         {
@@ -11383,7 +11383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Wydaje się, że wiele osób cierpi w tym kraju... Musimy\nich jak najszybciej uratować...」"
+                                "「Wydaje się, że wiele osób cierpi w tym kraju... Musimy\n ich jak najszybciej uratować...」"
                             ]
                         },
                         {
@@ -11400,7 +11400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Wyruszamy do miasta na południu, Elixir. Mamy nadzieję\nznaleźć ocalałych i udzielić im tu schronienia...」"
+                                "「Wyruszamy do miasta na południu, Elixir. Mamy nadzieję\n znaleźć ocalałych i udzielić im tu schronienia...」"
                             ]
                         },
                         {
@@ -11838,7 +11838,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Słyszałam od Joanny. Podobno uratowałeś mnie, gdy\nbyłam o krok od przemiany w bestię...」"
+                                "「Słyszałam od Joanny. Podobno uratowałeś mnie, gdy\n byłam o krok od przemiany w bestię...」"
                             ]
                         },
                         {
@@ -11855,7 +11855,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Po stracie Oxa i Beriala wpadłam w rozpacz... i o mało\nnie porzuciłam całej mojej wiary. Jestem Ci naprawdę\nwdzięczna za ratunek.」"
+                                "「Po stracie Oxa i Beriala wpadłam w rozpacz... i o mało\n nie porzuciłam całej mojej wiary. Jestem Ci naprawdę\nwdzięczna za ratunek.」"
                             ]
                         },
                         {
@@ -11872,7 +11872,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Słyszałam, że \\n[1]-san bierze udział w walce... Jeśli\npozwolisz, pragnę dołożyć swoją siłę. Potrafię\nposługiwać się magią leczniczą...」"
+                                "「Słyszałam, że \\n[1]-san bierze udział w walce... Jeśli\n pozwolisz, pragnę dołożyć swoją siłę. Potrafię\nposługiwać się magią leczniczą...」"
                             ]
                         },
                         {
@@ -11903,7 +11903,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Więc... jeśli chodzi o... ofiarowanie dusz... to z\n\\n[1]-san... ... N-nic, już nic...」"
+                                "「Więc... jeśli chodzi o... ofiarowanie dusz... to z\n \\n[1]-san... ... N-nic, już nic...」"
                             ]
                         },
                         {
@@ -11943,7 +11943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Witaj z powrotem, \\n[1]-san. Nie przemęczasz się?\nMożesz trochę odpocząć.」"
+                                "「Witaj z powrotem, \\n[1]-san. Nie przemęczasz się?\n Możesz trochę odpocząć.」"
                             ]
                         },
                         {
@@ -12072,7 +12072,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Piękno Boga przewyższa blask słońca, a Jego mądrość\nwłada całym stworzeniem.」"
+                                "「Piękno Boga przewyższa blask słońca, a Jego mądrość\n włada całym stworzeniem.」"
                             ]
                         },
                         {
@@ -12608,7 +12608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ahahaha! Żartuję. Ojou-sama i Ox są starymi,\nnierozłącznymi znajomymi. Nie mogę przecież prosić o to\nkogoś obcego.」"
+                                "「Ahahaha! Żartuję. Ojou-sama i Ox są starymi,\n nierozłącznymi znajomymi. Nie mogę przecież prosić o to\nkogoś obcego.」"
                             ]
                         },
                         {
@@ -12947,7 +12947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Jestem Elizabeth. Zabłądziłam i trafiłam w to\nmiejsce.」"
+                                "「Jestem Elizabeth. Zabłądziłam i trafiłam w to\n miejsce.」"
                             ]
                         },
                         {
@@ -12964,7 +12964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Lecz takie doświadczenie jest niczym ujrzenie\nniebieskiego księżyca. Myślę, że pozostanę tu przez\njakiś czas.」"
+                                "「Lecz takie doświadczenie jest niczym ujrzenie\n niebieskiego księżyca. Myślę, że pozostanę tu przez\njakiś czas.」"
                             ]
                         },
                         {
@@ -12988,7 +12988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「A tak, kolekcjonuję rozmaite Dusze. Jeśli zechcesz,\nmogę ci je sprzedać.」"
+                                "「A tak, kolekcjonuję rozmaite Dusze. Jeśli zechcesz,\n mogę ci je sprzedać.」"
                             ]
                         },
                         {
@@ -13005,7 +13005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Oczywiście, pod warunkiem, że masz Dusze o\nodpowiedniej wartości. Ho ho ho...」"
+                                "「Oczywiście, pod warunkiem, że masz Dusze o\n odpowiedniej wartości. Ho ho ho...」"
                             ]
                         },
                         {
@@ -13607,7 +13607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Och… Dziękuję za wcześniejsze poszukiwanie\npierścionka.」"
+                                "「Och… Dziękuję za wcześniejsze poszukiwanie\n pierścionka.」"
                             ]
                         },
                         {
@@ -13624,7 +13624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Chciałabym koniecznie się odwdzięczyć, ale… Nie mogłam\nnic wymyślić. Dlatego wystarczy coś, co pan lubi.」"
+                                "「Chciałabym koniecznie się odwdzięczyć, ale… Nie mogłam\n nic wymyślić. Dlatego wystarczy coś, co pan lubi.」"
                             ]
                         },
                         {
@@ -13903,7 +13903,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Och… Jaki pan bezinteresowny. Nie żeby mi się to nie\npodobało… Wręcz przeciwnie, lubię to. ♪」"
+                                "「Och… Jaki pan bezinteresowny. Nie żeby mi się to nie\n podobało… Wręcz przeciwnie, lubię to. ♪」"
                             ]
                         },
                         {
@@ -13920,7 +13920,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Ale nie okazanie wdzięczności splamiłoby mój honor.\nCóż więc zrobić…」"
+                                "「Ale nie okazanie wdzięczności splamiłoby mój honor.\n Cóż więc zrobić…」"
                             ]
                         },
                         {
@@ -13946,7 +13946,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Otóż to! Jestem pewna swoich umiejętności magicznych.\nNiech mi pan pozwoli pomagać w walce.」"
+                                "「Otóż to! Jestem pewna swoich umiejętności magicznych.\n Niech mi pan pozwoli pomagać w walce.」"
                             ]
                         },
                         {
@@ -13963,7 +13963,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「I ja mogłam ujrzeć piękną duszę, więc to z korzyścią\ndla obu stron. ♪」"
+                                "「I ja mogłam ujrzeć piękną duszę, więc to z korzyścią\n dla obu stron. ♪」"
                             ]
                         },
                         {
@@ -14144,7 +14144,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "「Nie, to niemożliwe... To na pewno tylko ktoś bardzo\npodobny...」"
+                                "「Nie, to niemożliwe... To na pewno tylko ktoś bardzo\n podobny...」"
                             ]
                         },
                         {
@@ -14231,7 +14231,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Ale jest jedna brzydka i głupia córka. Nie powinnam\nbyła jej rodzić.」"
+                                "「Ale jest jedna brzydka i głupia córka. Nie powinnam\n była jej rodzić.」"
                             ]
                         },
                         {
@@ -14809,7 +14809,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "「Nie, to niemożliwe……. Na pewno tylko bardzo\nprzypomina……」"
+                                "「Nie, to niemożliwe……. Na pewno tylko bardzo\n przypomina……」"
                             ]
                         },
                         {
@@ -14896,7 +14896,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Ale jest jedna brzydka i głupia córka. Nie powinnam\nbyła jej rodzić.」"
+                                "「Ale jest jedna brzydka i głupia córka. Nie powinnam\n była jej rodzić.」"
                             ]
                         },
                         {
@@ -15082,7 +15082,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Spodobało ci się? Tobie mogę pokazać ile tylko\nzechcesz.」"
+                                "「Spodobało ci się? Tobie mogę pokazać ile tylko\n zechcesz.」"
                             ]
                         },
                         {
@@ -15112,7 +15112,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「To nie wypada. Proszę wziąć pod uwagę nastrój\nmiejsca.」"
+                                "「To nie wypada. Proszę wziąć pod uwagę nastrój\n miejsca.」"
                             ]
                         },
                         {
@@ -15413,7 +15413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Królowa, rycerze i ludzie byli prości, biedni, ale\nsilni, i biło od nich suchym, serdecznym ciepłem」"
+                                "「Królowa, rycerze i ludzie byli prości, biedni, ale\n silni, i biło od nich suchym, serdecznym ciepłem」"
                             ]
                         },
                         {
@@ -15437,7 +15437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Studiowałem w wielu rozwiniętych krajach na południu,\nale wciąż nie znam kraju bardziej urzekającego niż Lost\nEmpire」"
+                                "「Studiowałem w wielu rozwiniętych krajach na południu,\n ale wciąż nie znam kraju bardziej urzekającego niż Lost\nEmpire」"
                             ]
                         },
                         {
@@ -15485,7 +15485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「W żaden sposób nie mogę uwierzyć, że moja matka tego\nchciała...」"
+                                "「W żaden sposób nie mogę uwierzyć, że moja matka tego\n chciała...」"
                             ]
                         },
                         {
@@ -15985,7 +15985,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「To lekarstwo może i działa na innych, ale na mnie nie\ndziała.」"
+                                "「To lekarstwo może i działa na innych, ale na mnie nie\n działa.」"
                             ]
                         },
                         {
@@ -16052,7 +16052,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Ufufu, \\n[1], aleś zabawny! Ona jeszcze nie umarła, wiesz?\nPrzecież mgła jeszcze nie opadła.」"
+                                "「Ufufu, \\n[1], aleś zabawny! Ona jeszcze nie umarła, wiesz?\n Przecież mgła jeszcze nie opadła.」"
                             ]
                         },
                         {
@@ -16100,7 +16100,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Inne wróżki potrafią być wredne, ale nie przejmuj się\nnimi. Jeśli \\n[1] będzie gnębiony, to wyrwę\nim skrzydełka!」"
+                                "「Inne wróżki potrafią być wredne, ale nie przejmuj się\n nimi. Jeśli \\n[1] będzie gnębiony, to wyrwę\nim skrzydełka!」"
                             ]
                         },
                         {
@@ -16202,7 +16202,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「To lekarstwo może i działa na innych, ale na mnie nie\ndziała.」"
+                                "「To lekarstwo może i działa na innych, ale na mnie nie\n działa.」"
                             ]
                         },
                         {
@@ -16269,7 +16269,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Inne wróżki potrafią być wredne, ale nie przejmuj się\nnimi. Jeśli \\n[1] będzie gnębiony, to wyrwę\nim skrzydełka!」"
+                                "「Inne wróżki potrafią być wredne, ale nie przejmuj się\n nimi. Jeśli \\n[1] będzie gnębiony, to wyrwę\nim skrzydełka!」"
                             ]
                         },
                         {
@@ -16376,7 +16376,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Hmm? Co się stało, \\n[1]? Tak bardzo wpatrujesz się w\nmoją twarz...」"
+                                "「Hmm? Co się stało, \\n[1]? Tak bardzo wpatrujesz się w\n moją twarz...」"
                             ]
                         },
                         {
@@ -16520,7 +16520,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「Ten lek może działać na innych, ale na mnie nie\ndziała, wiesz!」"
+                                "「Ten lek może działać na innych, ale na mnie nie\n działa, wiesz!」"
                             ]
                         },
                         {
@@ -16587,7 +16587,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Ufufu, \\n[1] ale jesteś zabawny! Ona przecież jeszcze\nnie umarła, mgła się jeszcze nie rozwiała.」"
+                                "「Ufufu, \\n[1] ale jesteś zabawny! Ona przecież jeszcze\n nie umarła, mgła się jeszcze nie rozwiała.」"
                             ]
                         },
                         {
@@ -16635,7 +16635,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Inne wróżki bywają wredne, ale nie przejmuj się. Jeśli\n\\n[1] będą ci dokuczać, ja je upomnę!」"
+                                "「Inne wróżki bywają wredne, ale nie przejmuj się. Jeśli\n \\n[1] będą ci dokuczać, ja je upomnę!」"
                             ]
                         },
                         {
@@ -16737,7 +16737,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「Ten lek może działać na innych, ale na mnie nie\ndziała, wiesz!」"
+                                "「Ten lek może działać na innych, ale na mnie nie\n działa, wiesz!」"
                             ]
                         },
                         {
@@ -16804,7 +16804,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Inne wróżki bywają wredne, ale nie przejmuj się. Jeśli\n\\n[1] będą ci dokuczać, ja je upomnę!」"
+                                "「Inne wróżki bywają wredne, ale nie przejmuj się. Jeśli\n \\n[1] będą ci dokuczać, ja je upomnę!」"
                             ]
                         },
                         {
@@ -16920,7 +16920,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Dawno tu nie byłem... Ale te wstrętne wróżki dalej są\nirytujące.」"
+                                "「Dawno tu nie byłem... Ale te wstrętne wróżki dalej są\n irytujące.」"
                             ]
                         },
                         {
@@ -17585,7 +17585,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Katarina-sama właśnie się obudziła. Gdy pójdziesz się\nprzywitać, postaraj się nie okazać braku szacunku...」"
+                                "「Katarina-sama właśnie się obudziła. Gdy pójdziesz się\n przywitać, postaraj się nie okazać braku szacunku...」"
                             ]
                         },
                         {
@@ -17602,7 +17602,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Katarina-sama, choć pochodzi z zacnego rodu, jest\nnaprawdę nieskalaną Świętą.」"
+                                "「Katarina-sama, choć pochodzi z zacnego rodu, jest\n naprawdę nieskalaną Świętą.」"
                             ]
                         },
                         {
@@ -17619,7 +17619,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Dlatego... *ekhem*. Proszę wziąć odpowiedzialność...\nza różne sprawy.」"
+                                "「Dlatego... *ekhem*. Proszę wziąć odpowiedzialność...\n za różne sprawy.」"
                             ]
                         },
                         {
@@ -17709,7 +17709,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Gdy pierwszy raz przybyłam do tego kraju, odwiedziłam\nwłaśnie tę krainę wróżek.」"
+                                "「Gdy pierwszy raz przybyłam do tego kraju, odwiedziłam\n właśnie tę krainę wróżek.」"
                             ]
                         },
                         {
@@ -17726,7 +17726,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Mówi się, że tylko ludzie, którzy stracili swoje\nmiejsce, mogą odwiedzić ten Święty Las... Czy ja też do\nnich należę...?」"
+                                "「Mówi się, że tylko ludzie, którzy stracili swoje\n miejsce, mogą odwiedzić ten Święty Las... Czy ja też do\nnich należę...?」"
                             ]
                         },
                         {
@@ -17750,7 +17750,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「A tak w ogóle, ta wróżka, Leaf... Wydaje mi się, że\nnie widziałam jej, gdy przyszłam tu po raz pierwszy...\nA może tylko się ukrywała...?」"
+                                "「A tak w ogóle, ta wróżka, Leaf... Wydaje mi się, że\n nie widziałam jej, gdy przyszłam tu po raz pierwszy...\nA może tylko się ukrywała...?」"
                             ]
                         },
                         {
@@ -17981,7 +17981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Sama poradzę sobie z wyprawą do Zaginionego Imperium. Dziękuję\nza wszystko do tej pory.」"
+                                "「Sama poradzę sobie z wyprawą do Zaginionego Imperium. Dziękuję\n za wszystko do tej pory.」"
                             ]
                         },
                         {
@@ -18570,7 +18570,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Gdy tylko zdała sobie sprawę, kim jestem, posypały się\nwyzwiska. Po prostu wyszła ze Świętego Lasu.」"
+                                "「Gdy tylko zdała sobie sprawę, kim jestem, posypały się\n wyzwiska. Po prostu wyszła ze Świętego Lasu.」"
                             ]
                         },
                         {
@@ -18701,7 +18701,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「Hej, co mam robić? Spotkać się z nią i porozmawiać,\nczy udawać, że nic nie wiem?」"
+                                "「Hej, co mam robić? Spotkać się z nią i porozmawiać,\n czy udawać, że nic nie wiem?」"
                             ]
                         },
                         {
@@ -18790,7 +18790,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "「Tak... Gdy tylko się zorientuje, że to ja, z pewnością\nspróbuje mnie zabić.」"
+                                "「Tak... Gdy tylko się zorientuje, że to ja, z pewnością\n spróbuje mnie zabić.」"
                             ]
                         },
                         {
@@ -18918,7 +18918,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「... Czy mogłabyś przynajmniej zrobić to, gdy nie ma\nprzy mnie Poro?」"
+                                "「... Czy mogłabyś przynajmniej zrobić to, gdy nie ma\n przy mnie Poro?」"
                             ]
                         },
                         {

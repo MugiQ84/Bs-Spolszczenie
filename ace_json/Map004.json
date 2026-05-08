@@ -592,7 +592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Mroczny Trybunał to zgromadzenie egzekutorów, którzy\nwymierzają kary grzesznikom. Niewinnym nie wyrządzają\nkrzywdy, lecz ich bezmierne okrucieństwo przyprawia o\nmdłości.」"
+                                "「Mroczny Trybunał to zgromadzenie egzekutorów, którzy\n wymierzają kary grzesznikom. Niewinnym nie wyrządzają\nkrzywdy, lecz ich bezmierne okrucieństwo przyprawia o\nmdłości.」"
                             ]
                         },
                         {
@@ -616,7 +616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Jeśli życie jest ci drogie, pozostań prawym\nczłowiekiem.」"
+                                "「Jeśli życie jest ci drogie, pozostań prawym\n człowiekiem.」"
                             ]
                         },
                         {
@@ -1290,7 +1290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Dalej jest niebezpiecznie! Może lepiej nie iść za\ndaleko~?」"
+                                "「Dalej jest niebezpiecznie! Może lepiej nie iść za\n daleko~?」"
                             ]
                         },
                         {

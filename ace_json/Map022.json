@@ -457,7 +457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「\\n[1]? Więc to twoje imię, braciszku! Jestem Jaś!\nZostańmy przyjaciółmi!」"
+                                "「\\n[1]? Więc to twoje imię, braciszku! Jestem Jaś!\n Zostańmy przyjaciółmi!」"
                             ]
                         },
                         {
@@ -502,7 +502,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Ach, tak się cieszę...! Byliśmy tylko ja i moja\nmłodsza siostra, więc cieszę się, że mam więcej\nprzyjaciół!」"
+                                "「Ach, tak się cieszę...! Byliśmy tylko ja i moja\n młodsza siostra, więc cieszę się, że mam więcej\nprzyjaciół!」"
                             ]
                         },
                         {
@@ -532,7 +532,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「A, e... prawda... Nie chcesz się przyjaźnić z kimś\ntakim jak ja... Tak, to prawda...」"
+                                "「A, e... prawda... Nie chcesz się przyjaźnić z kimś\n takim jak ja... Tak, to prawda...」"
                             ]
                         },
                         {
@@ -2304,7 +2304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Cukierki? Dałem je Małgosi! Ja nie potrzebuję... Bo\nnie jestem głodny...」"
+                                "「Cukierki? Dałem je Małgosi! Ja nie potrzebuję... Bo\n nie jestem głodny...」"
                             ]
                         },
                         {
@@ -3346,7 +3346,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Nawet gdy prawie porzuciła nas mama, nawet gdy\nuciekliśmy... zawsze razem.」"
+                                "「Nawet gdy prawie porzuciła nas mama, nawet gdy\n uciekliśmy... zawsze razem.」"
                             ]
                         },
                         {
@@ -3929,7 +3929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Tak, na pewno wrócimy do domu! Wiedźma jest miła,\nzostańmy tu na jakiś czas! Prawda, Małgosiu?」"
+                                "「Tak, na pewno wrócimy do domu! Wiedźma jest miła,\n zostańmy tu na jakiś czas! Prawda, Małgosiu?」"
                             ]
                         },
                         {
@@ -4284,7 +4284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ten dom z piernika jest naprawdę pyszny, Małgosiu!!\nZamknęliśmy też złą czarownicę, więc jesteśmy\nszczęściarzami!!」"
+                                "「Ten dom z piernika jest naprawdę pyszny, Małgosiu!!\n Zamknęliśmy też złą czarownicę, więc jesteśmy\nszczęściarzami!!」"
                             ]
                         },
                         {
@@ -4308,7 +4308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Absolutnie nie możemy o tym powiedzieć matce, która\nnas porzuciła, co nie!!」"
+                                "「Absolutnie nie możemy o tym powiedzieć matce, która\n nas porzuciła, co nie!!」"
                             ]
                         },
                         {
@@ -4445,7 +4445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Kim ty jesteś...? Wchodzisz do naszego domu bez\npozwolenia...」"
+                                "「Kim ty jesteś...? Wchodzisz do naszego domu bez\n pozwolenia...」"
                             ]
                         },
                         {
@@ -4627,7 +4627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Aaaa!! Może to deser po posiłku!! Jakiś ty\ntroskliwy!!」"
+                                "「Aaaa!! Może to deser po posiłku!! Jakiś ty\n troskliwy!!」"
                             ]
                         },
                         {
@@ -5610,7 +5610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ten dom z piernika jest naprawdę pyszny, Małgosiu!!\nZamknęliśmy też złą czarownicę, więc jesteśmy\nszczęściarzami!!」"
+                                "「Ten dom z piernika jest naprawdę pyszny, Małgosiu!!\n Zamknęliśmy też złą czarownicę, więc jesteśmy\nszczęściarzami!!」"
                             ]
                         },
                         {
@@ -5634,7 +5634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Absolutnie nie możemy o tym powiedzieć matce, która\nnas porzuciła, co nie!!」"
+                                "「Absolutnie nie możemy o tym powiedzieć matce, która\n nas porzuciła, co nie!!」"
                             ]
                         },
                         {
@@ -5771,7 +5771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Kim ty jesteś...? Wchodzisz do naszego domu bez\npozwolenia...」"
+                                "「Kim ty jesteś...? Wchodzisz do naszego domu bez\n pozwolenia...」"
                             ]
                         },
                         {
@@ -5953,7 +5953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Aaaa!! Może to deser po posiłku!! Jakiś ty\ntroskliwy!!」"
+                                "「Aaaa!! Może to deser po posiłku!! Jakiś ty\n troskliwy!!」"
                             ]
                         },
                         {
@@ -7572,7 +7572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Przepraszam, że musieliście cierpieć! Ale skoro już tu\njestem, wasz starszy brat, możecie być spokojni. Zaraz\ndam wam Dusze!」"
+                                "「Przepraszam, że musieliście cierpieć! Ale skoro już tu\n jestem, wasz starszy brat, możecie być spokojni. Zaraz\ndam wam Dusze!」"
                             ]
                         },
                         {
@@ -7664,7 +7664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Tak... Jesteśmy tylko we dwoje, brat i siostra... To\ncała nasza rodzina.」"
+                                "「Tak... Jesteśmy tylko we dwoje, brat i siostra... To\n cała nasza rodzina.」"
                             ]
                         },
                         {
@@ -7721,7 +7721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Jasiu... Małgosiu... Wy już zamieniliście się w\npotwory! Więc ja...! Teraz was uratuję!」"
+                                "「Jasiu... Małgosiu... Wy już zamieniliście się w\n potwory! Więc ja...! Teraz was uratuję!」"
                             ]
                         },
                         {
@@ -7928,7 +7928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「\\n[1], braciszku... Chyba już po nas... Brakuje Dusz i\njeśli tak dalej pójdzie, zamienimy się w potwory...」"
+                                "「\\n[1], braciszku... Chyba już po nas... Brakuje Dusz i\n jeśli tak dalej pójdzie, zamienimy się w potwory...」"
                             ]
                         },
                         {
@@ -8082,7 +8082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Chichot... Co ty wygadujesz? Drogi bracie Jasiu,\njesteś chłopcem, więc nie możesz przyjmować dusz.」"
+                                "「Chichot... Co ty wygadujesz? Drogi bracie Jasiu,\n jesteś chłopcem, więc nie możesz przyjmować dusz.」"
                             ]
                         },
                         {
@@ -8148,7 +8148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ofiarowanie Dusz to rytuał przeprowadzany przez parę\nmężczyzny i kobiety. Jest najbardziej wydajny i ułatwia\nwchłanianie Dusz przez ciało.」"
+                                "「Ofiarowanie Dusz to rytuał przeprowadzany przez parę\n mężczyzny i kobiety. Jest najbardziej wydajny i ułatwia\nwchłanianie Dusz przez ciało.」"
                             ]
                         },
                         {
@@ -8165,7 +8165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Nawet tego nie wiesz... Drogi bracie, jesteś naprawdę\nignorantem i głupcem... Chichot.」"
+                                "「Nawet tego nie wiesz... Drogi bracie, jesteś naprawdę\n ignorantem i głupcem... Chichot.」"
                             ]
                         },
                         {
@@ -8438,7 +8438,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Hmph, nie obchodzi mnie to. Nie potrzebuję brata,\nktóry jest nieudacznikiem, bezużytecznym i\nzniewieściałym.」"
+                                "「Hmph, nie obchodzi mnie to. Nie potrzebuję brata,\n który jest nieudacznikiem, bezużytecznym i\nzniewieściałym.」"
                             ]
                         },
                         {
@@ -8668,7 +8668,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「...Może trochę przesadziłam? Ale to już nie ma\nznaczenia, prawda, \\n[1], drogi bracie? ♪」"
+                                "「...Może trochę przesadziłam? Ale to już nie ma\n znaczenia, prawda, \\n[1], drogi bracie? ♪」"
                             ]
                         },
                         {
@@ -8958,7 +8958,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Ach, aaach...! To niemożliwe... niemożliwe... Dlaczego\nw ogóle urodziłam się jako dziewczynka...!?」"
+                                "「Ach, aaach...! To niemożliwe... niemożliwe... Dlaczego\n w ogóle urodziłam się jako dziewczynka...!?」"
                             ]
                         },
                         {
@@ -10700,7 +10700,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "「Hmm... Wygląda na bajkę dla dzieci, ale to księga\nmagii przywoływania. Nawet ja nie potrafię rzucić tego\nzaklęcia.」"
+                                "「Hmm... Wygląda na bajkę dla dzieci, ale to księga\n magii przywoływania. Nawet ja nie potrafię rzucić tego\nzaklęcia.」"
                             ]
                         },
                         {
@@ -10717,7 +10717,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "「\\c[2]Przywołana istota po pokonaniu wraca do tej księgi.\\c[0]\nNigdy nie słyszałem, żeby traktować magiczną bestię\njako przywołańca...」"
+                                "「\\c[2]Przywołana istota po pokonaniu wraca do tej księgi.\\c[0]\n Nigdy nie słyszałem, żeby traktować magiczną bestię\njako przywołańca...」"
                             ]
                         },
                         {
@@ -10734,7 +10734,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "「Tak czy inaczej, przywoływacz to nędzna kreatura. To\npewnie Mroczna Księżniczka lub ktoś taki.」"
+                                "「Tak czy inaczej, przywoływacz to nędzna kreatura. To\n pewnie Mroczna Księżniczka lub ktoś taki.」"
                             ]
                         },
                         {
@@ -10795,7 +10795,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "「Hmm, tak... Poczułem z tej książki nieznaną moc\nmagiczną... Ale to twoja własność, nic nie powiem.」"
+                                "「Hmm, tak... Poczułem z tej książki nieznaną moc\n magiczną... Ale to twoja własność, nic nie powiem.」"
                             ]
                         },
                         {
@@ -10909,7 +10909,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「...Jeśli się przyjrzeć, jesteś nieumarły. Myślałem, że\nwyginęliście podczas dawnych Porowań na Nieumarłych.」"
+                                "「...Jeśli się przyjrzeć, jesteś nieumarły. Myślałem, że\n wyginęliście podczas dawnych Porowań na Nieumarłych.」"
                             ]
                         },
                         {
@@ -10926,7 +10926,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Nie wiem, po co ci do tego Mrocznego Zamku, ale lepiej\ntam nie idź. Zostaniesz złapany i staniesz się tylko\nzabawką \\c[2]Mrocznej Księżniczki\\c[0].」"
+                                "「Nie wiem, po co ci do tego Mrocznego Zamku, ale lepiej\n tam nie idź. Zostaniesz złapany i staniesz się tylko\nzabawką \\c[2]Mrocznej Księżniczki\\c[0].」"
                             ]
                         },
                         {
@@ -10952,7 +10952,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Cóż, nie będę cię powstrzymywał. Jeśli chcesz iść, to\nidź.」"
+                                "「Cóż, nie będę cię powstrzymywał. Jeśli chcesz iść, to\n idź.」"
                             ]
                         },
                         {
@@ -11572,7 +11572,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「No cóż, niech będzie... Wydajesz się mieć moc\nmagiczną, więc nauczę cię osobiście.」"
+                                "「No cóż, niech będzie... Wydajesz się mieć moc\n magiczną, więc nauczę cię osobiście.」"
                             ]
                         },
                         {
@@ -11589,7 +11589,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Ale zamierzam cię zagonić na śmierć. Bądź gotowy.\nHehe...」"
+                                "「Ale zamierzam cię zagonić na śmierć. Bądź gotowy.\n Hehe...」"
                             ]
                         },
                         {
@@ -11654,7 +11654,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Przykro mi, ale nie ma sensu brać na ucznia kogoś bez\ntalentu do magii. Wróć, jak się podszkolisz.」"
+                                "「Przykro mi, ale nie ma sensu brać na ucznia kogoś bez\n talentu do magii. Wróć, jak się podszkolisz.」"
                             ]
                         },
                         {
@@ -12080,7 +12080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Hej, głupi uczniu, zamiast tak stać, może byś\nposprzątał?」"
+                                "「Hej, głupi uczniu, zamiast tak stać, może byś\n posprzątał?」"
                             ]
                         },
                         {
@@ -12127,7 +12127,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Chcę, żebyś zabił pewne magiczne bestie. \\c[2]Strach na\nWróble, Blaszany i Lew\\c[0] -te trzy.」"
+                                "「Chcę, żebyś zabił pewne magiczne bestie. \\c[2]Strach na\n Wróble, Blaszany i Lew\\c[0] -te trzy.」"
                             ]
                         },
                         {
@@ -12144,7 +12144,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Zapytasz gdzie? Nie wiem. Znalezienie ich to twoje\nzadanie.」"
+                                "「Zapytasz gdzie? Nie wiem. Znalezienie ich to twoje\n zadanie.」"
                             ]
                         },
                         {
@@ -12161,7 +12161,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Cóż, niespodziewanie pewnie są tuż obok... Ja te\ndranie... nie, nic, nieważne...」"
+                                "「Cóż, niespodziewanie pewnie są tuż obok... Ja te\n dranie... nie, nic, nieważne...」"
                             ]
                         },
                         {
@@ -12188,7 +12188,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Trening, co? Jest ciężki, ale dasz radę? No tak, dasz\nradę.」"
+                                "「Trening, co? Jest ciężki, ale dasz radę? No tak, dasz\n radę.」"
                             ]
                         },
                         {
@@ -12205,7 +12205,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Chcę, żebyś zabił pewne magiczne bestie. \\c[2]Strach na\nWróble, Blaszany i Lew\\c[0] -te trzy.」"
+                                "「Chcę, żebyś zabił pewne magiczne bestie. \\c[2]Strach na\n Wróble, Blaszany i Lew\\c[0] -te trzy.」"
                             ]
                         },
                         {
@@ -12222,7 +12222,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Zapytasz gdzie? Nie wiem. Znalezienie ich to twoje\nzadanie.」"
+                                "「Zapytasz gdzie? Nie wiem. Znalezienie ich to twoje\n zadanie.」"
                             ]
                         },
                         {
@@ -12239,7 +12239,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Cóż, niespodziewanie pewnie są tuż obok... Ja te\ndranie... nie, nic, nieważne...」"
+                                "「Cóż, niespodziewanie pewnie są tuż obok... Ja te\n dranie... nie, nic, nieważne...」"
                             ]
                         },
                         {
@@ -14072,7 +14072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Miau miau, w zbroi było strasznie ciasno, ale było tam\ncoś ciepłego, miau.」"
+                                "「Miau miau, w zbroi było strasznie ciasno, ale było tam\n coś ciepłego, miau.」"
                             ]
                         },
                         {
@@ -14446,7 +14446,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「Hej, hej, heeej! Nie wpraszaj się do cudzego domu bez\npozwolenia!」"
+                                "「Hej, hej, heeej! Nie wpraszaj się do cudzego domu bez\n pozwolenia!」"
                             ]
                         },
                         {
@@ -14470,7 +14470,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「Miau, przepraszam. Ale my nie mamy gdzie mieszkać,\nmiau. Dopóki nie znajdziemy nowego domu, pozwólcie nam\ntu zostać, miau.」"
+                                "「Miau, przepraszam. Ale my nie mamy gdzie mieszkać,\n miau. Dopóki nie znajdziemy nowego domu, pozwólcie nam\ntu zostać, miau.」"
                             ]
                         },
                         {
@@ -15356,7 +15356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Zbroja Nyan Nyan też chciała zostać rycerzem nyan,\nwięc razem z nami została rycerzem nyan」"
+                                "「Zbroja Nyan Nyan też chciała zostać rycerzem nyan,\n więc razem z nami została rycerzem nyan」"
                             ]
                         },
                         {
@@ -15380,7 +15380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Zbroja nas wkłada, my wkładamy zbroję i staliśmy się\nnajsilniejszym rycerzem nyan」"
+                                "「Zbroja nas wkłada, my wkładamy zbroję i staliśmy się\n najsilniejszym rycerzem nyan」"
                             ]
                         },
                         {
@@ -16552,7 +16552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Głupi, nierozsądny i niezdarny braciszku... Gdybyś nie\nwyrzucił ostatniego chleba na ulicę, nie byłbyś\ngłodny.」"
+                                "「Głupi, nierozsądny i niezdarny braciszku... Gdybyś nie\n wyrzucił ostatniego chleba na ulicę, nie byłbyś\ngłodny.」"
                             ]
                         },
                         {
@@ -17382,7 +17382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Hihi... Kocham cię, \\n[1], mój silny i dzielny\nonii-sama! ♪」"
+                                "「Hihi... Kocham cię, \\n[1], mój silny i dzielny\n onii-sama! ♪」"
                             ]
                         },
                         {
@@ -17603,7 +17603,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Hänsel? Zostaw go. Ach, ale jeśli stanie się magiczną\nbestią, proszę, zabij go, onii-sama.」"
+                                "「Hänsel? Zostaw go. Ach, ale jeśli stanie się magiczną\n bestią, proszę, zabij go, onii-sama.」"
                             ]
                         },
                         {
@@ -17716,7 +17716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Jasiu-onii-sama, szkoda, że nie jesteś trochę\nbardziej niezawodny... Może to jednak ja byłam zbyt\nsamolubna......」"
+                                "「Jasiu-onii-sama, szkoda, że nie jesteś trochę\n bardziej niezawodny... Może to jednak ja byłam zbyt\nsamolubna......」"
                             ]
                         },
                         {
@@ -19397,7 +19397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Hehe... Silny i krzepki Onii-sama \\n[1], uwielbiam cię\n♪」"
+                                "「Hehe... Silny i krzepki Onii-sama \\n[1], uwielbiam cię\n ♪」"
                             ]
                         },
                         {

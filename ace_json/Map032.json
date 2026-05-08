@@ -160,7 +160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Zaskoczyłeś mnie... Myślałam, że to jakaś obca kobieta\nweszła. Ale skoro jesteś mężczyzną, to nic nie szkodzi,\nprawda...?」"
+                                "「Zaskoczyłeś mnie... Myślałam, że to jakaś obca kobieta\n weszła. Ale skoro jesteś mężczyzną, to nic nie szkodzi,\nprawda...?」"
                             ]
                         },
                         {
@@ -177,7 +177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ach... Jestem Elma. A ty……… Rozumiem, nazywasz się\n\\n[1].」"
+                                "「Ach... Jestem Elma. A ty……… Rozumiem, nazywasz się\n \\n[1].」"
                             ]
                         },
                         {
@@ -326,7 +326,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Tata pokłócił się z mamą i odszedł... Erma tak bardzo\nlubiła opowieści taty o jego interesach.」"
+                                "「Tata pokłócił się z mamą i odszedł... Erma tak bardzo\n lubiła opowieści taty o jego interesach.」"
                             ]
                         },
                         {
