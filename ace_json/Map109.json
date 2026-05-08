@@ -304,7 +304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"To miejsce... nie jest zbytnio zniszczone, co?\""
+                                "「To miejsce... nie jest zbytnio zniszczone, co?」"
                             ]
                         },
                         {
@@ -321,7 +321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Czy tam dalej jest Mary Sue?\""
+                                "「Czy tam dalej jest Mary Sue?」"
                             ]
                         },
                         {

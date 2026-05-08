@@ -514,7 +514,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Wybacz... Zostaw mnie samego na chwilę...\""
+                                "「Wybacz... Zostaw mnie samego na chwilę...」"
                             ]
                         },
                         {
@@ -591,7 +591,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\"Ach...\""
+                                "「Ach...」"
                             ]
                         },
                         {
@@ -608,7 +608,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\"Ach, co to ma być...? Nawet jeśli to robisz, wcale mi\nnie pomoże...\""
+                                "「Ach, co to ma być...? Nawet jeśli to robisz, wcale mi\nnie pomoże...」"
                             ]
                         },
                         {
@@ -625,7 +625,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\"Dziękuję ci, \\n[1].\""
+                                "「Dziękuję ci, \\n[1].」"
                             ]
                         },
                         {
@@ -704,7 +704,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Hmm... Hej, głupi uczniu. Dobrze trafiłeś.\""
+                                "「Hmm... Hej, głupi uczniu. Dobrze trafiłeś.」"
                             ]
                         },
                         {
@@ -721,7 +721,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Co robię? Jak widzisz, odwiedzam grób. Mojego\nnajlepszego przyjaciela i wiernego psa... Toto.\""
+                                "「Co robię? Jak widzisz, odwiedzam grób. Mojego\nnajlepszego przyjaciela i wiernego psa... Toto.」"
                             ]
                         },
                         {
@@ -770,7 +770,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"To były wesołe czasy... Z trójką uczniów i tym łobuzem\nprzemierzaliśmy najróżniejsze miejsca. Nawet teraz, gdy\nzamykam oczy, widzę tamte krajobrazy...\""
+                                "「To były wesołe czasy... Z trójką uczniów i tym łobuzem\nprzemierzaliśmy najróżniejsze miejsca. Nawet teraz, gdy\nzamykam oczy, widzę tamte krajobrazy...」"
                             ]
                         },
                         {
@@ -796,7 +796,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Dlaczego...? Nie mogę sobie przypomnieć twarzy\nToto...\""
+                                "「Dlaczego...? Nie mogę sobie przypomnieć twarzy\nToto...」"
                             ]
                         },
                         {
@@ -813,7 +813,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Haha... Czyżby i mnie w końcu dopadła mgła? Zapomnieć\nwygląd psa, którego tak kochałem...\""
+                                "「Haha... Czyżby i mnie w końcu dopadła mgła? Zapomnieć\nwygląd psa, którego tak kochałem...」"
                             ]
                         },
                         {
@@ -900,7 +900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"……Dziękuję ci, \\n[1]\""
+                                "「……Dziękuję ci, \\n[1]」"
                             ]
                         },
                         {

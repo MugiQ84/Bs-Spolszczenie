@@ -467,7 +467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"U...!? J-jakim cudem to odkryłeś...?\""
+                                "「U...!? J-jakim cudem to odkryłeś...?」"
                             ]
                         },
                         {
@@ -503,7 +503,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"...Uu...\""
+                                "「...Uu...」"
                             ]
                         },
                         {
@@ -533,7 +533,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"N-no, przecież to nie kradzież... Nie bądź taki. ...\""
+                                "「N-no, przecież to nie kradzież... Nie bądź taki. ...」"
                             ]
                         },
                         {
@@ -569,7 +569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Rozumiem... Powiem ci wszystko.\""
+                                "「Rozumiem... Powiem ci wszystko.」"
                             ]
                         },
                         {
@@ -586,7 +586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Nie jestem żadną handlarką. Za morzem nazywano mnie\nszlachetnym złodziejem.\""
+                                "「Nie jestem żadną handlarką. Za morzem nazywano mnie\nszlachetnym złodziejem.」"
                             ]
                         },
                         {
@@ -603,7 +603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Dawałam skradzione pieniądze biednym. To jest moje\npowołanie.\""
+                                "「Dawałam skradzione pieniądze biednym. To jest moje\npowołanie.」"
                             ]
                         },
                         {
@@ -620,7 +620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Przecież to niedopuszczalne, żeby przez aroganckich\nszlachciców ktoś głodował i cierpiał. To po prostu\nniesprawiedliwe.\""
+                                "「Przecież to niedopuszczalne, żeby przez aroganckich\nszlachciców ktoś głodował i cierpiał. To po prostu\nniesprawiedliwe.」"
                             ]
                         },
                         {
@@ -637,7 +637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"...Ale w tym kraju pieniądze i skarby, które zdobyłam,\nnic nie znaczą. Dusze są wszystkim. Dlatego muszę\nzebrać ich jak najwięcej.\""
+                                "「...Ale w tym kraju pieniądze i skarby, które zdobyłam,\nnic nie znaczą. Dusze są wszystkim. Dlatego muszę\nzebrać ich jak najwięcej.」"
                             ]
                         },
                         {
@@ -654,7 +654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Wielu ludzi z głodu Dusz zamienia się w magiczne\nbestie. Wiara nikogo nie uratuje. Ostatecznie bogactwo\njest wszystkim.\""
+                                "「Wielu ludzi z głodu Dusz zamienia się w magiczne\nbestie. Wiara nikogo nie uratuje. Ostatecznie bogactwo\njest wszystkim.」"
                             ]
                         },
                         {
@@ -671,7 +671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"\\n[1]-san... Przepraszam, że zabrałam twoje Dusze... Ale\nnie miałam wyboru.\""
+                                "「\\n[1]-san... Przepraszam, że zabrałam twoje Dusze... Ale\nnie miałam wyboru.」"
                             ]
                         },
                         {
@@ -688,7 +688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Proszę, wybacz mi.\""
+                                "「Proszę, wybacz mi.」"
                             ]
                         },
                         {
@@ -731,7 +731,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Dziękuję, \\n[1]-san!\""
+                                "「Dziękuję, \\n[1]-san!」"
                             ]
                         },
                         {
@@ -748,7 +748,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"...Ale z ciebie frajer, to mi uratowało skórę.\""
+                                "「...Ale z ciebie frajer, to mi uratowało skórę.」"
                             ]
                         },
                         {
@@ -805,7 +805,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"To, co powiedziałam, nie było kłamstwem. Dobrze\nwykorzystam te Dusze.\""
+                                "「To, co powiedziałam, nie było kłamstwem. Dobrze\nwykorzystam te Dusze.」"
                             ]
                         },
                         {
@@ -822,7 +822,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Pewnie już się nie spotkamy. Żegnaj, \\n[1]-san.\""
+                                "「Pewnie już się nie spotkamy. Żegnaj, \\n[1]-san.」"
                             ]
                         },
                         {
@@ -889,7 +889,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"A-a no... Rozumiem, poprawię swoje zachowanie.\""
+                                "「A-a no... Rozumiem, poprawię swoje zachowanie.」"
                             ]
                         },
                         {
@@ -906,7 +906,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Przepraszam, że próbowałam ukraść Dusze. Już więcej\ntego nie zrobię, proszę o wybaczenie.\""
+                                "「Przepraszam, że próbowałam ukraść Dusze. Już więcej\ntego nie zrobię, proszę o wybaczenie.」"
                             ]
                         },
                         {
@@ -971,7 +971,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Ach... Rozumiem! Rozumiem! Chodzi ci o moje ciało,\nprawda?\""
+                                "「Ach... Rozumiem! Rozumiem! Chodzi ci o moje ciało,\nprawda?」"
                             ]
                         },
                         {
@@ -988,7 +988,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Nie jestem aż tak tanią kobietą... Ale nie mam nic\nprzeciwko pokazaniu ci nagiego ciała...♡ J-jak ci się\nto podoba?\""
+                                "「Nie jestem aż tak tanią kobietą... Ale nie mam nic\nprzeciwko pokazaniu ci nagiego ciała...♡ J-jak ci się\nto podoba?」"
                             ]
                         },
                         {
@@ -1053,7 +1053,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\"...Co mam zrobić, żebyś mi wybaczył?\""
+                                "「...Co mam zrobić, żebyś mi wybaczył?」"
                             ]
                         },
                         {
@@ -1089,7 +1089,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\"Zostać przy tobie, \\n[1]-san... e?\""
+                                "「Zostać przy tobie, \\n[1]-san... e?」"
                             ]
                         },
                         {
@@ -1106,7 +1106,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\"C-czy to... wyznanie...?!\""
+                                "「C-czy to... wyznanie...?!」"
                             ]
                         },
                         {
@@ -1132,7 +1132,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\"O-och, więc tak było... podobam ci się... Co ja mam\nzrobić, pierwszy raz ktoś mi się oświadcza...\""
+                                "「O-och, więc tak było... podobam ci się... Co ja mam\nzrobić, pierwszy raz ktoś mi się oświadcza...」"
                             ]
                         },
                         {
@@ -1149,7 +1149,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\"Ach, ale może chodziło ci o pieniądze... Nie, w tym\nkraju tylko Dusze mają wartość... Więc to naprawdę...?\""
+                                "「Ach, ale może chodziło ci o pieniądze... Nie, w tym\nkraju tylko Dusze mają wartość... Więc to naprawdę...?」"
                             ]
                         },
                         {
@@ -1175,7 +1175,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\"Rozumiem... Jesteś całkiem przystojny, \\n[1]-san...\nJestem nieudacznicą, ale proszę, zaopiekuj się mną.\""
+                                "「Rozumiem... Jesteś całkiem przystojny, \\n[1]-san...\nJestem nieudacznicą, ale proszę, zaopiekuj się mną.」"
                             ]
                         },
                         {
@@ -1206,7 +1206,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\"Ja też... pierwszy raz kogoś pokochałam... Nie zdradź\nmnie, dobrze?\""
+                                "「Ja też... pierwszy raz kogoś pokochałam... Nie zdradź\nmnie, dobrze?」"
                             ]
                         },
                         {
@@ -1223,7 +1223,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\"No to wracam do Świętego Lasu... Przepraszam za\nzamieszanie.\""
+                                "「No to wracam do Świętego Lasu... Przepraszam za\nzamieszanie.」"
                             ]
                         },
                         {

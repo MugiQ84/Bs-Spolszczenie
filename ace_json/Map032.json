@@ -160,7 +160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Zaskoczyłeś mnie... Myślałam, że to jakaś obca kobieta\nweszła. Ale skoro jesteś mężczyzną, to nic nie szkodzi,\nprawda...?\""
+                                "「Zaskoczyłeś mnie... Myślałam, że to jakaś obca kobieta\nweszła. Ale skoro jesteś mężczyzną, to nic nie szkodzi,\nprawda...?」"
                             ]
                         },
                         {
@@ -177,7 +177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Ach... Jestem Elma. A ty……… Rozumiem, nazywasz się\n\\n[1].\""
+                                "「Ach... Jestem Elma. A ty……… Rozumiem, nazywasz się\n\\n[1].」"
                             ]
                         },
                         {
@@ -194,7 +194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Elma sprzedaje tutaj zapałki. Jeśli chcesz, to kup.\""
+                                "「Elma sprzedaje tutaj zapałki. Jeśli chcesz, to kup.」"
                             ]
                         },
                         {
@@ -271,7 +271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Ah... witaj,\\n[1]. Kupisz zapałki?\""
+                                "「Ah... witaj,\\n[1]. Kupisz zapałki?」"
                             ]
                         },
                         {
@@ -309,7 +309,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Mama pracuje w nocy, potem wraca.\""
+                                "「Mama pracuje w nocy, potem wraca.」"
                             ]
                         },
                         {
@@ -326,7 +326,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Tata pokłócił się z mamą i odszedł... Erma tak bardzo\nlubiła opowieści taty o jego interesach.\""
+                                "「Tata pokłócił się z mamą i odszedł... Erma tak bardzo\nlubiła opowieści taty o jego interesach.」"
                             ]
                         },
                         {
@@ -343,7 +343,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Teraz podobno gdzieś szuka skarbu. Oby go znalazł.\""
+                                "「Teraz podobno gdzieś szuka skarbu. Oby go znalazł.」"
                             ]
                         },
                         {
@@ -373,7 +373,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Zapraszam do oglądania~\""
+                                "「Zapraszam do oglądania~」"
                             ]
                         },
                         {
@@ -401,7 +401,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Miej różne sny.\""
+                                "「Miej różne sny.」"
                             ]
                         },
                         {
@@ -431,7 +431,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Hęę...?\""
+                                "「Hęę...?」"
                             ]
                         },
                         {
@@ -865,7 +865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Kto...?\""
+                                "「Kto...?」"
                             ]
                         },
                         {

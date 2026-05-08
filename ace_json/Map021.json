@@ -2425,7 +2425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Zamknięte drzwi? Wszystkie da się otworzyć \\C[2]kluczem\nuniwersalnym\\C[0]!\""
+                                "「Zamknięte drzwi? Wszystkie da się otworzyć \\C[2]kluczem\nuniwersalnym\\C[0]!」"
                             ]
                         },
                         {
@@ -2442,7 +2442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Możesz ich nadużywać do woli, hihi♪\""
+                                "「Możesz ich nadużywać do woli, hihi♪」"
                             ]
                         },
                         {
@@ -2577,7 +2577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Cholera... Nie dam rady... Muszę szybko podjąć\ndecyzję, bo inaczej...\""
+                                "「Cholera... Nie dam rady... Muszę szybko podjąć\ndecyzję, bo inaczej...」"
                             ]
                         },
                         {
@@ -2656,7 +2656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"C-co... kim jesteś...? Czyżby to był \\c[2]Mroczny\nTrybunał\\c[0]...!?\""
+                                "「C-co... kim jesteś...? Czyżby to był \\c[2]Mroczny\nTrybunał\\c[0]...!?」"
                             ]
                         },
                         {
@@ -2726,7 +2726,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"U-ugh... aaa... Hen, ze... gu... re......\""
+                                "「U-ugh... aaa... Hen, ze... gu... re......」"
                             ]
                         },
                         {
@@ -2841,7 +2841,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Co? To nie ty...? Lepiej trzymaj się ode mnie z\ndaleka.\""
+                                "「Co? To nie ty...? Lepiej trzymaj się ode mnie z\ndaleka.」"
                             ]
                         },
                         {
@@ -3006,7 +3006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Ty, jeszcze tu jesteś? Hmm... Czekaj, wpadłem na\nświetny pomysł.\""
+                                "「Ty, jeszcze tu jesteś? Hmm... Czekaj, wpadłem na\nświetny pomysł.」"
                             ]
                         },
                         {
@@ -3030,7 +3030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Hej, współpracuj ze mną! To nie jest zła sprawa.\""
+                                "「Hej, współpracuj ze mną! To nie jest zła sprawa.」"
                             ]
                         },
                         {
@@ -3054,7 +3054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Jaś i Małgosia, te dzieci to moja rodzina. Ty też ich\nwidziałeś, prawda? Jeśli tak dalej pójdzie, prędzej czy\npóźniej zamienią się w bestie.\""
+                                "「Jaś i Małgosia, te dzieci to moja rodzina. Ty też ich\nwidziałeś, prawda? Jeśli tak dalej pójdzie, prędzej czy\npóźniej zamienią się w bestie.」"
                             ]
                         },
                         {
@@ -3078,7 +3078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Ja też zbieram Dusze, żeby je jakoś uratować, ale, jak\nby to rzec... jestem nieprzygotowany.\""
+                                "「Ja też zbieram Dusze, żeby je jakoś uratować, ale, jak\nby to rzec... jestem nieprzygotowany.」"
                             ]
                         },
                         {
@@ -3111,7 +3111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Chcę im dać Dusze! Ale denerwuję się, nie mam...\nodwagi.\""
+                                "「Chcę im dać Dusze! Ale denerwuję się, nie mam...\nodwagi.」"
                             ]
                         },
                         {
@@ -3135,7 +3135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Rozumiesz, prawda? To... to coś... Potrzebuję\nlekarstwa. Jeśli je zdobędę, na pewno stanę się\nbohaterem.\""
+                                "「Rozumiesz, prawda? To... to coś... Potrzebuję\nlekarstwa. Jeśli je zdobędę, na pewno stanę się\nbohaterem.」"
                             ]
                         },
                         {
@@ -3159,7 +3159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"\\c[2]W mieście Plugawizna, które jest przed nami, mieszka\ndziewczyna o imieniu Elma.\\c[0] Czy mógłbyś kupić od niej to\nlekarstwo?\""
+                                "「\\c[2]W mieście Plugawizna, które jest przed nami, mieszka\ndziewczyna o imieniu Elma.\\c[0] Czy mógłbyś kupić od niej to\nlekarstwo?」"
                             ]
                         },
                         {
@@ -3183,7 +3183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Proszę, to nagroda.\""
+                                "「Proszę, to nagroda.」"
                             ]
                         },
                         {
@@ -3315,7 +3315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Hej, przyniosłeś mi lekarstwo?\""
+                                "「Hej, przyniosłeś mi lekarstwo?」"
                             ]
                         },
                         {
@@ -3377,7 +3377,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Och, dzięki! Jesteś naprawdę dobrym gościem! No to od\nrazu wypiję.\""
+                                "「Och, dzięki! Jesteś naprawdę dobrym gościem! No to od\nrazu wypiję.」"
                             ]
                         },
                         {
@@ -3410,7 +3410,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Haaa... Wspaniale! Teraz czuję, że mogę wszystko!\""
+                                "「Haaa... Wspaniale! Teraz czuję, że mogę wszystko!」"
                             ]
                         },
                         {
@@ -3434,7 +3434,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Ach, nie czas na to. Muszę rozdać Dusze tamtym\ndzieciom.\""
+                                "「Ach, nie czas na to. Muszę rozdać Dusze tamtym\ndzieciom.」"
                             ]
                         },
                         {
@@ -3795,7 +3795,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Oj, oj... Kłamstwo nie jest dobre, kłamstwo.\""
+                                "「Oj, oj... Kłamstwo nie jest dobre, kłamstwo.」"
                             ]
                         },
                         {
@@ -3869,7 +3869,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Uhh, aah... Hen, ze... gu... re... t...\""
+                                "「Uhh, aah... Hen, ze... gu... re... t...」"
                             ]
                         },
                         {
@@ -3984,7 +3984,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Ahahahaha!! Nie, nie, nie, spokojnie, możesz iść w\nswoim tempie!\""
+                                "「Ahahahaha!! Nie, nie, nie, spokojnie, możesz iść w\nswoim tempie!」"
                             ]
                         },
                         {

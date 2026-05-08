@@ -2997,7 +2997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Haa... haa... Nie wiem, kim jesteście, ale\nuratowaliście mnie.\""
+                                "「Haa... haa... Nie wiem, kim jesteście, ale\nuratowaliście mnie.」"
                             ]
                         },
                         {
@@ -3021,7 +3021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Jestem Iz, rycerz na szkoleniu wojennym. To wyraz\nmojej wdzięczności. Proszę, przyjmij to.\""
+                                "「Jestem Iz, rycerz na szkoleniu wojennym. To wyraz\nmojej wdzięczności. Proszę, przyjmij to.」"
                             ]
                         },
                         {
@@ -3125,7 +3125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Jeśli przekroczysz Fort Iburn, to już brama\nZaginionego Imperium, ale chwilę temu przeszedł tędy\njakiś rycerz tak ogromny, że aż trzeba było zadzierać\ngłowę.\""
+                                "「Jeśli przekroczysz Fort Iburn, to już brama\nZaginionego Imperium, ale chwilę temu przeszedł tędy\njakiś rycerz tak ogromny, że aż trzeba było zadzierać\ngłowę.」"
                             ]
                         },
                         {
@@ -3149,7 +3149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Czy to też jest magiczna bestia...?\""
+                                "「Czy to też jest magiczna bestia...?」"
                             ]
                         },
                         {
@@ -3220,7 +3220,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Uaa... Mamo...\""
+                                "「Uaa... Mamo...」"
                             ]
                         },
                         {

@@ -441,7 +441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Nie ma jej…? Nie, wyraźnie czuję tę obecność. Plugawa\ndusza…\""
+                                "「Nie ma jej…? Nie, wyraźnie czuję tę obecność. Plugawa\ndusza…」"
                             ]
                         },
                         {
@@ -458,7 +458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"\\n[1], wygląda na to, że Mary Sue się ukrywa. W takim\nrazie, jeśli ujawnisz jej prawdziwe imię, na pewno się\npokaże, nie?\""
+                                "「\\n[1], wygląda na to, że Mary Sue się ukrywa. W takim\nrazie, jeśli ujawnisz jej prawdziwe imię, na pewno się\npokaże, nie?」"
                             ]
                         },
                         {
@@ -475,7 +475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Dotarłeś aż tutaj, więc na pewno znasz odpowiedź… No\ndalej, ujawnij prawdziwą tożsamość Mary Sue!\""
+                                "「Dotarłeś aż tutaj, więc na pewno znasz odpowiedź… No\ndalej, ujawnij prawdziwą tożsamość Mary Sue!」"
                             ]
                         },
                         {
@@ -596,7 +596,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"…………… \\!*chichot*\""
+                                "「…………… \\!*chichot*」"
                             ]
                         },
                         {
@@ -657,7 +657,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Kyahahahahahahaahaa!! Kyahihihihihihihihihi!!!\""
+                                "「Kyahahahahahahaahaa!! Kyahihihihihihihihihi!!!」"
                             ]
                         },
                         {
@@ -674,7 +674,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Kyahihihihihihihihihihi… hihihihihih-hiii…!!\""
+                                "「Kyahihihihihihihihihihi… hihihihihih-hiii…!!」"
                             ]
                         },
                         {
@@ -691,7 +691,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Wreszcie… ujawniłeś to…! Jakże długo czekałem na ten\ndzień…!\""
+                                "「Wreszcie… ujawniłeś to…! Jakże długo czekałem na ten\ndzień…!」"
                             ]
                         },
                         {
@@ -740,7 +740,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Krótko mówiąc, masz rację! To ja jestem tym \\c[2]prawdziwym\nmózgiem operacji, Mary Sue\\c[0]!\""
+                                "「Krótko mówiąc, masz rację! To ja jestem tym \\c[2]prawdziwym\nmózgiem operacji, Mary Sue\\c[0]!」"
                             ]
                         },
                         {
@@ -757,7 +757,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"To ja wywołałem tę mgłę, która zmienia ludzi w\npotwory. To ja stworzyłem Święty Las. I to ja zabiłem\ntwoją ukochaną, Alicję.\""
+                                "「To ja wywołałem tę mgłę, która zmienia ludzi w\npotwory. To ja stworzyłem Święty Las. I to ja zabiłem\ntwoją ukochaną, Alicję.」"
                             ]
                         },
                         {
@@ -783,7 +783,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Nie wierzysz? To prawda, jestem bogiem.\""
+                                "「Nie wierzysz? To prawda, jestem bogiem.」"
                             ]
                         },
                         {
@@ -800,7 +800,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Ludzie są odrażający, prawda? Odkrywają swoje żądze,\nciągle się zabijają, a wszędzie na świecie toczą się\nwojny, wojny…\""
+                                "「Ludzie są odrażający, prawda? Odkrywają swoje żądze,\nciągle się zabijają, a wszędzie na świecie toczą się\nwojny, wojny…」"
                             ]
                         },
                         {
@@ -817,7 +817,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Ludzie codziennie się do mnie modlili. Ja, bóg, po\nprostu się znudziłem.\""
+                                "「Ludzie codziennie się do mnie modlili. Ja, bóg, po\nprostu się znudziłem.」"
                             ]
                         },
                         {
@@ -875,7 +875,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Ale wtedy przeczytałem bajki pewnego pisarza i byłem\nniesamowicie poruszony!\""
+                                "「Ale wtedy przeczytałem bajki pewnego pisarza i byłem\nniesamowicie poruszony!」"
                             ]
                         },
                         {
@@ -924,7 +924,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Tym pisarzem był Grimm… albo Lewis Carroll, Andersen.\""
+                                "「Tym pisarzem był Grimm… albo Lewis Carroll, Andersen.」"
                             ]
                         },
                         {
@@ -941,7 +941,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"To jest twoje prawdziwe imię, \\n[1].\""
+                                "「To jest twoje prawdziwe imię, \\n[1].」"
                             ]
                         },
                         {
@@ -990,7 +990,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Byłem twoim wielkim fanem! Mimo że jesteś człowiekiem,\ntworzyłeś niesamowicie interesujące historie! I wtedy,\nczytając twoje opowieści, wpadłem na pomysł!\""
+                                "「Byłem twoim wielkim fanem! Mimo że jesteś człowiekiem,\ntworzyłeś niesamowicie interesujące historie! I wtedy,\nczytając twoje opowieści, wpadłem na pomysł!」"
                             ]
                         },
                         {
@@ -1007,7 +1007,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Pomyślałem: jakby to było wspaniale, gdybym przemienił\nten nudny świat w świat twoich bajek!\""
+                                "「Pomyślałem: jakby to było wspaniale, gdybym przemienił\nten nudny świat w świat twoich bajek!」"
                             ]
                         },
                         {
@@ -1024,7 +1024,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Potem było już łatwo. Wystarczyło, że zmieniłem bajki\nna takie, jakie mi się podobają, i wplotłem je w\nrzeczywistość. W końcu bóg może wszystko~\""
+                                "「Potem było już łatwo. Wystarczyło, że zmieniłem bajki\nna takie, jakie mi się podobają, i wplotłem je w\nrzeczywistość. W końcu bóg może wszystko~」"
                             ]
                         },
                         {
@@ -1073,7 +1073,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Przepraszam, że zmieniłem to bez pozwolenia. Po prostu\nuznałem, że tak będzie ciekawiej.\""
+                                "「Przepraszam, że zmieniłem to bez pozwolenia. Po prostu\nuznałem, że tak będzie ciekawiej.」"
                             ]
                         },
                         {
@@ -1090,7 +1090,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Ponieważ tak bardzo się opierałeś, wymazałem twoją\npamięć i ciało, ale w zamian uczyniłem cię głównym\nbohaterem tej opowieści!\""
+                                "「Ponieważ tak bardzo się opierałeś, wymazałem twoją\npamięć i ciało, ale w zamian uczyniłem cię głównym\nbohaterem tej opowieści!」"
                             ]
                         },
                         {
@@ -1107,7 +1107,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Czy historia, którą stworzyłem, nie była zabawna?\""
+                                "「Czy historia, którą stworzyłem, nie była zabawna?」"
                             ]
                         },
                         {
@@ -1334,7 +1334,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"*chichot*… Historia jeszcze się nie skończyła…\""
+                                "「*chichot*… Historia jeszcze się nie skończyła…」"
                             ]
                         },
                         {
@@ -1351,7 +1351,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Książę, który pokonał smoka i uratował księżniczkę,\nżył długo i szczęśliwie, śmiejąc się ze wszystkimi. I\ntak kończy się bajka… Ale to nie będzie taki banalny\nfinał.\""
+                                "「Książę, który pokonał smoka i uratował księżniczkę,\nżył długo i szczęśliwie, śmiejąc się ze wszystkimi. I\ntak kończy się bajka… Ale to nie będzie taki banalny\nfinał.」"
                             ]
                         },
                         {
@@ -1368,7 +1368,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Zabójstwa, gwałty, oszustwa, zdrady… Uwielbiam\nhistorie, które kończą się bez ratunku…♡\""
+                                "「Zabójstwa, gwałty, oszustwa, zdrady… Uwielbiam\nhistorie, które kończą się bez ratunku…♡」"
                             ]
                         },
                         {
@@ -1417,7 +1417,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Wszystko, co do tej pory zbudowałeś… Ja to zniszczę!\""
+                                "「Wszystko, co do tej pory zbudowałeś… Ja to zniszczę!」"
                             ]
                         },
                         {
@@ -1566,7 +1566,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Co? Jak to…?\""
+                                "「Co? Jak to…?」"
                             ]
                         },
                         {
@@ -1621,7 +1621,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Miałeś zginąć z mojej ręki! Taki był finał!! Dlaczego\njest inaczej!!\""
+                                "「Miałeś zginąć z mojej ręki! Taki był finał!! Dlaczego\njest inaczej!!」"
                             ]
                         },
                         {
@@ -1791,7 +1791,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Żegnaj, \\n[1]. To była naprawdę fajna zabawa.\""
+                                "「Żegnaj, \\n[1]. To była naprawdę fajna zabawa.」"
                             ]
                         },
                         {
@@ -2011,7 +2011,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Ach… Znowu będzie nudno…\""
+                                "「Ach… Znowu będzie nudno…」"
                             ]
                         },
                         {
@@ -2088,7 +2088,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Kihihi! Pudło!\""
+                                "「Kihihi! Pudło!」"
                             ]
                         },
                         {
@@ -4215,7 +4215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Ach, \\n[1]-sama……. Stwórco-sama……\""
+                                "「Ach, \\n[1]-sama……. Stwórco-sama……」"
                             ]
                         },
                         {
@@ -4232,7 +4232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Prosimy, prowadź nas……\""
+                                "「Prosimy, prowadź nas……」"
                             ]
                         },
                         {

@@ -1588,7 +1588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Myślałeś, że przede mną uciekniesz? Grzeszniku, \\n[1]\""
+                                "「Myślałeś, że przede mną uciekniesz? Grzeszniku, \\n[1]」"
                             ]
                         },
                         {
@@ -1612,7 +1612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Dopuściłeś się wielu grzechów... Muszę zebrać twoją\nmroczną, plugawą duszę\""
+                                "「Dopuściłeś się wielu grzechów... Muszę zebrać twoją\nmroczną, plugawą duszę」"
                             ]
                         },
                         {
@@ -1808,7 +1808,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Lindamea... mylisz przeciwnika...\""
+                                "「Lindamea... mylisz przeciwnika...」"
                             ]
                         },
                         {
@@ -1832,7 +1832,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Co?!\""
+                                "「Co?!」"
                             ]
                         },
                         {
@@ -1849,7 +1849,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Jest mistrz, który doprowadził świat do kompletnej\nruiny... I do teraz drwi z nas, desperacko walczących\nprzeciwko zagładzie...\""
+                                "「Jest mistrz, który doprowadził świat do kompletnej\nruiny... I do teraz drwi z nas, desperacko walczących\nprzeciwko zagładzie...」"
                             ]
                         },
                         {
@@ -1866,7 +1866,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Zostawić tego drania i walczyć z niezwiązanym \\n[1]...\nto bezcelowe\""
+                                "「Zostawić tego drania i walczyć z niezwiązanym \\n[1]...\nto bezcelowe」"
                             ]
                         },
                         {
@@ -1883,7 +1883,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Lindamea... czy ty na pewno działasz z własnej\nwoli...?\""
+                                "「Lindamea... czy ty na pewno działasz z własnej\nwoli...?」"
                             ]
                         },
                         {
@@ -1923,7 +1923,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"......Hmph\""
+                                "「......Hmph」"
                             ]
                         },
                         {
@@ -1947,7 +1947,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Uznaję twoje racje, Mirando. Najwyraźniej bezsensownie\nza bardzo się przywiązałem... Nie, wręcz tańczyłem na\nczyjejś dłoni\""
+                                "「Uznaję twoje racje, Mirando. Najwyraźniej bezsensownie\nza bardzo się przywiązałem... Nie, wręcz tańczyłem na\nczyjejś dłoni」"
                             ]
                         },
                         {
@@ -2003,7 +2003,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"...Baphomet umarł. Mroczny Trybunał jest praktycznie\nzniszczony\""
+                                "「...Baphomet umarł. Mroczny Trybunał jest praktycznie\nzniszczony」"
                             ]
                         },
                         {
@@ -2020,7 +2020,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"……\""
+                                "「……」"
                             ]
                         },
                         {
@@ -2044,7 +2044,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Mary Sue nie można zabić ludzką ręką. Lecz \\n[1]...\njeśli to będą twoje ręce... być może...\""
+                                "「Mary Sue nie można zabić ludzką ręką. Lecz \\n[1]...\njeśli to będą twoje ręce... być może...」"
                             ]
                         },
                         {
@@ -2237,7 +2237,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"\\n[1]......tędy\""
+                                "「\\n[1]......tędy」"
                             ]
                         },
                         {
@@ -2254,7 +2254,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Spieszysz się, prawda?...... Lindameą... ja się\nzajmę......\""
+                                "「Spieszysz się, prawda?...... Lindameą... ja się\nzajmę......」"
                             ]
                         },
                         {
@@ -2278,7 +2278,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Zdrajco Mrocznego Trybunału... Hańba ci!\""
+                                "「Zdrajco Mrocznego Trybunału... Hańba ci!」"
                             ]
                         },
                         {
@@ -2295,7 +2295,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"\\n[1]……\""
+                                "「\\n[1]……」"
                             ]
                         },
                         {
@@ -2312,7 +2312,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Cieszę się, że cię spotkałam... tak myślę\""
+                                "「Cieszę się, że cię spotkałam... tak myślę」"
                             ]
                         },
                         {
@@ -2329,7 +2329,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"......Idź już\""
+                                "「......Idź już」"
                             ]
                         },
                         {
@@ -3225,7 +3225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"………Szybko, idź.\""
+                                "「………Szybko, idź.」"
                             ]
                         },
                         {
@@ -3464,7 +3464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"………Szybko, idź.\""
+                                "「………Szybko, idź.」"
                             ]
                         },
                         {
@@ -3592,7 +3592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"………Szybko, idź.\""
+                                "「………Szybko, idź.」"
                             ]
                         },
                         {
@@ -3720,7 +3720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Haa……… haa………\""
+                                "「Haa……… haa………」"
                             ]
                         },
                         {
@@ -3754,7 +3754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Przesadziłam... przepraszam...\""
+                                "「Przesadziłam... przepraszam...」"
                             ]
                         },
                         {
@@ -3771,7 +3771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Żałuję, że nie mogłam ci pomóc...\""
+                                "「Żałuję, że nie mogłam ci pomóc...」"
                             ]
                         },
                         {
@@ -3807,7 +3807,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Naprawdę...?\""
+                                "「Naprawdę...?」"
                             ]
                         },
                         {
@@ -3824,7 +3824,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Dziękuję... \\n[1]...\""
+                                "「Dziękuję... \\n[1]...」"
                             ]
                         },
                         {
@@ -3854,7 +3854,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Tak... bo już nie mogę się ruszyć...\""
+                                "「Tak... bo już nie mogę się ruszyć...」"
                             ]
                         },
                         {
@@ -4033,7 +4033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"…………\""
+                                "「…………」"
                             ]
                         },
                         {
@@ -4092,7 +4092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"………Heh. A ty się ciągle martwisz... Jeszcze żyję...\""
+                                "「………Heh. A ty się ciągle martwisz... Jeszcze żyję...」"
                             ]
                         },
                         {
@@ -4109,7 +4109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Mniejsza z tym, idź już... Ja nie umrę...\""
+                                "「Mniejsza z tym, idź już... Ja nie umrę...」"
                             ]
                         },
                         {
@@ -4451,7 +4451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Myślałeś, że przede mną uciekniesz? Grzeszniku, \\n[1]\""
+                                "「Myślałeś, że przede mną uciekniesz? Grzeszniku, \\n[1]」"
                             ]
                         },
                         {
@@ -4475,7 +4475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Dopuściłeś się wielu grzechów... Muszę zebrać twoją\nmroczną, plugawą duszę\""
+                                "「Dopuściłeś się wielu grzechów... Muszę zebrać twoją\nmroczną, plugawą duszę」"
                             ]
                         },
                         {
@@ -4671,7 +4671,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Lindamea... mylisz przeciwnika...\""
+                                "「Lindamea... mylisz przeciwnika...」"
                             ]
                         },
                         {
@@ -4695,7 +4695,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Co?!\""
+                                "「Co?!」"
                             ]
                         },
                         {
@@ -4712,7 +4712,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Jest mistrz, który doprowadził świat do kompletnej\nruiny... I do teraz drwi z nas, desperacko walczących\nprzeciwko zagładzie...\""
+                                "「Jest mistrz, który doprowadził świat do kompletnej\nruiny... I do teraz drwi z nas, desperacko walczących\nprzeciwko zagładzie...」"
                             ]
                         },
                         {
@@ -4729,7 +4729,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Zostawić tego drania i walczyć z niezwiązanym \\n[1]...\nto bezcelowe\""
+                                "「Zostawić tego drania i walczyć z niezwiązanym \\n[1]...\nto bezcelowe」"
                             ]
                         },
                         {
@@ -4746,7 +4746,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Lindamea... czy ty na pewno działasz z własnej\nwoli...?\""
+                                "「Lindamea... czy ty na pewno działasz z własnej\nwoli...?」"
                             ]
                         },
                         {
@@ -4786,7 +4786,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"......Hmph\""
+                                "「......Hmph」"
                             ]
                         },
                         {
@@ -4810,7 +4810,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Uznaję twoje racje, Mirando. Najwyraźniej bezsensownie\nza bardzo się przywiązałem... Nie, wręcz tańczyłem na\nczyjejś dłoni\""
+                                "「Uznaję twoje racje, Mirando. Najwyraźniej bezsensownie\nza bardzo się przywiązałem... Nie, wręcz tańczyłem na\nczyjejś dłoni」"
                             ]
                         },
                         {
@@ -4866,7 +4866,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"...Baphomet umarł. Mroczny Trybunał jest praktycznie\nzniszczony\""
+                                "「...Baphomet umarł. Mroczny Trybunał jest praktycznie\nzniszczony」"
                             ]
                         },
                         {
@@ -4883,7 +4883,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"……\""
+                                "「……」"
                             ]
                         },
                         {
@@ -4907,7 +4907,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Mary Sue nie można zabić ludzką ręką. Lecz \\n[1]...\njeśli to będą twoje ręce... być może...\""
+                                "「Mary Sue nie można zabić ludzką ręką. Lecz \\n[1]...\njeśli to będą twoje ręce... być może...」"
                             ]
                         },
                         {
@@ -5100,7 +5100,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"\\n[1]......tędy\""
+                                "「\\n[1]......tędy」"
                             ]
                         },
                         {
@@ -5117,7 +5117,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Spieszysz się, prawda?...... Lindameą... ja się\nzajmę......\""
+                                "「Spieszysz się, prawda?...... Lindameą... ja się\nzajmę......」"
                             ]
                         },
                         {
@@ -5141,7 +5141,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Zdrajco Mrocznego Trybunału... Hańba ci!\""
+                                "「Zdrajco Mrocznego Trybunału... Hańba ci!」"
                             ]
                         },
                         {
@@ -5158,7 +5158,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"\\n[1]……\""
+                                "「\\n[1]……」"
                             ]
                         },
                         {
@@ -5175,7 +5175,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Cieszę się, że cię spotkałam... tak myślę\""
+                                "「Cieszę się, że cię spotkałam... tak myślę」"
                             ]
                         },
                         {
@@ -5192,7 +5192,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"......Idź już\""
+                                "「......Idź już」"
                             ]
                         },
                         {
@@ -5735,7 +5735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Myślałeś, że przede mną uciekniesz? Grzeszniku, \\n[1]\""
+                                "「Myślałeś, że przede mną uciekniesz? Grzeszniku, \\n[1]」"
                             ]
                         },
                         {
@@ -5759,7 +5759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Dopuściłeś się wielu grzechów... Muszę zebrać twoją\nmroczną, plugawą duszę\""
+                                "「Dopuściłeś się wielu grzechów... Muszę zebrać twoją\nmroczną, plugawą duszę」"
                             ]
                         },
                         {
@@ -5955,7 +5955,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Lindamea... mylisz przeciwnika...\""
+                                "「Lindamea... mylisz przeciwnika...」"
                             ]
                         },
                         {
@@ -5979,7 +5979,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Co?!\""
+                                "「Co?!」"
                             ]
                         },
                         {
@@ -5996,7 +5996,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Jest mistrz, który doprowadził świat do kompletnej\nruiny... I do teraz drwi z nas, desperacko walczących\nprzeciwko zagładzie...\""
+                                "「Jest mistrz, który doprowadził świat do kompletnej\nruiny... I do teraz drwi z nas, desperacko walczących\nprzeciwko zagładzie...」"
                             ]
                         },
                         {
@@ -6013,7 +6013,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Zostawić tego drania i walczyć z niezwiązanym \\n[1]...\nto bezcelowe\""
+                                "「Zostawić tego drania i walczyć z niezwiązanym \\n[1]...\nto bezcelowe」"
                             ]
                         },
                         {
@@ -6030,7 +6030,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Lindamea... czy ty na pewno działasz z własnej\nwoli...?\""
+                                "「Lindamea... czy ty na pewno działasz z własnej\nwoli...?」"
                             ]
                         },
                         {
@@ -6070,7 +6070,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"......Hmph\""
+                                "「......Hmph」"
                             ]
                         },
                         {
@@ -6094,7 +6094,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Uznaję twoje racje, Mirando. Najwyraźniej bezsensownie\nza bardzo się przywiązałem... Nie, wręcz tańczyłem na\nczyjejś dłoni\""
+                                "「Uznaję twoje racje, Mirando. Najwyraźniej bezsensownie\nza bardzo się przywiązałem... Nie, wręcz tańczyłem na\nczyjejś dłoni」"
                             ]
                         },
                         {
@@ -6150,7 +6150,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"...Baphomet umarł. Mroczny Trybunał jest praktycznie\nzniszczony\""
+                                "「...Baphomet umarł. Mroczny Trybunał jest praktycznie\nzniszczony」"
                             ]
                         },
                         {
@@ -6167,7 +6167,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"……\""
+                                "「……」"
                             ]
                         },
                         {
@@ -6191,7 +6191,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Mary Sue nie można zabić ludzką ręką. Lecz \\n[1]...\njeśli to będą twoje ręce... być może...\""
+                                "「Mary Sue nie można zabić ludzką ręką. Lecz \\n[1]...\njeśli to będą twoje ręce... być może...」"
                             ]
                         },
                         {
@@ -6384,7 +6384,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"\\n[1]......tędy\""
+                                "「\\n[1]......tędy」"
                             ]
                         },
                         {
@@ -6401,7 +6401,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Spieszysz się, prawda?...... Lindameą... ja się\nzajmę......\""
+                                "「Spieszysz się, prawda?...... Lindameą... ja się\nzajmę......」"
                             ]
                         },
                         {
@@ -6425,7 +6425,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Zdrajco Mrocznego Trybunału... Hańba ci!\""
+                                "「Zdrajco Mrocznego Trybunału... Hańba ci!」"
                             ]
                         },
                         {
@@ -6442,7 +6442,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"\\n[1]……\""
+                                "「\\n[1]……」"
                             ]
                         },
                         {
@@ -6459,7 +6459,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Cieszę się, że cię spotkałam... tak myślę\""
+                                "「Cieszę się, że cię spotkałam... tak myślę」"
                             ]
                         },
                         {
@@ -6476,7 +6476,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"......Idź już\""
+                                "「......Idź już」"
                             ]
                         },
                         {

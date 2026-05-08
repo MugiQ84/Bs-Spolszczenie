@@ -13880,7 +13880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Czego chcesz?\""
+                                "「Czego chcesz?」"
                             ]
                         },
                         {
@@ -13904,7 +13904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Jestem, jak widać, zajęty. Dam ci to, więc idź sobie.\""
+                                "「Jestem, jak widać, zajęty. Dam ci to, więc idź sobie.」"
                             ]
                         },
                         {
@@ -13997,7 +13997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Znowu ty? Jesteś irytujący. Wynoś się, zanim poważnie\nsię zdenerwuję.\""
+                                "「Znowu ty? Jesteś irytujący. Wynoś się, zanim poważnie\nsię zdenerwuję.」"
                             ]
                         },
                         {
@@ -14041,7 +14041,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Ach, karmię szczury padliną bachorów.\""
+                                "「Ach, karmię szczury padliną bachorów.」"
                             ]
                         },
                         {
@@ -14065,7 +14065,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"W tamtym mieście kościół rządzi wszystkim. Pod\npretekstem polowania na heretyków zabili też moją\nrodzinę.\""
+                                "「W tamtym mieście kościół rządzi wszystkim. Pod\npretekstem polowania na heretyków zabili też moją\nrodzinę.」"
                             ]
                         },
                         {
@@ -14089,7 +14089,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Dlatego poprzysiągłem zemstę. Wysłałem do tego miasta\nmałego żniwiarza i porwałem te bachory.\""
+                                "「Dlatego poprzysiągłem zemstę. Wysłałem do tego miasta\nmałego żniwiarza i porwałem te bachory.」"
                             ]
                         },
                         {
@@ -14113,7 +14113,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Ale nie spodziewałem się, że to się tak uda...\nStworzenie królestwa szczurów i zostanie jego władcą\nteż byłoby niezłe. Hehehe...\""
+                                "「Ale nie spodziewałem się, że to się tak uda...\nStworzenie królestwa szczurów i zostanie jego władcą\nteż byłoby niezłe. Hehehe...」"
                             ]
                         },
                         {
@@ -14150,7 +14150,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Och, chcesz mnie zabić...? Nie doceniasz mnie.\""
+                                "「Och, chcesz mnie zabić...? Nie doceniasz mnie.」"
                             ]
                         },
                         {
@@ -14174,7 +14174,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Dobrze. Zniszczę cię w odwecie.\""
+                                "「Dobrze. Zniszczę cię w odwecie.」"
                             ]
                         },
                         {
@@ -14237,7 +14237,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Hii... N-nie chcę umierać...\""
+                                "「Hii... N-nie chcę umierać...」"
                             ]
                         },
                         {
@@ -16030,7 +16030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Ale śmierdzisz.\""
+                                "「Ale śmierdzisz.」"
                             ]
                         },
                         {
@@ -16047,7 +16047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"\\n[1]… Kiedy wrócimy, weźmiemy razem kąpiel, dobrze?\""
+                                "「\\n[1]… Kiedy wrócimy, weźmiemy razem kąpiel, dobrze?」"
                             ]
                         },
                         {

@@ -2723,7 +2723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Ta wieża jest w rozsypce, nie? Ciekawe, czy demoniczna\nksiężniczka się tu ukrywa.\""
+                                "「Ta wieża jest w rozsypce, nie? Ciekawe, czy demoniczna\nksiężniczka się tu ukrywa.」"
                             ]
                         },
                         {
@@ -2740,7 +2740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Pewnie sprzątanie to dla niej zbyt wiele zachodu.\""
+                                "「Pewnie sprzątanie to dla niej zbyt wiele zachodu.」"
                             ]
                         },
                         {

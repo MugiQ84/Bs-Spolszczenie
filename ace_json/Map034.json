@@ -2985,7 +2985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Ohydny nieumarły, co? … Nie jesteś zaproszony na bal\nCinderella-sama…\""
+                                "「Ohydny nieumarły, co? … Nie jesteś zaproszony na bal\nCinderella-sama…」"
                             ]
                         },
                         {
@@ -3002,7 +3002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Jak na nieumarłego przystało, tańcz z bestiami\""
+                                "「Jak na nieumarłego przystało, tańcz z bestiami」"
                             ]
                         },
                         {
@@ -7547,7 +7547,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"\\n[1]…… Nie przemęczaj się, dobrze?\""
+                                "「\\n[1]…… Nie przemęczaj się, dobrze?」"
                             ]
                         },
                         {
@@ -7564,7 +7564,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Zawsze będę przy tobie, wiesz…?\""
+                                "「Zawsze będę przy tobie, wiesz…?」"
                             ]
                         },
                         {
@@ -7591,7 +7591,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Niesamowite… Naprawdę dotarłeś aż tutaj. Na początku,\nkiedy cię zobaczyłem, myślałem, że gdzieś po drodze\nstracisz ducha.\""
+                                "「Niesamowite… Naprawdę dotarłeś aż tutaj. Na początku,\nkiedy cię zobaczyłem, myślałem, że gdzieś po drodze\nstracisz ducha.」"
                             ]
                         },
                         {
@@ -7608,7 +7608,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Z tobą, \\n[1]… może uda się pokonać ostatnią Demoniczną\nKsiężniczkę.\""
+                                "「Z tobą, \\n[1]… może uda się pokonać ostatnią Demoniczną\nKsiężniczkę.」"
                             ]
                         },
                         {
@@ -7625,7 +7625,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"…… Moja matka podarowała magię śniącemu Kopciuszkowi…\nale przesadziła.\""
+                                "「…… Moja matka podarowała magię śniącemu Kopciuszkowi…\nale przesadziła.」"
                             ]
                         },
                         {
@@ -7642,7 +7642,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Kopciuszek, mając ogromną moc, zaczął rządzić krajem.\nGdyby wyznaczono godzinę dwunastą, nie doszłoby do\ntego.\""
+                                "「Kopciuszek, mając ogromną moc, zaczął rządzić krajem.\nGdyby wyznaczono godzinę dwunastą, nie doszłoby do\ntego.」"
                             ]
                         },
                         {
@@ -7659,7 +7659,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Kareta z dyni spustoszyła kraj, a szklany pantofelek\nroztrzaskał się w drobny mak. Potem pojawiła się mgła i\nkrólestwo było skazane na zagładę.\""
+                                "「Kareta z dyni spustoszyła kraj, a szklany pantofelek\nroztrzaskał się w drobny mak. Potem pojawiła się mgła i\nkrólestwo było skazane na zagładę.」"
                             ]
                         },
                         {
@@ -7676,7 +7676,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Moja matka odkupiła swoje winy i zniknęła. Naprawdę…\nnieodpowiedzialna, prawda?\""
+                                "「Moja matka odkupiła swoje winy i zniknęła. Naprawdę…\nnieodpowiedzialna, prawda?」"
                             ]
                         },
                         {
@@ -7700,7 +7700,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Hej, \\n[1]… Pokonajmy razem Demoniczną Księżniczkę\nKopciuszka… Nie, jednak nie mogę… To ty powinieneś\nzdecydować.\""
+                                "「Hej, \\n[1]… Pokonajmy razem Demoniczną Księżniczkę\nKopciuszka… Nie, jednak nie mogę… To ty powinieneś\nzdecydować.」"
                             ]
                         },
                         {
@@ -7717,7 +7717,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Moc Kopciuszka jest niepowstrzymana. Jeśli naprawdę\nuda się ją pokonać, to będzie niesamowite… ale jeśli\nsię nie uda… możesz zostać niewolnikiem.\""
+                                "「Moc Kopciuszka jest niepowstrzymana. Jeśli naprawdę\nuda się ją pokonać, to będzie niesamowite… ale jeśli\nsię nie uda… możesz zostać niewolnikiem.」"
                             ]
                         },
                         {
@@ -7734,7 +7734,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Więc… możesz po prostu uciec, wiesz? Ja też…\nbardziej…\""
+                                "「Więc… możesz po prostu uciec, wiesz? Ja też…\nbardziej…」"
                             ]
                         },
                         {
@@ -7760,7 +7760,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"…chcę być z tobą, \\n[1]…\""
+                                "「…chcę być z tobą, \\n[1]…」"
                             ]
                         },
                         {
@@ -7846,7 +7846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Naprawdę musisz iść...? Rozumiem. W takim razie weź\nto?\""
+                                "「Naprawdę musisz iść...? Rozumiem. W takim razie weź\nto?」"
                             ]
                         },
                         {
@@ -7881,7 +7881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"To mój amulet. Nie wyrzucaj go, dobrze? Zadbaj o\nniego... ♪\""
+                                "「To mój amulet. Nie wyrzucaj go, dobrze? Zadbaj o\nniego... ♪」"
                             ]
                         },
                         {
@@ -7966,7 +7966,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"\\n[1]……. Tylko się nie przemęczaj, dobrze?\""
+                                "「\\n[1]……. Tylko się nie przemęczaj, dobrze?」"
                             ]
                         },
                         {
@@ -7983,7 +7983,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Będę zawsze przy tobie, więc... dobrze?\""
+                                "「Będę zawsze przy tobie, więc... dobrze?」"
                             ]
                         },
                         {
@@ -8010,7 +8010,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"E? Zgubiłeś mój amulet? Ech, no trudno...\""
+                                "「E? Zgubiłeś mój amulet? Ech, no trudno...」"
                             ]
                         },
                         {
@@ -8045,7 +8045,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Proszę♪ Tylko nie zgub go tym razem, dobrze?\""
+                                "「Proszę♪ Tylko nie zgub go tym razem, dobrze?」"
                             ]
                         },
                         {

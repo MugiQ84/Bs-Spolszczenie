@@ -923,7 +923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Wzmocnić broń?\""
+                                "「Wzmocnić broń?」"
                             ]
                         },
                         {
@@ -974,7 +974,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Wracaj. Zawsze czekam.\""
+                                "「Wracaj. Zawsze czekam.」"
                             ]
                         },
                         {
@@ -1026,7 +1026,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"...Ty, dlaczego tu jesteś...\""
+                                "「...Ty, dlaczego tu jesteś...」"
                             ]
                         },
                         {

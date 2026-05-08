@@ -210,7 +210,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Rapunzel-sama jest jedną z Pięciu Demonicznych\nKsiężniczek, posiadającą niezwykle piękne włosy. Nikt\nnie może się równać z jej wspaniałymi włosami.\""
+                                "「Rapunzel-sama jest jedną z Pięciu Demonicznych\nKsiężniczek, posiadającą niezwykle piękne włosy. Nikt\nnie może się równać z jej wspaniałymi włosami.」"
                             ]
                         },
                         {
@@ -234,7 +234,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Ach... pragnę być czule owinięty tymi pięknymi złotymi\nwłosami... Chcę, aby pieściła mój plugawy członek...\""
+                                "「Ach... pragnę być czule owinięty tymi pięknymi złotymi\nwłosami... Chcę, aby pieściła mój plugawy członek...」"
                             ]
                         },
                         {
@@ -258,7 +258,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Hihi...\""
+                                "「Hihi...」"
                             ]
                         },
                         {
@@ -310,7 +310,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"R-Rapunzel-sama...\""
+                                "「R-Rapunzel-sama...」"
                             ]
                         },
                         {

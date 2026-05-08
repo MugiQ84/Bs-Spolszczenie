@@ -2892,7 +2892,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Naprawdę chcesz to zrobić? Nie pożałujesz?\""
+                                "「Naprawdę chcesz to zrobić? Nie pożałujesz?」"
                             ]
                         },
                         {
@@ -3047,7 +3047,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\"Świat zaczął się psuć. Dalej, pospiesz się…… Zakończmy\ntwoją historię?\""
+                                "「Świat zaczął się psuć. Dalej, pospiesz się…… Zakończmy\ntwoją historię?」"
                             ]
                         },
                         {
@@ -3064,7 +3064,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\"Chichichichi……\""
+                                "「Chichichichi……」"
                             ]
                         },
                         {

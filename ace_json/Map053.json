@@ -550,7 +550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Lustereczko, lustereczko... Najpiękniejsza na świecie\njest... kto...?\""
+                                "「Lustereczko, lustereczko... Najpiękniejsza na świecie\njest... kto...?」"
                             ]
                         },
                         {
@@ -567,7 +567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"…………\""
+                                "「…………」"
                             ]
                         },
                         {
@@ -584,7 +584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"…………\""
+                                "「…………」"
                             ]
                         },
                         {
@@ -601,7 +601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Jeszcze... jest ich tak wielu... Moi... wrogowie...\""
+                                "「Jeszcze... jest ich tak wielu... Moi... wrogowie...」"
                             ]
                         },
                         {
@@ -618,7 +618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"...Nie wybaczę... Co do jednego... muszę ich\nwytępić...\""
+                                "「...Nie wybaczę... Co do jednego... muszę ich\nwytępić...」"
                             ]
                         },
                         {
@@ -703,7 +703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"……Kto……?\""
+                                "「……Kto……?」"
                             ]
                         },
                         {
@@ -740,7 +740,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Ze mną……pakt……? Rozumiem……chcesz iść do Zagubionego\nImperium……\""
+                                "「Ze mną……pakt……? Rozumiem……chcesz iść do Zagubionego\nImperium……」"
                             ]
                         },
                         {
@@ -766,7 +766,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Zrozumiałam……. Ale……są warunki……\""
+                                "「Zrozumiałam……. Ale……są warunki……」"
                             ]
                         },
                         {
@@ -783,7 +783,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Zabij pozostałe demoniczne księżniczki……\""
+                                "「Zabij pozostałe demoniczne księżniczki……」"
                             ]
                         },
                         {
@@ -800,7 +800,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"\\c[2]Rapunzel\\c[0]…\\c[2]Księżniczka Syrenka\\c[0]…\\c[2]Księżniczka Żaba\\c[0]……. Te\ntrzy……zabij……\""
+                                "「\\c[2]Rapunzel\\c[0]…\\c[2]Księżniczka Syrenka\\c[0]…\\c[2]Księżniczka Żaba\\c[0]……. Te\ntrzy……zabij……」"
                             ]
                         },
                         {
@@ -817,7 +817,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Jeśli zabijesz je wszystkie……. Nie tylko pakt……mogę\nnawet zostać twoją żoną……\""
+                                "「Jeśli zabijesz je wszystkie……. Nie tylko pakt……mogę\nnawet zostać twoją żoną……」"
                             ]
                         },
                         {
@@ -882,7 +882,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Znikam……. Ja……rozpływam się……znikam……\""
+                                "「Znikam……. Ja……rozpływam się……znikam……」"
                             ]
                         },
                         {
@@ -1011,7 +1011,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Jesteś uciążliwy……. Szybko, znikaj stąd………\""
+                                "「Jesteś uciążliwy……. Szybko, znikaj stąd………」"
                             ]
                         },
                         {
@@ -1089,7 +1089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"\\c[2]Roszpunka\\c[0]…\\c[2]Księżniczka Syrenka\\c[0]…\\c[2]Księżniczka Żaba\\c[0]…….\nZabij… te trzy…\""
+                                "「\\c[2]Roszpunka\\c[0]…\\c[2]Księżniczka Syrenka\\c[0]…\\c[2]Księżniczka Żaba\\c[0]…….\nZabij… te trzy…」"
                             ]
                         },
                         {
@@ -1106,7 +1106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Jeśli… zabijesz wszystkie… To nie tylko dotrzymam\nprzysięgi… mogę nawet zostać twoją żoną…\""
+                                "「Jeśli… zabijesz wszystkie… To nie tylko dotrzymam\nprzysięgi… mogę nawet zostać twoją żoną…」"
                             ]
                         },
                         {
@@ -1243,7 +1243,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\"Nie żyją… Aha… Umarły…! Te piękne… umarły…! Ahaha…\nDobrze im tak…!\""
+                                "「Nie żyją… Aha… Umarły…! Te piękne… umarły…! Ahaha…\nDobrze im tak…!」"
                             ]
                         },
                         {
@@ -1260,7 +1260,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\"To ty… je zabiłeś dla mnie… Cudownie… Jesteś\nprawdziwym księciem…\""
+                                "「To ty… je zabiłeś dla mnie… Cudownie… Jesteś\nprawdziwym księciem…」"
                             ]
                         },
                         {
@@ -1277,7 +1277,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\"Dam ci nagrodę… Chodź tu…?\""
+                                "「Dam ci nagrodę… Chodź tu…?」"
                             ]
                         },
                         {
@@ -1366,7 +1366,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\"Ty… idziesz do Zaginionego Imperium, prawda…\""
+                                "「Ty… idziesz do Zaginionego Imperium, prawda…」"
                             ]
                         },
                         {
@@ -1383,7 +1383,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\"Tam jest \\c[2]Magiczna Księżniczka Kopciuszek\\c[0]… Chcę, żebyś\nją też zabił… Wtedy stanę się najpiękniejsza na\nświecie…\""
+                                "「Tam jest \\c[2]Magiczna Księżniczka Kopciuszek\\c[0]… Chcę, żebyś\nją też zabił… Wtedy stanę się najpiękniejsza na\nświecie…」"
                             ]
                         },
                         {
@@ -1400,7 +1400,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\"Trzy nie żyją… i związałeś się ze mną przysięgą… Brama\nzamku powinna się otworzyć…\""
+                                "「Trzy nie żyją… i związałeś się ze mną przysięgą… Brama\nzamku powinna się otworzyć…」"
                             ]
                         },
                         {
@@ -1417,7 +1417,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\"Powodzenia… Będę czekać, aż wrócisz, mój ukochany…\""
+                                "「Powodzenia… Będę czekać, aż wrócisz, mój ukochany…」"
                             ]
                         },
                         {
@@ -1561,7 +1561,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Kłamco… Lustro Prawdy… od razu to rozpozna…\""
+                                "「Kłamco… Lustro Prawdy… od razu to rozpozna…」"
                             ]
                         },
                         {
@@ -1578,7 +1578,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Jesteś… bezużyteczny…\""
+                                "「Jesteś… bezużyteczny…」"
                             ]
                         },
                         {
@@ -1622,7 +1622,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Znikam… Rozpuszczam się… odchodzę…\""
+                                "「Znikam… Rozpuszczam się… odchodzę…」"
                             ]
                         },
                         {
@@ -1783,7 +1783,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Znikam… Rozpuszczam się… odchodzę…\""
+                                "「Znikam… Rozpuszczam się… odchodzę…」"
                             ]
                         },
                         {
@@ -1912,7 +1912,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Szybko, idź ją zabić…\""
+                                "「Szybko, idź ją zabić…」"
                             ]
                         },
                         {
@@ -1990,7 +1990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Kochanie... witaj w domu...\""
+                                "「Kochanie... witaj w domu...」"
                             ]
                         },
                         {
@@ -2027,7 +2027,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Moje ciało jest zimne, ale... ogrzeję cię... To mój\nobowiązek jako żony...\""
+                                "「Moje ciało jest zimne, ale... ogrzeję cię... To mój\nobowiązek jako żony...」"
                             ]
                         },
                         {
@@ -2097,7 +2097,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Jeśli zabijesz Mroczną Księżniczkę Kopciuszka...\nzamieszkajmy razem w tym zamku...\""
+                                "「Jeśli zabijesz Mroczną Księżniczkę Kopciuszka...\nzamieszkajmy razem w tym zamku...」"
                             ]
                         },
                         {
@@ -2114,7 +2114,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Możemy nawet kochać się wiecznie... To takie\ncudowne...\""
+                                "「Możemy nawet kochać się wiecznie... To takie\ncudowne...」"
                             ]
                         },
                         {
@@ -2181,7 +2181,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Zimno... Być zdradzoną przez ukochanego... to\ntakie...\""
+                                "「Zimno... Być zdradzoną przez ukochanego... to\ntakie...」"
                             ]
                         },
                         {
@@ -2299,7 +2299,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Zabij Mroczną Księżniczkę Kopciuszka, dobrze?...\""
+                                "「Zabij Mroczną Księżniczkę Kopciuszka, dobrze?...」"
                             ]
                         },
                         {
@@ -2377,7 +2377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"……Mam prośbę……\""
+                                "「……Mam prośbę……」"
                             ]
                         },
                         {
@@ -2394,7 +2394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"O nas…… zawsze…… chcę, żebyś pamiętał………\""
+                                "「O nas…… zawsze…… chcę, żebyś pamiętał………」"
                             ]
                         },
                         {
@@ -2430,7 +2430,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"………Dziękuję………\""
+                                "「………Dziękuję………」"
                             ]
                         },
                         {
@@ -2447,7 +2447,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"……Przepraszam……\""
+                                "「……Przepraszam……」"
                             ]
                         },
                         {
@@ -2503,7 +2503,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"To okrutne………\""
+                                "「To okrutne………」"
                             ]
                         },
                         {
@@ -2683,7 +2683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"…………\""
+                                "「…………」"
                             ]
                         },
                         {
@@ -2767,7 +2767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"………！\""
+                                "「………！」"
                             ]
                         },
                         {
@@ -2962,7 +2962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"……apsik!\""
+                                "「……apsik!」"
                             ]
                         },
                         {
@@ -3241,7 +3241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"\"Proszę, nie patrz tak na mnie… Zawstydzę się……\"\""
+                                "「\"Proszę, nie patrz tak na mnie… Zawstydzę się……\"」"
                             ]
                         },
                         {
@@ -3691,7 +3691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Jiiihaaa!! Huuu! Huuu!!\""
+                                "「Jiiihaaa!! Huuu! Huuu!!」"
                             ]
                         },
                         {
@@ -3775,7 +3775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Zostałem księciem!!!\""
+                                "「Zostałem księciem!!!」"
                             ]
                         },
                         {
@@ -3961,7 +3961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Och... Klient?\""
+                                "「Och... Klient?」"
                             ]
                         },
                         {
@@ -3985,7 +3985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Z roku na rok robi się coraz zimniej... W tym tempie\nzamarzniemy na śmierć, tak jak mieszkańcy z góry.\""
+                                "「Z roku na rok robi się coraz zimniej... W tym tempie\nzamarzniemy na śmierć, tak jak mieszkańcy z góry.」"
                             ]
                         },
                         {
@@ -4009,7 +4009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Dlatego... udawanie normalności jest męczące. Ja też,\njak wszyscy, chcę uwolnić swoje żądze... I...\""
+                                "「Dlatego... udawanie normalności jest męczące. Ja też,\njak wszyscy, chcę uwolnić swoje żądze... I...」"
                             ]
                         },
                         {
@@ -4084,7 +4084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Kopciuszek umarła…… i oto wreszcie spełniło się gorące\npragnienie Królewny Śnieżki.\""
+                                "「Kopciuszek umarła…… i oto wreszcie spełniło się gorące\npragnienie Królewny Śnieżki.」"
                             ]
                         },
                         {
@@ -4108,7 +4108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Dziękuję. O, prawdziwy książę Królewny Śnieżki. Czy\nudamy się na ucztę dzisiejszego wieczoru?\""
+                                "「Dziękuję. O, prawdziwy książę Królewny Śnieżki. Czy\nudamy się na ucztę dzisiejszego wieczoru?」"
                             ]
                         },
                         {
@@ -4303,7 +4303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Ugaaaah!! Gaaaaah!!\""
+                                "「Ugaaaah!! Gaaaaah!!」"
                             ]
                         },
                         {
@@ -4387,7 +4387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Gaaa!! Gaaaa!!!!\""
+                                "「Gaaa!! Gaaaa!!!!」"
                             ]
                         },
                         {

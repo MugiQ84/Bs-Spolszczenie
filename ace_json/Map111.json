@@ -136,7 +136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Hy… K-Kim jesteś…? Jesteś sługusem króla…?\""
+                                "「Hy… K-Kim jesteś…? Jesteś sługusem króla…?」"
                             ]
                         },
                         {
@@ -172,7 +172,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"\\n[1]-san…? Nigdy o tobie nie słyszałam… Ale nie jesteś\nwrogiem, prawda? Uff, dobrze…\""
+                                "「\\n[1]-san…? Nigdy o tobie nie słyszałam… Ale nie jesteś\nwrogiem, prawda? Uff, dobrze…」"
                             ]
                         },
                         {
@@ -439,7 +439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Tak... Więc inne pokojówki zginęły...\""
+                                "「Tak... Więc inne pokojówki zginęły...」"
                             ]
                         },
                         {
@@ -456,7 +456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Dziękuję za pokonanie tamtego króla. Jestem pewna, że\nwszyscy w końcu odnajdą spokój...\""
+                                "「Dziękuję za pokonanie tamtego króla. Jestem pewna, że\nwszyscy w końcu odnajdą spokój...」"
                             ]
                         },
                         {
@@ -473,7 +473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Tamten król pewnego dnia nagle pojawił się w tym\nmieście, zabił tutejszego władcę i przejął miasto...\nUstanowił egoistyczne prawa i większość miasta zamienił\nw burdel...\""
+                                "「Tamten król pewnego dnia nagle pojawił się w tym\nmieście, zabił tutejszego władcę i przejął miasto...\nUstanowił egoistyczne prawa i większość miasta zamienił\nw burdel...」"
                             ]
                         },
                         {
@@ -490,7 +490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"...Hę? Nie, nie tak... Oryginalny władca...\""
+                                "「...Hę? Nie, nie tak... Oryginalny władca...」"
                             ]
                         },
                         {
@@ -507,7 +507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Przepraszam... Zapomniałam...\""
+                                "「Przepraszam... Zapomniałam...」"
                             ]
                         },
                         {
@@ -583,7 +583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"……\""
+                                "「……」"
                             ]
                         },
                         {

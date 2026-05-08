@@ -1160,7 +1160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Wróżki rodzą się z natury. Dopóki natura istnieje,\nmogę odradzać się bez końca.\""
+                                "「Wróżki rodzą się z natury. Dopóki natura istnieje,\nmogę odradzać się bez końca.」"
                             ]
                         },
                         {
@@ -1184,7 +1184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Więc zabicie mnie nie ma sensu, nieumarły.\""
+                                "「Więc zabicie mnie nie ma sensu, nieumarły.」"
                             ]
                         },
                         {
@@ -1291,7 +1291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Jeśli raz zginiesz, wszystkie Dusze zostają na\nmiejscu. Możesz wrócić i je odzyskać, ale jeśli nie\nzdążysz i znów zginiesz, nastąpi Utrata Dusz... czyli\nwszystko pójdzie na marne.\""
+                                "「Jeśli raz zginiesz, wszystkie Dusze zostają na\nmiejscu. Możesz wrócić i je odzyskać, ale jeśli nie\nzdążysz i znów zginiesz, nastąpi Utrata Dusz... czyli\nwszystko pójdzie na marne.」"
                             ]
                         },
                         {
@@ -1315,7 +1315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Zwłaszcza w pokoju bossa, jeśli tam stracisz Dusze,\n\\C[2]nie możesz ich podnieść, dopóki nie pokonasz bossa\\C[0],\nwięc uważaj. W każdej sytuacji kluczowe jest wiedzieć,\nkiedy się wycofać.\""
+                                "「Zwłaszcza w pokoju bossa, jeśli tam stracisz Dusze,\n\\C[2]nie możesz ich podnieść, dopóki nie pokonasz bossa\\C[0],\nwięc uważaj. W każdej sytuacji kluczowe jest wiedzieć,\nkiedy się wycofać.」"
                             ]
                         },
                         {
@@ -1373,7 +1373,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Wróżki mogą się odradzać bez końca, wiesz?\""
+                                "「Wróżki mogą się odradzać bez końca, wiesz?」"
                             ]
                         },
                         {
@@ -1548,7 +1548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Gdy raz zginiesz, wszystkie Dusze zostają na miejscu.\nMożesz je odzyskać, wracając tam, ale jeśli ich nie\npodniesiesz i znowu polegniesz, nastąpi Utrata Dusz...\nczyli pójdą na marne.\""
+                                "「Gdy raz zginiesz, wszystkie Dusze zostają na miejscu.\nMożesz je odzyskać, wracając tam, ale jeśli ich nie\npodniesiesz i znowu polegniesz, nastąpi Utrata Dusz...\nczyli pójdą na marne.」"
                             ]
                         },
                         {
@@ -1572,7 +1572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Szczególnie w komnacie bossa, gdy raz zgubisz Dusze,\n\\C[2]nie zdołasz ich podnieść, dopóki nie pokonasz bossa\\C[0],\nwięc uważaj. W każdej sytuacji kluczowe jest wiedzieć,\nkiedy się wycofać.\""
+                                "「Szczególnie w komnacie bossa, gdy raz zgubisz Dusze,\n\\C[2]nie zdołasz ich podnieść, dopóki nie pokonasz bossa\\C[0],\nwięc uważaj. W każdej sytuacji kluczowe jest wiedzieć,\nkiedy się wycofać.」"
                             ]
                         },
                         {
@@ -1889,7 +1889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Leaf-chan jest dla nas, wróżek, jak przywódczyni.\""
+                                "「Leaf-chan jest dla nas, wróżek, jak przywódczyni.」"
                             ]
                         },
                         {
@@ -1913,7 +1913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Jest niewinna i nieskończenie ciekawa, na zawsze\npozostaje małą dziewczynką. Dlatego właśnie wszyscy kochają\nLeaf-chan.\""
+                                "「Jest niewinna i nieskończenie ciekawa, na zawsze\npozostaje małą dziewczynką. Dlatego właśnie wszyscy kochają\nLeaf-chan.」"
                             ]
                         },
                         {
@@ -1971,7 +1971,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Wróżki przecież mogą się odradzać bez końca, prawda?\""
+                                "「Wróżki przecież mogą się odradzać bez końca, prawda?」"
                             ]
                         },
                         {
@@ -2146,7 +2146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Leaf-chan jest przywódczynią nas, wróżek.\""
+                                "「Leaf-chan jest przywódczynią nas, wróżek.」"
                             ]
                         },
                         {
@@ -2170,7 +2170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Jest niewinna i ma niewyczerpaną ciekawość, zawsze\npozostaje małą dziewczynką. I dlatego właśnie wszyscy kochają\nLeaf-chan.\""
+                                "「Jest niewinna i ma niewyczerpaną ciekawość, zawsze\npozostaje małą dziewczynką. I dlatego właśnie wszyscy kochają\nLeaf-chan.」"
                             ]
                         },
                         {
@@ -2746,7 +2746,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Skuń, skuń\""
+                                "「Skuń, skuń」"
                             ]
                         },
                         {
@@ -2959,7 +2959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Ach, \\n[1]-san. Pan również tu jest?\""
+                                "「Ach, \\n[1]-san. Pan również tu jest?」"
                             ]
                         },
                         {
@@ -2976,7 +2976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Mnie? Prowadzę tu Bank Dusz.\""
+                                "「Mnie? Prowadzę tu Bank Dusz.」"
                             ]
                         },
                         {
@@ -2993,7 +2993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Jeśli obawia się Pan Utraty Dusz, proszę je u mnie\nzdeponować. Będę starannie zarządzać Pańskimi Duszami,\n\\n[1]-san.\""
+                                "「Jeśli obawia się Pan Utraty Dusz, proszę je u mnie\nzdeponować. Będę starannie zarządzać Pańskimi Duszami,\n\\n[1]-san.」"
                             ]
                         },
                         {
@@ -3087,7 +3087,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Cześć, \\n[1]-san! Obecnie przechowuję dla ciebie \\v[42]\ndusz!\""
+                                "「Cześć, \\n[1]-san! Obecnie przechowuję dla ciebie \\v[42]\ndusz!」"
                             ]
                         },
                         {
@@ -3138,7 +3138,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Ile chcesz zdeponować?\\$\""
+                                "「Ile chcesz zdeponować?\\$」"
                             ]
                         },
                         {
@@ -3174,7 +3174,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\"Zera nie można zdeponować! Oblicz to porządnie.\""
+                                "「Zera nie można zdeponować! Oblicz to porządnie.」"
                             ]
                         },
                         {
@@ -3217,7 +3217,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\"Przecież tyle nie masz!\""
+                                "「Przecież tyle nie masz!」"
                             ]
                         },
                         {
@@ -3288,7 +3288,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"\\v[41] dusz, tak? Zaopiekuję się nimi odpowiedzialnie!\""
+                                "「\\v[41] dusz, tak? Zaopiekuję się nimi odpowiedzialnie!」"
                             ]
                         },
                         {
@@ -3305,7 +3305,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Obecnie przechowuję \\v[42] dusz od ciebie, \\n[1].\nCzekam na kolejną wizytę!\""
+                                "「Obecnie przechowuję \\v[42] dusz od ciebie, \\n[1].\nCzekam na kolejną wizytę!」"
                             ]
                         },
                         {
@@ -3335,7 +3335,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Jeszcze niczego nie przechowuję!\""
+                                "「Jeszcze niczego nie przechowuję!」"
                             ]
                         },
                         {
@@ -3365,7 +3365,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Oj, oj... Jeśli będziesz za bardzo rozrabiał, odgryzę\nci twój cenny skarb!\""
+                                "「Oj, oj... Jeśli będziesz za bardzo rozrabiał, odgryzę\nci twój cenny skarb!」"
                             ]
                         },
                         {
@@ -3415,7 +3415,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Hej, hej! Za ladę nie wolno wchodzić!\""
+                                "「Hej, hej! Za ladę nie wolno wchodzić!」"
                             ]
                         },
                         {
@@ -3575,7 +3575,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\"Ajajaj... Już się nie mieszczą! Proszę, wypłać je\nraz.\""
+                                "「Ajajaj... Już się nie mieszczą! Proszę, wypłać je\nraz.」"
                             ]
                         },
                         {
@@ -3607,7 +3607,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Ile chcesz zdeponować?\\$\""
+                                "「Ile chcesz zdeponować?\\$」"
                             ]
                         },
                         {
@@ -3643,7 +3643,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\"Nie możesz zdeponować 0! Proszę, policz porządnie.\""
+                                "「Nie możesz zdeponować 0! Proszę, policz porządnie.」"
                             ]
                         },
                         {
@@ -3686,7 +3686,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\"Przecież nie masz aż tyle!\""
+                                "「Przecież nie masz aż tyle!」"
                             ]
                         },
                         {
@@ -3815,7 +3815,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\"Ajajaj... [1]-san, przecież już tyle nie uniesiesz!\""
+                                "「Ajajaj... [1]-san, przecież już tyle nie uniesiesz!」"
                             ]
                         },
                         {
@@ -3883,7 +3883,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\"Nie możesz wypłacić 0! Proszę, policz porządnie.\""
+                                "「Nie możesz wypłacić 0! Proszę, policz porządnie.」"
                             ]
                         },
                         {
@@ -3948,7 +3948,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\"Nie możesz mieć tyle Dusz!\""
+                                "「Nie możesz mieć tyle Dusz!」"
                             ]
                         },
                         {
@@ -4012,7 +4012,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\"Nie przechowuję aż tyle!\""
+                                "「Nie przechowuję aż tyle!」"
                             ]
                         },
                         {
@@ -4121,7 +4121,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Ojojoj... jeśli się postawisz, odgryzę ci twoje cenne\nrzeczy, wiesz?\""
+                                "「Ojojoj... jeśli się postawisz, odgryzę ci twoje cenne\nrzeczy, wiesz?」"
                             ]
                         },
                         {
@@ -4171,7 +4171,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Hej, hej! Nie możesz wchodzić za ladę!\""
+                                "「Hej, hej! Nie możesz wchodzić za ladę!」"
                             ]
                         },
                         {
@@ -4309,7 +4309,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"\\n[1]-san. Czy mógłbyś wejść za ladę?\""
+                                "「\\n[1]-san. Czy mógłbyś wejść za ladę?」"
                             ]
                         },
                         {
@@ -4421,7 +4421,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Cmok... Proszę, zostań przy mnie od teraz...♡\""
+                                "「Cmok... Proszę, zostań przy mnie od teraz...♡」"
                             ]
                         },
                         {
@@ -5029,7 +5029,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Witaj, Panie \\n[1]! Obecnie przechowuję dla Pana \\v[42]\nDusz~\""
+                                "「Witaj, Panie \\n[1]! Obecnie przechowuję dla Pana \\v[42]\nDusz~」"
                             ]
                         },
                         {
@@ -5102,7 +5102,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\"Auu auu~. Już nie mieszczą się więcej~. Proszę, wypłać\nje raz~\""
+                                "「Auu auu~. Już nie mieszczą się więcej~. Proszę, wypłać\nje raz~」"
                             ]
                         },
                         {
@@ -5134,7 +5134,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Ile Pan chce zdeponować? \\$\""
+                                "「Ile Pan chce zdeponować? \\$」"
                             ]
                         },
                         {
@@ -5170,7 +5170,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\"Nie można zdeponować zera, wiesz~? Proszę to ładnie\npoliczyć.\""
+                                "「Nie można zdeponować zera, wiesz~? Proszę to ładnie\npoliczyć.」"
                             ]
                         },
                         {
@@ -5213,7 +5213,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\"Przecież nie ma Pan tyle~?\""
+                                "「Przecież nie ma Pan tyle~?」"
                             ]
                         },
                         {
@@ -5284,7 +5284,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"\\v[41] Dusz, prawda? Wezmę za nie odpowiedzialność i\nbezpiecznie je przechowam.\""
+                                "「\\v[41] Dusz, prawda? Wezmę za nie odpowiedzialność i\nbezpiecznie je przechowam.」"
                             ]
                         },
                         {
@@ -5301,7 +5301,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Obecnie przechowuję \\v[42] Dusz od ciebie, panie \\n[1].\nZapraszam ponownie~\""
+                                "「Obecnie przechowuję \\v[42] Dusz od ciebie, panie \\n[1].\nZapraszam ponownie~」"
                             ]
                         },
                         {
@@ -5342,7 +5342,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\"Auu auu~. Pan \\n[1] nie może już tyle unieść, wiesz~?\""
+                                "「Auu auu~. Pan \\n[1] nie może już tyle unieść, wiesz~?」"
                             ]
                         },
                         {
@@ -5374,7 +5374,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Obecnie przechowuję \\v[42] Dusz, ile chce Pan wypłacić~?\n\\$\""
+                                "「Obecnie przechowuję \\v[42] Dusz, ile chce Pan wypłacić~?\n\\$」"
                             ]
                         },
                         {
@@ -5410,7 +5410,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\"Nie można wypłacić zera, wiesz~? Proszę to poprawnie\nobliczyć.\""
+                                "「Nie można wypłacić zera, wiesz~? Proszę to poprawnie\nobliczyć.」"
                             ]
                         },
                         {
@@ -5475,7 +5475,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\"Nie może Pan tyle Dusz unieść~\""
+                                "「Nie może Pan tyle Dusz unieść~」"
                             ]
                         },
                         {
@@ -5539,7 +5539,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\"Nie przechowuję tyle, wiesz~\""
+                                "「Nie przechowuję tyle, wiesz~」"
                             ]
                         },
                         {
@@ -5601,7 +5601,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"\\v[43] Dusz, prawda. Proszę bardzo!\""
+                                "「\\v[43] Dusz, prawda. Proszę bardzo!」"
                             ]
                         },
                         {
@@ -5618,7 +5618,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Obecnie przechowuję \\v[42] Dusz od Pana \\n[1]. Zapraszam\nponownie~\""
+                                "「Obecnie przechowuję \\v[42] Dusz od Pana \\n[1]. Zapraszam\nponownie~」"
                             ]
                         },
                         {
@@ -5648,7 +5648,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Nie podniecaj się za bardzo, dobrze~?\""
+                                "「Nie podniecaj się za bardzo, dobrze~?」"
                             ]
                         },
                         {
@@ -5698,7 +5698,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Wszedłeś do sklepu... Co zamierzasz zrobić? ♡\""
+                                "「Wszedłeś do sklepu... Co zamierzasz zrobić? ♡」"
                             ]
                         },
                         {
@@ -5755,7 +5755,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Nie podniecaj się za bardzo, dobrze~?\""
+                                "「Nie podniecaj się za bardzo, dobrze~?」"
                             ]
                         },
                         {
@@ -5785,7 +5785,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Już... proszę, nie każ mi mieć nadziei.\""
+                                "「Już... proszę, nie każ mi mieć nadziei.」"
                             ]
                         },
                         {
@@ -6035,7 +6035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"………\""
+                                "「………」"
                             ]
                         },
                         {
@@ -6145,7 +6145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"\\n[1]……\""
+                                "「\\n[1]……」"
                             ]
                         },
                         {
@@ -6255,7 +6255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Hej, \\n[1], podejdź tu na chwilkę.\""
+                                "「Hej, \\n[1], podejdź tu na chwilkę.」"
                             ]
                         },
                         {
@@ -6366,7 +6366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Hej, \\n[1], Elma też chce iść z tobą...\""
+                                "「Hej, \\n[1], Elma też chce iść z tobą...」"
                             ]
                         },
                         {
@@ -6392,7 +6392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Nie można...? Ale chcę się przydać, \\n[1].\""
+                                "「Nie można...? Ale chcę się przydać, \\n[1].」"
                             ]
                         },
                         {
@@ -6409,7 +6409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Znasz magię Rezonansowego Przywołania? Jeśli nasze\nserca są złączone, zawsze mogę być przy tobie.\""
+                                "「Znasz magię Rezonansowego Przywołania? Jeśli nasze\nserca są złączone, zawsze mogę być przy tobie.」"
                             ]
                         },
                         {
@@ -6426,7 +6426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Gdy będziesz miał kłopoty, chciałabym, żebyś zawołał\nElmę.\""
+                                "「Gdy będziesz miał kłopoty, chciałabym, żebyś zawołał\nElmę.」"
                             ]
                         },
                         {
@@ -6465,7 +6465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Ciekawe, czy mogłabym spotkać tatę Elmy dzięki\nrezonansowemu przywołaniu...\""
+                                "「Ciekawe, czy mogłabym spotkać tatę Elmy dzięki\nrezonansowemu przywołaniu...」"
                             ]
                         },
                         {
@@ -7131,7 +7131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Hoho, znowu się widzimy. Dziękuję za ostatnio;\nzrobiłeś dobry interes, prawda?\""
+                                "「Hoho, znowu się widzimy. Dziękuję za ostatnio;\nzrobiłeś dobry interes, prawda?」"
                             ]
                         },
                         {
@@ -7155,7 +7155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Zamierzam tu zostać, dopóki nie znajdę kolejnej rzeczy\ndo sprzedania. Cóż, liczę na ciebie!\""
+                                "「Zamierzam tu zostać, dopóki nie znajdę kolejnej rzeczy\ndo sprzedania. Cóż, liczę na ciebie!」"
                             ]
                         },
                         {
@@ -7262,7 +7262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Przepraszam... Jaki jest twój związek z tą\ndziewczyną... Elmą?\""
+                                "「Przepraszam... Jaki jest twój związek z tą\ndziewczyną... Elmą?」"
                             ]
                         },
                         {
@@ -7306,7 +7306,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"C-co takiego...!? Nie... cóż, jeśli moja córka mówi,\nże tak jest w porządku, to nie mam nic przeciwko...\""
+                                "「C-co takiego...!? Nie... cóż, jeśli moja córka mówi,\nże tak jest w porządku, to nie mam nic przeciwko...」"
                             ]
                         },
                         {
@@ -7343,7 +7343,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"...Oczywiście. Jednak ja, nieodpowiedzialny, który\nopuścił dom, nie mogę teraz nagle spotykać się z nią,\nudając ojca.\""
+                                "「...Oczywiście. Jednak ja, nieodpowiedzialny, który\nopuścił dom, nie mogę teraz nagle spotykać się z nią,\nudając ojca.」"
                             ]
                         },
                         {
@@ -7380,7 +7380,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Rozumiem...\""
+                                "「Rozumiem...」"
                             ]
                         },
                         {
@@ -7414,7 +7414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"W każdym razie dobrze, że Erma jest cała i zdrowa. W\ntym lesie chyba nie zaatakują jej magiczne bestie.\""
+                                "「W każdym razie dobrze, że Erma jest cała i zdrowa. W\ntym lesie chyba nie zaatakują jej magiczne bestie.」"
                             ]
                         },
                         {
@@ -7438,7 +7438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Proszę, zaopiekuj się Elmą.\""
+                                "「Proszę, zaopiekuj się Elmą.」"
                             ]
                         },
                         {
@@ -8000,7 +8000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"……Tak, w takim razie następne pytanie!\""
+                                "「……Tak, w takim razie następne pytanie!」"
                             ]
                         },
                         {
@@ -8017,7 +8017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Jeśli 32 osoby mają po 7200 Dusz, ile to będzie\nrazem?\""
+                                "「Jeśli 32 osoby mają po 7200 Dusz, ile to będzie\nrazem?」"
                             ]
                         },
                         {
@@ -8034,7 +8034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Eeeto...\""
+                                "「Eeeto...」"
                             ]
                         },
                         {
@@ -8051,7 +8051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"…Razem to chyba 230400 Dusz…?\""
+                                "「…Razem to chyba 230400 Dusz…?」"
                             ]
                         },
                         {
@@ -8077,7 +8077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Poprawnie! Elma-chan, niesamowite!\""
+                                "「Poprawnie! Elma-chan, niesamowite!」"
                             ]
                         },
                         {
@@ -8103,7 +8103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Ehehe~\""
+                                "「Ehehe~」"
                             ]
                         },
                         {
@@ -8166,7 +8166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Oh, \\n[1]-san. Właśnie uczę Erumę-chan arytmetyki. To\ndziecko ma prawdziwy talent kupiecki!\""
+                                "「Oh, \\n[1]-san. Właśnie uczę Erumę-chan arytmetyki. To\ndziecko ma prawdziwy talent kupiecki!」"
                             ]
                         },
                         {
@@ -8183,7 +8183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Jak dorosnę, chcę mieć sklep jak Goose-san…\""
+                                "「Jak dorosnę, chcę mieć sklep jak Goose-san…」"
                             ]
                         },
                         {
@@ -8219,7 +8219,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Tak, nie możesz się doczekać… prawda?\""
+                                "「Tak, nie możesz się doczekać… prawda?」"
                             ]
                         },
                         {
@@ -8249,7 +8249,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Ehehe~, będę się starać…\""
+                                "「Ehehe~, będę się starać…」"
                             ]
                         },
                         {

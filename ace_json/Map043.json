@@ -3026,7 +3026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Ach, ty... ty tam! Błagam... uratuj mnie...!\""
+                                "「Ach, ty... ty tam! Błagam... uratuj mnie...!」"
                             ]
                         },
                         {
@@ -3050,7 +3050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Śmiertelnie jadowite motyle mnie dopadły... ledwo mogę\nruszać ciałem. Hej, ty... przyniesiesz mi \\c[2]Zioło\nOdtruwające\\c[0] i \\c[2]Zioło Lecznicze\\c[0]?\""
+                                "「Śmiertelnie jadowite motyle mnie dopadły... ledwo mogę\nruszać ciałem. Hej, ty... przyniesiesz mi \\c[2]Zioło\nOdtruwające\\c[0] i \\c[2]Zioło Lecznicze\\c[0]?」"
                             ]
                         },
                         {
@@ -3074,7 +3074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Pospiesz się... bo tak umrę...! ekhm... kh...\""
+                                "「Pospiesz się... bo tak umrę...! ekhm... kh...」"
                             ]
                         },
                         {
@@ -3157,7 +3157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Kaszlnięcie… \\c[2]Zioło Odtrutki\\c[0] i \\c[2]Zioło Lecznicze\\c[0]\nprzyniosłeś?\""
+                                "「Kaszlnięcie… \\c[2]Zioło Odtrutki\\c[0] i \\c[2]Zioło Lecznicze\\c[0]\nprzyniosłeś?」"
                             ]
                         },
                         {
@@ -3237,7 +3237,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\"U-uratowałeś mnie… He he, jesteś dobrym gościem. Długo\npożyjesz.\""
+                                "「U-uratowałeś mnie… He he, jesteś dobrym gościem. Długo\npożyjesz.」"
                             ]
                         },
                         {
@@ -3261,7 +3261,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\"To w podzięce. Zatrzymaj to.\""
+                                "「To w podzięce. Zatrzymaj to.」"
                             ]
                         },
                         {
@@ -3334,7 +3334,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\"Nie masz tego, co?! Szybko, idź to przynieść!\""
+                                "「Nie masz tego, co?! Szybko, idź to przynieść!」"
                             ]
                         },
                         {
@@ -3358,7 +3358,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\"Ach… P-przepraszam… N-no… Błagam, nie porzucaj mnie…\nJeszcze nie chcę umierać…\""
+                                "「Ach… P-przepraszam… N-no… Błagam, nie porzucaj mnie…\nJeszcze nie chcę umierać…」"
                             ]
                         },
                         {
@@ -3402,7 +3402,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Nie masz tego, co?! Szybko, idź to przynieść!\""
+                                "「Nie masz tego, co?! Szybko, idź to przynieść!」"
                             ]
                         },
                         {
@@ -3426,7 +3426,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Ach… P-przepraszam… N-no… Błagam, nie porzucaj mnie…\nJeszcze nie chcę umierać…\""
+                                "「Ach… P-przepraszam… N-no… Błagam, nie porzucaj mnie…\nJeszcze nie chcę umierać…」"
                             ]
                         },
                         {
@@ -3473,7 +3473,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"!? Ty, chyba nie…!\""
+                                "「!? Ty, chyba nie…!」"
                             ]
                         },
                         {
@@ -3504,7 +3504,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Uuugh…\""
+                                "「Uuugh…」"
                             ]
                         },
                         {
@@ -3601,7 +3601,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"C-czekaj… Błagam, nie porzucaj mnie… Jeszcze nie chcę\numierać… Dam ci nagrodę, proszę…\""
+                                "「C-czekaj… Błagam, nie porzucaj mnie… Jeszcze nie chcę\numierać… Dam ci nagrodę, proszę…」"
                             ]
                         },
                         {
@@ -3686,7 +3686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Kto by pomyślał, że w takiej opuszczonej kopalni\nzagnieżdżą się potwory… Ech, teraz to chyba wszędzie\njest ich pełno…\""
+                                "「Kto by pomyślał, że w takiej opuszczonej kopalni\nzagnieżdżą się potwory… Ech, teraz to chyba wszędzie\njest ich pełno…」"
                             ]
                         },
                         {
@@ -3710,7 +3710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Jeszcze trochę dojdę do siebie i spadam z tego\nponurego miejsca. Mam nadzieję, że kiedyś gdzieś\njeszcze na siebie wpadniemy\""
+                                "「Jeszcze trochę dojdę do siebie i spadam z tego\nponurego miejsca. Mam nadzieję, że kiedyś gdzieś\njeszcze na siebie wpadniemy」"
                             ]
                         },
                         {
@@ -4503,7 +4503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Dokonywanie wyborów jest ważne\""
+                                "「Dokonywanie wyborów jest ważne」"
                             ]
                         },
                         {
@@ -4520,7 +4520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Pomóc, czy nie pomóc…… Przebaczyć, czy nie\nprzebaczyć……\""
+                                "「Pomóc, czy nie pomóc…… Przebaczyć, czy nie\nprzebaczyć……」"
                             ]
                         },
                         {
@@ -4537,7 +4537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Tylko ty możesz wybierać, wiesz\""
+                                "「Tylko ty możesz wybierać, wiesz」"
                             ]
                         },
                         {

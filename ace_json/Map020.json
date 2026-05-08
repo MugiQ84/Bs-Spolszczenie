@@ -3065,7 +3065,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Ach, \\N[1]. Znalazłeś ważny drogowskaz, co? Biedactwa,\none już pewnie nigdy nie wrócą.\""
+                                "「Ach, \\N[1]. Znalazłeś ważny drogowskaz, co? Biedactwa,\none już pewnie nigdy nie wrócą.」"
                             ]
                         },
                         {
@@ -3082,7 +3082,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"W każdym razie, w tym stanie to już chyba za późno…?\nChichocze…♡\""
+                                "「W każdym razie, w tym stanie to już chyba za późno…?\nChichocze…♡」"
                             ]
                         },
                         {
@@ -3117,7 +3117,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Ogniska są przydatne. Można dzięki nim dotrzeć w wiele\nmiejsc i leczyć rany. Zawsze warto je zapalić.\""
+                                "「Ogniska są przydatne. Można dzięki nim dotrzeć w wiele\nmiejsc i leczyć rany. Zawsze warto je zapalić.」"
                             ]
                         },
                         {
@@ -3134,7 +3134,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Taki wygodny świat też daje do myślenia, co nie?~\""
+                                "「Taki wygodny świat też daje do myślenia, co nie?~」"
                             ]
                         },
                         {
@@ -3212,7 +3212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Ogniska są naprawdę wygodne. Pozwalają dotrzeć w różne\nmiejsca, a także leczyć rany. Zawsze warto je\nrozpalić.\""
+                                "「Ogniska są naprawdę wygodne. Pozwalają dotrzeć w różne\nmiejsca, a także leczyć rany. Zawsze warto je\nrozpalić.」"
                             ]
                         },
                         {
@@ -3229,7 +3229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Wygodny świat to też coś, nad czym warto się\nzastanowić, co nie?\""
+                                "「Wygodny świat to też coś, nad czym warto się\nzastanowić, co nie?」"
                             ]
                         },
                         {
@@ -3297,7 +3297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Ogniska są naprawdę wygodne. Pozwalają dotrzeć w różne\nmiejsca, a także leczyć rany. Zawsze warto je\nrozpalić.\""
+                                "「Ogniska są naprawdę wygodne. Pozwalają dotrzeć w różne\nmiejsca, a także leczyć rany. Zawsze warto je\nrozpalić.」"
                             ]
                         },
                         {
@@ -3314,7 +3314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Wygodny świat to też coś, nad czym warto się\nzastanowić, co nie?\""
+                                "「Wygodny świat to też coś, nad czym warto się\nzastanowić, co nie?」"
                             ]
                         },
                         {

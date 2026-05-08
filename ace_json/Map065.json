@@ -1141,7 +1141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Co to za!? Stąd dalej przebywa Rapunzel-sama!\""
+                                "「Co to za!? Stąd dalej przebywa Rapunzel-sama!」"
                             ]
                         },
                         {
@@ -1165,7 +1165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Nie jesteś godzien spotkać Rapunzel-sama! Chyba że\ndasz \\c[2]30000 Dusz\\c[0] – wtedy pogadamy!\\$\""
+                                "「Nie jesteś godzien spotkać Rapunzel-sama! Chyba że\ndasz \\c[2]30000 Dusz\\c[0] – wtedy pogadamy!\\$」"
                             ]
                         },
                         {
@@ -1227,7 +1227,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Hmf! Spora suma Dusz, nie? Przejście wolne! I pamiętaj\no szacunku wobec Rapunzel-sama!\""
+                                "「Hmf! Spora suma Dusz, nie? Przejście wolne! I pamiętaj\no szacunku wobec Rapunzel-sama!」"
                             ]
                         },
                         {
@@ -1277,7 +1277,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Za mało Dusz! Kpisz sobie ze mnie?!\""
+                                "「Za mało Dusz! Kpisz sobie ze mnie?!」"
                             ]
                         },
                         {
@@ -1381,7 +1381,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Rapunzel-sama... Banzaaai!\""
+                                "「Rapunzel-sama... Banzaaai!」"
                             ]
                         },
                         {
@@ -1461,7 +1461,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Wynoś się stąd!\""
+                                "「Wynoś się stąd!」"
                             ]
                         },
                         {
@@ -1708,7 +1708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Guh... uhh... Tak ogromnej bestii... jeszcze nie\nwidziałem...\""
+                                "「Guh... uhh... Tak ogromnej bestii... jeszcze nie\nwidziałem...」"
                             ]
                         },
                         {
@@ -1732,7 +1732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Wszyscy, wszyscy zostali pożarci... Rapunzel-sama...\nproszę uciekać...\""
+                                "「Wszyscy, wszyscy zostali pożarci... Rapunzel-sama...\nproszę uciekać...」"
                             ]
                         },
                         {

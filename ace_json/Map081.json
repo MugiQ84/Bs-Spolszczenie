@@ -1721,7 +1721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"N-nagle na mnie napadasz! Pomocy!\""
+                                "「N-nagle na mnie napadasz! Pomocy!」"
                             ]
                         },
                         {
@@ -1780,7 +1780,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Gah……. Ty też jesteś szaleńcem……\""
+                                "「Gah……. Ty też jesteś szaleńcem……」"
                             ]
                         },
                         {
@@ -1921,7 +1921,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Hehe… Wspaniale……\""
+                                "「Hehe… Wspaniale……」"
                             ]
                         },
                         {
@@ -2463,7 +2463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Och, Waszmość. Znowu się spotykamy. Wasz sługa dotarł\nwreszcie do Raju.\""
+                                "「Och, Waszmość. Znowu się spotykamy. Wasz sługa dotarł\nwreszcie do Raju.」"
                             ]
                         },
                         {
@@ -2487,7 +2487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Zda się, iż spoczywa tu \\c[2]skarb\\c[0]. Waszmość,\nwspółzawodniczmy. Zakład: kto pierwszy go odnajdzie.\""
+                                "「Zda się, iż spoczywa tu \\c[2]skarb\\c[0]. Waszmość,\nwspółzawodniczmy. Zakład: kto pierwszy go odnajdzie.」"
                             ]
                         },
                         {
@@ -2511,7 +2511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Jeśli wcześniej znajdę skarb, odstąpię go Waszmości.\nAch, zdaje się, nikt nas nie goni. Swobodnie więc\nprzystąpmy.\""
+                                "「Jeśli wcześniej znajdę skarb, odstąpię go Waszmości.\nAch, zdaje się, nikt nas nie goni. Swobodnie więc\nprzystąpmy.」"
                             ]
                         },
                         {
@@ -2582,7 +2582,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Gach... Waszmość także szaleńcem jesteś...\""
+                                "「Gach... Waszmość także szaleńcem jesteś...」"
                             ]
                         },
                         {
@@ -3101,7 +3101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Giń! Ty skurwysynu!\""
+                                "「Giń! Ty skurwysynu!」"
                             ]
                         },
                         {
@@ -3125,7 +3125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Och! Mój panie! P-pomocy! Proszę, ratunku!\""
+                                "「Och! Mój panie! P-pomocy! Proszę, ratunku!」"
                             ]
                         },
                         {

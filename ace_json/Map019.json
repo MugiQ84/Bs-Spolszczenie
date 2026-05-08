@@ -1098,7 +1098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Te wróżki kompletnie przesadzają z tymi psotami. Ile\nby nie jeść, to i tak nie ma końca, a na dodatek\nsmakuje paskudnie.\""
+                                "「Te wróżki kompletnie przesadzają z tymi psotami. Ile\nby nie jeść, to i tak nie ma końca, a na dodatek\nsmakuje paskudnie.」"
                             ]
                         },
                         {
@@ -1205,7 +1205,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Ufufu♡ Zrobię ci ich tyle, ile tylko zechcesz.\""
+                                "「Ufufu♡ Zrobię ci ich tyle, ile tylko zechcesz.」"
                             ]
                         },
                         {
@@ -1239,7 +1239,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Brak ci Dusz, nędzniku.\""
+                                "「Brak ci Dusz, nędzniku.」"
                             ]
                         },
                         {
@@ -1301,7 +1301,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Taki nędznik... n-niemożliwe...\""
+                                "「Taki nędznik... n-niemożliwe...」"
                             ]
                         },
                         {
@@ -1402,7 +1402,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Jeśli będziesz mieć ochotę, wpadnij ponownie.\""
+                                "「Jeśli będziesz mieć ochotę, wpadnij ponownie.」"
                             ]
                         },
                         {
@@ -1487,7 +1487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Och, dałeś popalić tym elfom. Gdy umierają, tracą\npamięć, więc to takie wygodne stworzenia, nie sądzisz?\""
+                                "「Och, dałeś popalić tym elfom. Gdy umierają, tracą\npamięć, więc to takie wygodne stworzenia, nie sądzisz?」"
                             ]
                         },
                         {
@@ -1594,7 +1594,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Ufufufu♡ Zrobię ich dla ciebie tyle, ile tylko\nzechcesz.\""
+                                "「Ufufufu♡ Zrobię ich dla ciebie tyle, ile tylko\nzechcesz.」"
                             ]
                         },
                         {
@@ -1628,7 +1628,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Chyba ci brakuje Dusz, żebraku.\""
+                                "「Chyba ci brakuje Dusz, żebraku.」"
                             ]
                         },
                         {
@@ -1690,7 +1690,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Taki żebrak jak ty... Nie, to niemożliwe...\""
+                                "「Taki żebrak jak ty... Nie, to niemożliwe...」"
                             ]
                         },
                         {
@@ -1791,7 +1791,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Jeśli będziesz miał ochotę, możesz przyjść znowu.\""
+                                "「Jeśli będziesz miał ochotę, możesz przyjść znowu.」"
                             ]
                         },
                         {
@@ -1891,7 +1891,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Ach... Przypomniałem sobie... Dlaczego tak bardzo\nnienawidzę wróżek...\""
+                                "「Ach... Przypomniałem sobie... Dlaczego tak bardzo\nnienawidzę wróżek...」"
                             ]
                         },
                         {
@@ -1915,7 +1915,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Przecież ten drań...\""
+                                "「Przecież ten drań...」"
                             ]
                         },
                         {
@@ -2141,7 +2141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Kaszl... kaszl...\""
+                                "「Kaszl... kaszl...」"
                             ]
                         },
                         {
@@ -2165,7 +2165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Och, poszukiwaczu przygód, jak widzę. Dobrze ci się\noddycha w tym lesie pełnym śmieci, co?\""
+                                "「Och, poszukiwaczu przygód, jak widzę. Dobrze ci się\noddycha w tym lesie pełnym śmieci, co?」"
                             ]
                         },
                         {
@@ -2189,7 +2189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Wybacz spóźnione przedstawienie. Jam jest Adaman z\nAndoru. Oto znak naszej znajomości...\""
+                                "「Wybacz spóźnione przedstawienie. Jam jest Adaman z\nAndoru. Oto znak naszej znajomości...」"
                             ]
                         },
                         {
@@ -2293,7 +2293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Tak tak. W tym lesie podobno są \\c[2]mówiące kwiaty\\C[0]...\""
+                                "「Tak tak. W tym lesie podobno są \\c[2]mówiące kwiaty\\C[0]...」"
                             ]
                         },
                         {
@@ -2317,7 +2317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Wydaje się, że mają niesamowicie agresywny śluz, który\npotrafi rozpuścić nawet zbroję. Ty również powinieneś\nuważać, drogi panie.\""
+                                "「Wydaje się, że mają niesamowicie agresywny śluz, który\npotrafi rozpuścić nawet zbroję. Ty również powinieneś\nuważać, drogi panie.」"
                             ]
                         },
                         {
@@ -2361,7 +2361,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Zaginione Imperium... Słyszałem o nim. Podobno kiedyś\nbyło to tętniące życiem zamczysko, ale przez szaleństwo\nkrólowej stało się teraz zamkiem plugawych bestii.\""
+                                "「Zaginione Imperium... Słyszałem o nim. Podobno kiedyś\nbyło to tętniące życiem zamczysko, ale przez szaleństwo\nkrólowej stało się teraz zamkiem plugawych bestii.」"
                             ]
                         },
                         {
@@ -2385,7 +2385,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Ach, cóż, ja z kolei mam inny cel, ale jako towarzysz\nprzygód, dobrze byłoby móc sobie nawzajem pomagać.\""
+                                "「Ach, cóż, ja z kolei mam inny cel, ale jako towarzysz\nprzygód, dobrze byłoby móc sobie nawzajem pomagać.」"
                             ]
                         },
                         {
@@ -2409,7 +2409,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Tak tak, jeśli zauważysz \\C[2]mgłę\\C[0], bądź ostrożny. Mgła\njest znakiem ostrzegawczym i może oznaczać, że \\C[2]czeka\ntam na ciebie potężny wróg\\C[0].\""
+                                "「Tak tak, jeśli zauważysz \\C[2]mgłę\\C[0], bądź ostrożny. Mgła\njest znakiem ostrzegawczym i może oznaczać, że \\C[2]czeka\ntam na ciebie potężny wróg\\C[0].」"
                             ]
                         },
                         {
@@ -2461,7 +2461,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Ghu...!\""
+                                "「Ghu...!」"
                             ]
                         },
                         {
@@ -2613,7 +2613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Słyszałem, że zabiłeś \\c[2]Mówiący Kwiat\\C[0].\""
+                                "「Słyszałem, że zabiłeś \\c[2]Mówiący Kwiat\\C[0].」"
                             ]
                         },
                         {
@@ -2637,7 +2637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Dzięki temu las ten spokój zaznał. Tyś jest bohaterem!\nHa, ha, ha.\""
+                                "「Dzięki temu las ten spokój zaznał. Tyś jest bohaterem!\nHa, ha, ha.」"
                             ]
                         },
                         {
@@ -2681,7 +2681,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Zaginione Imperium... Słyszałem o nim. Niegdyś\ntętniący życiem zamek, ale przez obłęd królowej teraz\nstał się zamkiem bestii, podobno.\""
+                                "「Zaginione Imperium... Słyszałem o nim. Niegdyś\ntętniący życiem zamek, ale przez obłęd królowej teraz\nstał się zamkiem bestii, podobno.」"
                             ]
                         },
                         {
@@ -2705,7 +2705,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Cóż, zmierzam w inne strony, ale jako koledzy po\nfachu, dobrze by było współpracować.\""
+                                "「Cóż, zmierzam w inne strony, ale jako koledzy po\nfachu, dobrze by było współpracować.」"
                             ]
                         },
                         {
@@ -2729,7 +2729,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Ach, tak, gdy ujrzysz \\C[2]mgłę\\C[0], zachowaj czujność. Mgła to\nznak ostrzeżenia, a za nią może czekać \\C[2]potężny wróg\\C[0].\""
+                                "「Ach, tak, gdy ujrzysz \\C[2]mgłę\\C[0], zachowaj czujność. Mgła to\nznak ostrzeżenia, a za nią może czekać \\C[2]potężny wróg\\C[0].」"
                             ]
                         },
                         {
@@ -2781,7 +2781,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Ugh...!\""
+                                "「Ugh...!」"
                             ]
                         },
                         {

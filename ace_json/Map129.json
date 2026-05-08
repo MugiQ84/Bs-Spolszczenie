@@ -1123,7 +1123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"I... Boli! Boli! Przestańcie...! Co wam nagle\nodbiło... Nie poznajecie mnie!?\""
+                                "「I... Boli! Boli! Przestańcie...! Co wam nagle\nodbiło... Nie poznajecie mnie!?」"
                             ]
                         },
                         {
@@ -1181,7 +1181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"\\n[1]!\""
+                                "「\\n[1]!」"
                             ]
                         },
                         {
@@ -1286,7 +1286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Pomocy!\""
+                                "「Pomocy!」"
                             ]
                         },
                         {
@@ -2010,7 +2010,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Dziękuję, \\n[1].... Wierzyłem, że przyjdziesz...\""
+                                "「Dziękuję, \\n[1].... Wierzyłem, że przyjdziesz...」"
                             ]
                         },
                         {
@@ -2027,7 +2027,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Hej... co to jest...? Nasz las nagle oszalał... Nic\nnie rozumiem...\""
+                                "「Hej... co to jest...? Nasz las nagle oszalał... Nic\nnie rozumiem...」"
                             ]
                         },
                         {
@@ -2053,7 +2053,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"To sprawka Mary Sue...? ...Mary Sue to ta, która\nstworzyła ten święty las.\""
+                                "「To sprawka Mary Sue...? ...Mary Sue to ta, która\nstworzyła ten święty las.」"
                             ]
                         },
                         {
@@ -2070,7 +2070,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Ten las odpycha mgłę i magiczne bestie dzięki\nbłogosławieństwu Mary Sue... Sam jej nie spotkałem...\nale mówiła mi o tym mama.\""
+                                "「Ten las odpycha mgłę i magiczne bestie dzięki\nbłogosławieństwu Mary Sue... Sam jej nie spotkałem...\nale mówiła mi o tym mama.」"
                             ]
                         },
                         {
@@ -2096,7 +2096,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Więc to ta bogini za tym stoi... Będę z tobą do samego\nkońca, \\n[1]!\""
+                                "「Więc to ta bogini za tym stoi... Będę z tobą do samego\nkońca, \\n[1]!」"
                             ]
                         },
                         {
@@ -2113,7 +2113,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Ciało? Nic mi nie jest. Chodźmy...?\""
+                                "「Ciało? Nic mi nie jest. Chodźmy...?」"
                             ]
                         },
                         {

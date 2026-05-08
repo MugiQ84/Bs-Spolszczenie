@@ -4300,7 +4300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"C-Co ty?! Zawartość tej skrzyni jest moja!\""
+                                "「C-Co ty?! Zawartość tej skrzyni jest moja!」"
                             ]
                         },
                         {
@@ -4324,7 +4324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Legendarne ostrze, które podobno pokonało niegdyś\nwielką latającą bestię. \\c[2]Storm Ruler.\\c[0] Jeśli naprawdę\ntego pragniesz, przygotuj 50000 Dusze.\""
+                                "「Legendarne ostrze, które podobno pokonało niegdyś\nwielką latającą bestię. \\c[2]Storm Ruler.\\c[0] Jeśli naprawdę\ntego pragniesz, przygotuj 50000 Dusze.」"
                             ]
                         },
                         {
@@ -4469,7 +4469,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Oho! W porządku. Od dziś jest twój.\""
+                                "「Oho! W porządku. Od dziś jest twój.」"
                             ]
                         },
                         {
@@ -4523,7 +4523,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Ha... biedak...\""
+                                "「Ha... biedak...」"
                             ]
                         },
                         {
@@ -4577,7 +4577,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Ugh...! Nie...\""
+                                "「Ugh...! Nie...」"
                             ]
                         },
                         {
@@ -4601,7 +4601,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"P-przepraszam... Elma...\""
+                                "「P-przepraszam... Elma...」"
                             ]
                         },
                         {
@@ -4685,7 +4685,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Ha... biedak...\""
+                                "「Ha... biedak...」"
                             ]
                         },
                         {
@@ -4770,7 +4770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Hmm, mogło być trochę drożej... O, ty. Jeszcze tu\njesteś? Nie mam już do ciebie sprawy.\""
+                                "「Hmm, mogło być trochę drożej... O, ty. Jeszcze tu\njesteś? Nie mam już do ciebie sprawy.」"
                             ]
                         },
                         {
@@ -4833,7 +4833,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Guhh...! Nie...!\""
+                                "「Guhh...! Nie...!」"
                             ]
                         },
                         {
@@ -4857,7 +4857,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"P-przepraszam... Elma...\""
+                                "「P-przepraszam... Elma...」"
                             ]
                         },
                         {

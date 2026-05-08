@@ -83,7 +83,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Witaj\""
+                                "「Witaj」"
                             ]
                         },
                         {
@@ -109,7 +109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Tak, mówię do ciebie. Gratulacje. Zostałeś wybrany na\nbohatera tej opowieści.\""
+                                "「Tak, mówię do ciebie. Gratulacje. Zostałeś wybrany na\nbohatera tej opowieści.」"
                             ]
                         },
                         {
@@ -126,7 +126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Jestem Alicja. Najpierw proszę, podaj mi swoje imię.\""
+                                "「Jestem Alicja. Najpierw proszę, podaj mi swoje imię.」"
                             ]
                         },
                         {
@@ -193,7 +193,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Ach… Grimm-sama… A więc pamiętasz…?\""
+                                "「Ach… Grimm-sama… A więc pamiętasz…?」"
                             ]
                         },
                         {
@@ -210,7 +210,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Jestem…\""
+                                "「Jestem…」"
                             ]
                         },
                         {
@@ -290,7 +290,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Ojej? Myślałam, że zmieniłam ci wspomnienia…\""
+                                "「Ojej? Myślałam, że zmieniłam ci wspomnienia…」"
                             ]
                         },
                         {
@@ -314,7 +314,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"No cóż, zawsze można zacząć od nowa~\""
+                                "「No cóż, zawsze można zacząć od nowa~」"
                             ]
                         },
                         {
@@ -376,7 +376,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Przepraszam. Jeszcze raz, jeśli można?\""
+                                "「Przepraszam. Jeszcze raz, jeśli można?」"
                             ]
                         },
                         {
@@ -513,7 +513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"\\N[1]-san. To dobre imię. Tak, uważam, że jest bardzo\nładne.\""
+                                "「\\N[1]-san. To dobre imię. Tak, uważam, że jest bardzo\nładne.」"
                             ]
                         },
                         {
@@ -530,7 +530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"A teraz, wybierz swoje pochodzenie.\""
+                                "「A teraz, wybierz swoje pochodzenie.」"
                             ]
                         },
                         {
@@ -1092,7 +1092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Hmm. I co? To tylko tymczasowy wygląd, ale na teraz\nwystarczy. Mam nadzieję, że przypadnie ci do gustu.\""
+                                "「Hmm. I co? To tylko tymczasowy wygląd, ale na teraz\nwystarczy. Mam nadzieję, że przypadnie ci do gustu.」"
                             ]
                         },
                         {
@@ -1141,7 +1141,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"W takim razie jeszcze raz.\""
+                                "「W takim razie jeszcze raz.」"
                             ]
                         },
                         {
@@ -1331,7 +1331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"To dobrze. W takim razie mam dla ciebie prezent.\""
+                                "「To dobrze. W takim razie mam dla ciebie prezent.」"
                             ]
                         },
                         {
@@ -1357,7 +1357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Proszę, wybierz jeden z nich.\""
+                                "「Proszę, wybierz jeden z nich.」"
                             ]
                         },
                         {
@@ -1494,7 +1494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Ufufu, używaj go z troską.\""
+                                "「Ufufu, używaj go z troską.」"
                             ]
                         },
                         {
@@ -1518,7 +1518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Następne pytanie to, uh……\n\\! Czy interesujesz się aktami cielesnymi?\""
+                                "「Następne pytanie to, uh……\n\\! Czy interesujesz się aktami cielesnymi?」"
                             ]
                         },
                         {
@@ -1563,7 +1563,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Ojejku……Jesteś mężczyzną,\n więc to oczywiste, prawda?\""
+                                "「Ojejku……Jesteś mężczyzną,\n więc to oczywiste, prawda?」"
                             ]
                         },
                         {
@@ -1611,7 +1611,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Och, jesteś jednak dość niewinny. Fufufu.\""
+                                "「Och, jesteś jednak dość niewinny. Fufufu.」"
                             ]
                         },
                         {
@@ -1703,7 +1703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"……Wygląda na to, że pora rozsunąć kurtyny.\nInnymi słowy……zacząć tą opowieść.\""
+                                "「……Wygląda na to, że pora rozsunąć kurtyny.\nInnymi słowy……zacząć tą opowieść.」"
                             ]
                         },
                         {
@@ -1720,7 +1720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"\\n[1]-san. Jesteś bohaterem tej opowieści.\n……Proszę, nie poddawaj się do samego końca.\""
+                                "「\\n[1]-san. Jesteś bohaterem tej opowieści.\n……Proszę, nie poddawaj się do samego końca.」"
                             ]
                         },
                         {
@@ -1751,7 +1751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"To na razie wszystko z mojej strony.\""
+                                "「To na razie wszystko z mojej strony.」"
                             ]
                         },
                         {
@@ -1768,7 +1768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Do zobaczenia.\""
+                                "「Do zobaczenia.」"
                             ]
                         },
                         {

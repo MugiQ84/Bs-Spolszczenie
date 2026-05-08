@@ -328,7 +328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Hej, hej! Ty, ty! Daj mi polizać!\""
+                                "「Hej, hej! Ty, ty! Daj mi polizać!」"
                             ]
                         },
                         {
@@ -345,7 +345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Daj mi coś bardzo słodkiego! Liź, liź! Liź, liź!\""
+                                "「Daj mi coś bardzo słodkiego! Liź, liź! Liź, liź!」"
                             ]
                         },
                         {
@@ -369,7 +369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"I znów daj mi polizać!\""
+                                "「I znów daj mi polizać!」"
                             ]
                         },
                         {
