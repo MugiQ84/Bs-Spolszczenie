@@ -1913,7 +1913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Jest niewinna i nieskończenie ciekawa, na zawsze\npozostaje dziewczynką. Dlatego właśnie wszyscy kochają\nLeaf-chan.\""
+                                "\"Jest niewinna i nieskończenie ciekawa, na zawsze\npozostaje małą dziewczynką. Dlatego właśnie wszyscy kochają\nLeaf-chan.\""
                             ]
                         },
                         {
@@ -2170,7 +2170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Jest niewinna i ma niewyczerpaną ciekawość, zawsze\npozostaje dziewczynką. I dlatego właśnie wszyscy lubią\nLeaf-chan.\""
+                                "\"Jest niewinna i ma niewyczerpaną ciekawość, zawsze\npozostaje małą dziewczynką. I dlatego właśnie wszyscy kochają\nLeaf-chan.\""
                             ]
                         },
                         {
@@ -3305,7 +3305,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Obecnie przechowuję \\v[42] dusz od ciebie, \\n[1]-san.\nCzekam na kolejną wizytę!\""
+                                "\"Obecnie przechowuję \\v[42] dusz od ciebie, \\n[1].\nCzekam na kolejną wizytę!\""
                             ]
                         },
                         {
@@ -3774,7 +3774,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\\"Obecnie przechowuję od \\n[1]-san \\v[42] Dusze. Zapraszam\nponownie!\\\""
+                                "\\\"Obecnie przechowuję od ciebie, panie \\n[1]-san \\v[42] Dusze. Zapraszam\nponownie!\\\""
                             ]
                         },
                         {
@@ -4091,7 +4091,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\\"Obecnie przechowuję od \\n[1]-san \\v[42] Dusze. Zapraszam\nponownie!\\\""
+                                "\\\"Obecnie przechowuję od ciebie \\n[1]-san \\v[42] Dusze. Zapraszam\nponownie!\\\""
                             ]
                         },
                         {
@@ -4735,7 +4735,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Obecnie przechowuję \\v[42] Dusz od \\n[1]-san. Czekam na\nkolejne odwiedziny~"
+                                "Obecnie przechowuję \\v[42] Dusz od ciebie, panie \\n[1].\nCzekam na kolejne odwiedziny~"
                             ]
                         },
                         {
@@ -4845,7 +4845,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Wchodzisz do środka... Co zamierzasz zrobić?♡"
+                                "Wchodziąc z tej strony...\nCo planujesz słodziaku?♡"
                             ]
                         },
                         {
@@ -5301,7 +5301,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Obecnie przechowuję \\v[42] Dusz od Pana \\n[1]. Zapraszam\nponownie~\""
+                                "\"Obecnie przechowuję \\v[42] Dusz od ciebie, panie \\n[1].\nZapraszam ponownie~\""
                             ]
                         },
                         {
@@ -6542,7 +6542,7 @@
                             "parameters": [
                                 [
                                     "Przekaż Dusze",
-                                    "Kup mecz",
+                                    "Kup Zapałki",
                                     "Zgwałć",
                                     "Odejdź"
                                 ],
@@ -6591,7 +6591,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Wspaniała Zapałki♪ Zapałki dla Ciebie♪ ... ehe,\nułożyłam piosenkę o Zapałkach..."
+                                "Wspaniałe Zapałki♪ Zapałki dla Ciebie♪ \n……hihi, Elma ułożyła piosenkę o Zapałkach..."
                             ]
                         },
                         {
@@ -6630,7 +6630,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Tutejsza wróżka pomaga mi z materiałami dla Zapałekー……"
+                                "Tutejsza wróżka pomaga mi z materiałami do Zapałekー……"
                             ]
                         },
                         {

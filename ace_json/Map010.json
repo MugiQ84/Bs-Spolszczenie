@@ -12988,7 +12988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"A tak, kolekcjonuję rozmaite dusze. Jeśli zechcesz,\nmogę ci je sprzedać.\""
+                                "\"A tak, kolekcjonuję rozmaite Dusze. Jeśli zechcesz,\nmogę ci je sprzedać.\""
                             ]
                         },
                         {
@@ -13005,7 +13005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Oczywiście, pod warunkiem, że masz dusze o\nodpowiedniej wartości. Ho ho ho...\""
+                                "\"Oczywiście, pod warunkiem, że masz Dusze o\nodpowiedniej wartości. Ho ho ho...\""
                             ]
                         },
                         {
@@ -13089,7 +13089,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Chcę kupić dusze.",
+                                    "Chcę kupić Dusze.",
                                     "Violate.",
                                     "Odejdź."
                                 ],
@@ -14279,7 +14279,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Chcę kupić dusze.",
+                                    "Chcę kupić Dusze.",
                                     "Zgwałć",
                                     "Odejdź"
                                 ],
@@ -14945,7 +14945,7 @@
                             "parameters": [
                                 [
                                     "Przekaż Dusze",
-                                    "Chcę kupić dusze",
+                                    "Chcę kupić Dusze",
                                     "Zgwałć",
                                     "Odejść"
                                 ],
@@ -16052,7 +16052,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Ufufu, \\n[1], ty zabawny! Ona jeszcze nie umarła, wiesz?\nPrzecież mgła jeszcze nie opadła.\""
+                                "\"Ufufu, \\n[1], aleś zabawny! Ona jeszcze nie umarła, wiesz?\nPrzecież mgła jeszcze nie opadła.\""
                             ]
                         },
                         {
@@ -16100,7 +16100,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Inne wróżki potrafią być wredne, ale nie przejmuj się\nnimi. Jeśli \\n[1] będzie gnębiony, to wyrwę im skrzydełka!\""
+                                "\"Inne wróżki potrafią być wredne, ale nie przejmuj się\nnimi. Jeśli \\n[1] będzie gnębiony, to wyrwę\nim skrzydełka!\""
                             ]
                         },
                         {
@@ -16269,7 +16269,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Inne wróżki potrafią być wredne, ale nie przejmuj się\nnimi. Jeśli \\n[1] będzie gnębiony,\nto wyrwę im skrzydełka!\""
+                                "\"Inne wróżki potrafią być wredne, ale nie przejmuj się\nnimi. Jeśli \\n[1] będzie gnębiony, to wyrwę\nim skrzydełka!\""
                             ]
                         },
                         {
@@ -17790,7 +17790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"\\n[1]-san, czy masz do mnie jakąś sprawę?\""
+                                "\"Panie \\n[1], czy masz do mnie jakieś rozkazy?\""
                             ]
                         },
                         {
@@ -18861,7 +18861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Coś się stało?\""
+                                "\"Co.?\""
                             ]
                         },
                         {

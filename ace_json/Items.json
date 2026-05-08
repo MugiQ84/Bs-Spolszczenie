@@ -44,7 +44,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Tyraniczna królowa wręcz uwielbiała torturować młode panny.\nNajbardziej lubiła pożerać ich dusze\"Żelazną Dziewicą\"",
+        "description": "Tyraniczna królowa wręcz uwielbiała torturować młode panny.\nNajbardziej lubiła pożerać ich Dusze\"Żelazną Dziewicą\"",
         "effects": [
             {
                 "code": 12,
@@ -809,7 +809,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Nie ma żadnej wartości. \"Jeśli to sprzedasz, dostaniesz\nmożeee 1 duszę.\"-Bogata gęś Goose",
+        "description": "Nie ma żadnej wartości. \"Jeśli to sprzedasz, dostaniesz\nmożeee 1 Dusze.\"-Bogata gęś Goose",
         "effects": [],
         "hitType": 0,
         "iconIndex": 103,
@@ -835,7 +835,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użycie podczas walki przywraca MP przez kilka tur.\"Odłamki\nwbijają sie w ciało, pozwalając czerpać moc.\"",
+        "description": "Użycie podczas walki przywraca MP przez kilka tur.\"Odłamki\nwbijają się w ciało, pozwalając czerpać moc.\"",
         "effects": [
             {
                 "code": 21,
@@ -1255,7 +1255,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użyj aby zyskać dusze.",
+        "description": "Użyj aby zyskać Dusze.",
         "effects": [
             {
                 "code": 44,
@@ -1288,7 +1288,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użyj aby zyskać dusze.",
+        "description": "Użyj aby zyskać Dusze.",
         "effects": [
             {
                 "code": 44,
@@ -1321,7 +1321,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użyj aby zyskać dusze.",
+        "description": "Użyj aby zyskać Dusze.",
         "effects": [
             {
                 "code": 44,
@@ -1354,7 +1354,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użyj aby zyskać dusze.",
+        "description": "Użyj aby zyskać Dusze.",
         "effects": [
             {
                 "code": 44,
@@ -1387,7 +1387,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użyj aby zyskać dusze.",
+        "description": "Użyj aby zyskać Dusze.",
         "effects": [
             {
                 "code": 44,
@@ -1420,7 +1420,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użyj aby zyskać dusze.",
+        "description": "Użyj aby zyskać Dusze.",
         "effects": [
             {
                 "code": 44,
@@ -1453,7 +1453,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użyj aby zyskać dusze.",
+        "description": "Użyj aby zyskać Dusze.",
         "effects": [
             {
                 "code": 44,
@@ -1486,7 +1486,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użyj aby zyskać dusze.",
+        "description": "Użyj aby zyskać Dusze.",
         "effects": [
             {
                 "code": 44,
@@ -1519,7 +1519,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użyj aby zyskać dusze.",
+        "description": "Użyj aby zyskać Dusze.",
         "effects": [
             {
                 "code": 44,
@@ -1552,7 +1552,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użyj aby zyskać dusze.",
+        "description": "Użyj aby zyskać Dusze.",
         "effects": [
             {
                 "code": 44,
@@ -5134,7 +5134,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Zużywa wszystkie dusze, aby powrócić do świętego Lasu.\n\"Powstań tyle razy, ile musisz, by doświadczyć tej\npowieści.\"",
+        "description": "Zużywa wszystkie Dusze, aby powrócić do świętego Lasu.\n\"Powstań tyle razy, ile musisz, by doświadczyć tej\npowieści.\"",
         "effects": [
             {
                 "code": 44,
@@ -8465,7 +8465,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Macocha zazdrościła Śnieżce urody i wielokrotnie próbowała\nją zabić. Ona zaś odpłaciła sie tym samym, pragnąc tego samego.",
+        "description": "Macocha zazdrościła Śnieżce urody i wielokrotnie próbowała\nją zabić. Ona zaś odpłaciła się tym samym, pragnąc tego samego.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
@@ -8517,7 +8517,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Tyraniczna królowa wręcz uwielbiała torturować młode panny.\nNajbardziej lubiła pożerać ich dusze「Żelazną Dziewicą」",
+        "description": "Tyraniczna królowa wręcz uwielbiała torturować młode panny.\nNajbardziej lubiła pożerać ich Dusze「Żelazną Dziewicą」",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,

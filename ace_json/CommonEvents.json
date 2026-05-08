@@ -64710,7 +64710,7 @@
                 "parameters": []
             }
         ],
-        "name": "Lv99　仲間増やす",
+        "name": "Poz 99　仲間増やす",
         "switchId": 1,
         "trigger": 0
     },
@@ -64823,7 +64823,7 @@
                 "parameters": []
             }
         ],
-        "name": "Lv99　仲間減らす",
+        "name": "Poz 99　仲間減らす",
         "switchId": 1,
         "trigger": 0
     },
@@ -80757,7 +80757,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\$\"Dasz mi dusze?\" \n(Obecny poziom \\V[50])"
+                    "\\$\"Dasz mi Dusze?\" \n(Obecnie. Poz \\V[50])"
                 ]
             },
             {
@@ -80765,7 +80765,7 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "Daj dusze",
+                        "Daj Dusze",
                         "Nie dawaj dusz"
                     ],
                     2
@@ -81203,7 +81203,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\$\"Dobra postawa. Dla kobiet ofiaruj Dusze hojnie.\"\n(Obecny poziom \\V[51])"
+                    "\\$\"Dobra postawa. Więcej i więcej\n dla kobiet ofiaruj Dusze hojnie.\"\n(Obecnie. Poz \\V[51])"
                 ]
             },
             {
@@ -81211,7 +81211,7 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "Daj dusze",
+                        "Daj Dusze",
                         "Nie dawaj dusz"
                     ],
                     2
@@ -81291,7 +81291,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "\"Głupi uczniu! Zbieraj szybko dusze!\""
+                    "\"Głupi uczniu! Zbieraj szybko Dusze!\""
                 ]
             },
             {
@@ -81649,7 +81649,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\$\"Czy mogę wziąć duszę \\n[1]?\" \n(Obecny poziom \\V[53])"
+                    "\\$\"Czy Elma może wziąć twoje dusze, \\n[1]?\" \n(Obecnie. Poz \\V[53])"
                 ]
             },
             {
@@ -81657,7 +81657,7 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "Daj dusze",
+                        "Daj Dusze",
                         "Nie dawaj dusz"
                     ],
                     2
@@ -81737,7 +81737,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "\"……Ciekawe, co by się stało, gdyby dwóch mężczyzn\nzaopatrywało się w dusze... Serce bije...\""
+                    "\"……Ciekawe, co by się stało, gdyby dwóch mężczyzn\nzaopatrywało się w Dusze... Serce bije...\""
                 ]
             },
             {
@@ -82026,7 +82026,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\"Jakoś czuję się silniejszy...\""
+                    "\"Jakoś czuję się silniejsza...\""
                 ]
             },
             {
@@ -85149,7 +85149,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\"Zaraz dojdziesz…? Daj mi swoją pyszną duszę, \\n[1]!♡\""
+                    "\"Zaraz dojdziesz…? Daj mi swoje pyszną Dusze, \\n[1]!♡\""
                 ]
             },
             {
@@ -92814,7 +92814,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "„Kiedy znów nazbierasz duszy… Elma nagrodzi cię swoimi\nustami~'"
+                    "„Kiedy znów nazbierasz dusz… Elma nagrodzi cię swoimi\nustami~'"
                 ]
             },
             {
@@ -104354,7 +104354,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\"Fuu... mm, mm...♡ Proszę, daj mi swoją Duszę...♡\""
+                    "\"Fuu... mm, mm...♡ Proszę, daj mi swoje Dusze...♡\""
                 ]
             },
             {
@@ -107147,7 +107147,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\"...Ach, ah... haa... Proszę... daj mi Duszę,\nproszę...\""
+                    "\"...Ach, ah... haa... Proszę... daj mi Dusze,\nproszę...\""
                 ]
             },
             {
@@ -107358,7 +107358,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\"Aaa... kręci mi się w głowie... Szybciej, szybciej,\ndaj mi Duszę...♡\""
+                    "\"Aaa... kręci mi się w głowie... Szybciej, szybciej,\ndaj mi Dusze...♡\""
                 ]
             },
             {
@@ -107638,7 +107638,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Z głośnym chlup, chlup uwalniasz całą swoją gęstą Duszę\nwewnątrz niej bez reszty."
+                    "Z głośnym chlup, chlup uwalniasz całą swoją gęstą Dusze\nwewnątrz niej bez reszty."
                 ]
             },
             {
@@ -111122,7 +111122,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Musisz jak najszybciej dać jej Duszę. Powoli ruszasz\nbiodrami."
+                    "Musisz jak najszybciej dać jej Dusze. Powoli ruszasz\nbiodrami."
                 ]
             },
             {
@@ -114207,7 +114207,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\"Jeśli wezmę twoją Duszę, stanę się silniejsza...?\""
+                    "\"Jeśli wezmę twoje Dusze, stanę się silniejsza...?\""
                 ]
             },
             {
@@ -122645,7 +122645,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\"Mhm... Zauważyłeś...?♡ Ja wysysam twoją duszę prosto z\nust, Książę!♡\""
+                    "\"Mhm... Zauważyłeś...?♡ Ja wysysam twoją Dusze prosto z\nust, Książę!♡\""
                 ]
             },
             {
@@ -122850,7 +122850,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Zarówno nasienie, jak i duszę wyssała z ciebie, a Żabia\nKsiężniczka z zadowoleniem oblizuje się smakowicie."
+                    "Zarówno nasienie, jak i Dusze wyssała z ciebie, a Żabia\nKsiężniczka z zadowoleniem oblizuje się smakowicie."
                 ]
             },
             {
@@ -133046,7 +133046,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\$\"Czy mogę otrzymać duszę mojego Pana...?\"\n(Obecnie. Lv\\V[52])"
+                    "\\$\"Czy naprawdę mogę otrzymać twoje dusze, Panie?\"\n(Obecnie. Poz \\V[52])"
                 ]
             },
             {
@@ -133054,7 +133054,7 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "Przekaż dusze",
+                        "Przekaż Dusze",
                         "Nie przekazuj"
                     ],
                     2
@@ -136960,7 +136960,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\$\"Och… Dasz mi Dusze?\" \n(Obecny Poziom \\V[56])"
+                    "\\$\"Och… Dasz mi Dusze?\" \n(Obecnie. Poz \\V[56])"
                 ]
             },
             {
@@ -136968,7 +136968,7 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "Przekaż dusze",
+                        "Przekaż Dusze",
                         "Nie przekazuj"
                     ],
                     2
@@ -140890,7 +140890,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\$\"ofiarowanie Dusz…… prawda?\" （Obecny Lv\\V[58]）"
+                    "\\$\"ofiarowanie Dusz…… zaczniemy?\" （Obecnie. Poz \\V[58]）"
                 ]
             },
             {
@@ -140898,7 +140898,7 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "Przekaż dusze",
+                        "Przekaż Dusze",
                         "Nie przekazuj"
                     ],
                     2
@@ -144708,7 +144708,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\$\"Ach... Czy powinniśmy... ofiarowanie dusz...?\"\n(Obecnie Lv\\V[55])"
+                    "\\$\"Ach... Czy powinniśmy... ofiarowanie dusz...?\"\n(Obecnie. Poz \\V[55])"
                 ]
             },
             {
@@ -144716,7 +144716,7 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "Przekaż dusze",
+                        "Przekaż Dusze",
                         "Nie przekazuj"
                     ],
                     2
@@ -148622,7 +148622,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\$\"Ofiarowanie Dusz…? Skoro to jest ścieżka\nktórą przydzielił mi bóg.\"\n(Obecny Lv\\V[54])"
+                    "\\$\"Ofiarowanie Dusz…? Skoro to jest ścieżka\nktórą przydzielił mi bóg.\"\n(Obecny. Poz \\V[54])"
                 ]
             },
             {
@@ -148630,7 +148630,7 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "Przekaż dusze",
+                        "Przekaż Dusze",
                         "Nie przekazuj"
                     ],
                     2
@@ -152795,7 +152795,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\$\"Chcę twoją silną duszę...\"\n(Obecnie. Lv\\V[57])"
+                    "\\$\"Chcę twoje silne Dusze...\"\n(Obecnie. Poz \\V[57])"
                 ]
             },
             {
@@ -152803,7 +152803,7 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "Przekaż dusze",
+                        "Przekaż Dusze",
                         "Nie przekazuj"
                     ],
                     2
@@ -153172,7 +153172,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\"Czy z tym stanę się silny jak ty...?\""
+                    "\"Czy z tym stanę się silna jak ty...?\""
                 ]
             },
             {
@@ -162803,7 +162803,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\$Jeśli to tylko ofiarowanie Dusz, Poro mi wybaczy\"\nObecnie. Lv\\V[59]）"
+                    "\\$Jeśli to tylko ofiarowanie Dusz, Poro mi wybaczy\"\n(Obecnie. Poz \\V[59]）"
                 ]
             },
             {
@@ -162811,7 +162811,7 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "Przekaż dusze",
+                        "Przekaż Dusze",
                         "Nie przekazuj"
                     ],
                     2
@@ -166668,7 +166668,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\"Nawet jeśli dostaję od ciebie Duszę... jeśli tylko\njedna osoba czuje przyjemność, to tak jak onanizm.\""
+                    "\"Nawet jeśli dostaję od ciebie Dusze... jeśli tylko\njedna osoba czuje przyjemność, to tak jak onanizm.\""
                 ]
             },
             {
@@ -167073,7 +167073,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\"A, aaa!♡ Onii-sama♡ Duszę...♡ Daj mi Duszę!♡ Szybko...\ndaj!♡\""
+                    "\"A, aaa!♡ Onii-sama♡ Dusze...♡ Daj mi Dusze!♡ Szybko...\ndaj!♡\""
                 ]
             },
             {
@@ -174014,7 +174014,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Zauważa cię i uśmiecha się chytrze. Wygląda na to, że\nza podglądanie weźmie Duszę. W popłochu zaprzeczasz."
+                    "Zauważa cię i uśmiecha się chytrze. Wygląda na to, że\nza podglądanie weźmie Dusze. W popłochu zaprzeczasz."
                 ]
             },
             {
