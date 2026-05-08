@@ -109,7 +109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Tak, to właśnie ty. Gratulacje. Zostałeś wybrany na\nbohatera tej opowieści.\""
+                                "\"Tak, mówię do ciebie. Gratulacje. Zostałeś wybrany na\nbohatera tej opowieści.\""
                             ]
                         },
                         {
@@ -530,7 +530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"A teraz wybierz swoje pochodzenie.\""
+                                "\"A teraz, wybierz swoje pochodzenie.\""
                             ]
                         },
                         {
@@ -545,9 +545,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Knight",
-                                    "Thief",
-                                    "Sorcerer"
+                                    "Rycerz",
+                                    "Złodziej",
+                                    "Mag"
                                 ],
                                 0
                             ]
@@ -598,7 +598,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Czy ta cecha jest w porządku?"
+                                "Czy to pochodzenie jest w porządku?"
                             ]
                         },
                         {
@@ -766,7 +766,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Czy ta cecha jest odpowiednia?"
+                                "Czy to pochodzenie jest odpowiednia?"
                             ]
                         },
                         {
@@ -943,7 +943,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Czy ta cecha jest odpowiednia?"
+                                "Czy to pochodzenie jest odpowiednia?"
                             ]
                         },
                         {
@@ -1357,7 +1357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Proszę wybrać jeden z nich.\""
+                                "\"Proszę, wybierz jeden z nich.\""
                             ]
                         },
                         {
@@ -1518,7 +1518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"A teraz, hm… \\! Czy interesujesz się seksem?\""
+                                "\"Następne pytanie to, uh……\n\\! Czy interesujesz się aktami cielesnymi?\""
                             ]
                         },
                         {
@@ -1526,8 +1526,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Interested",
-                                    "Not interested"
+                                    "Interesuje",
+                                    "Nie interesuje"
                                 ],
                                 2
                             ]
@@ -1563,7 +1563,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Ach… Jesteś mężczyzną, więc to oczywiste, prawda?\""
+                                "\"Ojejku……Jesteś mężczyzną,\n więc to oczywiste, prawda?\""
                             ]
                         },
                         {
@@ -1703,7 +1703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"……Wygląda na to, że zaraz się zacznie. Co? Otóż\nopowieść.\""
+                                "\"……Wygląda na to, że pora rozsunąć kurtyny.\nInnymi słowy……zacząć tą opowieść.\""
                             ]
                         },
                         {
@@ -1720,7 +1720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"\\n[1]-san. Jesteś bohaterem tej opowieści. ……Proszę, nie\npoddawaj się do samego końca.\""
+                                "\"\\n[1]-san. Jesteś bohaterem tej opowieści.\n……Proszę, nie poddawaj się do samego końca.\""
                             ]
                         },
                         {
@@ -1872,7 +1872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\c[7]BLACK SOULS\\c[0] \\| \\| \\|"
+                                "\\{\\c[7]                     BLACK SOULS\\c[0] \\| \\| \\|"
                             ]
                         },
                         {
@@ -1896,7 +1896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pominąć opening? (Zajmuje to około 5 minut)"
+                                "Pominąć opening? (Zajmuje około 5 minut)"
                             ]
                         },
                         {

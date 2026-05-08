@@ -7262,7 +7262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Przepraszam... Jaki jest twój związek z tą\ndziewczyną... Ermą?\""
+                                "\"Przepraszam... Jaki jest twój związek z tą\ndziewczyną... Elmą?\""
                             ]
                         },
                         {
@@ -7270,9 +7270,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "We're lovers.",
-                                    "Are you interested in her?",
-                                    "Never mind."
+                                    "Jesteśmy kochankami.",
+                                    "Interesujesz się nią?",
+                                    "Nie ważne."
                                 ],
                                 3
                             ]
@@ -7438,7 +7438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Proszę, zaopiekuj się Ermą.\""
+                                "\"Proszę, zaopiekuj się Elmą.\""
                             ]
                         },
                         {

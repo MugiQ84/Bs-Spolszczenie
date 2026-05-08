@@ -73,7 +73,7 @@ class Window_NameInput < Window_Selectable
   # ● 文字表の取得
   #--------------------------------------------------------------------------
   def table
-    return [JAPAN1, JAPAN2, JAPAN3] if $game_system.japanese?
+    return [LATIN1, LATIN2] if $game_system.japanese?
     return [LATIN1, LATIN2]
   end
   #--------------------------------------------------------------------------
