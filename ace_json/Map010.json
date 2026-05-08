@@ -13081,7 +13081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Dzień dobry. Czy mogę w czymś pomóc?'"
+                                "「Dzień dobry. Czy mogę w czymś pomóc?」"
                             ]
                         },
                         {
@@ -13118,7 +13118,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「He he. Patrz, ile tylko chcesz.'"
+                                "「He he. Patrz, ile tylko chcesz.」"
                             ]
                         },
                         {
@@ -13206,7 +13206,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Spodobało ci się? Pokażę ci tyle, ile tylko zechcesz.'"
+                                "「Spodobało ci się? Pokażę ci tyle, ile tylko zechcesz.」"
                             ]
                         },
                         {
@@ -13478,7 +13478,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「He he. Żegnaj, nieumarły.'"
+                                "「He he. Żegnaj, nieumarły.」"
                             ]
                         },
                         {

@@ -1729,7 +1729,7 @@
     {
         "id": 59,
         "atypeId": 1,
-        "description": "Black cloth, the gown of the undead.\r\nWithout it, you'll turn into black dust and vanish.",
+        "description": "Czarna szata, suknia nieumarłych.\nBez niej obrócisz się w czarny pył i znikniesz",
         "etypeId": 3,
         "traits": [
             {
@@ -1744,7 +1744,7 @@
             }
         ],
         "iconIndex": 456,
-        "name": "Black Cloth",
+        "name": "Czarna Szata",
         "note": "",
         "params": [
             0,

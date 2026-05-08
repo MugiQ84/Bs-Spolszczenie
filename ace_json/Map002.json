@@ -494,7 +494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Kto... jesteś?'"
+                                "「Kto... jesteś?」"
                             ]
                         },
                         {
@@ -518,7 +518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Myślałem, że tamten drań wrócił, ale… otworzyłeś\nzamek, więc teraz mogę wyjść.'"
+                                "「Myślałem, że tamten drań wrócił, ale… otworzyłeś\nzamek, więc teraz mogę wyjść.」"
                             ]
                         },
                         {
@@ -542,7 +542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Jestem Lumirage z Andoru. Przybyłem do tego kraju, bo\npodobno jest tu \\c[2]legendarny skarb\\c[0].'"
+                                "「Jestem Lumirage z Andoru. Przybyłem do tego kraju, bo\npodobno jest tu \\c[2]legendarny skarb\\c[0].」"
                             ]
                         },
                         {
@@ -566,7 +566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Po drodze dołączył do mnie pewien rycerz, ale...\ncholera! Ten drań mnie zdradził!'"
+                                "「Po drodze dołączył do mnie pewien rycerz, ale...\ncholera! Ten drań mnie zdradził!」"
                             ]
                         },
                         {
@@ -599,7 +599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ale dzięki tobie udało mi się uratować. Inaczej\nzostałbym pożarty przez bestie.'"
+                                "「Ale dzięki tobie udało mi się uratować. Inaczej\nzostałbym pożarty przez bestie.」"
                             ]
                         },
                         {
@@ -3155,7 +3155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Podobno mgła unosząca się z Zamku Zaginionego Imperium, gdy\ntylko człowiek jej dotknie, wysysa z niego Dusze bez\nprzerwy.'"
+                                "「Podobno mgła unosząca się z Zamku Zaginionego Imperium, gdy\ntylko człowiek jej dotknie, wysysa z niego Dusze bez\nprzerwy.」"
                             ]
                         },
                         {
@@ -3172,7 +3172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Człowiek, który straci Dusze, nie może zachować\nzdrowego rozsądku i zamienia się w potwora.'"
+                                "「Człowiek, który straci Dusze, nie może zachować\nzdrowego rozsądku i zamienia się w potwora.」"
                             ]
                         },
                         {
@@ -3189,7 +3189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ale \\n[1] jest nieumarły, więc chyba nic mu nie\njest, co?'"
+                                "「Ale \\n[1] jest nieumarły, więc chyba nic mu nie\njest, co?」"
                             ]
                         },
                         {
