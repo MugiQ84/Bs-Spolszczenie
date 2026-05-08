@@ -927,7 +927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "„Ach, biedaku. W samą porę przyszedłeś.'"
+                                "「Ach, biedaku. W samą porę przyszedłeś.'"
                             ]
                         },
                         {
@@ -951,7 +951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "„Ostatnio figle wróżek są naprawdę uciążliwe. Nawet\ndzisiaj urwały mi aż 16 liści.'"
+                                "「Ostatnio figle wróżek są naprawdę uciążliwe. Nawet\ndzisiaj urwały mi aż 16 liści.'"
                             ]
                         },
                         {
@@ -975,7 +975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "„Hej, biedaku! Wyglądasz na szybszego ode mnie, więc\nproszę, daj nauczkę tym natrętnym muchom!'"
+                                "「Hej, biedaku! Wyglądasz na szybszego ode mnie, więc\nproszę, daj nauczkę tym natrętnym muchom!'"
                             ]
                         },
                         {
@@ -999,7 +999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "„Są nieśmiertelne, więc użyj tego, żeby je ukarać.'"
+                                "「Są nieśmiertelne, więc użyj tego, żeby je ukarać.'"
                             ]
                         },
                         {
@@ -1122,7 +1122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\$\"Tak, tak, \\c[2]5000 Dusz za butelkę ziół.\\c[0] Co ty na to?\""
+                                "「Tak, tak, \\c[2]5000 Dusz za butelkę ziół.\\c[0] Co ty na to?\""
                             ]
                         },
                         {
@@ -1511,7 +1511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\$\"A tak, za \\c[2]5000 Dusz\\c[0] zrobię dla ciebie fiolkę ziół. Co\nty na to?\""
+                                "「A tak, za \\c[2]5000 Dusz\\c[0] zrobię dla ciebie fiolkę ziół. Co\nty na to?\""
                             ]
                         },
                         {

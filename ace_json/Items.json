@@ -8075,7 +8075,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Dżin powiedział: „Spełnię jedno twoje życzenie”.\nWięc Aladyn odparł: „W takim razie oddaj mi swoją moc”.",
+        "description": "Dżin powiedział: 「Spełnię jedno twoje życzenie”.\nWięc Aladyn odparł: W takim razie oddaj mi swoją moc”.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
@@ -8413,7 +8413,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Książę zgubił but w bagnie. Ogromna ropucha wyskoczyła\ni zabiła go pocałunkiem. „On też nie był moim księciem...”",
+        "description": "Książę zgubił but w bagnie. Ogromna ropucha wyskoczyła\ni zabiła go pocałunkiem. 「On też nie był moim księciem...”",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,

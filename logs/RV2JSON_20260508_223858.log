@@ -1,0 +1,16 @@
+RPGMaker VX Ace JSON Converter - RV2JSON - v1.2.1
+Using default data directory: data
+Using default json directory: ace_json
+Using default output directory (data dir): data
+Detected Engine: vxace
+Running update (updateFiles) -> json: ace_json, output: data
+ERROR APPLICATION CRASHED WITH:
+#<JSON::ParserError:"unexpected token at '\"\n                            ]\n'">
+C:/Users/bilik/AppData/Local/Temp/ocranH50MK5/lib/ruby/3.4.0/json/common.rb:221:in 'JSON::Ext::Parser.parse'
+C:/Users/bilik/AppData/Local/Temp/ocranH50MK5/lib/ruby/3.4.0/json/common.rb:221:in 'JSON.parse'
+C:/Users/bilik/AppData/Local/Temp/ocranH50MK5/src/RV2JSON.rb:47:in 'Object#updateDataFromJson'
+C:/Users/bilik/AppData/Local/Temp/ocranH50MK5/src/RV2JSON.rb:167:in 'block in Object#updateFiles'
+C:/Users/bilik/AppData/Local/Temp/ocranH50MK5/src/RV2JSON.rb:164:in 'Hash#each'
+C:/Users/bilik/AppData/Local/Temp/ocranH50MK5/src/RV2JSON.rb:164:in 'Object#updateFiles'
+C:/Users/bilik/AppData/Local/Temp/ocranH50MK5/src/RV2JSON.rb:246:in '<main>'
+Crash occurred while processing file: ace_json/Map100.json

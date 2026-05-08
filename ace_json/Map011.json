@@ -5029,7 +5029,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Witaj, Panie \\n[1]! Obecnie przechowuję dla Pana \\v[42]\nDusz~」"
+                                "「Witaj, Panie \\n[1]!\nObecnie przechowuję dla Pana \\v[42] Dusz~」"
                             ]
                         },
                         {
@@ -5374,7 +5374,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Obecnie przechowuję \\v[42] Dusz, ile chce Pan wypłacić~?\n\\$」"
+                                "「Obecnie przechowuję \\v[42] Dusz,\nile chce Pan wypłacić~?\\$」"
                             ]
                         },
                         {
@@ -5618,7 +5618,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Obecnie przechowuję \\v[42] Dusz od Pana \\n[1]. Zapraszam\nponownie~」"
+                                "「Obecnie przechowuję \\v[42] Dusz od Pana \\n[1].\nZapraszam ponownie~」"
                             ]
                         },
                         {
@@ -6533,7 +6533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]... Cieszę się, że jesteś bezpieczny..."
+                                "\\「n[1]... Cieszę się, że jesteś bezpieczny...」"
                             ]
                         },
                         {
@@ -6591,7 +6591,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Wspaniałe Zapałki♪ Zapałki dla Ciebie♪ \n……hihi, Elma ułożyła piosenkę o Zapałkach..."
+                                "「Wspaniałe Zapałki♪ Zapałki dla Ciebie♪ \n……hihi, Elma ułożyła piosenkę o Zapałkach...」"
                             ]
                         },
                         {
@@ -6630,7 +6630,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Tutejsza wróżka pomaga mi z materiałami do Zapałekー……"
+                                "「Tutejsza wróżka pomaga mi z materiałami do Zapałekー……」"
                             ]
                         },
                         {
@@ -6647,7 +6647,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Więc mogę zrobić ich naprawdę dużo... ehehe"
+                                "「Więc mogę zrobić ich naprawdę dużo... ehehe」"
                             ]
                         },
                         {
@@ -6674,7 +6674,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Sposób robienia Zapałek to tajemnica"
+                                "「Sposób robienia Zapałek to tajemnica」"
                             ]
                         },
                         {
@@ -6714,7 +6714,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Jeśli chodzi o niegrzeczne rzeczy, mogę to robić\nzawsze...?"
+                                "「Jeśli chodzi o niegrzeczne rzeczy, mogę to robić\nzawsze...?」"
                             ]
                         },
                         {
@@ -6916,7 +6916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Jeśli masz kogoś do zabicia... zawsze możesz wezwać."
+                                "「Jeśli masz kogoś do zabicia... zawsze możesz wezwać.」"
                             ]
                         },
                         {
@@ -6973,7 +6973,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Wolę zabijać się nawzajem... niż kopulować..."
+                                "「Wolę zabijać się nawzajem... niż kopulować...」"
                             ]
                         },
                         {
@@ -7545,7 +7545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "W czym mogę pomóc?"
+                                "「W czym mogę pomóc?」"
                             ]
                         },
                         {
@@ -7589,7 +7589,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Niewiele, ale..."
+                                "「Niewiele, ale...」"
                             ]
                         },
                         {
@@ -7697,7 +7697,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "NW名前指定 Bezimienny Kupiec"
+                                "NW名前指定 Bezimienny Kupiec」"
                             ]
                         },
                         {
@@ -7714,7 +7714,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Gha...!? C-Czemu...?!"
+                                "「Gha...!? C-Czemu...?!"
                             ]
                         },
                         {
@@ -7787,7 +7787,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Zapraszam ponownie."
+                                "「Zapraszam ponownie.」"
                             ]
                         },
                         {
