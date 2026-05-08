@@ -272,8 +272,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -824,8 +824,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -1632,8 +1632,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]

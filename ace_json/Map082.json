@@ -12830,7 +12830,7 @@
                                 [
                                     "That's right",
                                     "No",
-                                    "Kill"
+                                    "Zabij"
                                 ],
                                 0
                             ]
@@ -12866,7 +12866,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Kero kero! Czekałam na Książę-sama tak długo! Co za\nradość cię spotkać!\""
+                                "\"Kero kero! Czekałam na Książę tak długo! Co za\nradość cię spotkać!\""
                             ]
                         },
                         {
@@ -13188,7 +13188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Książę-sama, spoczywa na mnie klątwa. Codziennie\ndręczy mnie miłosna klątwa, od której serce mi pęka!\""
+                                "\"Książę, spoczywa na mnie klątwa. Codziennie\ndręczy mnie miłosna klątwa, od której serce mi pęka!\""
                             ]
                         },
                         {
@@ -13222,7 +13222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Książę-sama... pocałuj mnie?\""
+                                "\"Książę... pocałuj mnie?\""
                             ]
                         },
                         {
@@ -13405,7 +13405,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Było cudownie... Książę-sama...♡ Wygląda na to, że\nmoja klątwa została zdjęta!\""
+                                "\"Było cudownie... Książę...♡ Wygląda na to, że\nmoja klątwa została zdjęta!\""
                             ]
                         },
                         {
@@ -13448,7 +13448,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Przyjdź znowu, trzysta czterdziesty szósty\nKsiążę-sama♡\""
+                                "\"Przyjdź znowu, trzysta czterdziesty szósty\nKsiążę♡\""
                             ]
                         },
                         {
@@ -13684,7 +13684,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Potrzebujesz przygotowania psychicznego, prawda... Ale\nnie każ mi za długo czekać, Książę-sama♡\""
+                                "\"Potrzebujesz przygotowania psychicznego, prawda... Ale\nnie każ mi za długo czekać, Książę♡\""
                             ]
                         },
                         {
@@ -13762,7 +13762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Rech, rech! Książę-sama, witaj z powrotem!\""
+                                "\"Rech, rech! Książę, witaj z powrotem!\""
                             ]
                         },
                         {
@@ -13771,8 +13771,8 @@
                             "parameters": [
                                 [
                                     "Make love",
-                                    "Kill",
-                                    "Leave"
+                                    "Zabij",
+                                    "Odejdź"
                                 ],
                                 3
                             ]
@@ -13953,7 +13953,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Rech, rech! Książę-sama, kocham cię!♡\""
+                                "\"Rech, rech! Książę, kocham cię!♡\""
                             ]
                         },
                         {
@@ -14261,7 +14261,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"A, Książę-sama... przyszedłeś...\""
+                                "\"A, Książę... przyszedłeś...\""
                             ]
                         },
                         {
@@ -14359,7 +14359,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Przepraszam! Nie powinnam robić takiej miny przy\ntobie, Książę-sama!\""
+                                "\"Przepraszam! Nie powinnam robić takiej miny przy\ntobie, Książę!\""
                             ]
                         },
                         {
@@ -14416,7 +14416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Kum kum! Witaj w domu, Książę-sama!\""
+                                "\"Kum kum! Witaj w domu, Książę!\""
                             ]
                         },
                         {
@@ -14425,8 +14425,8 @@
                             "parameters": [
                                 [
                                     "Make love",
-                                    "Kill",
-                                    "Leave"
+                                    "Zabij",
+                                    "Odejdź"
                                 ],
                                 3
                             ]
@@ -14607,7 +14607,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Kum kum! Kocham cię, Książę-sama!♡\""
+                                "\"Kum kum! Kocham cię, Książę!♡\""
                             ]
                         },
                         {
@@ -18868,7 +18868,7 @@
                             "parameters": [
                                 [
                                     "Odejdź",
-                                    "Przyzwij Czerwonego Kapturka"
+                                    "Przywołaj Czerwonego Kapturka"
                                 ],
                                 1
                             ]
@@ -19512,7 +19512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Książę-sama, szybko bierz ślub z Żabią\nKsiężniczką-samą!\""
+                                "\"Książę, szybko bierz ślub z Żabią\nKsiężniczką-samą!\""
                             ]
                         },
                         {
@@ -23004,8 +23004,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Step into the mist.",
-                                    "Leave."
+                                    "Przejdź przez mgłe.",
+                                    "Odejdź."
                                 ],
                                 2
                             ]

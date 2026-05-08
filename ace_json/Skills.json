@@ -5737,7 +5737,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Przyzywa Polo.",
+        "description": "Przyzywa Poro.",
         "effects": [
             {
                 "code": 44,
@@ -5754,7 +5754,7 @@
         ],
         "hitType": 0,
         "iconIndex": 9,
-        "message1": " przywołał Polo!",
+        "message1": " przywołał Poro!",
         "message2": "",
         "mpCost": 10,
         "name": "Towarzysz",
@@ -9083,7 +9083,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Przywołuje Victorię.",
+        "description": "Przywołuje Wiktorię.",
         "effects": [
             {
                 "code": 44,
@@ -9100,7 +9100,7 @@
         ],
         "hitType": 0,
         "iconIndex": 122,
-        "message1": " przywołał Victorię!",
+        "message1": " przywołał Wiktorię!",
         "message2": "",
         "mpCost": 10,
         "name": "Wezwanie Victorii",

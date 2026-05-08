@@ -430,8 +430,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Step inside",
-                                    "Leave"
+                                    "Wejdź do środka",
+                                    "Odejdź"
                                 ],
                                 2
                             ]
@@ -2593,8 +2593,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "Leave",
-                                    "Summon Dorothy"
+                                    "Odejdź",
+                                    "Przywzwij Dorotę"
                                 ],
                                 1
                             ]

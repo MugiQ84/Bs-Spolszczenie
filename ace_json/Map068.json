@@ -9460,10 +9460,10 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "Buy Bible",
-                                    "Rape",
-                                    "Summon Jeanne",
-                                    "Leave"
+                                    "Kup Pisma Święte",
+                                    "Zgwałć",
+                                    "Przywołaj Joannę",
+                                    "Opuść"
                                 ],
                                 4
                             ]
@@ -11545,8 +11545,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Step into the mist.",
-                                    "Leave."
+                                    "Przejdź przez mgłe.",
+                                    "Odejdź."
                                 ],
                                 2
                             ]

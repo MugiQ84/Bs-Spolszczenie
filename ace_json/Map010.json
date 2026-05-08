@@ -279,7 +279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Przy okazji, na zewnątrz czyhają magiczne bestie, więc\nlepiej nie daj się zabić. Chociaż ty jesteś\nnieśmiertelny, to nie ma się czego bać, haha.\""
+                                "\"Przy okazji, na zewnątrz czyhają magiczne bestie, więc\nlepiej nie daj się zabić. Chociaż ty jesteś\nnieumarły, to nie ma się czego bać, haha.\""
                             ]
                         },
                         {
@@ -530,7 +530,7 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Kill",
+                                    "Zabij",
                                     "Never mind, I won't kill you"
                                 ],
                                 2
@@ -1083,7 +1083,7 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Kill",
+                                    "Zabij",
                                     "Never mind, I won't kill you"
                                 ],
                                 2
@@ -1495,7 +1495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"O? Te prochy... czy to Święta Rycerka Jeanne?\""
+                                "\"O? Te prochy... czy to Święta Rycerka Joanna?\""
                             ]
                         },
                         {
@@ -1660,7 +1660,7 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Kill",
+                                    "Zabij",
                                     "Never mind, I won't kill you"
                                 ],
                                 2
@@ -2280,7 +2280,7 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Kill",
+                                    "Zabij",
                                     "Never mind, I won't kill you"
                                 ],
                                 2
@@ -2759,7 +2759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Ha ha... więc jesteś nieśmiertelny?\""
+                                "\"Ha ha... więc jesteś nieumarły?\""
                             ]
                         },
                         {
@@ -2902,9 +2902,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "I want to go to the Lost Empire",
-                                    "Kill",
-                                    "Leave"
+                                    "Chcę się dostać do Zaginionego Imperium",
+                                    "Zabij",
+                                    "Odejdź"
                                 ],
                                 3
                             ]
@@ -3301,7 +3301,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "O magicznych księżniczkach",
+                                    "O Demonicznych Księżniczkach",
                                     "Zabij",
                                     "Odejdź"
                                 ],
@@ -4132,8 +4132,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Kill",
-                                    "Leave"
+                                    "Zabij",
+                                    "Odejdź"
                                 ],
                                 2
                             ]
@@ -4408,7 +4408,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Zgwałcić",
+                                    "Zgwałć",
                                     "Odejść"
                                 ],
                                 2
@@ -4749,8 +4749,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Kill",
-                                    "Leave"
+                                    "Zabij",
+                                    "Odejdź"
                                 ],
                                 2
                             ]
@@ -5006,7 +5006,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Zgwałcić",
+                                    "Zgwałć",
                                     "Odejść"
                                 ],
                                 2
@@ -5734,8 +5734,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Kill",
-                                    "Leave"
+                                    "Zabij",
+                                    "Odejdź"
                                 ],
                                 2
                             ]
@@ -5991,8 +5991,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Kill",
-                                    "Leave"
+                                    "Zabij",
+                                    "Odejdź"
                                 ],
                                 2
                             ]
@@ -6248,7 +6248,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Zgwałcić",
+                                    "Zgwałć",
                                     "Odejść"
                                 ],
                                 2
@@ -9875,8 +9875,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Kill",
-                                    "Leave"
+                                    "Zabij",
+                                    "Odejdź"
                                 ],
                                 2
                             ]
@@ -10156,7 +10156,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Zgwałcić",
+                                    "Zgwałć",
                                     "Odejść"
                                 ],
                                 2
@@ -10497,8 +10497,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Kill",
-                                    "Leave"
+                                    "Zabij",
+                                    "Odejdź"
                                 ],
                                 2
                             ]
@@ -10754,7 +10754,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Zgwałcić",
+                                    "Zgwałć",
                                     "Odejść"
                                 ],
                                 2
@@ -11408,7 +11408,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Zgwałcić",
+                                    "Zgwałć",
                                     "Odejść"
                                 ],
                                 2
@@ -11838,7 +11838,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Słyszałam od Jeanne. Podobno uratowałeś mnie, gdy\nbyłam o krok od przemiany w bestię...\""
+                                "\"Słyszałam od Joanny. Podobno uratowałeś mnie, gdy\nbyłam o krok od przemiany w bestię...\""
                             ]
                         },
                         {
@@ -12550,8 +12550,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -12795,8 +12795,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -13089,9 +13089,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "I want to buy souls.",
+                                    "Chcę kupić dusze.",
                                     "Violate.",
-                                    "Leave."
+                                    "Odejdź."
                                 ],
                                 3
                             ]
@@ -13478,7 +13478,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "„He he. Żegnaj, nieśmiertelny.'"
+                                "„He he. Żegnaj, nieumarły.'"
                             ]
                         },
                         {
@@ -13632,9 +13632,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Repay me with your body.",
-                                    "Hand over your Souls.",
-                                    "I don't need any thanks."
+                                    "Zapłać mi swoim ciałem.",
+                                    "Oddaj swoje Dusze.",
+                                    "nic nie potrzebuję."
                                 ],
                                 0
                             ]
@@ -14279,9 +14279,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "I want to buy a soul.",
-                                    "Rape",
-                                    "Leave"
+                                    "Chcę kupić dusze.",
+                                    "Zgwałć",
+                                    "Odejdź"
                                 ],
                                 3
                             ]
@@ -14946,7 +14946,7 @@
                                 [
                                     "Przekaż Dusze",
                                     "Chcę kupić dusze",
-                                    "Zgwałcić",
+                                    "Zgwałć",
                                     "Odejść"
                                 ],
                                 4
@@ -15910,10 +15910,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Supply Souls",
-                                    "Rape",
-                                    "Killed Cinderella",
-                                    "Leave"
+                                    "Zapoatrz Dusze",
+                                    "Zgwałć",
+                                    "Zabiłem Kopciuszka",
+                                    "Odejdź"
                                 ],
                                 4
                             ]
@@ -16100,7 +16100,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Inne wróżki potrafią być wredne, ale nie przejmuj się\nnimi. Jeśli \\n[1] będzie gnębiony, to ja je skarcię!\""
+                                "\"Inne wróżki potrafią być wredne, ale nie przejmuj się\nnimi. Jeśli \\n[1] będzie gnębiony, to wyrwę im skrzydełka!\""
                             ]
                         },
                         {
@@ -16269,7 +16269,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Inne wróżki potrafią być wredne, ale nie przejmuj się\nnimi. Jeśli \\n[1] będzie gnębiony, to ja je skarcię!\""
+                                "\"Inne wróżki potrafią być wredne, ale nie przejmuj się\nnimi. Jeśli \\n[1] będzie gnębiony,\nto wyrwę im skrzydełka!\""
                             ]
                         },
                         {
@@ -16445,10 +16445,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Supply Souls",
-                                    "Rape",
-                                    "Killed Cinderella",
-                                    "Leave"
+                                    "Zapoatrz Dusze",
+                                    "Zgwałć",
+                                    "Zabijed Cinderella",
+                                    "Odejdź"
                                 ],
                                 4
                             ]
@@ -16956,7 +16956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Hę? To ty. Co jest?\""
+                                "\"Oh? To ty. Stało się coś?\""
                             ]
                         },
                         {
@@ -18918,7 +18918,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"... Czy mogłabyś przynajmniej zrobić to, gdy nie ma\nprzy mnie Polo?\""
+                                "\"... Czy mogłabyś przynajmniej zrobić to, gdy nie ma\nprzy mnie Poro?\""
                             ]
                         },
                         {
@@ -19165,7 +19165,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Muu… A przecież tylko ja mogę głaskać Polo…"
+                                "Muu… A przecież tylko ja mogę głaskać Poro…"
                             ]
                         },
                         {
@@ -19570,8 +19570,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Kill",
-                                    "Leave"
+                                    "Zabij",
+                                    "Odejdź"
                                 ],
                                 2
                             ]

@@ -162,7 +162,7 @@ module A1_System::NameWindow
 
     "aka"    => "Czerwony Kapturek",
 
-    "ri-hu"    => "Czarodziejka Leaf",
+    "ri-hu"    => "Wróżka Leaf",
 
     "alice"    => "Alicja",
 
@@ -174,11 +174,11 @@ module A1_System::NameWindow
 
     "eriza"    => "Dama Dusz Elżbieta",
 
-    "eruma"    => "Elma Sprzedawczyni Zapałek",
+    "eruma"    => "Elma Dziewczynka z Zapałkami",
 
     "beru"    => "Piękna Belle",
 
-    "biku"    => "Pokojówka Wiktoria",
+    "biku"    => "Służka Wiktoria",
 
     "gu-su"    => "Bogata Gęś Goose",
 

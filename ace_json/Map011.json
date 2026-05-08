@@ -1323,8 +1323,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Kill",
-                                    "Leave"
+                                    "Zabij",
+                                    "Odejdź"
                                 ],
                                 2
                             ]
@@ -1921,8 +1921,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Kill",
-                                    "Leave"
+                                    "Zabij",
+                                    "Odejdź"
                                 ],
                                 2
                             ]
@@ -7553,9 +7553,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Show me your wares.",
-                                    "Kill",
-                                    "Leave"
+                                    "Pokaż mi swoje towary.",
+                                    "Zabij",
+                                    "Odejdź"
                                 ],
                                 3
                             ]
@@ -8077,7 +8077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Poprawnie! Eruma-chan, niesamowite!\""
+                                "\"Poprawnie! Elma-chan, niesamowite!\""
                             ]
                         },
                         {
@@ -8183,7 +8183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Jak dorosnę, chcę mieć sklep jak Guusu-san…\""
+                                "\"Jak dorosnę, chcę mieć sklep jak Goose-san…\""
                             ]
                         },
                         {

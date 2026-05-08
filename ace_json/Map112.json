@@ -1069,8 +1069,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -1188,8 +1188,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -1384,8 +1384,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -1684,8 +1684,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -1900,8 +1900,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -2116,8 +2116,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -2332,8 +2332,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -2548,8 +2548,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -2764,8 +2764,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -2980,8 +2980,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -3196,8 +3196,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -3412,8 +3412,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -3628,8 +3628,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -3844,8 +3844,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -4060,8 +4060,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -4276,8 +4276,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -4492,8 +4492,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -4708,8 +4708,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -4924,8 +4924,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -5064,7 +5064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Zgwałć Victorię."
+                                "Zgwałć Wiktorię."
                             ]
                         },
                         {
@@ -5140,8 +5140,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -5348,7 +5348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz przypomnieć sobie \\c[2]Victorię (uwięzienie)\\c[0]?"
+                                "Czy chcesz przypomnieć sobie \\c[2]Wiktorię (uwięzienie)\\c[0]?"
                             ]
                         },
                         {
@@ -5356,8 +5356,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -5564,7 +5564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz przypomnieć sobie \\c[2]Victorię (seks za zgodą)\\c[0]?"
+                                "Czy chcesz przypomnieć sobie \\c[2]Wiktorię (seks za zgodą)\\c[0]?"
                             ]
                         },
                         {
@@ -5572,8 +5572,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -5780,7 +5780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Eruma (Hotel)\\c[0] – Czy chcesz odtworzyć wspomnienie?"
+                                "\\c[2]Elma (Hotel)\\c[0] – Czy chcesz odtworzyć wspomnienie?"
                             ]
                         },
                         {
@@ -5788,8 +5788,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -6004,8 +6004,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -6220,8 +6220,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -6436,8 +6436,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -6652,8 +6652,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -6800,8 +6800,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -7023,8 +7023,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -7239,8 +7239,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -7455,8 +7455,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -7671,8 +7671,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -7887,8 +7887,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -8103,8 +8103,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -8319,8 +8319,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -8535,8 +8535,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -8751,8 +8751,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -8967,8 +8967,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -9183,8 +9183,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -9399,8 +9399,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -9615,8 +9615,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -9755,7 +9755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Uratuj Katarinę i zaprowadź ją do Jeanne."
+                                "Uratuj Katarinę i zaprowadź ją do Joanna."
                             ]
                         },
                         {
@@ -9831,8 +9831,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -10047,8 +10047,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -10263,8 +10263,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -10479,8 +10479,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -10619,7 +10619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Zgwałć Jeanne."
+                                "Zgwałć Joanna."
                             ]
                         },
                         {
@@ -10687,7 +10687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz przypomnieć sobie \\c[2]Jeanne (Gwałt)\\c[0]?"
+                                "Czy chcesz przypomnieć sobie \\c[2]Joanna (Gwałt)\\c[0]?"
                             ]
                         },
                         {
@@ -10695,8 +10695,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -10835,7 +10835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Zgwałć uwięzioną Jeanne."
+                                "Zgwałć uwięzioną Joanna."
                             ]
                         },
                         {
@@ -10903,7 +10903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Jeanne (Uwięziona)\\c[0] – czy chcesz przywołać wspomnienie?"
+                                "\\c[2]Joanna (Uwięziona)\\c[0] – czy chcesz przywołać wspomnienie?"
                             ]
                         },
                         {
@@ -10911,8 +10911,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -11051,7 +11051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wskrześ Jeanne."
+                                "Wskrześ Joanna."
                             ]
                         },
                         {
@@ -11119,7 +11119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz odtworzyć wspomnienie: Jeanne (za obopólną\nzgodą)?"
+                                "Czy chcesz odtworzyć wspomnienie: Joanna (za obopólną\nzgodą)?"
                             ]
                         },
                         {
@@ -11127,8 +11127,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -11267,7 +11267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Daj Dusze Jeanne."
+                                "Daj Dusze Joanna."
                             ]
                         },
                         {
@@ -11335,7 +11335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Odtworzyć \\c[2]Jeanne (Ofiarowanie Dusz)\\c[0]?"
+                                "Odtworzyć \\c[2]Joanna (Ofiarowanie Dusz)\\c[0]?"
                             ]
                         },
                         {
@@ -11343,8 +11343,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -11483,7 +11483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Drugi dopływ dusz dla Jeanne."
+                                "Drugi dopływ dusz dla Joanna."
                             ]
                         },
                         {
@@ -11551,7 +11551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz przywołać wspomnienie: \\c[2]Jeanne (Dusze\n-dostawa 2)\\c[0]?"
+                                "Czy chcesz przywołać wspomnienie: \\c[2]Joanna (Dusze\n-dostawa 2)\\c[0]?"
                             ]
                         },
                         {
@@ -11559,8 +11559,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -11699,7 +11699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Doprowadź poziom Jeanne do 99 lub więcej i przenocujcie\nrazem w hotelu Posejdon."
+                                "Doprowadź poziom Joanna do 99 lub więcej i przenocujcie\nrazem w hotelu Posejdon."
                             ]
                         },
                         {
@@ -11767,7 +11767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Odtworzyć \\c[2]Jeanne (Hotel)\\c[0]?"
+                                "Odtworzyć \\c[2]Joanna (Hotel)\\c[0]?"
                             ]
                         },
                         {
@@ -11775,8 +11775,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -11991,8 +11991,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -12207,8 +12207,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -12423,8 +12423,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -12639,8 +12639,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -12855,8 +12855,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -13071,8 +13071,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -13287,8 +13287,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -13503,8 +13503,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -13719,8 +13719,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -13935,8 +13935,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -14151,8 +14151,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -14367,8 +14367,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -14583,8 +14583,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -14799,8 +14799,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -15015,8 +15015,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -15231,8 +15231,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -15447,8 +15447,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -15663,8 +15663,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -15879,8 +15879,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -16095,8 +16095,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -16311,8 +16311,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -16459,8 +16459,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -16666,8 +16666,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -16882,8 +16882,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -17246,8 +17246,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -17462,8 +17462,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -17678,8 +17678,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -17894,8 +17894,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -18110,8 +18110,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -18326,8 +18326,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -18542,8 +18542,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -18758,8 +18758,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -18974,8 +18974,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -19190,8 +19190,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -19338,8 +19338,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -19554,8 +19554,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -19770,8 +19770,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -19986,8 +19986,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -20202,8 +20202,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -20418,8 +20418,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -20634,8 +20634,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -20850,8 +20850,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -21066,8 +21066,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -21282,8 +21282,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -21498,8 +21498,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -21638,7 +21638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Podnieś Victorię do poziomu 99 i pokonaj Cinderellę."
+                                "Podnieś Wiktorię do poziomu 99 i pokonaj Cinderellę."
                             ]
                         },
                         {
@@ -21714,8 +21714,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -21930,8 +21930,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -22146,8 +22146,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -22362,8 +22362,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -22578,8 +22578,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]
@@ -22794,8 +22794,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "Tak",
+                                    "Nie"
                                 ],
                                 2
                             ]

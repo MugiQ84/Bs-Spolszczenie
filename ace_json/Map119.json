@@ -739,8 +739,8 @@
                                 [
                                     "Talk",
                                     "Buy a Magic Book",
-                                    "Kill",
-                                    "Leave"
+                                    "Zabij",
+                                    "Odejdź"
                                 ],
                                 4
                             ]
@@ -2107,8 +2107,8 @@
                                 [
                                     "Talk",
                                     "Buy a Magic Book",
-                                    "Kill",
-                                    "Leave"
+                                    "Zabij",
+                                    "Odejdź"
                                 ],
                                 4
                             ]
@@ -2500,8 +2500,8 @@
                                 [
                                     "Talk",
                                     "Buy a Magic Book",
-                                    "Kill",
-                                    "Leave"
+                                    "Zabij",
+                                    "Odejdź"
                                 ],
                                 4
                             ]
@@ -3309,7 +3309,7 @@
                                 [
                                     "Supply Soul",
                                     "Make Sex Slave",
-                                    "Leave"
+                                    "Odejdź"
                                 ],
                                 3
                             ]

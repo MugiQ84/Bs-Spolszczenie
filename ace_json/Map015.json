@@ -570,7 +570,7 @@
                             "parameters": [
                                 [
                                     "Call out",
-                                    "Kill"
+                                    "Zabij"
                                 ],
                                 0
                             ]
@@ -2444,8 +2444,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Kill",
-                                    "Leave"
+                                    "Zabij",
+                                    "Odejdź"
                                 ],
                                 2
                             ]
@@ -3393,7 +3393,7 @@
                             "parameters": [
                                 [
                                     "Call out",
-                                    "Kill"
+                                    "Zabij"
                                 ],
                                 0
                             ]
@@ -4288,7 +4288,7 @@
                                 [
                                     "Give the ring",
                                     "Don't give the ring",
-                                    "Rape"
+                                    "Zgwałć"
                                 ],
                                 0
                             ]

@@ -332,7 +332,7 @@
                                 [
                                     "I'm envious.",
                                     "I killed the Behemoth.",
-                                    "Kill."
+                                    "Zabij."
                                 ],
                                 0
                             ]
@@ -1925,8 +1925,8 @@
                             "parameters": [
                                 [
                                     "Make love",
-                                    "Kill",
-                                    "Leave"
+                                    "Zabij",
+                                    "Odejdź"
                                 ],
                                 3
                             ]
@@ -2625,8 +2625,8 @@
                             "parameters": [
                                 [
                                     "Make love",
-                                    "Kill",
-                                    "Leave"
+                                    "Zabij",
+                                    "Odejdź"
                                 ],
                                 3
                             ]

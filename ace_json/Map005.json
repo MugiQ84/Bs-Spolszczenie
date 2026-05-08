@@ -851,7 +851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Muszę nakarmić Polo.\""
+                                "\"Muszę nakarmić Poro.\""
                             ]
                         },
                         {
@@ -2132,9 +2132,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Buy your body",
-                                    "Rape",
-                                    "Leave"
+                                    "Kupie twoje ciało",
+                                    "Zgwałć",
+                                    "Odejdź"
                                 ],
                                 3
                             ]
@@ -3260,7 +3260,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\"W porządku, zabiorę też Polo. Masz już dość dźwięku\ndeszczu, prawda?\""
+                                "\"W porządku, zabiorę też Poro. Masz już dość dźwięku\ndeszczu, prawda?\""
                             ]
                         },
                         {
@@ -3309,7 +3309,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\"No to do zobaczenia, Nieśmiertelny-san.\""
+                                "\"No to do zobaczenia, Nieumarły-san.\""
                             ]
                         },
                         {
@@ -3673,7 +3673,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Polo… Biedactwo.\""
+                                "\"Poro… Biedactwo.\""
                             ]
                         },
                         {
@@ -3912,7 +3912,7 @@
                             "parameters": [
                                 [
                                     "Chcę kupić twoje ciało",
-                                    "Zgwałcić",
+                                    "Zgwałć",
                                     "Zabić",
                                     "Odejść"
                                 ],
@@ -4994,7 +4994,7 @@
                             "parameters": [
                                 [
                                     "Kup Czerwonego Kapturka",
-                                    "Zgwałcić",
+                                    "Zgwałć",
                                     "Zabić",
                                     "Odejść"
                                 ],
@@ -5284,7 +5284,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\"W porządku, zabieram też Polo. Masz już dość tego\ndeszczu, prawda?\""
+                                "\"W porządku, zabieram też Poro. Masz już dość tego\ndeszczu, prawda?\""
                             ]
                         },
                         {
@@ -5697,7 +5697,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Polo... biedactwo.\""
+                                "\"Poro... biedactwo.\""
                             ]
                         },
                         {

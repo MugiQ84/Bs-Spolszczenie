@@ -3125,9 +3125,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Make Love",
-                                    "Kill",
-                                    "Leave"
+                                    "Uprawiaj Miłość",
+                                    "Zabij",
+                                    "Odejdź"
                                 ],
                                 3
                             ]
@@ -10450,7 +10450,7 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Killed them.",
+                                    "Zabijed them.",
                                     "I don't know."
                                 ],
                                 2
@@ -10909,7 +10909,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"...Jeśli się przyjrzeć, jesteś nieumarły. Myślałem, że\nwyginęliście podczas dawnych Polowań na Nieumarłych.\""
+                                "\"...Jeśli się przyjrzeć, jesteś nieumarły. Myślałem, że\nwyginęliście podczas dawnych Porowań na Nieumarłych.\""
                             ]
                         },
                         {
@@ -14318,7 +14318,7 @@
                             "parameters": [
                                 [
                                     "Odejdź",
-                                    "Przyzwij Dorotę",
+                                    "Przywołaj Dorotę",
                                     "Zabij"
                                 ],
                                 1
@@ -15815,7 +15815,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Rape",
+                                    "Zgwałć",
                                     "Walk away"
                                 ],
                                 2
@@ -16577,7 +16577,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Rape",
+                                    "Zgwałć",
                                     "Walk away"
                                 ],
                                 2
@@ -17390,9 +17390,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Make love",
-                                    "Kill",
-                                    "Leave"
+                                    "Uprawiaj Miłość",
+                                    "Zabij",
+                                    "Odejdź"
                                 ],
                                 3
                             ]
@@ -17724,8 +17724,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Make love with both",
-                                    "Leave"
+                                    "Uprawiaj Miłość z obydwoma",
+                                    "Odejdź"
                                 ],
                                 2
                             ]

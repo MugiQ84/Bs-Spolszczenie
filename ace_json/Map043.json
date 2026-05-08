@@ -1949,8 +1949,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Step into the mist.",
-                                    "Leave."
+                                    "Przejdź przez mgłe.",
+                                    "Odejdź."
                                 ],
                                 2
                             ]
@@ -3167,7 +3167,7 @@
                                 [
                                     "Hand over",
                                     "Finish off",
-                                    "Leave"
+                                    "Odejdź"
                                 ],
                                 3
                             ]

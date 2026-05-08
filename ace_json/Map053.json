@@ -1999,8 +1999,8 @@
                             "parameters": [
                                 [
                                     "Make love",
-                                    "Kill",
-                                    "Leave"
+                                    "Zabij",
+                                    "Odejdź"
                                 ],
                                 3
                             ]
@@ -3046,7 +3046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……Książę-sama, a-psik!"
+                                "……Książę, a-psik!"
                             ]
                         },
                         {

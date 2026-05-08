@@ -6074,7 +6074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Jestem Guus. Skromna wędrowna kupcowa. Złapali mnie\nparszywi bracia-świnie i oto, gdzie jestem."
+                                "Jestem Goose. Skromna wędrowna kupcowa. Złapali mnie\nparszywi bracia-świnie i oto, gdzie jestem."
                             ]
                         },
                         {
@@ -6120,7 +6120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Guus poruszyła kajdanami na nogach. Łańcuchy są\nprzykute do ziemi..."
+                                "Goose poruszyła kajdanami na nogach. Łańcuchy są\nprzykute do ziemi..."
                             ]
                         },
                         {
@@ -6306,7 +6306,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Rape",
+                                    "Zgwałć",
                                     "Walk away"
                                 ],
                                 2
@@ -6626,8 +6626,8 @@
                             "parameters": [
                                 [
                                     "Unlock shackles with Skeleton Key",
-                                    "Rape",
-                                    "Leave"
+                                    "Zgwałć",
+                                    "Odejdź"
                                 ],
                                 3
                             ]
@@ -7052,7 +7052,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Rape",
+                                    "Zgwałć",
                                     "Walk away"
                                 ],
                                 2
@@ -7149,7 +7149,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Uwięziono Gusa w piwnicy."
+                                "Uwięziono Goose w piwnicy."
                             ]
                         },
                         {
@@ -7234,7 +7234,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Uwięziono Gusa w piwnicy."
+                                "Uwięziono Goose w piwnicy."
                             ]
                         },
                         {

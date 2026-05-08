@@ -1130,9 +1130,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Have a herb bottle made",
-                                    "Kill",
-                                    "Leave"
+                                    "Wytwórz butelkę ziół",
+                                    "Zabij",
+                                    "Odejdź"
                                 ],
                                 3
                             ]
@@ -1519,9 +1519,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Have a herb bottle made",
-                                    "Kill",
-                                    "Leave"
+                                    "Wytwórz butelkę ziół",
+                                    "Zabij",
+                                    "Odejdź"
                                 ],
                                 3
                             ]
@@ -2325,9 +2325,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "About the Lost Empire",
-                                    "Kill",
-                                    "Leave"
+                                    "O Zaginionym Imperium",
+                                    "Zabij",
+                                    "Odejdź"
                                 ],
                                 3
                             ]
@@ -2645,9 +2645,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "About the Lost Empire",
-                                    "Kill",
-                                    "Leave"
+                                    "O Zaginionym Imperium",
+                                    "Zabij",
+                                    "Odejdź"
                                 ],
                                 3
                             ]
