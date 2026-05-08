@@ -3245,7 +3245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Ty... Dotarłeś do Lost Empire. Ale widziałeś, prawda?\nBrama zamku jest chroniona barierą, nie da się wejść.\""
+                                "\"Ty... Dotarłeś do Zamku Zaginionego Imperium. Ale widziałeś, prawda?\nBrama zamku jest chroniona barierą, nie da się wejść.\""
                             ]
                         },
                         {
@@ -3409,7 +3409,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"A ostatnia Demoniczna Księżniczka... Podobno jest\nnajpotężniejsza, bo stoi u początków. Podobno siedzi na\ntronie Lost Empire. Jeśli zaprosi cię na bal, to już\nnigdy nie wrócisz żywy.\""
+                                "\"A ostatnia Demoniczna Księżniczka... Podobno jest\nnajpotężniejsza, bo stoi u początków. Podobno siedzi na\ntronie Zaginionego Imperium. Jeśli zaprosi cię na bal, to już\nnigdy nie wrócisz żywy.\""
                             ]
                         },
                         {
@@ -3692,7 +3692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"\\c[2]Ostatnia Demoniczna Księżniczka jest w Lost Empire.\\c[0]\nJeśli pokonałeś cztery Demoniczne Księżniczki,\npowinieneś móc tam wejść.\""
+                                "\"\\c[2]Ostatnia Demoniczna Księżniczka jest w Zaginionym Imperium.\\c[0]\nJeśli pokonałeś cztery Demoniczne Księżniczki,\npowinieneś móc tam wejść.\""
                             ]
                         },
                         {
@@ -15389,7 +15389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Lost Empire było wspaniałym krajem\""
+                                "\"Zaginione Imperium było wspaniałym krajem\""
                             ]
                         },
                         {
@@ -17981,7 +17981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sama poradzę sobie z wyprawą do Lost Empire. Dziękuję\nza wszystko do tej pory."
+                                "Sama poradzę sobie z wyprawą do Zaginionego Imperium. Dziękuję\nza wszystko do tej pory."
                             ]
                         },
                         {
