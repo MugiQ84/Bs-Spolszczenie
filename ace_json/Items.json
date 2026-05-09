@@ -11,7 +11,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Dwóch szalonych rycerzy i towarzyszy w ciągłej rywalizacji.\n\"Zawody. Kto zabije, zgwałci i oszuka najwięcej ludzi?\"",
+        "description": "Leczy 50% HP. Uzupełnij przy ognisku.\n\"Krocz bez lęku w głąb mgły.\"",
         "effects": [
             {
                 "code": 11,
@@ -23,7 +23,7 @@
         "hitType": 0,
         "iconIndex": 366,
         "itypeId": 1,
-        "name": "Baśń[Jaś i Małgosia]",
+        "name": "Fiolka ziołowa",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -44,7 +44,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Tyraniczna królowa wręcz uwielbiała torturować młode panny.\nNajbardziej lubiła pożerać ich Dusze\"Żelazną Dziewicą\"",
+        "description": "Leczy 50% MP. Uzupełnij przy ognisku.\n\"Jednak nie daj sie pochłonąć magii..\"",
         "effects": [
             {
                 "code": 12,
@@ -56,7 +56,7 @@
         "hitType": 0,
         "iconIndex": 367,
         "itypeId": 1,
-        "name": "Baśń[Trzy małe świnki]",
+        "name": "Fiolka ziołowa M",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -89,7 +89,7 @@
         "hitType": 0,
         "iconIndex": 200,
         "itypeId": 1,
-        "name": "Baśń[Szaty króla]",
+        "name": "Zioła lecznicze",
         "note": "",
         "occasion": 0,
         "price": 50,
@@ -809,7 +809,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Nie ma żadnej wartości. \"Jeśli to sprzedasz, dostaniesz\nmożeee 1 Dusze.\"-Bogata gęś Goose",
+        "description": "Nie ma żadnej wartości. \"Jeśli to sprzedasz, dostaniesz\nmożeee 1 Duszę.\"-Bogata gęś Goose",
         "effects": [],
         "hitType": 0,
         "iconIndex": 103,

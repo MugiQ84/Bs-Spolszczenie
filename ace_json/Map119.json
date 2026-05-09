@@ -3454,8 +3454,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Are you alright?",
-                                    "Call out their name"
+                                    "Wszystko w porządku?",
+                                    "Zawoja ich imiona"
                                 ],
                                 2
                             ]

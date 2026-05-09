@@ -450,7 +450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Jestem zaskoczona... Czy to także prowadzenie Boże?"
+                                "「Jestem zaskoczona... Czy to także prowadzenie Boże?」"
                             ]
                         },
                         {
@@ -467,7 +467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Jestem Joanna d'Arc. Przybywam z Orleanu."
+                                "「Jestem Joanna d'Arc. Przybywam z Orleanu.」"
                             ]
                         },
                         {
@@ -484,7 +484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Obecnie na całym świecie ludzie zmieniają się w\nmagiczne bestie – przyczyną tej anomalii podobno jest\nmgła unosząca się z zamku Zaginionego Imperium."
+                                "「Obecnie na całym świecie ludzie zmieniają się w\n magiczne bestie – przyczyną tej anomalii podobno jest\n mgła unosząca się z zamku Zaginionego Imperium.」"
                             ]
                         },
                         {
@@ -501,7 +501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cóż takiego wydarzyło się w tym bogatym i spokojnym\nkraju? Co właściwie spowodowało pojawienie się mgły?\nAby to zbadać, przybyłam aż tutaj."
+                                "「Cóż takiego wydarzyło się w tym bogatym i spokojnym\n kraju? Co właściwie spowodowało pojawienie się mgły?\n Aby to zbadać, przybyłam aż tutaj.」"
                             ]
                         },
                         {
@@ -527,7 +527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…Nie martw się. Przede wszystkim zapewnię ci\nbezpieczeństwo."
+                                "「…Nie martw się. Przede wszystkim zapewnię ci\n bezpieczeństwo.」"
                             ]
                         },
                         {
@@ -544,7 +544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Zejdźmy z fortu Ivern, przetnijmy przyzamkowe\nmiasteczko, a za nim znajduje się kraina wróżek. Tam\ncię zaprowadzę."
+                                "「Zejdźmy z fortu Ivern, przetnijmy przyzamkowe\n miasteczko, a za nim znajduje się kraina wróżek. Tam\n cię zaprowadzę.」"
                             ]
                         },
                         {
@@ -814,7 +814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Co zamierzasz zrobić po powrocie?"
+                                "「Co zamierzasz zrobić po powrocie?」"
                             ]
                         },
                         {

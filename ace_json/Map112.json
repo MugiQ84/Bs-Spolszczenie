@@ -1061,7 +1061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy wyłączyć wyświetlanie scen H?"
+                                "Czy wyłączyć wyświetlanie scenek nsfw?"
                             ]
                         },
                         {
@@ -1180,7 +1180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Włączyć wyświetlanie scen H?"
+                                "Włączyć wyświetlanie scenek nsfw?"
                             ]
                         },
                         {
