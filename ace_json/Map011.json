@@ -1291,7 +1291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Jeśli raz zginiesz, wszystkie Dusze zostają na\n miejscu. Możesz wrócić i je odzyskać, ale jeśli nie\nzdążysz i znów zginiesz, nastąpi Utrata Dusz... czyli\nwszystko pójdzie na marne.」"
+                                "「Jeśli raz zginiesz, wszystkie Dusze zostają na\n miejscu. Możesz wrócić i je odzyskać, ale jeśli nie\n zdążysz i znów zginiesz, nastąpi Utrata Dusz... czyli\n wszystko pójdzie na marne.」"
                             ]
                         },
                         {
@@ -1315,7 +1315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Zwłaszcza w pokoju bossa, jeśli tam stracisz Dusze,\n \\C[2]nie możesz ich podnieść, dopóki nie pokonasz bossa\\C[0],\nwięc uważaj. W każdej sytuacji kluczowe jest wiedzieć,\nkiedy się wycofać.」"
+                                "「Zwłaszcza w pokoju bossa, jeśli tam stracisz Dusze,\n \\C[2]nie możesz ich podnieść, dopóki nie pokonasz bossa\\C[0],\n więc uważaj. W każdej sytuacji kluczowe jest wiedzieć,\n kiedy się wycofać.」"
                             ]
                         },
                         {
@@ -1548,7 +1548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Gdy raz zginiesz, wszystkie Dusze zostają na miejscu.\n Możesz je odzyskać, wracając tam, ale jeśli ich nie\npodniesiesz i znowu polegniesz, nastąpi Utrata Dusz...\nczyli pójdą na marne.」"
+                                "「Gdy raz zginiesz, wszystkie Dusze zostają na miejscu.\n Możesz je odzyskać, wracając tam, ale jeśli ich nie\n podniesiesz i znowu polegniesz, nastąpi Utrata Dusz...\n czyli pójdą na marne.」"
                             ]
                         },
                         {
@@ -1572,7 +1572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Szczególnie w komnacie bossa, gdy raz zgubisz Dusze,\n \\C[2]nie zdołasz ich podnieść, dopóki nie pokonasz bossa\\C[0],\nwięc uważaj. W każdej sytuacji kluczowe jest wiedzieć,\nkiedy się wycofać.」"
+                                "「Szczególnie w komnacie bossa, gdy raz zgubisz Dusze,\n \\C[2]nie zdołasz ich podnieść, dopóki nie pokonasz bossa\\C[0],\n więc uważaj. W każdej sytuacji kluczowe jest wiedzieć,\n kiedy się wycofać.」"
                             ]
                         },
                         {
@@ -1913,7 +1913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Jest niewinna i nieskończenie ciekawa, na zawsze\n pozostaje małą dziewczynką. Dlatego właśnie wszyscy kochają\nLeaf-chan.」"
+                                "「Jest niewinna i nieskończenie ciekawa, na zawsze\n pozostaje małą dziewczynką. Dlatego właśnie wszyscy kochają\n Leaf-chan.」"
                             ]
                         },
                         {
@@ -2170,7 +2170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Jest niewinna i ma niewyczerpaną ciekawość, zawsze\n pozostaje małą dziewczynką. I dlatego właśnie wszyscy kochają\nLeaf-chan.」"
+                                "「Jest niewinna i ma niewyczerpaną ciekawość, zawsze\n pozostaje małą dziewczynką. I dlatego właśnie wszyscy kochają\n Leaf-chan.」"
                             ]
                         },
                         {
@@ -2993,7 +2993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Jeśli obawia się Pan Utraty Dusz, proszę je u mnie\n zdeponować. Będę starannie zarządzać Pańskimi Duszami,\n\\n[1]-san.」"
+                                "「Jeśli obawia się Pan Utraty Dusz, proszę je u mnie\n zdeponować. Będę starannie zarządzać Pańskimi Duszami,\n \\n[1]-san.」"
                             ]
                         },
                         {
@@ -7343,7 +7343,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「...Oczywiście. Jednak ja, nieodpowiedzialny, który\n opuścił dom, nie mogę teraz nagle spotykać się z nią,\nudając ojca.」"
+                                "「...Oczywiście. Jednak ja, nieodpowiedzialny, który\n opuścił dom, nie mogę teraz nagle spotykać się z nią,\n udając ojca.」"
                             ]
                         },
                         {

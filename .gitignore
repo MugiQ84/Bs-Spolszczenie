@@ -36,3 +36,4 @@ vocab.txt
 .rvpacker-metadata
 steam_api.dll
 steam_autocloud.vdf
+ace_json/script.py

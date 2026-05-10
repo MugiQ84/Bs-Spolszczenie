@@ -458,7 +458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「\\n[1], wygląda na to, że Mary Sue się ukrywa. W takim\n razie, jeśli ujawnisz jej prawdziwe imię, na pewno się\npokaże, nie?」"
+                                "「\\n[1], wygląda na to, że Mary Sue się ukrywa. W takim\n razie, jeśli ujawnisz jej prawdziwe imię, na pewno się\n pokaże, nie?」"
                             ]
                         },
                         {
@@ -757,7 +757,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「To ja wywołałem tę mgłę, która zmienia ludzi w\n potwory. To ja stworzyłem Święty Las. I to ja zabiłem\ntwoją ukochaną, Alicję.」"
+                                "「To ja wywołałem tę mgłę, która zmienia ludzi w\n potwory. To ja stworzyłem Święty Las. I to ja zabiłem\n twoją ukochaną, Alicję.」"
                             ]
                         },
                         {
@@ -800,7 +800,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Ludzie są odrażający, prawda? Odkrywają swoje żądze,\n ciągle się zabijają, a wszędzie na świecie toczą się\nwojny, wojny…」"
+                                "「Ludzie są odrażający, prawda? Odkrywają swoje żądze,\n ciągle się zabijają, a wszędzie na świecie toczą się\n wojny, wojny…」"
                             ]
                         },
                         {
@@ -990,7 +990,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Byłem twoim wielkim fanem! Mimo że jesteś człowiekiem,\n tworzyłeś niesamowicie interesujące historie! I wtedy,\nczytając twoje opowieści, wpadłem na pomysł!」"
+                                "「Byłem twoim wielkim fanem! Mimo że jesteś człowiekiem,\n tworzyłeś niesamowicie interesujące historie! I wtedy,\n czytając twoje opowieści, wpadłem na pomysł!」"
                             ]
                         },
                         {
@@ -1024,7 +1024,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Potem było już łatwo. Wystarczyło, że zmieniłem bajki\n na takie, jakie mi się podobają, i wplotłem je w\nrzeczywistość. W końcu bóg może wszystko~」"
+                                "「Potem było już łatwo. Wystarczyło, że zmieniłem bajki\n na takie, jakie mi się podobają, i wplotłem je w\n rzeczywistość. W końcu bóg może wszystko~」"
                             ]
                         },
                         {
@@ -1090,7 +1090,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Ponieważ tak bardzo się opierałeś, wymazałem twoją\n pamięć i ciało, ale w zamian uczyniłem cię głównym\nbohaterem tej opowieści!」"
+                                "「Ponieważ tak bardzo się opierałeś, wymazałem twoją\n pamięć i ciało, ale w zamian uczyniłem cię głównym\n bohaterem tej opowieści!」"
                             ]
                         },
                         {
@@ -1351,7 +1351,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Książę, który pokonał smoka i uratował księżniczkę,\n żył długo i szczęśliwie, śmiejąc się ze wszystkimi. I\ntak kończy się bajka… Ale to nie będzie taki banalny\nfinał.」"
+                                "「Książę, który pokonał smoka i uratował księżniczkę,\n żył długo i szczęśliwie, śmiejąc się ze wszystkimi. I\n tak kończy się bajka… Ale to nie będzie taki banalny\n finał.」"
                             ]
                         },
                         {

@@ -4324,7 +4324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Legendarne ostrze, które podobno pokonało niegdyś\n wielką latającą bestię. \\c[2]Storm Ruler.\\c[0] Jeśli naprawdę\ntego pragniesz, przygotuj 50000 Dusze.」"
+                                "「Legendarne ostrze, które podobno pokonało niegdyś\n wielką latającą bestię. \\c[2]Storm Ruler.\\c[0] Jeśli naprawdę\n tego pragniesz, przygotuj 50000 Dusze.」"
                             ]
                         },
                         {
@@ -4407,7 +4407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Za 50000 Dusz oddam ci ten legendarny miecz, \\c[2]Władcę\nBurz\\c[0].\""
+                                "「Za 50000 Dusz oddam ci ten legendarny miecz, \\c[2]Władcę\n Burz\\c[0].\""
                             ]
                         },
                         {

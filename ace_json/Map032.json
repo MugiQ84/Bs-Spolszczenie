@@ -160,7 +160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Zaskoczyłeś mnie... Myślałam, że to jakaś obca kobieta\n weszła. Ale skoro jesteś mężczyzną, to nic nie szkodzi,\nprawda...?」"
+                                "「Zaskoczyłeś mnie... Myślałam, że to jakaś obca kobieta\n weszła. Ale skoro jesteś mężczyzną, to nic nie szkodzi,\n prawda...?」"
                             ]
                         },
                         {
@@ -1016,7 +1016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Elma... Ach, Elma... Ty też będziesz z mamą...\nKopciuszek-sama cię zaprosił, idziemy na bal...」"
+                                "「Elma... Ach, Elma... Ty też będziesz z mamą...\n Kopciuszek-sama cię zaprosił, idziemy na bal...」"
                             ]
                         },
                         {
@@ -1049,7 +1049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Zabiorę też Elmę ze sobą... więc nie musisz już być\ntaka samotna...」"
+                                "「Zabiorę też Elmę ze sobą... więc nie musisz już być\n taka samotna...」"
                             ]
                         },
                         {
@@ -2700,7 +2700,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「A, ach…! P-przestań…! Ty przeklęty żółwiu…! Nie\ndotykaj tam tak powoli…!」"
+                                "「A, ach…! P-przestań…! Ty przeklęty żółwiu…! Nie\n dotykaj tam tak powoli…!」"
                             ]
                         },
                         {
@@ -2717,7 +2717,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Ha ha ha! Co się stało? Zupełnie niczym królik,\nwygląda na to, że szybko kończysz…!」"
+                                "「Ha ha ha! Co się stało? Zupełnie niczym królik,\n wygląda na to, że szybko kończysz…!」"
                             ]
                         },
                         {
@@ -2815,7 +2815,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Aaaa! Aaaa! N-nie wolno! Nie możesz tak po prostu\nzaglądać…!」"
+                                "「Aaaa! Aaaa! N-nie wolno! Nie możesz tak po prostu\n zaglądać…!」"
                             ]
                         },
                         {

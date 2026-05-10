@@ -853,7 +853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Rejestruję cię oficjalnie jako Mistrza...\n Zatwierdzenie... Jestem Alicja model 02-A. Proszę mówić\nmi Alicja.」"
+                                "「Rejestruję cię oficjalnie jako Mistrza...\n Zatwierdzenie... Jestem Alicja model 02-A. Proszę mówić\n mi Alicja.」"
                             ]
                         },
                         {
@@ -1207,7 +1207,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「To biblioteka, którą często odwiedzaliście razem:\n Alicja01 i \\n[1]-sama. Podobno szczególnie lubiliście\nrazem czytać bajki」"
+                                "「To biblioteka, którą często odwiedzaliście razem:\n Alicja01 i \\n[1]-sama. Podobno szczególnie lubiliście\n razem czytać bajki」"
                             ]
                         },
                         {
@@ -1696,7 +1696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Prawdę mówiąc, była we mnie wbudowana wiadomość od\n Alicji01. Napisano, że warunkiem jej odtworzenia jest,\naby Mistrz najpierw zapełnił wszystkie książki.」"
+                                "「Prawdę mówiąc, była we mnie wbudowana wiadomość od\n Alicji01. Napisano, że warunkiem jej odtworzenia jest,\n aby Mistrz najpierw zapełnił wszystkie książki.」"
                             ]
                         },
                         {
@@ -2161,7 +2161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「A tak przy okazji, sprawdzałeś już drzwi w głębi? Ja\n też je sprawdziłam, ale nie wiedziałam, jak je\notworzyć…」"
+                                "「A tak przy okazji, sprawdzałeś już drzwi w głębi? Ja\n też je sprawdziłam, ale nie wiedziałam, jak je\n otworzyć…」"
                             ]
                         },
                         {
@@ -2263,7 +2263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「……E? Była jeszcze jakaś książka, której nie zakopałeś?\n Najmocniej przepraszam… Myślałem, że wszystkie książki\nsą na tych półkach…」"
+                                "「……E? Była jeszcze jakaś książka, której nie zakopałeś?\n Najmocniej przepraszam… Myślałem, że wszystkie książki\n są na tych półkach…」"
                             ]
                         },
                         {
@@ -2280,7 +2280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Prędzej czy później też ją znajdę i zakopię. Gdy\n wszystkie zostaną zakopane, może coś się wydarzy. To\nmoja intelektualna ciekawość.」"
+                                "「Prędzej czy później też ją znajdę i zakopię. Gdy\n wszystkie zostaną zakopane, może coś się wydarzy. To\n moja intelektualna ciekawość.」"
                             ]
                         },
                         {

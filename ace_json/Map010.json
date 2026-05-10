@@ -279,7 +279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Przy okazji, na zewnątrz czyhają magiczne bestie, więc\n lepiej nie daj się zabić. Chociaż ty jesteś\nnieumarły, to nie ma się czego bać, haha.」"
+                                "「Przy okazji, na zewnątrz czyhają magiczne bestie, więc\n lepiej nie daj się zabić. Chociaż ty jesteś\n nieumarły, to nie ma się czego bać, haha.」"
                             ]
                         },
                         {
@@ -319,7 +319,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「A właśnie, zanim stąd wyjdziesz, poszukaj dziewczyny o\n imieniu \\c[2]Leaf\\c[0]. W przeciwieństwie do innych wróżek, ona\nna pewno ci pomoże.」"
+                                "「A właśnie, zanim stąd wyjdziesz, poszukaj dziewczyny o\n imieniu \\c[2]Leaf\\c[0]. W przeciwieństwie do innych wróżek, ona\n na pewno ci pomoże.」"
                             ]
                         },
                         {
@@ -1543,7 +1543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Słyszałem, że gdzieś jest czarnoksiężnik potrafiący\n wskrzeszać ciała... Jeśli wierzysz w nadzieję, warto go\nposzukać.」"
+                                "「Słyszałem, że gdzieś jest czarnoksiężnik potrafiący\n wskrzeszać ciała... Jeśli wierzysz w nadzieję, warto go\n poszukać.」"
                             ]
                         },
                         {
@@ -2962,7 +2962,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Zaginione Imperium jest na północ stąd. Przejdź przez\n Las Porzuconych, potem kanałami do Dzielnicy Rozpusty.\nZa fortecą Iburn powinieneś dotrzeć na miejsce.」"
+                                "「Zaginione Imperium jest na północ stąd. Przejdź przez\n Las Porzuconych, potem kanałami do Dzielnicy Rozpusty.\n Za fortecą Iburn powinieneś dotrzeć na miejsce.」"
                             ]
                         },
                         {
@@ -2986,7 +2986,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Najpierw odwiedź wiedźmę w \\C[2]Lesie Porzuconych\\C[0]. Jest\n przekorna, ale w głębi serca dobra, więc powinna ci\npomóc.」"
+                                "「Najpierw odwiedź wiedźmę w \\C[2]Lesie Porzuconych\\C[0]. Jest\n przekorna, ale w głębi serca dobra, więc powinna ci\n pomóc.」"
                             ]
                         },
                         {
@@ -3269,7 +3269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Żeby tam wejść, potrzeba Dusz czterech Demonicznych\n Księżniczek. ...Straciłem towarzyszy i w końcu\ndotarłem, ale załamałem się.」"
+                                "「Żeby tam wejść, potrzeba Dusz czterech Demonicznych\n Księżniczek. ...Straciłem towarzyszy i w końcu\n dotarłem, ale załamałem się.」"
                             ]
                         },
                         {
@@ -3337,7 +3337,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Demoniczne Księżniczki... Kobiety, które chcą stworzyć\n królestwo demonicznych bestii. Sam ich nie widziałem,\nale podobno są piękne jak boginie, a każda ma okropny\ncharakter.」"
+                                "「Demoniczne Księżniczki... Kobiety, które chcą stworzyć\n królestwo demonicznych bestii. Sam ich nie widziałem,\n ale podobno są piękne jak boginie, a każda ma okropny\n charakter.」"
                             ]
                         },
                         {
@@ -3385,7 +3385,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「\\C[17]Jedna siedzi na szczycie wieży wznoszącej się ku niebu\n i zapuszcza włosy. \\! \\C[11]Druga bawi się z żabami na\nskalanych bagnach. \\! \\C[12]Trzecia na dnie morza wygrywa\nniekończącą się rapsodię szaleństwa. \\! \\C[23]Czwarta w lodowym\nzamku poszukuje wiecznego piękna.」"
+                                "「\\C[17]Jedna siedzi na szczycie wieży wznoszącej się ku niebu\n i zapuszcza włosy. \\! \\C[11]Druga bawi się z żabami na\n skalanych bagnach. \\! \\C[12]Trzecia na dnie morza wygrywa\n niekończącą się rapsodię szaleństwa. \\! \\C[23]Czwarta w lodowym\n zamku poszukuje wiecznego piękna.」"
                             ]
                         },
                         {
@@ -3409,7 +3409,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「A ostatnia Demoniczna Księżniczka... Podobno jest\n najpotężniejsza, bo stoi u początków. Podobno siedzi na\ntronie Zaginionego Imperium. Jeśli zaprosi cię na bal, to już\nnigdy nie wrócisz żywy.」"
+                                "「A ostatnia Demoniczna Księżniczka... Podobno jest\n najpotężniejsza, bo stoi u początków. Podobno siedzi na\n tronie Zaginionego Imperium. Jeśli zaprosi cię na bal, to już\n nigdy nie wrócisz żywy.」"
                             ]
                         },
                         {
@@ -3433,7 +3433,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Wszystko to usłyszałem od mojego towarzysza maga.\n Jeśli zabijesz Demoniczne Księżniczki, mgła ustanie...\nŚwiat zostanie ocalony. Ale ja nie dam rady...」"
+                                "「Wszystko to usłyszałem od mojego towarzysza maga.\n Jeśli zabijesz Demoniczne Księżniczki, mgła ustanie...\n Świat zostanie ocalony. Ale ja nie dam rady...」"
                             ]
                         },
                         {
@@ -3692,7 +3692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「\\c[2]Ostatnia Demoniczna Księżniczka jest w Zaginionym Imperium.\\c[0]\n Jeśli pokonałeś cztery Demoniczne Księżniczki,\npowinieneś móc tam wejść.」"
+                                "「\\c[2]Ostatnia Demoniczna Księżniczka jest w Zaginionym Imperium.\\c[0]\n Jeśli pokonałeś cztery Demoniczne Księżniczki,\n powinieneś móc tam wejść.」"
                             ]
                         },
                         {
@@ -3807,7 +3807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Czuję, że mnie uratowałeś… Bez względu na to, ile razy\n bym upadł, idę naprzód… Przypomniałem sobie odwagę, o\nktórej już prawie zapomniałem.」"
+                                "「Czuję, że mnie uratowałeś… Bez względu na to, ile razy\n bym upadł, idę naprzód… Przypomniałem sobie odwagę, o\n której już prawie zapomniałem.」"
                             ]
                         },
                         {
@@ -11855,7 +11855,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Po stracie Oxa i Beriala wpadłam w rozpacz... i o mało\n nie porzuciłam całej mojej wiary. Jestem Ci naprawdę\nwdzięczna za ratunek.」"
+                                "「Po stracie Oxa i Beriala wpadłam w rozpacz... i o mało\n nie porzuciłam całej mojej wiary. Jestem Ci naprawdę\n wdzięczna za ratunek.」"
                             ]
                         },
                         {
@@ -11872,7 +11872,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Słyszałam, że \\n[1]-san bierze udział w walce... Jeśli\n pozwolisz, pragnę dołożyć swoją siłę. Potrafię\nposługiwać się magią leczniczą...」"
+                                "「Słyszałam, że \\n[1]-san bierze udział w walce... Jeśli\n pozwolisz, pragnę dołożyć swoją siłę. Potrafię\n posługiwać się magią leczniczą...」"
                             ]
                         },
                         {
@@ -12608,7 +12608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ahahaha! Żartuję. Ojou-sama i Ox są starymi,\n nierozłącznymi znajomymi. Nie mogę przecież prosić o to\nkogoś obcego.」"
+                                "「Ahahaha! Żartuję. Ojou-sama i Ox są starymi,\n nierozłącznymi znajomymi. Nie mogę przecież prosić o to\n kogoś obcego.」"
                             ]
                         },
                         {
@@ -12964,7 +12964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Lecz takie doświadczenie jest niczym ujrzenie\n niebieskiego księżyca. Myślę, że pozostanę tu przez\njakiś czas.」"
+                                "「Lecz takie doświadczenie jest niczym ujrzenie\n niebieskiego księżyca. Myślę, że pozostanę tu przez\n jakiś czas.」"
                             ]
                         },
                         {
@@ -15437,7 +15437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Studiowałem w wielu rozwiniętych krajach na południu,\n ale wciąż nie znam kraju bardziej urzekającego niż Lost\nEmpire」"
+                                "「Studiowałem w wielu rozwiniętych krajach na południu,\n ale wciąż nie znam kraju bardziej urzekającego niż Lost\n Empire」"
                             ]
                         },
                         {
@@ -16100,7 +16100,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Inne wróżki potrafią być wredne, ale nie przejmuj się\n nimi. Jeśli \\n[1] będzie gnębiony, to wyrwę\nim skrzydełka!」"
+                                "「Inne wróżki potrafią być wredne, ale nie przejmuj się\n nimi. Jeśli \\n[1] będzie gnębiony, to wyrwę\n im skrzydełka!」"
                             ]
                         },
                         {
@@ -16269,7 +16269,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Inne wróżki potrafią być wredne, ale nie przejmuj się\n nimi. Jeśli \\n[1] będzie gnębiony, to wyrwę\nim skrzydełka!」"
+                                "「Inne wróżki potrafią być wredne, ale nie przejmuj się\n nimi. Jeśli \\n[1] będzie gnębiony, to wyrwę\n im skrzydełka!」"
                             ]
                         },
                         {
@@ -17726,7 +17726,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Mówi się, że tylko ludzie, którzy stracili swoje\n miejsce, mogą odwiedzić ten Święty Las... Czy ja też do\nnich należę...?」"
+                                "「Mówi się, że tylko ludzie, którzy stracili swoje\n miejsce, mogą odwiedzić ten Święty Las... Czy ja też do\n nich należę...?」"
                             ]
                         },
                         {
@@ -17750,7 +17750,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「A tak w ogóle, ta wróżka, Leaf... Wydaje mi się, że\n nie widziałam jej, gdy przyszłam tu po raz pierwszy...\nA może tylko się ukrywała...?」"
+                                "「A tak w ogóle, ta wróżka, Leaf... Wydaje mi się, że\n nie widziałam jej, gdy przyszłam tu po raz pierwszy...\n A może tylko się ukrywała...?」"
                             ]
                         },
                         {

@@ -1041,7 +1041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ten zajazd powstał dzięki uprzejmości jednej z\n Demonicznych Księżniczek, \\c[2]Księżniczki Syreny-sama\\c[0], i\njest zajazdem miłości.」"
+                                "「Ten zajazd powstał dzięki uprzejmości jednej z\n Demonicznych Księżniczek, \\c[2]Księżniczki Syreny-sama\\c[0], i\n jest zajazdem miłości.」"
                             ]
                         },
                         {
@@ -1065,7 +1065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Jeśli chcesz spędzić słodkie chwile z ukochaną bez\n przeszkód, zapraszamy do skorzystania z Hotelu\nPosejdon...」"
+                                "「Jeśli chcesz spędzić słodkie chwile z ukochaną bez\n przeszkód, zapraszamy do skorzystania z Hotelu\n Posejdon...」"
                             ]
                         },
                         {
@@ -1160,7 +1160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ups... rzeczywiście. Gdy raz się tu zatrzymasz, nie\n wyjdziesz, chyba że \\c[2]się pokochasz z kimś lub jedno z\nwas umrze\\c[0].」"
+                                "「Ups... rzeczywiście. Gdy raz się tu zatrzymasz, nie\n wyjdziesz, chyba że \\c[2]się pokochasz z kimś lub jedno z\n was umrze\\c[0].」"
                             ]
                         },
                         {
@@ -1702,7 +1702,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "「Jestem jednym z Czterech Demonów Czasu Mrocznego\n Trybunału, \\c[2]Hain\\c[0]! Tak, to ja jestem najsilniejszy w\ncałym Mrocznym Trybunale. Zapamiętaj to sobie, dobra?\nHihihi...」"
+                                "「Jestem jednym z Czterech Demonów Czasu Mrocznego\n Trybunału, \\c[2]Hain\\c[0]! Tak, to ja jestem najsilniejszy w\n całym Mrocznym Trybunale. Zapamiętaj to sobie, dobra?\n Hihihi...」"
                             ]
                         },
                         {

@@ -3050,7 +3050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Śmiertelnie jadowite motyle mnie dopadły... ledwo mogę\n ruszać ciałem. Hej, ty... przyniesiesz mi \\c[2]Zioło\nOdtruwające\\c[0] i \\c[2]Zioło Lecznicze\\c[0]?」"
+                                "「Śmiertelnie jadowite motyle mnie dopadły... ledwo mogę\n ruszać ciałem. Hej, ty... przyniesiesz mi \\c[2]Zioło\n Odtruwające\\c[0] i \\c[2]Zioło Lecznicze\\c[0]?」"
                             ]
                         },
                         {
@@ -3686,7 +3686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Kto by pomyślał, że w takiej opuszczonej kopalni\n zagnieżdżą się potwory… Ech, teraz to chyba wszędzie\njest ich pełno…」"
+                                "「Kto by pomyślał, że w takiej opuszczonej kopalni\n zagnieżdżą się potwory… Ech, teraz to chyba wszędzie\n jest ich pełno…」"
                             ]
                         },
                         {
@@ -3710,7 +3710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Jeszcze trochę dojdę do siebie i spadam z tego\n ponurego miejsca. Mam nadzieję, że kiedyś gdzieś\njeszcze na siebie wpadniemy」"
+                                "「Jeszcze trochę dojdę do siebie i spadam z tego\n ponurego miejsca. Mam nadzieję, że kiedyś gdzieś\n jeszcze na siebie wpadniemy」"
                             ]
                         },
                         {

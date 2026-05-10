@@ -322,7 +322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Bo oto Behemot, uznawany za najpotężniejszą z\n magicznych bestii, już wkrótce przybędzie tu jako mój\nzwierzak!」"
+                                "「Bo oto Behemot, uznawany za najpotężniejszą z\n magicznych bestii, już wkrótce przybędzie tu jako mój\n zwierzak!」"
                             ]
                         },
                         {
@@ -1165,7 +1165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Na południe stąd... Na Pustyni Helsa podobno istnieje\n \\c[2]widmowa róża\\c[0], która rzadko kwitnie. Przynieś ją przede\nmnie.」"
+                                "「Na południe stąd... Na Pustyni Helsa podobno istnieje\n \\c[2]widmowa róża\\c[0], która rzadko kwitnie. Przynieś ją przede\n mnie.」"
                             ]
                         },
                         {
@@ -2482,7 +2482,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Inne demoniczne księżniczki... cóż one teraz\n czynią...? A ja... przez cały ten czas na szczycie tej\nwieży... cóż ja czyniłam...?」"
+                                "「Inne demoniczne księżniczki... cóż one teraz\n czynią...? A ja... przez cały ten czas na szczycie tej\n wieży... cóż ja czyniłam...?」"
                             ]
                         },
                         {
@@ -2499,7 +2499,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Otoczona demonicznymi bestiami i złotem, choćbym\n zdobyła najcenniejsze skarby... i tak nic mnie nie\nzaspokaja...」"
+                                "「Otoczona demonicznymi bestiami i złotem, choćbym\n zdobyła najcenniejsze skarby... i tak nic mnie nie\n zaspokaja...」"
                             ]
                         },
                         {

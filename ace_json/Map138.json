@@ -1152,7 +1152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Biedny Mistrz Modlitw, zazdrosny o miłość między nim a\n nią, pomodlił się do tamtego boga. A przecież to\nniczego nie zbawi. Miłość jest taka okrutna...」"
+                                "「Biedny Mistrz Modlitw, zazdrosny o miłość między nim a\n nią, pomodlił się do tamtego boga. A przecież to\n niczego nie zbawi. Miłość jest taka okrutna...」"
                             ]
                         },
                         {
@@ -1176,7 +1176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「……Jednak ogromne poczucie nieprawidłowości. To\n wszystko jest zgodnie z jej planem. To nie Grimm\nstworzył Krainę Czarów, tylko ona.」"
+                                "「……Jednak ogromne poczucie nieprawidłowości. To\n wszystko jest zgodnie z jej planem. To nie Grimm\n stworzył Krainę Czarów, tylko ona.」"
                             ]
                         },
                         {

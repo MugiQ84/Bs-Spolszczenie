@@ -4839,7 +4839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Wymarliśmy z powodu zarazy szczurów... Niezależnie od\n tego, ile składaliśmy ofiar, nasze modlitwy nie\ndocierały do tamtej krainy.」"
+                                "「Wymarliśmy z powodu zarazy szczurów... Niezależnie od\n tego, ile składaliśmy ofiar, nasze modlitwy nie\n docierały do tamtej krainy.」"
                             ]
                         },
                         {
@@ -16237,7 +16237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Zła mgła, która przemienia ludzi w magiczne bestie...\n To, co ją wywołuje... \\c[2]Demoniczna Księżniczka\nKopciuszek\\c[0]... to moja matka.」"
+                                "「Zła mgła, która przemienia ludzi w magiczne bestie...\n To, co ją wywołuje... \\c[2]Demoniczna Księżniczka\n Kopciuszek\\c[0]... to moja matka.」"
                             ]
                         },
                         {
@@ -16261,7 +16261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Była mądrą, troskliwą i łagodną matką, ale dlaczego\n nagle postradała zmysły? Porzuciłam kraj i uciekłam,\nale mimo wszystko chcę się z nią spotkać i upewnić.」"
+                                "「Była mądrą, troskliwą i łagodną matką, ale dlaczego\n nagle postradała zmysły? Porzuciłam kraj i uciekłam,\n ale mimo wszystko chcę się z nią spotkać i upewnić.」"
                             ]
                         },
                         {
@@ -16285,7 +16285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Jednak aby dostać się do Utraconego Imperium, podobno\n trzeba pokonać cztery Demoniczne Księżniczki. To takie\nfrustrujące...」"
+                                "「Jednak aby dostać się do Utraconego Imperium, podobno\n trzeba pokonać cztery Demoniczne Księżniczki. To takie\n frustrujące...」"
                             ]
                         },
                         {

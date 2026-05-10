@@ -3054,7 +3054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Jaś i Małgosia, te dzieci to moja rodzina. Ty też ich\n widziałeś, prawda? Jeśli tak dalej pójdzie, prędzej czy\npóźniej zamienią się w bestie.」"
+                                "「Jaś i Małgosia, te dzieci to moja rodzina. Ty też ich\n widziałeś, prawda? Jeśli tak dalej pójdzie, prędzej czy\n później zamienią się w bestie.」"
                             ]
                         },
                         {
@@ -3135,7 +3135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Rozumiesz, prawda? To... to coś... Potrzebuję\n lekarstwa. Jeśli je zdobędę, na pewno stanę się\nbohaterem.」"
+                                "「Rozumiesz, prawda? To... to coś... Potrzebuję\n lekarstwa. Jeśli je zdobędę, na pewno stanę się\n bohaterem.」"
                             ]
                         },
                         {
@@ -3159,7 +3159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「\\c[2]W mieście Plugawizna, które jest przed nami, mieszka\n dziewczyna o imieniu Elma.\\c[0] Czy mógłbyś kupić od niej to\nlekarstwo?」"
+                                "「\\c[2]W mieście Plugawizna, które jest przed nami, mieszka\n dziewczyna o imieniu Elma.\\c[0] Czy mógłbyś kupić od niej to\n lekarstwo?」"
                             ]
                         },
                         {
@@ -4344,7 +4344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ludzie są tacy dziwni. Czemu tak swobodnie zabijają i\ndają się zabijać?」"
+                                "「Ludzie są tacy dziwni. Czemu tak swobodnie zabijają i\n dają się zabijać?」"
                             ]
                         },
                         {
@@ -4361,7 +4361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Jeśli popełnisz grzech, zostaniesz ukarany przez\n\\c[2]Mroczny Trybunał\\c[0]. Nic na to nie poradzisz.」"
+                                "「Jeśli popełnisz grzech, zostaniesz ukarany przez\n \\c[2]Mroczny Trybunał\\c[0]. Nic na to nie poradzisz.」"
                             ]
                         },
                         {
@@ -4378,7 +4378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Gdyby oboje urodzili się w bogatej rodzinie, gdyby\notaczano ich miłością, mogliby doczekać szczęśliwszego\nkońca.」"
+                                "「Gdyby oboje urodzili się w bogatej rodzinie, gdyby\n otaczano ich miłością, mogliby doczekać szczęśliwszego\n końca.」"
                             ]
                         },
                         {

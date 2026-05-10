@@ -961,7 +961,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「Kliencie, nie jesteś stąd, prawda? To miasto jest\n pełne bestii i mgły, lepiej nie zostawaj tu za długo\ndla własnego dobra」"
+                                "「Kliencie, nie jesteś stąd, prawda? To miasto jest\n pełne bestii i mgły, lepiej nie zostawaj tu za długo\n dla własnego dobra」"
                             ]
                         },
                         {
@@ -1553,7 +1553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Wygląda na to, że wszyscy towarzysze zamienili się w\n demoniczne bestie. To miejsce też jest już\nskończone...」"
+                                "「Wygląda na to, że wszyscy towarzysze zamienili się w\n demoniczne bestie. To miejsce też jest już\n skończone...」"
                             ]
                         },
                         {
@@ -1570,7 +1570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Zastanawiam się, czy ja też wkrótce taka będę...\n ...Nie boję się. Jeśli mogę stać się taka sama jak\nwszyscy, to mi to nie przeszkadza...」"
+                                "「Zastanawiam się, czy ja też wkrótce taka będę...\n ...Nie boję się. Jeśli mogę stać się taka sama jak\n wszyscy, to mi to nie przeszkadza...」"
                             ]
                         },
                         {
@@ -1786,7 +1786,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「Naprawdę dziękuję. Zanim stanę się demoniczną bestią,\n chcę, żebyś kochał mnie coraz bardziej? Tylko\nżartuję...♡」"
+                                "「Naprawdę dziękuję. Zanim stanę się demoniczną bestią,\n chcę, żebyś kochał mnie coraz bardziej? Tylko\n żartuję...♡」"
                             ]
                         },
                         {
@@ -1853,7 +1853,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Ufufu... Myślisz, że jestem bezczelna? Jestem\n prostytutką. Muszę wypełnić swoją pracę do samego\nkońca.」"
+                                "「Ufufu... Myślisz, że jestem bezczelna? Jestem\n prostytutką. Muszę wypełnić swoją pracę do samego\n końca.」"
                             ]
                         },
                         {

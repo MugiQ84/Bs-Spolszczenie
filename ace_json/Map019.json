@@ -951,7 +951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ostatnio figle wróżek są naprawdę uciążliwe. Nawet\ndzisiaj urwały mi aż 16 liści.」"
+                                "「Ostatnio figle wróżek są naprawdę uciążliwe. Nawet\n dzisiaj urwały mi aż 16 liści.」"
                             ]
                         },
                         {
@@ -975,7 +975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Hej, biedaku! Wyglądasz na szybszego ode mnie, więc\nproszę, daj nauczkę tym natrętnym muchom!」"
+                                "「Hej, biedaku! Wyglądasz na szybszego ode mnie, więc\n proszę, daj nauczkę tym natrętnym muchom!」"
                             ]
                         },
                         {
@@ -1098,7 +1098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Te wróżki kompletnie przesadzają z tymi psotami. Ile\n by nie jeść, to i tak nie ma końca, a na dodatek\nsmakuje paskudnie.」"
+                                "「Te wróżki kompletnie przesadzają z tymi psotami. Ile\n by nie jeść, to i tak nie ma końca, a na dodatek\n smakuje paskudnie.」"
                             ]
                         },
                         {
@@ -1511,7 +1511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「A tak, za \\c[2]5000 Dusz\\c[0] zrobię dla ciebie fiolkę ziół. Co\nty na to?\""
+                                "「A tak, za \\c[2]5000 Dusz\\c[0] zrobię dla ciebie fiolkę ziół. Co\n ty na to?\""
                             ]
                         },
                         {
@@ -2317,7 +2317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Wydaje się, że mają niesamowicie agresywny śluz, który\n potrafi rozpuścić nawet zbroję. Ty również powinieneś\nuważać, drogi panie.」"
+                                "「Wydaje się, że mają niesamowicie agresywny śluz, który\n potrafi rozpuścić nawet zbroję. Ty również powinieneś\n uważać, drogi panie.」"
                             ]
                         },
                         {
@@ -2361,7 +2361,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Zaginione Imperium... Słyszałem o nim. Podobno kiedyś\n było to tętniące życiem zamczysko, ale przez szaleństwo\nkrólowej stało się teraz zamkiem plugawych bestii.」"
+                                "「Zaginione Imperium... Słyszałem o nim. Podobno kiedyś\n było to tętniące życiem zamczysko, ale przez szaleństwo\n królowej stało się teraz zamkiem plugawych bestii.」"
                             ]
                         },
                         {
@@ -2409,7 +2409,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Tak tak, jeśli zauważysz \\C[2]mgłę\\C[0], bądź ostrożny. Mgła\n jest znakiem ostrzegawczym i może oznaczać, że \\C[2]czeka\ntam na ciebie potężny wróg\\C[0].」"
+                                "「Tak tak, jeśli zauważysz \\C[2]mgłę\\C[0], bądź ostrożny. Mgła\n jest znakiem ostrzegawczym i może oznaczać, że \\C[2]czeka\n tam na ciebie potężny wróg\\C[0].」"
                             ]
                         },
                         {
@@ -2681,7 +2681,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Zaginione Imperium... Słyszałem o nim. Niegdyś\n tętniący życiem zamek, ale przez obłęd królowej teraz\nstał się zamkiem bestii, podobno.」"
+                                "「Zaginione Imperium... Słyszałem o nim. Niegdyś\n tętniący życiem zamek, ale przez obłęd królowej teraz\n stał się zamkiem bestii, podobno.」"
                             ]
                         },
                         {
