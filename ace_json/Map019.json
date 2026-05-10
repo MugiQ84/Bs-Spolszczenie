@@ -1122,7 +1122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Tak, tak, \\c[2]5000 Dusz za butelkę ziół.\\c[0] Co ty na to?\""
+                                "「Tak, tak, \\c[2]5000 Dusz za butelkę ziół.\\c[0] Co ty na to?」"
                             ]
                         },
                         {
@@ -1511,7 +1511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「A tak, za \\c[2]5000 Dusz\\c[0] zrobię dla ciebie fiolkę ziół. Co\n ty na to?\""
+                                "「A tak, za \\c[2]5000 Dusz\\c[0] zrobię dla ciebie fiolkę ziół. Co\n ty na to?」"
                             ]
                         },
                         {

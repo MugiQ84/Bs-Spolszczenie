@@ -743,7 +743,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Zwiększa karmę o 1.\"Równowagę świata musimy utrzymać my,\nMroczny Trybunał. - Mroczny Zwiastun Lindmea\"",
+        "description": "Zwiększa karmę o 1.\"Równowagę świata musimy utrzymać my,\nMroczny Trybunał.\" - Mroczny Zwiastun Lindmea",
         "effects": [
             {
                 "code": 44,
@@ -1123,7 +1123,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Na pewien czas nadaje atrybut ognia twoim atakom. \"Bestie i\nrośliny lękają się płomienia\"",
+        "description": "Na pewien czas nadaje atrybut ognia twoim atakom. \"Bestie i\nrośliny lękają się płomienia.\"",
         "effects": [
             {
                 "code": 21,
@@ -8236,7 +8236,7 @@
         "hitType": 0,
         "iconIndex": 368,
         "itypeId": 1,
-        "name": "Baśń【Alicja w Kraina Czarów】",
+        "name": "Baśń【Alicja z Krainy Czarów】",
         "note": "",
         "occasion": 3,
         "price": 0,

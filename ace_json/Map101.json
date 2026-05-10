@@ -2933,7 +2933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Bajka[Jaś i Małgosia]\\c[0]"
+                                "\\c[2]Baśń【Jaś i Małgosia】\\c[0]"
                             ]
                         },
                         {
@@ -3104,7 +3104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Bajka[Jaś i Małgosia]\\c[0]"
+                                "\\c[2]Baśń【Jaś i Małgosia】\\c[0]"
                             ]
                         },
                         {
@@ -3311,7 +3311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Bajka[Trzy małe świnki]\\c[0]"
+                                "\\c[2]Baśń【Trzy małe świnki】\\c[0]"
                             ]
                         },
                         {
@@ -3482,7 +3482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Bajka[Trzy Małe Świnki]\\c[0]"
+                                "\\c[2]Baśń【Trzy Małe Świnki】\\c[0]"
                             ]
                         },
                         {
@@ -3605,7 +3605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Bajka [Nagi Król]\\c[0]"
+                                "\\c[2]Baśń【Szaty króla】\\c[0]"
                             ]
                         },
                         {
@@ -3776,7 +3776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Baśń[Nagi Król]\\c[0]"
+                                "\\c[2]Baśń【Nagi Król】\\c[0]"
                             ]
                         },
                         {
@@ -3899,7 +3899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Bajka[Rycerz w zbroi]\\c[0]"
+                                "\\c[2]Baśń【Rycerz w zbroi】\\c[0]"
                             ]
                         },
                         {
@@ -4070,7 +4070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Bajka[Rycerz w Zbroi]\\c[0]"
+                                "\\c[2]Baśń【Rycerz w Zbroi】\\c[0]"
                             ]
                         },
                         {
@@ -4364,7 +4364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Bajka[Pies Eliksiru]\\c[0]"
+                                "\\c[2]Baśń【Pies Eliksiru】\\c[0]"
                             ]
                         },
                         {
@@ -4781,7 +4781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Bajka[Flecista z Hameln]\\c[0]"
+                                "\\c[2]Baśń【Flecista z Hameln】\\c[0]"
                             ]
                         },
                         {
@@ -5075,7 +5075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Bajka[Muzykanci z Bremy]\\c[0]"
+                                "\\c[2]Baśń【Muzykanci z Bremy】\\c[0]"
                             ]
                         },
                         {
@@ -5246,7 +5246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Bajka[Muzykanci z Bremy]\\c[0]"
+                                "\\c[2]Baśń【Muzykanci z Bremy】\\c[0]"
                             ]
                         },
                         {
@@ -5369,7 +5369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Bajka[Brzydkie Kaczątko]\\c[0]"
+                                "\\c[2]Baśń【Brzydkie Kaczątko】\\c[0]"
                             ]
                         },
                         {
@@ -5540,7 +5540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Bajka[Brzydkie kaczątko]\\c[0]"
+                                "\\c[2]Baśń【Brzydkie Kaczątko】\\c[0]"
                             ]
                         },
                         {
@@ -5663,7 +5663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Bajka [Jaś i magiczna fasola]\\c[0]"
+                                "\\c[2]Baśń【Magiczna Fasola】\\c[0]"
                             ]
                         },
                         {
@@ -5834,7 +5834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Bajka [Jaś i Łodyga Fasoli]\\c[0]"
+                                "\\c[2]Baśń【Magiczna Fasola】\\c[0]"
                             ]
                         },
                         {
@@ -6251,7 +6251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Bajka[Przygody Sindbada]\\c[0]"
+                                "\\c[2]Baśń【Przygody Sindbada】\\c[0]"
                             ]
                         },
                         {
@@ -6545,7 +6545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Bajka[Aladyn i magiczna lampa]\\c[0]"
+                                "\\c[2]Baśń【Aladyn i Lampa】\\c[0]"
                             ]
                         },
                         {
@@ -6716,7 +6716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Bajka[Aladyn i magiczna lampa]\\c[0]"
+                                "\\c[2]Baśń【Aladyn i Lampa】\\c[0]"
                             ]
                         },
                         {
@@ -6745,7 +6745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czart powiedział. \"Spełnię tylko jedno twoje życzenie.\"\nAladyn odpowiedział. \"Oddaj mi swoją moc!\""
+                                "Czart powiedział. \"Spełnię tylko jedno twoje życzenie.\"\nAladyn odpowiedział. \"Oddaj mi swoją moc!」"
                             ]
                         },
                         {
@@ -6839,7 +6839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Bajka[Król ma ośle uszy]\\c[0]"
+                                "\\c[2]Baśń【Oślo uszy Król】\\c[0]"
                             ]
                         },
                         {
@@ -7010,7 +7010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Bajka [Król ma ośle uszy]\\c[0]"
+                                "\\c[2]Baśń【Oślo uszy Król】\\c[0]"
                             ]
                         },
                         {
@@ -7427,7 +7427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Bajka [Piękna i Bestia]\\c[0]"
+                                "\\c[2]Baśń【Piękna i Bestia】\\c[0]"
                             ]
                         },
                         {
@@ -7721,7 +7721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Bajka[Zając i Żółw]\\c[0]"
+                                "\\c[2]Baśń【Żółw i zając】\\c[0]"
                             ]
                         },
                         {
@@ -7892,7 +7892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Bajka[Żółw i Zając]\\c[0]"
+                                "\\c[2]Baśń【Żółw i zając】\\c[0]"
                             ]
                         },
                         {
@@ -7921,7 +7921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Było dwóch szalonych rycerzy. Byli zaciekłymi wrogami i\ntowarzyszami. \"Zawody. Kto zabije więcej ludzi, kto\nwięcej zgwałci, kto więcej oszuka?\""
+                                "Było dwóch szalonych rycerzy. Byli zaciekłymi wrogami i towarzyszami.\n「Zawody. Kto zabije więcej ludzi, kto\n więcej zgwałci, kto więcej oszuka?」"
                             ]
                         },
                         {
@@ -8015,7 +8015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Bajka [Pinokio]\\c[0]"
+                                "\\c[2]Baśń【Pinokio】\\c[0]"
                             ]
                         },
                         {
@@ -8186,7 +8186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Bajka[Pinokio]\\c[0]"
+                                "\\c[2]Baśń【Pinokio】\\c[0]"
                             ]
                         },
                         {
@@ -8309,7 +8309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Bajka[Wiatr Północny i Słońce]\\c[0]"
+                                "\\c[2]Baśń【Wiatr i Słońce】\\c[0]"
                             ]
                         },
                         {
@@ -8480,7 +8480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Bajka[Północny Wiatr i Słońce]\\c[0]"
+                                "\\c[2]Baśń【Wiatr i Słońce】\\c[0]"
                             ]
                         },
                         {
@@ -8603,7 +8603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Bajka [Kopciuszek]\\c[0]"
+                                "\\c[2]Baśń【Kopciuszek】\\c[0]"
                             ]
                         },
                         {
@@ -8783,7 +8783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Bajka[Kopciuszek]\\c[0]"
+                                "\\c[2]Baśń【Kopciuszek】\\c[0]"
                             ]
                         },
                         {
@@ -8906,7 +8906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Bajka[Roszpunka]\\c[0]"
+                                "\\c[2]Baśń【Roszpunka】\\c[0]"
                             ]
                         },
                         {
@@ -9371,7 +9371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Bajka [Królewna Śnieżka]\\c[0]"
+                                "\\c[2]Baśń【Królewna Śnieżka】\\c[0]"
                             ]
                         },
                         {
@@ -9665,7 +9665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Bajka[Żabia Królewna]\\c[0]"
+                                "\\c[2]Baśń【Żabia Królewna】\\c[0]"
                             ]
                         },
                         {
@@ -9959,7 +9959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Bajka[Mała Syrenka]\\c[0]"
+                                "\\c[2]Baśń【Mała Syrenka】\\c[0]"
                             ]
                         },
                         {
