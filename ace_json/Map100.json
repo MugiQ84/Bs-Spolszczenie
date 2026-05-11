@@ -939,7 +939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Dlatego bardzo proszę, przyłącz się do mnie. Nawet\n nieumarły powinien móc zostać bohaterem.」"
+                                "「Dlatego bardzo proszę, przyłącz się do mnie.\n Nawet nieumarły może zostać zostać bohaterem,\n wierzę w to」"
                             ]
                         },
                         {
@@ -1529,7 +1529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Aaaaaaaaaaaaa!!!」"
+                                "「GUAaAAaaAAaAAAAAAAAAA!!!」"
                             ]
                         },
                         {
@@ -1546,7 +1546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Gorąco! Gorąco! Na moim ciele… ogień! Jak to… po tym\n wszystkim… dlaczego…!」"
+                                "「Pali! Nieeee! Moje ciało, obraca się w popiół…!\n dlaczego… dlaczego nawet tutaj…!」"
                             ]
                         },
                         {
@@ -1563,7 +1563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Nie! Nie, nie, nie, nie…!! Ja… jeszcze nie mogę tu\n umrzeć! Jeszcze nie umrę…! Nie chcę umierać…!」"
+                                "「Nie, nie, nIeNIENIENEIEINEIENIE…!!\n Ja…nie…mogę tu umrzeć! Jeszcze nie…!\n Nie chcę umierać…!」"
                             ]
                         },
                         {
@@ -1587,7 +1587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Gorą… co… moje… ciało… ach…」"
+                                "「Pło… ne… moje… ciało… aa…」"
                             ]
                         },
                         {
@@ -1604,7 +1604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Bo… Boże…」"
+                                "「B… Boże…」"
                             ]
                         },
                         {
@@ -2205,7 +2205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Gdy tak rozmawiamy, wielu ludzi cierpi z powodu\n demonicznych bestii. Mam obowiązek ich ocalić.」"
+                                "「Nawet teraz, wielu ludzi cierpi z powodu\n demonicznych bestii. Mam obowiązek ich ocalić.」"
                             ]
                         },
                         {
@@ -2254,7 +2254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Dlatego bardzo proszę, przyłącz się do mnie. Nawet\n nieumarły powinien móc zostać bohaterem.」"
+                                "「Dlatego bardzo proszę, przyłącz się do mnie.\n Nawet nieumarły może zostać zostać bohaterem,\n wierzę w to」"
                             ]
                         },
                         {
@@ -2844,7 +2844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Aaaaaaaaaaaaa!!!」"
+                                "「GUAaAAaaAAaAAAAAAAAAA!!!」"
                             ]
                         },
                         {
@@ -2861,7 +2861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Gorąco! Gorąco! Na moim ciele… ogień! Jak to… po tym\nwszystkim… dlaczego…!」"
+                                "「Pali! Nieeee! Moje ciało, obraca się w popiół…!\n dlaczego… dlaczego nawet tutaj…!」"
                             ]
                         },
                         {
@@ -2878,7 +2878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Nie! Nie, nie, nie, nie…!! Ja… jeszcze nie mogę tu\numrzeć! Jeszcze nie umrę…! Nie chcę umierać…!」"
+                                "「Nie, nie, nIeNIENIENEIEINEIENIE…!!\n Ja…nie…mogę tu umrzeć! Jeszcze nie…!\n Nie chcę umierać…!」"
                             ]
                         },
                         {
@@ -2902,7 +2902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Gorą… co… moje… ciało… ach…」"
+                                "「Pło… ne… moje… ciało… aa…」"
                             ]
                         },
                         {
@@ -2919,7 +2919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Bo… Boże…」"
+                                "「B… Boże…」"
                             ]
                         },
                         {

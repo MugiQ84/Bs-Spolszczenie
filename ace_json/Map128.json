@@ -1063,7 +1063,7 @@
                             "code": 655,
                             "indent": 2,
                             "parameters": [
-                                "steam.set_achievement 'VICTORIA'"
+                                "steam.set_achievement 'Wiktoria'"
                             ]
                         },
                         {

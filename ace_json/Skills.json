@@ -8930,7 +8930,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Przywołuje Dorothy.",
+        "description": "Przywołuje Dorotę.",
         "effects": [
             {
                 "code": 44,
@@ -8947,10 +8947,10 @@
         ],
         "hitType": 0,
         "iconIndex": 122,
-        "message1": " przywołał Dorothy!",
+        "message1": " przywołał Dorotę!",
         "message2": "",
         "mpCost": 10,
-        "name": "Wezwanie Dorothy",
+        "name": "Wezwanie Doroty",
         "note": "",
         "occasion": 1,
         "repeats": 1,
