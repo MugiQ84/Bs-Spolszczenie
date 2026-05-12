@@ -465,8 +465,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Let's be friends.",
-                                    "No."
+                                    "Zostańmy przyjaciółmi.",
+                                    "Nie."
                                 ],
                                 2
                             ]
@@ -10879,8 +10879,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Idź do Zaginionego Imperium",
-                                    "Kup magiczną księgę",
+                                    "chcę pójść do Zaginionego Imperium",
+                                    "Kup Magiczne Księgi",
                                     "Zgwałć",
                                     "Odejdź"
                                 ],
@@ -10909,7 +10909,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「...Jeśli się przyjrzeć, jesteś nieumarły. Myślałem, że\n wyginęliście podczas dawnych Porowań na Nieumarłych.」"
+                                "「...Jeśli się przyjrzeć, jesteś nieumarłym. Myślałem, że\n wyginęliście podczas dawnych Polowań na Nieumarłych.」"
                             ]
                         },
                         {
@@ -10926,7 +10926,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Nie wiem, po co ci do tego Mrocznego Zamku, ale lepiej\n tam nie idź. Zostaniesz złapany i staniesz się tylko\n zabawką \\c[2]Mrocznej Księżniczki\\c[0].」"
+                                "「Nie wiem, po co chcesz iść do tego demonicznego zamku,\n ale lepiej o tym zapomnij. Zostaniesz złapany i\n staniesz się tylko zabawką \\c[2]Demonicznych Księżniczek\\c[0].」"
                             ]
                         },
                         {
@@ -11412,7 +11412,7 @@
                             "parameters": [
                                 [
                                     "Uczyń mnie uczniem",
-                                    "Kup magiczną księgę",
+                                    "Kup Magiczne Księgi",
                                     "Zgwałć",
                                     "Odejdź"
                                 ],
@@ -12683,7 +12683,7 @@
                             "parameters": [
                                 [
                                     "Raportuj",
-                                    "Kup magiczną księgę",
+                                    "Kup Magiczne Księgi",
                                     "Zgwałć",
                                     "Odejdź"
                                 ],
@@ -12748,7 +12748,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "…To mój były uczeń. Został dopadnięty przez mgłę i\nzamienił się w potwora."
+                                "「…To mój były uczeń. Został dopadnięty przez mgłę i\nzamienił się w potwora.」"
                             ]
                         },
                         {
@@ -15807,7 +15807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mimo że zostaliśmy porzuceni... Nie możesz spojrzeć\nprawdzie w oczy, biedny bracie."
+                                "Mimo że zostaliśmy porzuceni... Nie umiesz spojrzeć\nprawdzie w oczy, biedny bracie."
                             ]
                         },
                         {

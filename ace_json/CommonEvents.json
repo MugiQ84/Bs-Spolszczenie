@@ -91184,7 +91184,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "「Wiesz… [1], naprawdę wiele ci zawdzięczam. Więc\n chciałam się odwdzięczyć…」"
+                    "「Wiesz…\\n[1], naprawdę wiele ci zawdzięczam. Więc\n chciałam się odwdzięczyć…」"
                 ]
             },
             {
@@ -91543,7 +91543,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "「To co masz, [1], podobno nazywa się siusiak. Ależ się\n zrobił wielki…」"
+                    "「To co masz,\\n[1], podobno nazywa się siusiak. Ależ się\n zrobił wielki…」"
                 ]
             },
             {
@@ -93773,7 +93773,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "「Zabawmy się jeszcze raz, [1]…♡」"
+                    "「Zabawmy się jeszcze raz,\\n[1]…♡」"
                 ]
             },
             {
@@ -93790,7 +93790,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Elma zarzuciła [1] ręce na plecy i słodko wyszeptała te\nsłowa."
+                    "Elma zarzuciła\\n[1] ręce na plecy i słodko wyszeptała te\nsłowa."
                 ]
             },
             {
@@ -95968,7 +95968,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Wiktoria klęka przed twoim kroczem i zdejmuje [1]\nubranie."
+                    "Wiktoria klęka przed twoim kroczem i zdejmuje\\n[1]\nubranie."
                 ]
             },
             {
@@ -96254,7 +96254,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Wiktoria pochyla się i bierze [1] członka naraz głęboko\ndo ust."
+                    "Wiktoria pochyla się i bierze\\n[1] członka naraz głęboko\ndo ust."
                 ]
             },
             {
@@ -101331,7 +101331,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "「 [1]-san, twojego... chcę... proszę...♥」"
+                    "「\\n[1]-san, twojego... chcę... proszę...♥」"
                 ]
             },
             {
@@ -101605,7 +101605,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "「 [1]-san, czuję cię... i jestem taka szczęśliwa...♥\n Nnn... haa...♥」"
+                    "「\\n[1]-san, czuję cię... i jestem taka szczęśliwa...♥\n Nnn... haa...♥」"
                 ]
             },
             {
@@ -101639,7 +101639,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "「Ahn...♥ [1]-san... twój siusiak ociera się we mnie...\n haa...♥ To takie niesamowicie przyjemne...♥」"
+                    "「Ahn...♥\\n[1]-san... twój siusiak ociera się we mnie...\n haa...♥ To takie niesamowicie przyjemne...♥」"
                 ]
             },
             {
@@ -101724,7 +101724,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "「Pu, haa...♥ [1]-san... bardzo cię kocham, dlatego...♥」"
+                    "「Pu, haa...♥\\n[1]-san... bardzo cię kocham, dlatego...♥」"
                 ]
             },
             {
@@ -155602,7 +155602,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "【Ostateczna Umiejętność Victorii】"
+                    "【Ostateczna Umiejętność Wictorii】"
                 ]
             },
             {
@@ -176626,7 +176626,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Powstrzymałeś źródło mgły i ocaliłeś świat, [1]. Potem\nzamieszkałeś w rezydencji gdzieś w nieznanym lesie."
+                    "Powstrzymałeś źródło mgły i ocaliłeś świat,\\n[1]. Potem\nzamieszkałeś w rezydencji gdzieś w nieznanym lesie."
                 ]
             },
             {
@@ -176998,7 +176998,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "「Panie... dlaczego...? Nie chcesz przyjąć Victorii...?」"
+                    "「Panie... dlaczego...? Nie chcesz przyjąć Wiktoriii...?」"
                 ]
             },
             {
@@ -177107,7 +177107,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "Wiktoria przy użyciu ukrytej łyżki wydłubała ci, [1],\ngałkę oczną."
+                    "Wiktoria przy użyciu ukrytej łyżki wydłubała ci,\\n[1],\ngałkę oczną."
                 ]
             },
             {
@@ -177260,7 +177260,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "Odbija się od podłogi i skacze na [1], by cię\nzaatakować. Jej oczy, pazury, kły są bestii.\nPrzemieniła się w demoniczną bestię."
+                    "Odbija się od podłogi i skacze na\\n[1], by cię\nzaatakować. Jej oczy, pazury, kły są bestii.\nPrzemieniła się w demoniczną bestię."
                 ]
             },
             {
@@ -177376,7 +177376,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "Dla ukochanej mej służącej, Victorii..."
+                    "Dla ukochanej mej służącej, Wiktoriii..."
                 ]
             },
             {
