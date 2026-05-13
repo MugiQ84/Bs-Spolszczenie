@@ -2759,7 +2759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ha ha... więc jesteś nieumarły?」"
+                                "「Ha ha... więc jesteś nieumarłym?」"
                             ]
                         },
                         {
@@ -2962,7 +2962,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Zaginione Imperium jest na północ stąd. Przejdź przez\n Las Porzuconych, potem kanałami do Dzielnicy Rozpusty.\n Za fortecą Iburn powinieneś dotrzeć na miejsce.」"
+                                "「Zaginione Imperium jest na północ stąd. Przejdź przez\n Las Porzuconych, potem kanałami do Plugawej Dzielnicy.\n Za fortecą Iburn powinieneś dotrzeć na miejsce.」"
                             ]
                         },
                         {
@@ -4017,7 +4017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Co, nieumarły? Śmierdzisz, to spadaj.」"
+                                "「Co, nieumarły? Śmierdzisz, spadaj.」"
                             ]
                         },
                         {
