@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "Fort Ibaan",
+    "displayName": "Fort Ivern",
     "encounterList": [],
     "encounterStep": 30,
     "height": 125,
@@ -939,7 +939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Dlatego bardzo proszę, przyłącz się do mnie.\n Nawet nieumarły może zostać zostać bohaterem,\n wierzę w to」"
+                                "「Dlatego bardzo proszę, przyłącz się do mnie.\n Nawet nieumarły może zostać bohaterem.\n Wierzę w to.」"
                             ]
                         },
                         {
@@ -947,7 +947,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Pomóż",
+                                    "Obiecaj pomóc",
                                     "Milcz"
                                 ],
                                 2
@@ -1546,7 +1546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Pali! Nieeee! Moje ciało, obraca się w popiół…!\n dlaczego… dlaczego nawet tutaj…!」"
+                                "「Pali! Nieeee! Moje ciało, w płomieniach…!\n dlaczego… dlaczego nawet tutaj…!」"
                             ]
                         },
                         {
@@ -2254,7 +2254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Dlatego bardzo proszę, przyłącz się do mnie.\n Nawet nieumarły może zostać zostać bohaterem,\n wierzę w to」"
+                                "「Dlatego bardzo proszę, przyłącz się do mnie.\n Nawet nieumarły może zostać bohaterem.\n Wierzę w to.」"
                             ]
                         },
                         {
@@ -2262,7 +2262,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Pomóż",
+                                    "Obiecaj pomóc",
                                     "Milcz"
                                 ],
                                 2
@@ -2861,7 +2861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Pali! Nieeee! Moje ciało, obraca się w popiół…!\n dlaczego… dlaczego nawet tutaj…!」"
+                                "「Pali! Nieeee! Moje ciało, w płomieniach…!\n dlaczego… dlaczego nawet tutaj…!」"
                             ]
                         },
                         {

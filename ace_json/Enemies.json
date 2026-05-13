@@ -8746,7 +8746,7 @@
             }
         ],
         "gold": 12000,
-        "name": "Latający Smok Hell Kaiser",
+        "name": "Smok Helkaiser",
         "note": "2回目",
         "params": [
             20000,
@@ -8901,7 +8901,7 @@
             }
         ],
         "gold": 8000,
-        "name": "Latający Smok Hell Kaiser",
+        "name": "Smok Helkaiser",
         "note": "",
         "params": [
             3000,
@@ -10631,7 +10631,7 @@
             }
         ],
         "gold": 29000,
-        "name": "Zgniły Smok Hell Kaiser",
+        "name": "Zgniły Smok Helkaiser",
         "note": "",
         "params": [
             36000,
@@ -10758,7 +10758,7 @@
             }
         ],
         "gold": 44000,
-        "name": "Trupi Smok Hell Kaiser",
+        "name": "Trupi Smok Helkaiser",
         "note": "穢れ沼",
         "params": [
             60000,

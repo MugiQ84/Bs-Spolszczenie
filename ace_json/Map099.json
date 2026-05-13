@@ -16,7 +16,7 @@
         "volume": 45
     },
     "disableDashing": false,
-    "displayName": "Fort Ibaan",
+    "displayName": "Fort Ivern",
     "encounterList": [
         {
             "regionSet": [],
@@ -501,7 +501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Cóż takiego wydarzyło się w tym bogatym i spokojnym\n kraju? Co właściwie spowodowało pojawienie się mgły?\n Aby to zbadać, przybyłam aż tutaj.」"
+                                "「Co takiego wydarzyło się w tym bogatym i spokojnym\n kraju? Co spowodowało pojawienie się mgły?\n Aby to zbadać, przybyłam aż tutaj.」"
                             ]
                         },
                         {
@@ -544,7 +544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Zejdźmy z fortu Ivern, przetnijmy przyzamkowe\n miasteczko, a za nim znajduje się kraina wróżek. Tam\n cię zaprowadzę.」"
+                                "「Poniżej fortu Ivern, poza murami zamkowego miasta,\n znajduje się kraina wróżek. zaprowdzę cie tam.」"
                             ]
                         },
                         {
@@ -4078,7 +4078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「……Dla ciebie to jeszcze za wcześnie. Teraz ruszajmy do\n krainy wróżek.」"
+                                "「……Dla ciebie to jeszcze za wcześnie. Teraz ruszajmy\n do krainy wróżek.」"
                             ]
                         },
                         {
