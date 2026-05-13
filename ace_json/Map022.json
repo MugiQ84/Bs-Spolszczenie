@@ -3863,7 +3863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Nigdy bym nie pomyślał, że w głębi lasu jest dom, co?」"
+                                "「Nigdy bym nie pomyślał,\n że w głębi lasu jest dom, prawda?」"
                             ]
                         },
                         {
@@ -3929,7 +3929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Tak, na pewno wrócimy do domu! Wiedźma jest miła,\n zostańmy tu na jakiś czas! Prawda, Małgosiu?」"
+                                "「Teraz na pewno wrócimy do domu!\n Pani wiedźma jest taka miła, że nawet pozwoliła nam tu zostać!\n Prawda, Małgosiu?」"
                             ]
                         },
                         {
@@ -3946,7 +3946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Bracie, cicho!」"
+                                "「Bracie, zamknij się.」"
                             ]
                         },
                         {
@@ -4284,7 +4284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ten dom z piernika jest naprawdę pyszny, Małgosiu!!\n Zamknęliśmy też złą czarownicę, więc jesteśmy\n szczęściarzami!!」"
+                                "「Ten dom z piernika jest naprawdę pyszny, Małgosiu!!\n Zamknęliśmy też złą czarownicę, ale jesteśmy\n szczęściarzami!!」"
                             ]
                         },
                         {
@@ -4445,7 +4445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Kim ty jesteś...? Wchodzisz do naszego domu bez\n pozwolenia...」"
+                                "「Kim ty jesteś...?\n Kto ci pozwolił wejśc do naszego domu...」"
                             ]
                         },
                         {
@@ -4627,7 +4627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Aaaa!! Może to deser po posiłku!! Jakiś ty\n troskliwy!!」"
+                                "「Oooh～～!!\n Więc ty musisz być naszym deserem, prawda?!\n To niemal zbyt piękne, by mogło być prawdziwe!」"
                             ]
                         },
                         {
@@ -4809,7 +4809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Chichot...」"
+                                "「Hihihi………」"
                             ]
                         },
                         {
@@ -5610,7 +5610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ten dom z piernika jest naprawdę pyszny, Małgosiu!!\n Zamknęliśmy też złą czarownicę, więc jesteśmy\n szczęściarzami!!」"
+                                "「Ten dom z piernika jest naprawdę pyszny, Małgosiu!!\n Zamknęliśmy też złą czarownicę, ale jesteśmy\n szczęściarzami!!」"
                             ]
                         },
                         {
@@ -5771,7 +5771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Kim ty jesteś...? Wchodzisz do naszego domu bez\n pozwolenia...」"
+                                "「Kim ty jesteś...?  Kto ci pozwolił wejśc do naszego domu...」"
                             ]
                         },
                         {
@@ -6135,7 +6135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Chichot...」"
+                                "「Hihihi...」"
                             ]
                         },
                         {
@@ -8082,7 +8082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Chichot... Co ty wygadujesz? Drogi bracie Jasiu,\n jesteś chłopcem, więc nie możesz przyjmować dusz.」"
+                                "「Hihihi... Co ty wygadujesz? Drogi bracie Jasiu,\n jesteś chłopcem, więc nie możesz przyjmować dusz.」"
                             ]
                         },
                         {
@@ -8165,7 +8165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Nawet tego nie wiesz... Drogi bracie, jesteś naprawdę\n ignorantem i głupcem... Chichot.」"
+                                "「Nawet tego nie wiesz... Drogi bracie, jesteś naprawdę\n ignorantem i głupcem... Hihihi.」"
                             ]
                         },
                         {
@@ -10535,7 +10535,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Byli po prostu zbyt żałośni, więc pozwoliłem im się\npobawić aż do końca. ...Tak, to wszystko."
+                                "Byli po prostu zbyt żałośni, więc pozwoliłam im się\npobawić aż do końca. ...Tak, to wszystko."
                             ]
                         },
                         {
@@ -10717,7 +10717,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "「\\c[2]Przywołana istota po pokonaniu wraca do tej księgi.\\c[0]\n Nigdy nie słyszałem, żeby traktować magiczną bestię\n jako przywołańca...」"
+                                "「\\c[2]Przywołana istota po pokonaniu wraca do tej księgi.\\c[0]\n Nigdy nie słyszałam, żeby traktować magiczną bestię\n jako przywołańca...」"
                             ]
                         },
                         {
@@ -10795,7 +10795,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "「Hmm, tak... Poczułem z tej książki nieznaną moc\n magiczną... Ale to twoja własność, nic nie powiem.」"
+                                "「Hmm, tak... Poczułam z tej książki nieznaną moc\n magiczną... Ale to twoja własność, nic nie powiem.」"
                             ]
                         },
                         {
@@ -10909,7 +10909,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「...Jeśli się przyjrzeć, jesteś nieumarłym. Myślałem, że\n wyginęliście podczas dawnych Polowań na Nieumarłych.」"
+                                "「...Jeśli się przyjrzeć, jesteś nieumarłym. Myślałam, że\n wyginęliście podczas dawnych Polowań na Nieumarłych.」"
                             ]
                         },
                         {
@@ -11589,7 +11589,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Ale zamierzam cię zagonić na śmierć. Bądź gotowy.\n Hehe...」"
+                                "「Ale zamierzam cię zagonić na śmierć. Bądź gotowa.\n Hehe...」"
                             ]
                         },
                         {
@@ -12778,7 +12778,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "…Nazwałem to treningiem, ale tak naprawdę zleciłem ci\nzabójstwo."
+                                "…Nazwałam to treningiem, ale tak naprawdę zleciłam ci\nzabójstwo."
                             ]
                         },
                         {
@@ -12805,7 +12805,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Przepraszam, że zwaliłem na ciebie swoją\nodpowiedzialność..."
+                                "Przepraszam, że zwaliłam na ciebie swoją\nodpowiedzialność..."
                             ]
                         },
                         {

@@ -5468,7 +5468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[14]ROZPALONO OGNISKO\\C[0]"
+                                "\n　　　　　　　　　　　 　\\C[14]ROZPALONO OGNISKO\\C[0]"
                             ]
                         },
                         {
@@ -10722,7 +10722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mówisz, że za rzeką jest potwór? Chichot. To dopiero\nkłopot, co?"
+                                "Mówisz, że za rzeką jest potwór? Hihihi. To dopiero\nkłopot, co?"
                             ]
                         },
                         {
@@ -16920,7 +16920,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Dawno tu nie byłem... Ale te wstrętne wróżki dalej są\n irytujące.」"
+                                "「Dawno tu nie byłam... Ale te wstrętne wróżki dalej są\n irytujące.」"
                             ]
                         },
                         {

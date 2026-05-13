@@ -732,7 +732,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Idziesz teraz do Zaginionego Imperium, prawda? Ufufu,\n gdziekolwiek pójdziesz, to twoja wolność.」"
+                                "「Idziesz teraz do Zaginionego Imperium, prawda? Ufufu,\n gdziekolwiek pójdziesz, to twój wybór.」"
                             ]
                         },
                         {
@@ -749,7 +749,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Ale samemu może być niespokojnie, więc... pożyczę ci\n moją moc!」"
+                                "「Ale samemu może być niespokojnie, więc... użyczę ci\n moją moc!」"
                             ]
                         },
                         {
@@ -766,7 +766,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「\\C[2]Gdy przywołasz mnie w walce,\\C[0] dołożę wszelkich starań,\n by cię wesprzeć! Więc często na mnie polegaj!♪」"
+                                "「\\C[2]Gdy przywołasz mnie w walce,\\C[0] dołożę wszelkich starań,\n by cię wesprzeć! Więc polegaj na mnie często♪」"
                             ]
                         },
                         {
@@ -3555,7 +3555,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Idziesz teraz do Zaginionego Imperium, prawda? Ufufu,\n gdziekolwiek pójdziesz, to twoja wolność.」"
+                                "「Idziesz teraz do Zaginionego Imperium, prawda? Ufufu,\n gdziekolwiek pójdziesz, to twój wybór.」"
                             ]
                         },
                         {
@@ -3572,7 +3572,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Ale samemu może być niespokojnie, więc... pożyczę ci\n moją moc!」"
+                                "「Ale samemu może być niespokojnie, więc... użyczę ci\n moją moc!」"
                             ]
                         },
                         {
@@ -3589,7 +3589,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「\\C[2]Gdy przywołasz mnie w walce,\\C[0] dołożę wszelkich starań,\n by cię wesprzeć! Więc często na mnie polegaj!♪」"
+                                "「\\C[2]Gdy przywołasz mnie w walce,\\C[0] dołożę wszelkich starań,\n by cię wesprzeć! Więc polegaj na mnie często♪」"
                             ]
                         },
                         {

@@ -951,7 +951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ostatnio figle wróżek są naprawdę uciążliwe. Nawet\n dzisiaj urwały mi aż 16 liści.」"
+                                "「Ostatnio figle wróżek są naprawdę uciążliwe. Nawet\n dzisiaj wyrwały mi aż 16 liści.」"
                             ]
                         },
                         {
@@ -1098,7 +1098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Te wróżki kompletnie przesadzają z tymi psotami. Ile\n by nie jeść, to i tak nie ma końca, a na dodatek\n smakuje paskudnie.」"
+                                "「Te wróżki kompletnie przesadzają z tymi psotami, To pewne.\n Nieważne ile ich zjem, to i tak nie ma końca.\n Czyste utrapienie.」"
                             ]
                         },
                         {
@@ -1122,7 +1122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Tak, tak, \\c[2]5000 Dusz za butelkę ziół.\\c[0] Co ty na to?」"
+                                "「Ach, tak, \\c[2]5000 Dusz za fiolkę ziołową.\\c[0] Co ty na to?」"
                             ]
                         },
                         {
@@ -1130,7 +1130,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Wytwórz butelkę ziół",
+                                    "Wytwórz fiolkę",
                                     "Zabij",
                                     "Odejdź"
                                 ],
@@ -1519,7 +1519,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Wytwórz butelkę ziół",
+                                    "Wytwórz fiolkę ziołową",
                                     "Zabij",
                                     "Odejdź"
                                 ],
@@ -11189,14 +11189,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Niebezpieczeństwo! (Nie Zbliżaj Się)\\c[0]"
+                                "\\c[2]NIEBEZPIECZEŃSTWO! (Zawróć)\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Od tego miejsca mgła jest bardzo gęsta. Jeśli chcesz\nbezpieczną drogę, idź w ←. Czarownica Dorota"
+                                "W tamtą stronę mgła gęstnieje.\nKieruj się na ← dla bezpieczeństawa. Czarownica Dorota"
                             ]
                         },
                         {

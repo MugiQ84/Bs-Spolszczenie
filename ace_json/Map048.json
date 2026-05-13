@@ -710,7 +710,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Zmień butelkę ziół na butelkę ziół M",
+                                    "Zmień fiolkę ziołową na fiolkę ziołową M",
                                     "Zabij",
                                     "Odejdź"
                                 ],
@@ -830,7 +830,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Nie ma butelki z ziołami."
+                                "Nie ma fiolki ziołowej."
                             ]
                         },
                         {

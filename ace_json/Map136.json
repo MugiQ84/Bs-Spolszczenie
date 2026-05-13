@@ -572,7 +572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[14]ROZPALONO OGNISKO\\C[0]"
+                                "\n　　　　　　　　　　　 　\\C[14]ROZPALONO OGNISKO\\C[0]"
                             ]
                         },
                         {
@@ -18606,7 +18606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Kaszl, kaszl... Dawno tu nie byłem, ale strasznie się\n zniszczyło... Wszędzie pełno magicznych bestii.」"
+                                "「Kaszl, kaszl... Dawno tu nie byłam, ale strasznie się\n zniszczyło... Wszędzie pełno magicznych bestii.」"
                             ]
                         },
                         {
@@ -18716,7 +18716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ja, będąc wtedy wielkim magiem, na rozkaz kraju\n przeprowadzałem polowania na czarownice. Oczywiście,\n sabaty nie były wyjątkiem.」"
+                                "「Ja, będąc wtedy wielkim magiem, na rozkaz kraju\n przeprowadzałam polowania na czarownice. Oczywiście,\n sabaty nie były wyjątkiem.」"
                             ]
                         },
                         {
@@ -18733,7 +18733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「...Zabiłem wiele czarownic i demonów. W końcu\n rozgniewało to towarzystwo sabatu i wezwali oni\n wielkiego demona imieniem \\c[2]Leonardo\\c[0].」"
+                                "「...Zabiłam wiele czarownic i demonów. W końcu\n rozgniewało to towarzystwo sabatu i wezwali oni\n wielkiego demona imieniem \\c[2]Leonardo\\c[0].」"
                             ]
                         },
                         {
@@ -18826,7 +18826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "To zabawne, że po kilku stuleciach sam stałem się\nczarownicą i trafiłem tutaj."
+                                "To zabawne, że po kilku stuleciach sam stałam się\nczarownicą i trafiłam tutaj."
                             ]
                         },
                         {

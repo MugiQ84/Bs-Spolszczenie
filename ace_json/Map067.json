@@ -3824,7 +3824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[14]ROZPALONO OGNISKO\\C[0]"
+                                "\n　　　　　　　　　　　 　\\C[14]ROZPALONO OGNISKO\\C[0]"
                             ]
                         },
                         {

@@ -93,7 +93,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Baśń[Joanna d'Arc]\\c[0]"
+                                "\\c[2]Baśń【Joanna d'Arc】\\c[0]"
                             ]
                         },
                         {
@@ -681,7 +681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Baśń[Złota Gęś]\\c[0]"
+                                "\\c[2]Baśń【Złota Gęś】\\c[0]"
                             ]
                         },
                         {
@@ -852,7 +852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Baśń[Złota Gęś]\\c[0]"
+                                "\\c[2]Baśń【Złota Gęś】\\c[0]"
                             ]
                         },
                         {
@@ -1269,7 +1269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Baśń[Dziewczynka z zapałkami]\\c[0]"
+                                "\\c[2]Baśń【Dziewczynka z zapałkami】\\c[0]"
                             ]
                         },
                         {
@@ -1440,7 +1440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Baśń[Dziewczynka z zapałkami]\\c[0]"
+                                "\\c[2]Baśń【Dziewczynka z zapałkami】\\c[0]"
                             ]
                         },
                         {
@@ -1857,7 +1857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Baśń «Czarnoksiężnik z Krainy Oz»\\c[0]"
+                                "\\c[2]Baśń【Czarnoksiężnik z Krainy Oz】\\c[0]"
                             ]
                         },
                         {
@@ -2028,7 +2028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Baśń[Czarnoksiężnik z Oz]\\c[0]"
+                                "\\c[2]Baśń【Czarnoksiężnik z Oz】\\c[0]"
                             ]
                         },
                         {
@@ -2151,7 +2151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Baśń [Królowa Elżbieta]\\c[0]"
+                                "\\c[2]Baśń【Królowa Elżbieta】\\c[0]"
                             ]
                         },
                         {
