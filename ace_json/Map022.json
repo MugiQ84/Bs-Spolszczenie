@@ -5771,7 +5771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Kim ty jesteś...?  Kto ci pozwolił wejśc do naszego domu...」"
+                                "「Kim ty jesteś...?\n Kto ci pozwolił wejśc do naszego domu...」"
                             ]
                         },
                         {
@@ -5953,7 +5953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Aaaa!! Może to deser po posiłku!! Jakiś ty\n troskliwy!!」"
+                                "「Oooh～～!!\n Więc ty musisz być naszym deserem, prawda?!\n To niemal zbyt piękne, by mogło być prawdziwe!」"
                             ]
                         },
                         {
@@ -6135,7 +6135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Hihihi...」"
+                                "「Hihihi………」"
                             ]
                         },
                         {

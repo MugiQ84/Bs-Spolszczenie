@@ -671,7 +671,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Całkowicie przywraca HP i MP.\"Nie uzupełnia się.Ten grzyb...\nchciałam go choć raz spróbować.\" - Plugawa Potępiająca\nMiranda",
+        "description": "Całkowicie przywraca HP i MP.\"Nie uzupełnia się. Ten grzyb….\nchciałam go choć raz spróbować.\" - Plugawa Potępiająca\nMiranda",
         "effects": [
             {
                 "code": 11,
@@ -868,7 +868,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Odbija magię Wroga przez kilka tur.\"Moje piękno... nawet w\nlustrze jest zniewalające...\" - Śnieżka",
+        "description": "Odbija magię Wroga przez kilka tur.\"Moje piękno…… nawet w\nlustrze jest zniewalające….\" - Śnieżka",
         "effects": [
             {
                 "code": 21,
@@ -934,7 +934,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Mleko wydojone z krowy. \"Biedna krowa, po co ci tyle\nmleka...?\"",
+        "description": "Mleko wydojone z krowy. \"Biedna krowa, po co ci tyle\nmleka…?\"",
         "effects": [],
         "hitType": 0,
         "iconIndex": 222,
@@ -1090,7 +1090,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Zatruwa wybranego przeciwnika. \"Nawet demoniczna księżniczka\nnie zdoła przełknąć tego placka...\"",
+        "description": "Zatruwa wybranego przeciwnika. \"Nawet demoniczna księżniczka\nnie zdoła przełknąć tego placka.\"",
         "effects": [
             {
                 "code": 21,
@@ -1637,7 +1637,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Przez pewien czas zwiększa moc magiczną sojusznika. ten\nprzedmiot można różnie zinterpretować...",
+        "description": "Przez pewien czas zwiększa moc magiczną sojusznika. ten\nprzedmiot można różnie zinterpretować….",
         "effects": [
             {
                 "code": 31,
@@ -1774,7 +1774,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Zgniłe. Jeśli to zjesz, odzyskasz 50 HP, ale...",
+        "description": "Zgniłe. Jeśli to zjesz, odzyskasz 50 HP….",
         "effects": [
             {
                 "code": 11,
@@ -1813,7 +1813,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Lekarstwo o nazwie zapałka. Przywraca 3000 HP i MP, ale...\nMożna użyć tylko podczas walki.",
+        "description": "Specyfik o osobliwej nazwie. Przywraca 3000 HP i MP….\nMożna użyć tylko podczas walki.",
         "effects": [
             {
                 "code": 11,
@@ -5167,7 +5167,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Zwiększa szybkość wybranego sojusznika na pewien czas.\n\"Wrzeszczą i płaczą... ale i tak są nieśmiertelne, prawda?\".",
+        "description": "Zwiększa szybkość wybranego sojusznika na pewien czas.\n\"Wrzeszczą i płaczą… ale i tak są nieśmiertelne, prawda?\".",
         "effects": [
             {
                 "code": 31,
@@ -8205,7 +8205,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Matka rzekła: \"Zapałki te pokażą ci cudowne sny.\nJak je zrobić? Wystarczą ciała kilku młodych kobiet...\"",
+        "description": "Matka rzekła: \"Zapałki te pokażą ci cudowne sny.\nJak je zrobić? Wystarczą ciała kilku młodych kobiet…\"",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
@@ -8231,7 +8231,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Alicja w końcu to pojęła. Ten cudowny świat jest fałszywy.\nWszystko jest tylko szaloną deluzją... nawet ja.",
+        "description": "Alicja w końcu to pojęła. Ten cudowny świat jest fałszywy.\nWszystko jest tylko szaloną deluzją……nawet ja.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
@@ -8413,7 +8413,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Książę zgubił but w bagnie. Ogromna ropucha wyskoczyła\ni zabiła go pocałunkiem. 「On też nie był moim księciem...”",
+        "description": "Książę zgubił but w bagnie. Ogromna ropucha wyskoczyła\ni zabiła go pocałunkiem. Ach…on również był moim księciem.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
@@ -8491,7 +8491,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Blada księżniczka zaprasza marzące o miłości kobiety na bal.\n Nie wiedzą jednak, że ceną za marzenia będzie utrata ich dusz...",
+        "description": "Blada księżniczka zaprasza marzące o miłości kobiety na bal.\n Nie wiedzą jednak, że ceną za marzenia będzie utrata ich dusz……",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,
