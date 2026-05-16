@@ -6286,7 +6286,7 @@
         "hitType": 0,
         "iconIndex": 96,
         "itypeId": 2,
-        "name": "Stara Dzielnica Rozpusty",
+        "name": "Stara Plugawa Dzielnica",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -8413,7 +8413,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Książę zgubił but w bagnie. Ogromna ropucha wyskoczyła\ni zabiła go pocałunkiem. Ach…on również był moim księciem.",
+        "description": "Książę zgubił but w bagnie. Ogromna ropucha wyskoczyła\ni zabiła go pocałunkiem. Ah…on również był moim księciem.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 368,

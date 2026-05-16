@@ -16,7 +16,7 @@
         "volume": 45
     },
     "disableDashing": false,
-    "displayName": "Fort Iwan",
+    "displayName": "Fort Ivern",
     "encounterList": [
         {
             "regionSet": [],
@@ -2752,7 +2752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Wyczuwasz mroczną obecność...\\c[0]"
+                                "\\c[2]Wyczuwasz mroczną obecność…\\c[0]"
                             ]
                         },
                         {
@@ -2997,7 +2997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Haa... haa... Nie wiem, kim jesteście, ale\n uratowaliście mnie.」"
+                                "「Haa… haa… Nie wiem, kim jesteście, ale\n uratowaliście mnie.」"
                             ]
                         },
                         {
@@ -3125,7 +3125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Jeśli przekroczysz Fort Iburn, to już brama\n Zaginionego Imperium, ale chwilę temu przeszedł tędy\n jakiś rycerz tak ogromny, że aż trzeba było zadzierać\n głowę.」"
+                                "「Brama do Zaginionego Imperium znajduje się tuż za tym fortem.\nAle kiedy poszedłem zobaczyć ją na własne oczy, ujrzałem rycerza\ntak ogromnego, że trzeba zadzierać głowę, by dostrzec go w całości,\npatrolującego teren przed nim.」"
                             ]
                         },
                         {
@@ -3149,7 +3149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Czy to też jest magiczna bestia...?」"
+                                "「Czy to też jest magiczna bestia…?」"
                             ]
                         },
                         {
@@ -3220,7 +3220,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Uaa... Mamo...」"
+                                "「Uaa… Mamo…」"
                             ]
                         },
                         {
@@ -7085,7 +7085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Otoczona mgłą..."
+                                "Otoczona mgłą…"
                             ]
                         },
                         {

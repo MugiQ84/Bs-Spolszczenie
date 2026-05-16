@@ -143,7 +143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ufufu~♡ Ty, \\n[1], chyba myślisz o czymś niegrzecznym,\nco?♡"
+                                "「Hihihi♡\\n[1], myślisz o czymś\n bardzo niegrzecznym, prawda?」"
                             ]
                         },
                         {
@@ -160,7 +160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…Dobrze? Przy tobie, \\n[1], cokolwiek mi zrobisz...♡"
+                                "「…W porządku, wiesz?\n Jeśli to z tobą, zrobię wszystko……♡」"
                             ]
                         },
                         {
@@ -168,9 +168,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Make love",
+                                    "Kochaj się",
                                     "Zabij",
-                                    "Prepare"
+                                    "Jeszcze chwila"
                                 ],
                                 3
                             ]
@@ -473,7 +473,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Ka, fu... Wróżki nie umierają, więc możesz mnie zabijać\ndo woli...♡"
+                                "Ka, ah… Wróżki nie umierają, więc możesz mnie zabijać\ndo woli…♡"
                             ]
                         },
                         {
@@ -651,7 +651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ciasny pokój… nie było czegoś lepszego?」"
+                                "「Ale ciasny pokój…\n nie było czegoś lepszego?」"
                             ]
                         },
                         {
@@ -668,7 +668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Cóż, skoro tu jesteś… to mi nie przeszkadza…」"
+                                "「Cóż, jeśli jest to z tobą…\n nie przeszkadza mi to…」"
                             ]
                         },
                         {
@@ -676,9 +676,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Make love",
+                                    "Kochaj się",
                                     "Zabij",
-                                    "Prepare"
+                                    "Jeszcze chwila"
                                 ],
                                 3
                             ]
@@ -950,7 +950,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「…Kiedyś byłam największym magiem. Od małego\n zabijałam wiele czarownic」"
+                                "「……W przeszłości byłam największym czarnoksiężnikiem.\nJuż od dzieciństwa zgładziłam niezliczoną\n liczbę czarownic.」"
                             ]
                         },
                         {
@@ -1001,7 +1001,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Używałam zakazanych sztuk, wielokrotnie się\n reinkarnowałam, raz silniejszy, raz słabszy… Mimo to,\n na dnie studni, wciąż żywiłam ambicje」"
+                                "「Używałam zakazanych czarów, reinkarnowałam się raz za razem,\nstawałam się silniejsza, potem słabsza…\nA jednak wciąż kurczowo trzymałam się moich ambicji.」"
                             ]
                         },
                         {
@@ -1018,7 +1018,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Uczynić ten świat swoim. Zostać królem, zdobyć\n wszystko… tak to sobie wyobrażałam」"
+                                "「Uczynić ten świat swoim.\n Zostać władcą, zdobyć wszystko…\n tak to sobie wyobrażałam」"
                             ]
                         },
                         {
@@ -1044,7 +1044,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「…Jestem ci naprawdę wdzięczna, że uczyniłeś mnie tak\n silną. Chciałam dalej rządzić światem razem z tobą,\n ale…」"
+                                "「…Jestem ci naprawdę wdzięczna,\n że uczyniłeś mnie tak silną. Chciałam\n dalej rządzić światem razem z tobą, ale…」"
                             ]
                         },
                         {
@@ -1166,7 +1166,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Gdyby nie to, nie zakochałbym się w tobie… prawda…」"
+                                "「Gdyby do tego nie doszło, gdybym się w tobie…\n nie zakochała…… ja……」"
                             ]
                         },
                         {
@@ -1387,7 +1387,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Goshujin-sama... Aa...♡ Już nie mogę wytrzymać...♡」"
+                                "「Mistrzu… Aa…♡ Już nie mogę wytrzymać…♡」"
                             ]
                         },
                         {
@@ -1413,7 +1413,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Goshujin-sama, proszę o wszystkie swoje Dusze...♡\n Hej... daj mi je... dlaczego się ociągasz?」"
+                                "「Panie, twoje dusze... chcę je wszystkie……♡\nHej… proszę… co się dzieje?」"
                             ]
                         },
                         {
@@ -1439,7 +1439,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Dlaczego robisz taką minę...?♡ Nie ma we mnie nic\n dziwnego...♡」"
+                                "「Dlaczego robisz taką minę…?♡\n \nWcale nie jestem dziwna, ani trochę……♡」"
                             ]
                         },
                         {
@@ -1465,7 +1465,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Ach, Goshujin-sama!♡ Jesteś taki słodki!♡ Słodki...♡\n Pokaż mi więcej swoich min!♡ Kochaj tylko Wiktorię!♡\n Chcę mieć cię całego...♡」"
+                                "「Ah, Mistrzu!♡ Jesteś taki słodki!♡ Słodki…♡\n Pokaż mi więcej swoich minek!♡\n Kochaj tylko Wiktorię!♡\n Chcę mieć cię całego…♡」"
                             ]
                         },
                         {
@@ -1491,7 +1491,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Już dłużej nie mogę...♡ Zjem cię całego...♡ Hi hi\n hi...♡」"
+                                "「Już nie mogę, nie wytrzymam…♡\nChcę cię zjeść, całego, w całości……♡\nHihihihi……♡」"
                             ]
                         },
                         {
@@ -1595,7 +1595,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Goshujin... sama...♡♡ Ach, być zabitą twoją ręką...♡」"
+                                "「Mis……trzu……aaah♡♡\n Być zabitą twoimi rękoma…♡」"
                             ]
                         },
                         {
@@ -1612,7 +1612,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Jakie to przyjemne...♡ Szczęście... ehehe...♡♡」"
+                                "「Jakie to przyjemne……♡\n jestem taka szczęśliwa……ehehe…♡♡」"
                             ]
                         },
                         {
@@ -1766,7 +1766,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Goshujin-sama...♡ Jesteśmy teraz sami, prawda...♡」"
+                                "「Mistrzu…♡\n Teraz jesteśmy już zupełnie sami……♡」"
                             ]
                         },
                         {
@@ -1774,9 +1774,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Make love",
+                                    "Kochaj się",
                                     "Zabij",
-                                    "Prepare"
+                                    "Jeszcze chwila"
                                 ],
                                 3
                             ]
@@ -1995,7 +1995,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Goshujin-sama... Było cudownie...♡ Przyjdźmy tu znowu,\n dobrze, dobrze?♡」"
+                                "「Mistrzu… Było cudownie…♡\n Przyjdźmy tu znowu, dobrze, dobrze?♡」"
                             ]
                         },
                         {
@@ -2012,7 +2012,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Następnym razem zrobię dla ciebie coś jeszcze\n lepszego...♡」"
+                                "「Następnym razem zróbmy coś jeszcze lepszego…♡」"
                             ]
                         },
                         {
@@ -2084,7 +2084,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「......kha, haa...!」"
+                                "「……kha, haa…!」"
                             ]
                         },
                         {
@@ -2101,7 +2101,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Goshujin-sama...... Nawet jeśli zostanę zabita...\n kocham cię...♡」"
+                                "「Mis…trzu…… Nawet jeśli mnie zabijesz…\n nadal będę cię kochać…♡」"
                             ]
                         },
                         {
@@ -2280,7 +2280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Być sam na sam z mężczyzną w pokoju... . Bardzo się\n denerwuję... 」"
+                                "「Być sam na sam z mężczyzną w pokoju……\n Bardzo się denerwuję……」"
                             ]
                         },
                         {
@@ -2288,9 +2288,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Make love",
+                                    "Kochaj się",
                                     "Zabij",
-                                    "Prepare"
+                                    "Jeszcze chwila"
                                 ],
                                 3
                             ]
@@ -2546,7 +2546,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Ale, ach...! \\n[1]-san...? Nie...! Dlaczego...!」"
+                                "「Gh-ah…! \\n[1]…? Ale……Dlaczego……!」"
                             ]
                         },
                         {
@@ -2725,7 +2725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「O nie... czy to nie jest oczywiste...?」"
+                                "「Nieee ma mowy……Ale jesteś bezpośredni, nie prawdaż……」"
                             ]
                         },
                         {
@@ -2733,9 +2733,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Make love",
+                                    "Kochaj się",
                                     "Zabij",
-                                    "Prepare"
+                                    "Jeszcze chwila"
                                 ],
                                 3
                             ]
@@ -2991,7 +2991,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「………Co...?」"
+                                "「………Co…?」"
                             ]
                         },
                         {
@@ -3008,7 +3008,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Aha, ha... czy to nie jest tak, że ja, która\n uwierzyłam, jestem idiotką...?」"
+                                "「Aha, ha… co to ma znaczyć……\n a ja byłam…głupia……żeby uwierzyć……」"
                             ]
                         },
                         {
@@ -3025,7 +3025,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「………Ty... zdrajco...!」"
+                                "「………Tobie……zdrajca……」"
                             ]
                         },
                         {
@@ -3204,7 +3204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「T-tak... \\n[1]-san...! Ja już jestem gotowa, więc...」"
+                                "「T-tak… \\n[1]-san…! Ja już jestem gotowa, więc…」"
                             ]
                         },
                         {
@@ -3212,9 +3212,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Make love",
+                                    "Kochaj się",
                                     "Zabij",
-                                    "Prepare"
+                                    "Jeszcze chwila"
                                 ],
                                 3
                             ]
@@ -3470,7 +3470,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Ał...!? Co... ty... robisz...?」"
+                                "「Ał…!? Co… ty… robisz…?」"
                             ]
                         },
                         {
@@ -3487,7 +3487,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Khe...! Ach... krew... krew... Dlaczego... ja... ci...\n ...」"
+                                "「Khe…! AaA-aah……krew, krew…\n Dlaczego… ja… ci… …」"
                             ]
                         },
                         {
@@ -3666,7 +3666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「……Wzywasz mnie do takiego pokoju, o co chodzi?」"
+                                "「……Po co mnie tu przyzwałeś?」"
                             ]
                         },
                         {
@@ -3674,9 +3674,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Make love",
+                                    "Kochaj się",
                                     "Zabij",
-                                    "Prepare"
+                                    "Jeszcze chwila"
                                 ],
                                 3
                             ]
@@ -4109,7 +4109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Sam na sam z \\n[1]... ♡」"
+                                "「Sam na sam z \\n[1]… ♡」"
                             ]
                         },
                         {
@@ -4126,7 +4126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「W co się pobawimy? Coś niegrzecznego...? ♡」"
+                                "「W co się pobawimy? Coś niegrzecznego…? ♡」"
                             ]
                         },
                         {
@@ -4134,9 +4134,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Make love",
+                                    "Kochaj się",
                                     "Zabij",
-                                    "Prepare"
+                                    "Jeszcze chwila"
                                 ],
                                 3
                             ]
@@ -4392,7 +4392,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Ach, uhh...? Boli... ...」"
+                                "「Aa-au uhh…? Boli…aa…」"
                             ]
                         },
                         {
@@ -4588,7 +4588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Proszę? Rób, jak sobie życzysz.」"
+                                "「Jestem twoja. Rób, jak sobie życzysz.」"
                             ]
                         },
                         {
@@ -4596,9 +4596,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Make love",
+                                    "Kochaj się",
                                     "Zabij",
-                                    "Prepare"
+                                    "Jeszcze chwila"
                                 ],
                                 3
                             ]
@@ -4932,7 +4932,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Ach... A więc taki jest mój koniec...」"
+                                "「Ah……\n A więc to…jest mój koniec……」"
                             ]
                         },
                         {
@@ -5138,7 +5138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Możesz robić, co chcesz, ale trzymaj to w tajemnicy\n przed Poro.」"
+                                "「Rób co chcesz, tylko nie mów\n Poro.」"
                             ]
                         },
                         {
@@ -5146,9 +5146,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Make love",
+                                    "Kochaj się",
                                     "Zabij",
-                                    "Prepare"
+                                    "Jeszcze chwila"
                                 ],
                                 3
                             ]
@@ -5395,7 +5395,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「………」"
+                                "「……kh…」"
                             ]
                         },
                         {
@@ -5429,7 +5429,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Biedny człowiek……」"
+                                "「Żałosne……」"
                             ]
                         },
                         {

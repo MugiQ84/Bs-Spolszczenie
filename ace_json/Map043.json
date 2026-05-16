@@ -3026,7 +3026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ach, ty... ty tam! Błagam... uratuj mnie...!」"
+                                "「Ah, ty… ty tam! Błagam… uratuj mnie…!」"
                             ]
                         },
                         {
@@ -3050,7 +3050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Śmiertelnie jadowite motyle mnie dopadły... ledwo mogę\n ruszać ciałem. Hej, ty... przyniesiesz mi \\c[2]Zioło\n Odtruwające\\c[0] i \\c[2]Zioło Lecznicze\\c[0]?」"
+                                "「Śmiertelnie jadowite motyle mnie dopadły… ledwo mogę\n ruszać ciałem. Hej, ty… przyniesiesz mi \\c[2]Zioło\n Odtruwające\\c[0] i \\c[2]Zioło Lecznicze\\c[0]?」"
                             ]
                         },
                         {
@@ -3074,7 +3074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Pospiesz się... bo tak umrę...! ekhm... kh...」"
+                                "「Pospiesz się… bo tak umrę…! ekhm… kh…」"
                             ]
                         },
                         {
@@ -3165,8 +3165,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Hand over",
-                                    "Finish off",
+                                    "Podaj mu",
+                                    "Wykończ go",
                                     "Odejdź"
                                 ],
                                 3
@@ -3358,7 +3358,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「Ach… P-przepraszam… N-no… Błagam, nie porzucaj mnie…\n Jeszcze nie chcę umierać…」"
+                                "「Ah… P-przepraszam… N-no… Błagam, nie porzucaj mnie…\n Jeszcze nie chcę umierać…」"
                             ]
                         },
                         {
@@ -3426,7 +3426,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Ach… P-przepraszam… N-no… Błagam, nie porzucaj mnie…\n Jeszcze nie chcę umierać…」"
+                                "「Ah… P-przepraszam… N-no… Błagam, nie porzucaj mnie…\n Jeszcze nie chcę umierać…」"
                             ]
                         },
                         {

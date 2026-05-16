@@ -217,7 +217,7 @@
         "maxTurns": 3,
         "message1": " stracił równowagę!",
         "message2": " stracił równowagę!",
-        "message3": " traci równowagę...",
+        "message3": " traci równowagę…",
         "message4": " odzyskał równowagę!",
         "minTurns": 2,
         "motion": null,
