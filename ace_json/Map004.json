@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "Mroczne Wejście",
+    "displayName": "Wejście w ciemność",
     "encounterList": [],
     "encounterStep": 30,
     "height": 32,
@@ -438,7 +438,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Cóż, w takim razie lepiej zrezygnuj. Dalej znajduje\n się siedziba \\c[2]Mrocznego Trybunału\\c[0]. Krążą plotki, że są\n tam też straszne bestie.」"
+                                "「Cóż, w takim razie lepiej zrezygnuj.\n Dalej znajduje się siedziba \\c[2]Mrocznego Trybunału\\c[0].\n Krążą plotki, że są tam też straszne bestie.」"
                             ]
                         },
                         {
@@ -462,7 +462,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Niedawno też pewien rycerz zignorował moje ostrzeżenie\n i poszedł dalej… Ciekawe, co się z nim teraz dzieje……\n Och, martwię się.」"
+                                "「Niedawno pewien rycerz zignorował moje ostrzeżenie i poszedł dalej…\n ale czy napewno przeżyje…ahh, martwię się.」"
                             ]
                         },
                         {
@@ -483,7 +483,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "いいえ"
+                                "Nie"
                             ]
                         },
                         {
@@ -507,7 +507,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Racja. Myślę, że to dobry pomysł.」"
+                                "「Racja. tak będzie najlepiej, tak myśle.」"
                             ]
                         },
                         {
@@ -592,7 +592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Mroczny Trybunał to zgromadzenie egzekutorów, którzy\n wymierzają kary grzesznikom. Niewinnym nie wyrządzają\n krzywdy, lecz ich bezmierne okrucieństwo przyprawia o\n mdłości.」"
+                                "「Mroczny Trybunał to zgromadzenie egzekutorów,\n którzy wymierzają kary grzesznikom. Niewinnym nie wyrządzają krzywdy,\n lecz ich bezmierne okrucieństwo przyprawia o mdłości.」"
                             ]
                         },
                         {
@@ -616,7 +616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Jeśli życie jest ci drogie, pozostań prawym\n człowiekiem.」"
+                                "「Jeśli życie jest ci drogie,\n pozostań prawym człowiekiem.」"
                             ]
                         },
                         {
@@ -679,7 +679,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Ah, aaa………」"
+                                "「A-ah………」"
                             ]
                         },
                         {
@@ -1290,7 +1290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Dalej jest niebezpiecznie! Może lepiej nie iść za\n daleko~?」"
+                                "「Dalej bedzię naprawde niebezpiecznie. Może lepiej nie iść za daleko~?」"
                             ]
                         },
                         {

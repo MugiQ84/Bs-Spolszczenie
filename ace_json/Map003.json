@@ -1351,7 +1351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Racja. Następnym razem wybierzmy się na piknik. Gdy\n tylko ten deszcz minie, będziemy mogli chodzić bez\n końca.」"
+                                "「Oh. Następnym razem chodźmy na piknik. Gdy tylko deszcz\n minie, będziemy mogli iść gdziekolwiek.」"
                             ]
                         },
                         {
@@ -1368,7 +1368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Obiecaliśmy sobie przecież, że zawsze będziemy razem.\n ……Tak, właśnie. Żyjmy w tym świecie.」"
+                                "「Zawsze będziemy razem, obiecuje.\n ……Tak, będziemy żyć w tym świecie.」"
                             ]
                         },
                         {
@@ -1474,7 +1474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Jak widzisz, jestem zajęta. Przyjdź, proszę, później?」"
+                                "「Jak widzisz, jestem zajęta.\nPrzyjdź proszę później?」"
                             ]
                         },
                         {
@@ -1583,7 +1583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Chcesz zostać wyrzucony?」"
+                                "「Wyrzucić cię?」"
                             ]
                         },
                         {
@@ -1808,7 +1808,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Nie złamię obietnicy. Bo ja też jestem z tobą.」"
+                                "「Nie złamię obietnicy.\n Będziemy razem.」"
                             ]
                         },
                         {
@@ -1926,7 +1926,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "立ち去る"
+                                "Wyjdź"
                             ]
                         },
                         {
@@ -1943,7 +1943,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Dobre dziecko.」"
+                                "「Dobry chłopiec.」"
                             ]
                         },
                         {

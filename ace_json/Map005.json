@@ -834,7 +834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「……Ah, tak.」"
+                                "「……Oh, tak.」"
                             ]
                         },
                         {
@@ -1430,7 +1430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Jest zamknięte na klucz."
+                                "zamknięte."
                             ]
                         },
                         {
@@ -2054,7 +2054,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Ta bajka wyraźnie nie jest dla dzieci… To opowieść, w\n której nie ma nic poza okrucieństwem. Kto ją w ogóle\n napisał?」"
+                                "「Ta bajka wyraźnie nie jest dla dzieci…\n To opowieść, w której nie ma nic poza okrucieństwem.\n Kto ją w ogóle napisał?」"
                             ]
                         },
                         {
@@ -2071,7 +2071,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「……Nie, ja też nie wiem zbyt wiele. Po prostu byłam\n ciekawa.」"
+                                "「……Nie, ja też nie wiem zbyt wiele.\n Po prostu byłam ciekawa.」"
                             ]
                         },
                         {
@@ -2124,7 +2124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Proszę, kliencie. Rozgość się.」"
+                                "「Witaj, Drogi kliencie.\n Rozgość się.」"
                             ]
                         },
                         {
@@ -2132,7 +2132,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Kupie twoje ciało",
+                                    "Kupię twoje ciało",
                                     "Zgwałć",
                                     "Odejdź"
                                 ],
@@ -2144,7 +2144,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "身体を買いたい"
+                                "Kupię twoje ciało"
                             ]
                         },
                         {
@@ -2161,7 +2161,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「\\$…Jeśli dasz mi 3000 Dusz, możesz robić z moim ciałem,\n co chcesz.」"
+                                "「\\$…Jeśli dasz mi 3000 Dusz,\n możesz robić z moim ciałem, co chcesz.」"
                             ]
                         },
                         {
@@ -2169,8 +2169,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Dam Dusze",
-                                    "Nie dam"
+                                    "Daj Dusze",
+                                    "Odmów"
                                 ],
                                 2
                             ]
@@ -2206,7 +2206,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「Dziękuję.」"
+                                "「Dziękuję za wsparcie.」"
                             ]
                         },
                         {
@@ -2335,7 +2335,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「Wróć kiedyś.」"
+                                "「Zapraszam ponownie.」"
                             ]
                         },
                         {
@@ -2643,7 +2643,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Nie złamię obietnicy. Będę z tobą.」"
+                                "「Nie złamię obietnicy.\n Będziemy razem.」"
                             ]
                         },
                         {
@@ -2875,7 +2875,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「…Masz tę baśń? Rozumiem. A więc jednak ją masz.」"
+                                "「…Masz tę bajkę? Rozumiem. Więc ją masz.」"
                             ]
                         },
                         {
@@ -2892,7 +2892,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Ta baśń wyraźnie nie jest dla dzieci… To opowieść, w\n której nie ma nic poza okrucieństwem. Kto ją w ogóle\n napisał?」"
+                                "「Ta bajka wyraźnie nie jest dla dzieci…\n To opowieść, w której nie ma nic poza okrucieństwem.\n Kto ją w ogóle napisał?」"
                             ]
                         },
                         {
@@ -2909,7 +2909,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「……Nie, ja też nie wiem zbyt wiele. Po prostu się\n zaciekawiłam.」"
+                                "「……Nie, ja też nie wiem zbyt wiele.\n Po prostu byłam ciekawa.」"
                             ]
                         },
                         {
@@ -2926,7 +2926,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Dalej poszukam sama.」"
+                                "「Resztę sprawdzę sama.」"
                             ]
                         },
                         {
@@ -2962,7 +2962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Proszę, gościu. Rozgość się i odpocznij.」"
+                                "「Witaj, Drogi kliencie.\n Rozgość się.」"
                             ]
                         },
                         {
@@ -3031,7 +3031,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「……Mam zostać twoją własnością?」"
+                                "「…Mam zostać twoją własnością?」"
                             ]
                         },
                         {
@@ -3039,8 +3039,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "I need your help.",
-                                    "Just kidding."
+                                    "chce żebyś użyczyła mi swojej siły",
+                                    "Żartuję."
                                 ],
                                 2
                             ]
@@ -3076,7 +3076,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「\\$…Jeśli dasz mi 100000 Dusz, to w porządku.」"
+                                "「\\$…Za 100000 Dusz, Zgoda.」"
                             ]
                         },
                         {
@@ -3084,8 +3084,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "Dam Dusze",
-                                    "Nie dam"
+                                    "Daj Dusze",
+                                    "Odmów"
                                 ],
                                 2
                             ]
@@ -3130,7 +3130,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "「Uwa. Naprawdę je oddajesz…」"
+                                "「Uwa.\n Ty tak na poważnie…」"
                             ]
                         },
                         {
@@ -3156,7 +3156,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "「Zrozumiałam. Od dziś idę z tobą. Możesz robić, co\n chcesz, ale jeśli zrobisz coś naprawdę okrutnego, dźgnę\n cię w plecy.」"
+                                "「Dobrze w takim razie. Od dziś idę z tobą.\n Rób co chcesz, ale jeśli przesadzisz,\n nie zawacham się.」"
                             ]
                         },
                         {
@@ -3211,7 +3211,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "「Hau hau!」"
+                                "「Łaf-Łaf!」"
                             ]
                         },
                         {
@@ -3260,7 +3260,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "「W porządku, zabiorę też Poro. Masz już dość dźwięku\n deszczu, prawda?」"
+                                "「W porządku, Poro, ty też idziesz.\n I tak mam już dość tego deszczu.」"
                             ]
                         },
                         {
@@ -3309,7 +3309,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "「No to do zobaczenia, Nieumarły-san.」"
+                                "「Więc, traktuj nas dobrze, Panie Nieumarły.」"
                             ]
                         },
                         {
@@ -3369,7 +3369,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Brakuje Dusz."
+                                "Za mało Dusz."
                             ]
                         },
                         {
@@ -3449,7 +3449,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「No właśnie.」"
+                                "「Tak myślałam.」"
                             ]
                         },
                         {
@@ -3673,7 +3673,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Poro… Biedactwo.」"
+                                "「Poro … biedactwo.」"
                             ]
                         },
                         {
@@ -3690,7 +3690,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Nie złamię obietnicy. Ja też jestem z tobą.」"
+                                "「Nie złamię obietnicy.\n Będziemy razem.」"
                             ]
                         },
                         {
@@ -3714,7 +3714,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Czerwony Kapturek poderżnął sobie gardło."
+                                "Czerwony Kapturek poderżnęła sobie gardło."
                             ]
                         },
                         {
@@ -3825,7 +3825,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Przyjdź jeszcze.」"
+                                "「Wróć kiedyś.」"
                             ]
                         },
                         {
@@ -3903,7 +3903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Proszę, kliencie. Rozgość się.」"
+                                "「Witaj, Drogi kliencie.\n Rozgość się.」"
                             ]
                         },
                         {
@@ -3911,10 +3911,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Chcę kupić twoje ciało",
+                                    "Kupię twoje ciało",
                                     "Zgwałć",
-                                    "Zabić",
-                                    "Odejść"
+                                    "Zabij",
+                                    "Odejdź"
                                 ],
                                 4
                             ]
@@ -3960,7 +3960,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「\\$…Jeśli dasz mi 3000 Dusze, możesz robić z moim ciałem,\n co tylko zechcesz.」"
+                                "「\\$…Jeśli dasz mi 3000 Dusz,\n możesz robić z moim ciałem, co chcesz.」"
                             ]
                         },
                         {
@@ -3968,8 +3968,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "Dam Dusze",
-                                    "Nie dam"
+                                    "Daj Dusze",
+                                    "Odmów"
                                 ],
                                 2
                             ]
@@ -4005,7 +4005,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "「Zapraszam ponownie.」"
+                                "「Dziękuję za wsparcie.」"
                             ]
                         },
                         {
@@ -4125,7 +4125,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "「Przyjdź ponownie.」"
+                                "「Zapraszam ponownie.」"
                             ]
                         },
                         {
@@ -4161,7 +4161,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Za mało Dusze."
+                                "Za mało Dusz."
                             ]
                         },
                         {
@@ -4201,7 +4201,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「Szkoda.」"
+                                "「Co za szkoda.」"
                             ]
                         },
                         {
@@ -4452,7 +4452,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Nie złamię obietnicy. Bo ja też jestem z tobą.」"
+                                "「Nie złamię obietnicy.\n Będziemy razem.」"
                             ]
                         },
                         {
@@ -4907,7 +4907,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Przyjdź ponownie.」"
+                                "「Wróć kiedyś.」"
                             ]
                         },
                         {
@@ -4985,7 +4985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Proszę, rozgość się.」"
+                                "「Witaj, Drogi kliencie.\n Rozgość się.」"
                             ]
                         },
                         {
@@ -4995,8 +4995,8 @@
                                 [
                                     "Kup Czerwonego Kapturka",
                                     "Zgwałć",
-                                    "Zabić",
-                                    "Odejść"
+                                    "Zabij",
+                                    "Odejdź"
                                 ],
                                 4
                             ]
@@ -5063,8 +5063,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "I need your help.",
-                                    "Just kidding."
+                                    "chce żebyś użyczyła mi swojej siły",
+                                    "Żartuję."
                                 ],
                                 2
                             ]
@@ -5100,7 +5100,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「\\$…Daj mi 100000 Dusz, a będę twoja.」"
+                                "「\\$…Za 100000 Dusz, Zgoda.」"
                             ]
                         },
                         {
@@ -5108,8 +5108,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "Dam Dusze",
-                                    "Nie dam"
+                                    "Daj Dusze",
+                                    "Odmów"
                                 ],
                                 2
                             ]
@@ -5154,7 +5154,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "「Wow… Naprawdę zamierzasz mi je oddać?」"
+                                "「Uwa.\n Ty tak na poważnie…」"
                             ]
                         },
                         {
@@ -5180,7 +5180,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "「Zrozumiałam. Od dzisiaj idę z tobą. Możesz robić ze\n mną, co chcesz, ale jeśli posuniesz się za daleko,\n dźgnę cię w plecy.」"
+                                "「Dobrze w takim razie. Od dziś idę z tobą.\n Rób co chcesz, ale jeśli przesadzisz,\n nie zawacham się.」"
                             ]
                         },
                         {
@@ -5235,7 +5235,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "「Hau, hau!」"
+                                "「Łaf-Łaf!」"
                             ]
                         },
                         {
@@ -5284,7 +5284,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "「W porządku, zabieram też Poro. Masz już dość tego\n deszczu, prawda?」"
+                                "「W porządku, Poro, ty też idziesz.\n I tak mam już dość tego deszczu.」"
                             ]
                         },
                         {
@@ -5333,7 +5333,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "「No to proszę o opiekę, Nieśmiertelna-san.」"
+                                "「Więc, traktuj nas dobrze, Panie Nieumarły.」"
                             ]
                         },
                         {
@@ -5473,7 +5473,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「No właśnie.」"
+                                "「Tak myślałam.」"
                             ]
                         },
                         {
@@ -5697,7 +5697,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Poro… biedactwo.」"
+                                "「Poro … biedactwo.」"
                             ]
                         },
                         {
@@ -5714,7 +5714,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Nie złamię obietnicy. Przecież też tu jestem.」"
+                                "「Nie złamię obietnicy.\n Będziemy razem.」"
                             ]
                         },
                         {
@@ -5875,7 +5875,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Wciąż szukasz zakończenia, prawda?」"
+                                "「Ty wciąż szukasz zakończenia, prawda?」"
                             ]
                         },
                         {
@@ -5892,7 +5892,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Moja historia już się skończyła.」"
+                                "「Moja opowieść już się skończyła.」"
                             ]
                         },
                         {
@@ -5909,7 +5909,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Chciałam po prostu… być kochaną przez rodzinę i\n doczekać się szczęśliwego zakończenia.」"
+                                "「Po prostu chciałam… normalnie… być kochaną przez\n rodzinę i zaznać szczęśliwego zakończenia.」"
                             ]
                         },
                         {
@@ -5926,7 +5926,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Odprowadzona przez mamę, pójść do babci, a złego wilka\n pokona myśliwy. Taka zwyczajna bajka.」"
+                                "「Odprowadzona przez mamę, idę do domu babci, a zły wilk\n zostaje pokonany przez myśliwego. Taka zwykła bajka.」"
                             ]
                         },
                         {
@@ -5943,7 +5943,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Coś poszło nie tak. Dziadek mnie zgwałcił, babcia\n zginęła w wypadku. Przestałam odróżniać sny, iluzje od\n rzeczywistości.」"
+                                "「Coś poszło nie tak. Dziadek mnie zgwałcił, babcia\n zginęła w wypadku. Nie potrafiłam już odróżnić snu od\n iluzji od rzeczywistości.」"
                             ]
                         },
                         {
@@ -5960,7 +5960,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「W mojej głowie kłębią się nieznane wspomnienia. To\n tak, jakby ktoś mi grzebał w mózgu. Przestaję być\n sobą.」"
+                                "「Nieznane wspomnienia krążą po mojej głowie. Jakby ktoś\n grzebał mi w mózgu, przestaję być sobą.」"
                             ]
                         },
                         {
@@ -5977,7 +5977,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Jeśli istnieje bóg, który tak mnie urządził…\n Chciałabym odrąbać mu głowę.」"
+                                "「Jeśli istnieje bóg, który sprowadził na mnie taki\n los… Chcę ściąć mu głowę.」"
                             ]
                         },
                         {
@@ -6003,7 +6003,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Ale to… nie tylko ja mogę to zrobić, prawda?」"
+                                "「Ale to… może zrobić ktoś inny, prawda?」"
                             ]
                         },
                         {
@@ -6169,7 +6169,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Przyjdź jeszcze.」"
+                                "「Wróć kiedyś.」"
                             ]
                         },
                         {
