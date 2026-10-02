@@ -2,6 +2,7 @@
 Data/Save*.rvdata2
 Data/Global.rvdata2
 
+
 # Opcjonalnie ignoruj inne pliki tymczasowe i backupy
 *.bak
 *.tmp
