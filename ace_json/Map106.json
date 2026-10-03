@@ -510,7 +510,7 @@
                                 4,
                                 29,
                                 1,
-                                "リィフ"
+                                "Leaf"
                             ]
                         },
                         {
@@ -1417,7 +1417,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Wszystko, co do tej pory zbudowałeś… Ja to zniszczę!」"
+                                "「Wszystko, co do tej pory zbudowałeś… Zniszczę to!」"
                             ]
                         },
                         {
@@ -1621,7 +1621,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Miałeś zginąć z mojej ręki! Taki był finał!! Dlaczego\n jest inaczej!!」"
+                                "「Miałeś zginąć z mojej ręki! Taki miał\n być finał! Co się zmieniło!」"
                             ]
                         },
                         {
@@ -4215,7 +4215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ah, \\n[1]-sama……. Stwórco-sama……」"
+                                "「Ah, \\n[1]-sama……. Stwórco……」"
                             ]
                         },
                         {
