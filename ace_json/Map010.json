@@ -531,7 +531,7 @@
                             "parameters": [
                                 [
                                     "Zabij",
-                                    "Never mind, I won't kill you"
+                                    "Nieważne, nie zabiję cię"
                                 ],
                                 2
                             ]
@@ -1084,7 +1084,7 @@
                             "parameters": [
                                 [
                                     "Zabij",
-                                    "Never mind, I won't kill you"
+                                    "Nieważne, nie zabiję cię"
                                 ],
                                 2
                             ]
@@ -1661,7 +1661,7 @@
                             "parameters": [
                                 [
                                     "Zabij",
-                                    "Never mind, I won't kill you"
+                                    "Nieważne, nie zabiję cię"
                                 ],
                                 2
                             ]
@@ -2281,7 +2281,7 @@
                             "parameters": [
                                 [
                                     "Zabij",
-                                    "Never mind, I won't kill you"
+                                    "Nieważne, nie zabiję cię"
                                 ],
                                 2
                             ]
@@ -11196,7 +11196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Dzień dobry. Ten las jest spokojny i przyjemny,\n prawda?」"
+                                "「Dzień dobry.\nTen las jest spokojny i przyjemny, prawda?」"
                             ]
                         },
                         {
@@ -11213,7 +11213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Jestem Katarina, przybywam z Sandorii. Czyżbyście o\n mnie nie słyszeli?」"
+                                "「Jestem Katarina, przybywam z Sandorii.\nCzyżbyście o mnie nie słyszeli?」"
                             ]
                         },
                         {
@@ -11221,8 +11221,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "I know",
-                                    "I don't know"
+                                    "Słyszałem",
+                                    "Nie wiem"
                                 ],
                                 2
                             ]
@@ -16447,7 +16447,7 @@
                                 [
                                     "Zapoatrz Dusze",
                                     "Zgwałć",
-                                    "Zabijed Cinderella",
+                                    "Zabiłem Kopciuszek",
                                     "Odejdź"
                                 ],
                                 4

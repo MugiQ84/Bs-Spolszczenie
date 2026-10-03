@@ -2253,7 +2253,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Nie ma mowy! Jesteś mój! Nie pozwolę ci się samowolnie\noddalić!"
+                                "Nie ma mowy! Jesteś mój!\n Nie pozwolę ci się samowolnie oddalić!"
                             ]
                         },
                         {
@@ -2261,8 +2261,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "I have to go, no matter what.",
-                                    "I'll stay by your side."
+                                    "Muszę iść, nie ważne co.",
+                                    "Zostanę przy tobię."
                                 ],
                                 2
                             ]
@@ -2961,8 +2961,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "I have to go, no matter what.",
-                                    "I'll stay by your side."
+                                    "Muszę iść, nie ważne co.",
+                                    "Zostanę przy tobię."
                                 ],
                                 2
                             ]

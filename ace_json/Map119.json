@@ -737,8 +737,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Talk",
-                                    "Buy a Magic Book",
+                                    "Pogadaj",
+                                    "Kup księgę magii",
                                     "Zabij",
                                     "Odejdź"
                                 ],
@@ -1206,7 +1206,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "「Właściwie wskrzeszanie zmarłych jest zakazanym tabu.\n Nie ręczę za to, co się stanie. Czy nadal się\n zgadzasz?」"
+                                "「Właściwie wskrzeszanie zmarłych jest zakazanym tabu.\n Nie ręczę za to, co się stanie.\n Czy nadal się zgadzasz?」"
                             ]
                         },
                         {
@@ -1214,8 +1214,8 @@
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "I don't mind.",
-                                    "I'll pass."
+                                    "Nie przeszkadza mi to.",
+                                    "lepiej nie."
                                 ],
                                 2
                             ]
@@ -2105,8 +2105,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Talk",
-                                    "Buy a Magic Book",
+                                    "Pogadaj",
+                                    "Kup księgę magii",
                                     "Zabij",
                                     "Odejdź"
                                 ],
@@ -2498,8 +2498,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Talk",
-                                    "Buy a Magic Book",
+                                    "Pogadaj",
+                                    "Kup księgę magii",
                                     "Zabij",
                                     "Odejdź"
                                 ],
@@ -3307,8 +3307,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Supply Soul",
-                                    "Make Sex Slave",
+                                    "Przekaż dusze",
+                                    "Zrób z niej swoją niewolnicę",
                                     "Odejdź"
                                 ],
                                 3
@@ -3455,7 +3455,7 @@
                             "parameters": [
                                 [
                                     "Wszystko w porządku?",
-                                    "Zawoja ich imiona"
+                                    "Zawoj jej imię"
                                 ],
                                 2
                             ]

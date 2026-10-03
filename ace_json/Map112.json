@@ -1061,7 +1061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy wyłączyć wyświetlanie scenek nsfw?"
+                                "Czy wyłączyć wyświetlanie scenek dla dorosłych?"
                             ]
                         },
                         {
@@ -1180,7 +1180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Włączyć wyświetlanie scenek nsfw?"
+                                "Włączyć wyświetlanie scenek dla dorosłych?"
                             ]
                         },
                         {
@@ -16874,7 +16874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy odtworzyć wspomnienie \\c[2]Cinderella (Dobrowolna)\\c[0]?"
+                                "Czy odtworzyć wspomnienie \\c[2]Kopciuszek (Dobrowolna)\\c[0]?"
                             ]
                         },
                         {
@@ -21638,7 +21638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Podnieś Wiktorię do poziomu 99 i pokonaj Cinderellę."
+                                "Podnieś Wiktorię do poziomu 99 i pokonaj Kopciuszek."
                             ]
                         },
                         {

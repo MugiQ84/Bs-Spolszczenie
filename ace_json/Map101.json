@@ -861,8 +861,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "I thought I was dead.",
-                                    "Nice to meet you, Alice."
+                                    "Myślałem że umarłaś.",
+                                    "Miło cię poznać, Alicja."
                                 ],
                                 0
                             ]
@@ -889,7 +889,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Osobą, którą Mistrz spotkał na początku, była\n oryginalna Alicja. Ja jestem jedynie repliką.」"
+                                "「Osobą, którą Mistrz spotkał na\n początku, była oryginalna Alicja.\n Ja jestem jedynie repliką.」"
                             ]
                         },
                         {

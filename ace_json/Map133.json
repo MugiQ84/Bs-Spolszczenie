@@ -6995,7 +6995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Nieumarły-kun, starsza siostra ma prośbę… hej hej,\nwysłuchasz mnie?"
+                                "Nieumarły-kun, starsza siostra ma prośbę… hej hej,\n wysłuchasz mnie?"
                             ]
                         },
                         {
@@ -7003,8 +7003,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "I'll listen",
-                                    "I won't listen"
+                                    "Wysłucham cię",
+                                    "Nie wysłucham"
                                 ],
                                 2
                             ]

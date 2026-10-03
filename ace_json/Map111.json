@@ -634,7 +634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\$1000 dusz wystarczy… W zamian postaram się, abyś był\nzadowolony…"
+                                "\\$1000 dusz wystarczy…\n W zamian postaram się, abyś był zadowolony…"
                             ]
                         },
                         {
@@ -680,7 +680,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Dziękuję…! No to, ehm… jest tu ciasno, ale chodź do\nmojego łóżka…"
+                                "Dziękuję…! No to, ehm… jest tu trochę ciasno,\n ale zapraszam do mojego łóżka…"
                             ]
                         },
                         {
@@ -821,7 +821,7 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "Myślałem, że zostanę uduszony.",
+                                    "Myślałem, że umrę.",
                                     "1000 dusz…?"
                                 ],
                                 0

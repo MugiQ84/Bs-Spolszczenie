@@ -11884,7 +11884,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Pokonany podporządkowuje się woli zwycięzcy… No,\n mów.」"
+                                "「Pokonany podporządkowuje się woli zwycięzcy…\n No, mów.」"
                             ]
                         },
                         {
@@ -11892,8 +11892,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Join me.",
-                                    "Become my sex slave."
+                                    "Dołącz do mnie.",
+                                    "Zostań moim sex niewolnikiem."
                                 ],
                                 2
                             ]

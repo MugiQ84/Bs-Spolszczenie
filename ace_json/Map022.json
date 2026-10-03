@@ -532,7 +532,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「A, e… prawda… Nie chcesz się przyjaźnić z kimś\n takim jak ja… Tak, to prawda…」"
+                                "「A, eh…oczywiście…\n Zgaduję że nikt nie chciałby się przyjaźnić\n z kimś takim jak ja… no cóż…」"
                             ]
                         },
                         {
@@ -10450,8 +10450,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Zabijed them.",
-                                    "I don't know."
+                                    "Zabiłem ich.",
+                                    "Nie wiem."
                                 ],
                                 2
                             ]
@@ -14511,7 +14511,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「Miau, miau! Cóż za urocza dama, miau. Dziękuję, miau.」"
+                                "「Miau, miau! Cóż za urocza dama,\n miau. Dziękuję, miau.」"
                             ]
                         },
                         {
@@ -14537,7 +14537,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「Da-dama? …He he, tak to widzisz?」"
+                                "「D-dama? …Hihi,\nNaprawdę tak mnie widzisz?」"
                             ]
                         },
                         {
@@ -14577,8 +14577,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "You do.",
-                                    "You don't."
+                                    "Pewnie",
+                                    "Nie ma mowy."
                                 ],
                                 2
                             ]
@@ -14605,7 +14605,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "「Nawet ty przestań… He he, he he he… To krępujące.」"
+                                "「przestań, ty…\nHihi, hihihi…… To krępujące.」"
                             ]
                         },
                         {
@@ -14918,7 +14918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Miau miau, chcę znowu założyć tę zbroję, miau」"
+                                "「Miau-miau,\n chcę znowu założyć tę zbroję, miau」"
                             ]
                         },
                         {
@@ -15137,7 +15137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Miau miau, proszę nie patrz na moją dziurkę, miau」"
+                                "「Miau miau,\n proszę nie patrz na moją dziurkę, miau」"
                             ]
                         },
                         {
@@ -15356,7 +15356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Zbroja Nyan Nyan też chciała zostać rycerzem nyan,\n więc razem z nami została rycerzem nyan」"
+                                "「Miau-Miau. Zbroja  też chciała zostać rycerzem miał.\n więc razem z nami została rycerzem, miau.」"
                             ]
                         },
                         {
@@ -15380,7 +15380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Zbroja nas wkłada, my wkładamy zbroję i staliśmy się\n najsilniejszym rycerzem nyan」"
+                                "「Zbroja nas zakłada,\n my zakładamy zbroję\n My najsilniejszym rycerzem, miau.」"
                             ]
                         },
                         {
@@ -15703,7 +15703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……Kto?"
+                                "……Kim jesteś?"
                             ]
                         },
                         {
@@ -15720,7 +15720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]? Hm…… nieważne."
+                                "\\n[1]?\n Bleh…… nieważne."
                             ]
                         },
                         {
@@ -15807,7 +15807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mimo że zostaliśmy porzuceni… Nie umiesz spojrzeć\nprawdzie w oczy, biedny bracie."
+                                "Mimo że zostaliśmy porzuceni…\n A on nie umie spojrzeć prawdzie w oczy,\n mój biedny brat."
                             ]
                         },
                         {
@@ -16552,7 +16552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Głupi, nierozsądny i niezdarny braciszku… Gdybyś nie\n wyrzucił ostatniego chleba na ulicę, nie byłbyś\n głodny.」"
+                                "「Głupi, nierozsądny i niezdarny braciszku…\n Gdyby nie wyrzucił ostatniego chleba na ulicę,\n nie umieralibyśmy teraz z głodu.」"
                             ]
                         },
                         {
@@ -17382,7 +17382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Hihi… Kocham cię, \\n[1], mój silny i dzielny\n onii-sama! ♪」"
+                                "「Hihi… Kocham cię, \\n[1],\n mój silny i dzielny braciszek! ♪」"
                             ]
                         },
                         {
@@ -17500,7 +17500,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Hehe… Mam już tylko \\n[1], mój onii-sama! ♡」"
+                                "「Hehe… Nie potrzebuje nikogo innego,\n bracie \\n[1]♡」"
                             ]
                         },
                         {
@@ -17603,7 +17603,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Hänsel? Zostaw go. Ah, ale jeśli stanie się magiczną\n bestią, proszę, zabij go, onii-sama.」"
+                                "「Jaś? Zapomnij o nim.\n Ah, ale jeśli stanie się magiczną bestią,\n proszę, zabij go, bracie.」"
                             ]
                         },
                         {
@@ -17620,7 +17620,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Bo jeśli będzie mnie nienawidził, to straszne! ♪」"
+                                "「Boję się że będzie trzymać urazę♪」"
                             ]
                         },
                         {
@@ -17716,7 +17716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Jasiu-onii-sama, szkoda, że nie jesteś trochę\n bardziej niezawodny… Może to jednak ja byłam zbyt\n samolubna……」"
+                                "「Jaś, szkoda, że nie jest trochę bardziej\n niezawodny… A może to jednak ja byłam zbyt samolubna……」"
                             ]
                         },
                         {
@@ -17898,7 +17898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wygląda na to, że zostało pożarte na śmierć, nie\npozostawiając nawet mięsa."
+                                "Wygląda na to, że nic nie zostało,\n na rozdartych kościach."
                             ]
                         },
                         {
@@ -18262,7 +18262,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「U-uratowałeś mnie… Dziękuję, \\n[1], braciszku.」"
+                                "「U-uratowałeś mnie… Dziękuję, bracie \\n[1].」"
                             ]
                         },
                         {
@@ -18279,7 +18279,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Ja też dziękuję… Gdyby \\n[1]-san był moim bratem…」"
+                                "「Pozwól mi też podziękować…\n Byłoby tak fajnie jakbyś to ty był moim\n starszym bratem, \\n[1]……」"
                             ]
                         },
                         {
@@ -19397,7 +19397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Hehe… Silny i krzepki Onii-sama \\n[1], uwielbiam cię\n ♪」"
+                                "「Hehe… Silny i krzepki.\n mój kochany brat \\n[1]♪」"
                             ]
                         },
                         {
