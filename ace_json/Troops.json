@@ -1059,7 +1059,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Już, przestań. Co ci przyjdzie z tego, że mnie\nzabijesz?」"
+                            "「Już, przestań.\n Co ci przyjdzie z tego, że mnie zabijesz?」"
                         ]
                     },
                     {
@@ -1076,7 +1076,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Jeszcze teraz ci wybaczę. Szybko, odłóż broń…」"
+                            "「Jeszcze teraz ci wybaczę.\n Szybko, odłóż broń…」"
                         ]
                     },
                     {
@@ -5698,7 +5698,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「……Co to ma znaczyć? Nawet ja stawię opór, jeśli\n dobędziesz miecza.」"
+                            "「……\n Co to ma znaczyć? Nawet ja stawię opór, jeśli dobędziesz miecza.」"
                         ]
                     },
                     {
@@ -5781,7 +5781,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Cholera… Ty też patrzysz na mnie takim wzrokiem?!」"
+                            "「Cholera…\n Ty też patrzysz na mnie takim wzrokiem?!」"
                         ]
                     },
                     {
@@ -6221,7 +6221,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Wciąż zamierzasz mi się przeciwstawiać…? No to, jak\n sobie życzysz, zabiję cię!」"
+                            "「Wciąż zamierzasz mi się przeciwstawiać…?\n No to, jak sobie życzysz, zabiję cię!」"
                         ]
                     },
                     {
@@ -11336,7 +11336,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Ahachacha! Cóż za szczęście mamy dzisiaj! Nie, nie\n tylko dzisiaj. Jutro i pojutrze również jesteśmy\n przeznaczeni do błogosławieństwa i pomyślności!」"
+                            "「Ahachacha!\n Cóż za szczęście mamy dzisiaj! Nie, nie tylko dzisiaj.\n Jutro i pojutrze również jesteśmy przeznaczeni do błogosławieństwa i pomyślności!」"
                         ]
                     },
                     {
@@ -11384,7 +11384,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Chodźmy, Małgosiu! Walczymy, by napełnić nasze\n brzuszki!」"
+                            "「Chodźmy, Małgosiu!\n Walczymy, by napełnić nasze brzuszki!」"
                         ]
                     },
                     {
@@ -11456,7 +11456,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Małgosiaaaaaaaa!!! Moja siostraaaaaa!!!」"
+                            "「Małgosiaaaaaaaa!!!\n Moja siostraaaaaa!!!」"
                         ]
                     },
                     {
@@ -11480,7 +11480,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Ty draniuuu!!! Ty… jak śmiałeś! Na pewno, naa pewno\n cię zabiję!!!」"
+                            "「Ty draniuuu!!! Ty…\n jak śmiałeś! Na pewno, naa pewno cię zabiję!!!」"
                         ]
                     },
                     {
@@ -11561,7 +11561,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Naprawdę, do samego końca byłeś bezużytecznym bratem.\nHihihi… Cóż, teraz ten domek z cukierków jest tylko\nmój……」"
+                            "「Naprawdę, do samego końca byłeś bezużytecznym bratem.\n Hihihi… Cóż, teraz ten domek z cukierków jest tylko mój……」"
                         ]
                     },
                     {
@@ -11680,7 +11680,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Zdobycz… to zdobycz… Oddaj mi… mięso, duszę,\n wszystko…」"
+                            "「Zdobycz…\n to zdobycz… Oddaj mi… mięso, duszę, wszystko…」"
                         ]
                     },
                     {
@@ -11728,7 +11728,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Ghu ghu ghe he…! Krew, krew, krew, krew, mięso,\n mięso, mięso, mięso, mięso, mięso, mięso, mięso!\n Uuuaaaaargh!!」"
+                            "「Ghu ghu ghe he…! Krew, krew, krew, krew, mięso, mięso, mięso, mięso, mięso, mięso, mięso, mięso!\n Uuuaaaaargh!!」"
                         ]
                     },
                     {
@@ -11927,7 +11927,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Spójrz! Na tę wspaniałą zbroję, której ten głupiec nie\n widzi! Dopóki ją nosimy, jesteśmy niezwyciężeni!」"
+                            "「Spójrz! Na tę wspaniałą zbroję, której ten głupiec nie widzi!\n Dopóki ją nosimy, jesteśmy niezwyciężeni!」"
                         ]
                     },
                     {
@@ -11951,7 +11951,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Czcij Nas! A potem klęknij i drżyj ze strachu!\n Albowiem to My jesteśmy absolutnym monarchą!」"
+                            "「Czcij Nas!\n A potem klęknij i drżyj ze strachu! Albowiem to My jesteśmy absolutnym monarchą!」"
                         ]
                     },
                     {
@@ -12092,7 +12092,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「C-co wygadujecie… My mamy na sobie ten nieprzebity\n pancerz…」"
+                            "「C-co wygadujecie…\n My mamy na sobie ten nieprzebity pancerz…」"
                         ]
                     },
                     {
@@ -12537,7 +12537,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Szczury! Szybko, zabijcie ich! Wgryźcie się w nich\n razem z kośćmi!」"
+                            "「Szczury!\n Szybko, zabijcie ich! Wgryźcie się w nich razem z kośćmi!」"
                         ]
                     },
                     {
@@ -12843,7 +12843,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Zapach pola bitwy… rozkoszny zapach krwi.\n…Wspaniale.」"
+                            "「Zapach pola bitwy… rozkoszny zapach krwi. …\n Wspaniale.」"
                         ]
                     },
                     {
@@ -12926,7 +12926,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Rozlej więcej krwi. Jeszcze więcej! Daj mi radość\n walki!」"
+                            "「Rozlej więcej krwi.\n Jeszcze więcej! Daj mi radość walki!」"
                         ]
                     },
                     {
@@ -12988,7 +12988,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Witaj! Dokąd to?! Zbiory są obfite! Piękna pogoda,\nprawda?! Czy jutro będzie słonecznie?! Woda jest taka\nprzyjemna! Pomożesz posiać nasiona?!」"
+                            "「Witaj! Dokąd to?! Zbiory są obfite!\n Piękna pogoda, prawda?! Czy jutro będzie słonecznie?!\n Woda jest taka przyjemna! Pomożesz posiać nasiona?!」"
                         ]
                     },
                     {
@@ -13071,7 +13071,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「To boli! Zamierzasz walczyć?! Rozlejesz krew?! Czy łzy\n nie przestają płynąć?! Drżysz?!」"
+                            "「To boli!\n Zamierzasz walczyć?! Rozlejesz krew?!\n Czy łzy nie przestają płynąć?! Drżysz?!」"
                         ]
                     },
                     {
@@ -13095,7 +13095,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Ja! Zabiję! Zabiję cię! Zabiję! Zabiję to! Na pewno\n zabiję! Na pewno zabiję! Zabiję! Zabiję! Zabiję!\n Zabiję! Zabiję! Zabiję! Zabiję! Zabiję! Zabiję! Zabiję!\n Zabiję! Zabiję! Zabiję! Zabiję! Zabiję!」"
+                            "「Ja! Zabiję! Zabiję cię! Zabiję! Zabiję to! Na pewno zabiję!\n Na pewno zabiję! Zabiję! Zabiję! Zabiję! Zabiję! Zabiję!\n Zabiję! Zabiję! Zabiję! Zabiję! Zabiję!\n Zabiję! Zabiję! Zabiję! Zabiję! Zabiję!」"
                         ]
                     },
                     {
@@ -13264,7 +13264,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「KOCHAM KOCHAM KOCHAM KOCHAM KOCHAM CIE\n KOCHAM KOCHAM CIĘ KOCHAM KOCHAM KOCHAM \n KOCHAM KOCHAM KOCHAM KOCHAM CIĘ KOCHAM \n KOCHAM KOCHAM KOCHAM KOCHAM KOCHAM CIĘ」"
+                            "「KOCHAM KOCHAM KOCHAM KOCHAM KOCHAM CIE KOCHAM\n KOCHAM CIĘ KOCHAM KOCHAM KOCHAM KOCHAM KOCHAM KOCHAM\n KOCHAM CIĘ KOCHAM KOCHAM KOCHAM KOCHAM KOCHAM KOCHAM\n CIĘ」"
                         ]
                     },
                     {
@@ -13326,7 +13326,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Morze mnie woła……. Nie mogę znieść życia bez przygód……」"
+                            "「Morze mnie woła…….\n Nie mogę znieść życia bez przygód……」"
                         ]
                     },
                     {
@@ -13350,7 +13350,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Gdzie jest statek? Mój statek…. Nie obchodzi mnie żona\nani towarzysze……」"
+                            "「Gdzie jest statek? Mój statek….\n Nie obchodzi mnie żona ani towarzysze……」"
                         ]
                     },
                     {
@@ -13433,7 +13433,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Dlaczego mi przeszkadzasz?! Nie mam niczego poza\n przygodą!!!」"
+                            "「Dlaczego mi przeszkadzasz?!\n Nie mam niczego poza przygodą!!!」"
                         ]
                     },
                     {
@@ -13695,7 +13695,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Ty bezczelny łotrze! Moje uszy to ośle uszy?\n Zostaniesz natychmiast stracony!」"
+                            "「Ty bezczelny łotrze!\n Moje uszy to ośle uszy? Zostaniesz natychmiast stracony!」"
                         ]
                     },
                     {
@@ -13778,7 +13778,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Gdzie są żołnierze?! Wy nieudolne kreatury! Niech ktoś\n zabije tego bezczelnika! Za kogo wy mnie macie?!」"
+                            "「Gdzie są żołnierze?! Wy nieudolne kreatury!\n Niech ktoś zabije tego bezczelnika! Za kogo wy mnie macie?!」"
                         ]
                     },
                     {
@@ -14164,7 +14164,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Tato… Mamo…\n Gdzie jesteście……?\n Nie zostawiajcie Elmy samej……」"
+                            "「Tato…\n Mamo…\n Gdzie jesteście……? Nie zostawiajcie Elmy samej……」"
                         ]
                     },
                     {
@@ -14188,7 +14188,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Elma sprzeda zapałki i zarobi pieniądze……\n Nawet będąc biedni…… damy radę… razem\n chcę… wszyscy razem…」"
+                            "「Elma sprzeda zapałki i zarobi pieniądze…… Nawet będąc biedni……\n damy radę… razem chcę…\n wszyscy razem…」"
                         ]
                     },
                     {
@@ -14212,7 +14212,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Zapałki, zapałki, czy potrzebuje ktoś…? \n ktokolwiek, ktokolwiek, ktokolwiek ktokoolwikopltrokwiekkotlowAAAA!」"
+                            "「Zapałki, zapałki, czy potrzebuje ktoś…?\n ktokolwiek, ktokolwiek, ktokolwiek ktokoolwikopltrokwiekkotlowAAAA!」"
                         ]
                     },
                     {
@@ -15253,7 +15253,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Gdy się uśmiechnę, mężczyźni klękają\n i składają mi dary… Moje bogactwo\n nigdy nie zazna upadku……」"
+                            "「Gdy się uśmiechnę,\n mężczyźni klękają i składają mi dary…\n Moje bogactwo nigdy nie zazna upadku……」"
                         ]
                     },
                     {
@@ -15277,7 +15277,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Z całą pewnością…\n to właśnie ja najbardziej nadaję się do tego,\n by zostać Królową Demonów……」"
+                            "「Z całą pewnością…\n to właśnie ja najbardziej nadaję się do tego, by zostać Królową Demonów……」"
                         ]
                     },
                     {
@@ -15826,7 +15826,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「……? Ciało, topnieje… Dlaczego……」"
+                            "「……? Ciało, topnieje…\n Dlaczego……」"
                         ]
                     },
                     {
@@ -16327,7 +16327,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Boli, boli……Krew nie przestaje płynąć……Ufufu.\n Ale to właśnie jest miłość, prawda…」"
+                            "「Boli, boli……Krew nie przestaje płynąć…… Ufufu.\n Ale to właśnie jest miłość, prawda…」"
                         ]
                     },
                     {
@@ -16351,7 +16351,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Pragnę więcej, gęstej, gorącej, całkowicie roztopionej miłości…\n Nawet gdy wyciągam rękę, opuszki palców płoną\n, a nie mogąc jej pochwycić, jakie to frustrujące…」"
+                            "「Pragnę więcej, gęstej, gorącej, całkowicie roztopionej miłości…\n Nawet gdy wyciągam rękę, opuszki palców płoną ,\n a nie mogąc jej pochwycić, jakie to frustrujące…」"
                         ]
                     },
                     {
@@ -16375,7 +16375,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Ah, błagam, niech wieczna miłość… w moim żołądku…!」"
+                            "「Ah, błagam, niech wieczna miłość…\n w moim żołądku…!」"
                         ]
                     },
                     {
@@ -16711,7 +16711,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「A teraz… zamknij oczy i powierz swą duszę\n mnie.」"
+                            "「A teraz…\n zamknij oczy i powierz swą duszę mnie.」"
                         ]
                     },
                     {
@@ -16896,7 +16896,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Dlaczego odrzucasz zmianę…? To proste… Ludzie boją\nsię tego, czego nie rozumieją…」"
+                            "「Dlaczego odrzucasz zmianę…?\n To proste… Ludzie boją się tego,\n czego nie rozumieją…」"
                         ]
                     },
                     {
@@ -16920,7 +16920,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Widok, jak jednym machnięciem palca zmiata wszystko\nwokół, jest naprawdę rozkoszny… Jakże głupio jest nie\nprzyjąć tej wielkiej mocy…」"
+                            "「Widok, jak jednym machnięciem palca zmiata wszystko wokół,\n jest naprawdę rozkoszny…\n Jakże głupio jest nie przyjąć tej wielkiej mocy…」"
                         ]
                     },
                     {
@@ -16944,7 +16944,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Cóż… W końcu wszyscy przede mną klękną… Ty też\npewnie tak skończysz…」"
+                            "「Cóż…\n W końcu wszyscy przede mną klękną…\n Ty też pewnie tak skończysz…」"
                         ]
                     },
                     {
@@ -17319,7 +17319,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Ciemno… tak ciemno…! Gdzie jestem?… Nic nie\n widzę…」"
+                            "「Ciemno…\n tak ciemno…! Gdzie jestem?… Nic nie widzę…」"
                         ]
                     },
                     {
@@ -17343,7 +17343,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Gdzie podziali się moi słudzy?… Bezużyteczni\n głupcy!… Szybko, dogadzajcie mi…!」"
+                            "「Gdzie podziali się moi słudzy?…\n Bezużyteczni głupcy!…\n Szybko, dogadzajcie mi…!」"
                         ]
                     },
                     {
@@ -17391,7 +17391,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Spośród moich córek, najbardziej nienawistny Czerwony\n Kapturek…! Niedorajda, wcale do mnie niepodobna,\n głupia córka…!」"
+                            "「Spośród moich córek, najbardziej nienawistny Czerwony Kapturek…!\n Niedorajda, wcale do mnie niepodobna,\n głupia córka…!」"
                         ]
                     },
                     {
@@ -17470,7 +17470,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Hau……? Hau! Hau!」"
+                            "「Hau……?\n Hau! Hau!」"
                         ]
                     },
                     {
@@ -17843,7 +17843,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Przestań! Nie zabijaj mnie! Błagam!」"
+                            "「Przestań! Nie zabijaj mnie!\n Błagam!」"
                         ]
                     },
                     {
@@ -18012,7 +18012,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Mózg Doroty… tylko udaje normalny. Ona jest\n szalona……」"
+                            "「Mózg Doroty…\n tylko udaje normalny. Ona jest szalona……」"
                         ]
                     },
                     {
@@ -18117,7 +18117,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "「Ktoś tyyy…? W moje wychowanie, obcy się nie\n wtrącają, coo!?」"
+                            "「Ktoś tyyy…?\n W moje wychowanie, obcy się nie wtrącają, coo!?」"
                         ]
                     },
                     {
@@ -18321,7 +18321,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Przestań. Nie ma sensu z tobą walczyć.」"
+                            "「Przestań.\n Nie ma sensu z tobą walczyć.」"
                         ]
                     },
                     {
@@ -18801,7 +18801,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Co?! Ty też pragniesz włosów Roszpunka-sama?!」"
+                            "「Kim jesteś?!\n Ty też pragniesz włosów Roszpunka-sama?!」"
                         ]
                     },
                     {
@@ -19738,7 +19738,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Wciąż zamierzasz mi się przeciwstawiać…? No to, jak\n sobie życzysz, zabiję cię!」"
+                            "「Wciąż zamierzasz mi się przeciwstawiać…?\n No to, jak sobie życzysz, zabiję cię!」"
                         ]
                     },
                     {
@@ -19982,7 +19982,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「He he… Hej, bracie. Wygląda na to, że ten drań\n planuje nas obu zabić.」"
+                            "「He he…\n Hej, bracie. Wygląda na to, że ten drań planuje nas obu zabić.」"
                         ]
                     },
                     {
@@ -20006,7 +20006,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Ha ha ha. Ścigający i ścigani. Przedstawienie, które\n zaplanowaliśmy, poszło na marne, co nie?」"
+                            "「Ha ha ha.\n Ścigający i ścigani. Przedstawienie, które zaplanowaliśmy, poszło na marne, co nie?」"
                         ]
                     },
                     {
@@ -20030,7 +20030,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「W takim razie może zamiast kolejnej próby\n przechytrzenia, zrobimy zawody, kto pierwszy zabije\n tego drania?」"
+                            "「W takim razie może zamiast kolejnej próby przechytrzenia,\n zrobimy zawody, kto pierwszy zabije tego drania?」"
                         ]
                     },
                     {
@@ -20054,7 +20054,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Nie mam nic przeciwko, Rumiragi. Mój panie, wybacz,\n ale czy mógłbyś dać się zabić dla mnie? He he…」"
+                            "「Nie mam nic przeciwko, Rumiragi.\n Mój panie, wybacz, ale czy mógłbyś dać się zabić dla mnie?\n He he…」"
                         ]
                     },
                     {
@@ -20160,7 +20160,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "「Ty draniu, jesteś nieumarłym jak ja… Czyli jesteś\nniedobitkiem po eksterminacji nieumarłych.」"
+                            "「Ty draniu, jesteś nieumarłym jak ja…\n Czyli jesteś niedobitkiem po eksterminacji nieumarłych.」"
                         ]
                     },
                     {
@@ -20184,7 +20184,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "「Lecz nie okażę ci litości. Odbiorę ci wszystkie Dusze,\ngrzeszniku. Nie myśl, że uciekniesz przed \\c[2]Mrocznym\nTrybunałem\\c[0].」"
+                            "「Lecz nie okażę ci litości.\n Odbiorę ci wszystkie Dusze, grzeszniku.\n Nie myśl, że uciekniesz przed \\c[2]Mrocznym Trybunałem\\c[0].」"
                         ]
                     },
                     {
@@ -20218,7 +20218,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "「Zbrodniarzu \\n[1]! Ukradłeś Dusze \\v[38] osób.」"
+                            "「Zbrodniarzu \\n[1]!\n Ukradłeś Dusze \\v[38] osób.」"
                         ]
                     },
                     {
@@ -20242,7 +20242,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "「Twoja dusza jest plugawa. My, \\c[2]Mroczny Trybunał\\c[0], musimy\ncię unicestwić. Przygotuj się na śmierć!」"
+                            "「Twoja dusza jest plugawa.\n My, \\c[2]Mroczny Trybunał\\c[0], musimy cię unicestwić.\n Przygotuj się na śmierć!」"
                         ]
                     },
                     {
@@ -20369,7 +20369,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "「Ah… Twoja dusza jest tak niesamowicie czarna i\n plugawa…」"
+                            "「Ah…\n Twoja dusza jest tak niesamowicie czarna i plugawa…」"
                         ]
                     },
                     {
@@ -20393,7 +20393,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "「Ileż to grzechów popełniłeś…? Hihi… No cóż, i tak\n to bez znaczenia…」"
+                            "「Ileż to grzechów popełniłeś…? Hihi…\n No cóż, i tak to bez znaczenia…」"
                         ]
                     },
                     {
@@ -20417,7 +20417,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "「Twoje Dusze, Hain-sama zagarnie je wszystkie!」"
+                            "「Twoje Dusze,\n Hain-sama zagarnie je wszystkie!」"
                         ]
                     },
                     {
@@ -20451,7 +20451,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "「Jeden z Mrocznego Trybunału, siejącego postrach wśród\n żywych, zamierza przeciwstawić się Hain-sama? Hihi…\n Wygląda na to, że nie zrozumiesz, póki nie zginiesz.」"
+                            "「Jeden z Mrocznego Trybunału, siejącego postrach wśród żywych, zamierza przeciwstawić się Hain-sama?\n Hihi…\n Wygląda na to, że nie zrozumiesz, póki nie zginiesz.」"
                         ]
                     },
                     {
@@ -20509,7 +20509,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Jak śmiesz sprzeciwiać się Hain-sama!? Ty draniu,\n twoja dusza jest skazana na to, że ją zbiorę!」"
+                            "「Jak śmiesz sprzeciwiać się Hain-sama!?\n Ty draniu, twoja dusza jest skazana na to,\n że ją zbiorę!」"
                         ]
                     },
                     {
@@ -20533,7 +20533,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Nie mogę już dłużej zostawać w tyle za Lindameą i\n Mirandą! Jestem najsilniejszy! W Mrocznym Trybunale\n jestem najmocniejszy!」"
+                            "「Nie mogę już dłużej zostawać w tyle za Lindameą i Mirandą!\n Jestem najsilniejszy!\n W Mrocznym Trybunale jestem najmocniejszy!」"
                         ]
                     },
                     {
@@ -20761,7 +20761,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Żałosny jesteś. Nie wiem, co myślałeś, próbując mnie\n zabić, ale niestety poznajesz moją prawdziwą\n tożsamość…」"
+                            "「Żałosny jesteś. Nie wiem,\n co myślałeś, próbując mnie zabić,\n ale niestety poznajesz moją prawdziwą tożsamość…」"
                         ]
                     },
                     {
@@ -20785,7 +20785,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「\\c[2]Mroczny Trybunał, jeden z Czterech Demonów Czasu.\\c[0] Ja,\n Ezward, przyjmę twoją duszę.」"
+                            "「\\c[2]Mroczny Trybunał, jeden z Czterech Demonów Czasu.\n \\c[0] Ja, Ezward, przyjmę twoją duszę.」"
                         ]
                     },
                     {
@@ -20833,7 +20833,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Hmm. Okazuje się, że masz więcej siły, niż\n przypuszczałem. Wygląda na to, że ja też nie mogę sobie\n pozwolić na chwilę nieuwagi.」"
+                            "「Hmm.\n Okazuje się, że masz więcej siły, niż przypuszczałem. Wygląda na to, że ja też nie mogę sobie pozwolić na chwilę nieuwagi.」"
                         ]
                     },
                     {
@@ -20857,7 +20857,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Ale dlaczego zadajesz sobie trud, by narażać życie i\n popełniać zbrodnię? Nie jestem w stanie tego pojąć. Bez\n względu na powód, to skrajnie głupie.」"
+                            "「Ale dlaczego zadajesz sobie trud, by narażać życie i popełniać zbrodnię?\n Nie jestem w stanie tego pojąć.\n Bez względu na powód, to skrajnie głupie.」"
                         ]
                     },
                     {
@@ -20881,7 +20881,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Dążę do pokojowego świata, zwalczam zło. Czy to ci nie\n wystarcza?」"
+                            "「Dążę do pokojowego świata, zwalczam zło.\n Czy to ci nie wystarcza?」"
                         ]
                     },
                     {
@@ -20990,7 +20990,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Ho ho ho… Nie wiem, co planujesz, ale jeśli\n zamierzasz zaatakować, muszę się bronić…」"
+                            "「Ho ho ho…\n Nie wiem, co planujesz,\n ale jeśli zamierzasz zaatakować, muszę się bronić…」"
                         ]
                     },
                     {
@@ -21038,7 +21038,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Tak, tak… nie ma wyjścia… To wina tego, który\n atakuje… ho ho ho…」"
+                            "「Tak, tak…\n nie ma wyjścia… To wina tego, który atakuje…\n ho ho ho…」"
                         ]
                     },
                     {
@@ -21086,7 +21086,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Tak jak ludzie stworzyli lalki…. Czy zastanawiałeś się\nkiedyś, że ludzie również mogli zostać przez kogoś\nstworzeni?」"
+                            "「Tak jak ludzie stworzyli lalki….\n Czy zastanawiałeś się kiedyś, że ludzie również mogli zostać przez kogoś stworzeni?」"
                         ]
                     },
                     {
@@ -21110,7 +21110,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Choć twoje ciało porusza się swobodnie tylko z twojej\nwoli, twoje serce może być jedynie kierowane przez\nczyjeś niewidzialne nici.」"
+                            "「Choć twoje ciało porusza się swobodnie tylko z twojej woli,\n twoje serce może być jedynie kierowane przez czyjeś niewidzialne\n nici.」"
                         ]
                     },
                     {
@@ -21221,7 +21221,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Hihihihi P-panna Katarina jest moja. Nikt mi nie\n przeszkodzi?」"
+                            "「Hihihihi P-panna Katarina\n jest moja. Nikt mi nie\n przeszkodzi?」"
                         ]
                     },
                     {
@@ -21318,7 +21318,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Kak-ka-ka-kak-ka-ta-ta-kka-ta-ri-na-sama! Kata! Rina!\n Kata! Rina! Kata! Rina-sama!」"
+                            "「Kak-ka-ka-kak-ka-ta-ta-kka-ta-ri-na-sama! Kata! Rina! Kata!\n Rina! Kata! Rina-sama!」"
                         ]
                     },
                     {
@@ -21468,7 +21468,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Bóg… Boże, gdzie jesteś…? Ah, nie widzę. Dlaczego\n nic nie widzę? Nie słyszę nie słyszę nie słyszę nie\n słyszę nie słyszę nie słyszę」"
+                            "「Bóg… Boże, gdzie jesteś…?\n Ah, nie widzę. Dlaczego nic nie widzę?\n Nie słyszę nie słyszę nie słyszę nie słyszę nie słyszę nie słyszę」"
                         ]
                     },
                     {
@@ -21516,7 +21516,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Wiedziałem… że nie ma na tym świecie Boga…」"
+                            "「Wiedziałem…\n że nie ma na tym świecie Boga…」"
                         ]
                     },
                     {
@@ -21564,7 +21564,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Ah… Dlaczego? Dlaczego opuszczasz nas, ludzi? My,\n którzy tak bardzo wierzyliśmy w Boga, zawsze umieramy\n pierwsi」"
+                            "「Ah…\n Dlaczego?\n Dlaczego opuszczasz nas, ludzi? My, którzy tak bardzo wierzyliśmy w Boga, zawsze umieramy pierwsi」"
                         ]
                     },
                     {
@@ -21588,7 +21588,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「…Dlaczego? Dlaczego, dlaczego, dlaczego, dlaczego,\n dlaczego, dlaczego?!」"
+                            "「…Dlaczego?\n Dlaczego, dlaczego, dlaczego, dlaczego, dlaczego, dlaczego?!」"
                         ]
                     },
                     {
@@ -21612,7 +21612,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Boże!!! Jeśli istniejesz, ukaż się!!!」"
+                            "「Boże!!!\n Jeśli istniejesz, ukaż się!!!」"
                         ]
                     },
                     {
@@ -21776,7 +21776,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Lady, proszę się cofnąć! Wygląda na to, że mają wobec\n nas wrogie zamiary!」"
+                            "「Lady, proszę się cofnąć!\n Wygląda na to, że mają wobec nas wrogie zamiary!」"
                         ]
                     },
                     {
@@ -21800,7 +21800,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Ty draniu… Nie pozwolę ci tknąć Lady Katariny!」"
+                            "「Ty draniu…\n Nie pozwolę ci tknąć Lady Katariny!」"
                         ]
                     },
                     {
@@ -21949,7 +21949,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "「Nie pozwolimy ci iść do Wielmożnej Rapunzel!」"
+                            "「Nie pozwolimy ci iść do Wielmożnej\n Rapunzel!」"
                         ]
                     },
                     {
@@ -23649,7 +23649,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Nie rozumiem… Czy zrobiłam Panu coś złego?」"
+                            "「Nie rozumiem…\n Czy zrobiłam Panu coś złego?」"
                         ]
                     },
                     {
@@ -23725,7 +23725,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Ho ho ho… Wciąż zamierzasz obrócić ostrze przeciwko\n mnie, jak widzę.」"
+                            "「Ho ho ho…\n Wciąż zamierzasz obrócić ostrze przeciwko mnie, jak widzę.」"
                         ]
                     },
                     {
@@ -23742,7 +23742,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「…Nie bądź zarozumiały, ty marny nieumarły. Nawet nie\n chcę twojej plugawej duszy.」"
+                            "「…\n Nie bądź zarozumiały, ty marny nieumarły. Nawet nie chcę twojej plugawej duszy.」"
                         ]
                     },
                     {
@@ -23759,7 +23759,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Wtrącę cię do ciemnego, szczelnego lochu, do którego\n nie dociera żadne światło, na zawsze!」"
+                            "「Wtrącę cię do ciemnego,\n szczelnego lochu, do którego nie dociera żadne światło,\n na zawsze!」"
                         ]
                     },
                     {
@@ -23900,7 +23900,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Nie pojmuję… nie pojmuję tego…!」"
+                            "「Nie pojmuję…\n nie pojmuję tego…!」"
                         ]
                     },
                     {
@@ -23917,7 +23917,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「…Pożałujesz, że mnie zdradziłeś, w piekle krwawego\n stawu!」"
+                            "「…\n Pożałujesz, że mnie zdradziłeś,\n w piekle krwawego stawu!」"
                         ]
                     },
                     {
@@ -23993,7 +23993,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Dlaczego……? Skoro tak bardzo cię kochałam…… Dlaczego\n zdradzasz?」"
+                            "「Dlaczego……?\n Skoro tak bardzo cię kochałam……\n Dlaczego zdradzasz?」"
                         ]
                     },
                     {
@@ -24010,7 +24010,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Ten ból w mojej piersi……. Ah……」"
+                            "「Ten ból w mojej piersi…….\n Ah……」"
                         ]
                     },
                     {
@@ -24366,7 +24366,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Ja pragnę mocy, by władać światem……. Ten miniaturowy\n świat mi nie wystarcza……」"
+                            "「Ja pragnę mocy, by władać światem…….\n Ten miniaturowy świat mi nie wystarcza……」"
                         ]
                     },
                     {
@@ -24449,7 +24449,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Wszechwiedzący i wszechmocny, wszelka magia…\n Niemożliwe jest, bym ogarnął to wszystko w mej\n głowie…」"
+                            "「Wszechwiedzący i wszechmocny, wszelka magia…\n Niemożliwe jest, bym ogarnął to wszystko w mej głowie…」"
                         ]
                     },
                     {
@@ -24473,7 +24473,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Przeto, przekroczyłem granice… Drobne ofiary są\n niczym, dalej, zapamiętaj to sobie…」"
+                            "「Przeto,\n przekroczyłem granice… Drobne ofiary są niczym,\n dalej, zapamiętaj to sobie…」"
                         ]
                     },
                     {
@@ -24497,7 +24497,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「…Moje…imię…… Doro…ta.\n Ta która włada tym…światteemmmm…」"
+                            "「…\n Moje…imię…… Doro…ta. Ta która włada tym…światteemmmm…」"
                         ]
                     },
                     {
@@ -24559,7 +24559,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Proszę, przestań! Myślałem, że jesteś przyjacielem.」"
+                            "「Proszę, przestań!\n Myślałem, że jesteś przyjacielem.」"
                         ]
                     },
                     {
@@ -24642,7 +24642,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Dlaczego to robisz? To nie czas, żeby ludzie walczyli\n ze sobą!」"
+                            "「Dlaczego to robisz?\n To nie czas,\n żeby ludzie walczyli ze sobą!」"
                         ]
                     },
                     {
@@ -24704,7 +24704,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Co to…? Przygotowujesz dla mnie ucztę?」"
+                            "「Co to…?\n Przygotowujesz dla mnie ucztę?」"
                         ]
                     },
                     {
@@ -24728,7 +24728,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「No to pozwól, że wezmę twoje flaki.\nOczywiście, to stosowna zapłata.\nNie ma potrzeby uciekać.」"
+                            "「No to pozwól, że wezmę twoje flaki.\n Oczywiście, to stosowna zapłata.\n Nie ma potrzeby uciekać.」"
                         ]
                     },
                     {
@@ -24835,7 +24835,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Ludzie to głupie stworzenia. I tak w końcu utoną w bogactwie\n. A ja tak bardzo chcę to zobaczyć.」"
+                            "「Ludzie to głupie stworzenia. I\n tak w końcu utoną w bogactwie .\n A ja tak bardzo chcę to\n zobaczyć.」"
                         ]
                     },
                     {
@@ -24859,7 +24859,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「No dalej, dalej! Przecież tego chcesz, prawda?\n Czemu odmawiasz? Pokaż mi tą chciwość,\n wyżerającą od środka!」"
+                            "「No dalej, dalej!\n Przecież tego chcesz, prawda? Czemu odmawiasz?\n Pokaż mi tą chciwość, wyżerającą od środka!」"
                         ]
                     },
                     {
@@ -24921,7 +24921,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Walczyłam za ojczyznę…\nMimo że jestem kobietą, ryzykowałam życie,\n zawsze stawałam na czele i walczyłam dalej…」"
+                            "「Walczyłam za ojczyznę…\n Mimo że jestem kobietą, ryzykowałam życie,\n zawsze stawałam na czele i walczyłam dalej…」"
                         ]
                     },
                     {
@@ -24993,7 +24993,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Dlaczego tak mnie nazywają…!\n To wy, ludzie……wy mnie zdradziliście……」"
+                            "「Dlaczego tak mnie nazywają…! To wy, ludzie……\n wy mnie zdradziliście……」"
                         ]
                     },
                     {
@@ -25017,7 +25017,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Idę spotkać Boga……porzucając ten świat……」"
+                            "「Idę spotkać Boga……\n porzucając ten świat……」"
                         ]
                     },
                     {
@@ -25123,7 +25123,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Mój drogi Panie…♡\n Dlaczego mnie odrzucasz…?\n Wiktoria cię kocha…♡」"
+                            "「Mój drogi Panie…\n ♡ Dlaczego mnie odrzucasz…? Wiktoria cię kocha…\n ♡」"
                         ]
                     },
                     {
@@ -25147,7 +25147,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Panie, chcę twoją duszę…\n I nie tylko duszę…\n Chcę cię całego…♡」"
+                            "「Panie, chcę twoją duszę…\n I nie tylko duszę… Chcę cię całego…\n ♡」"
                         ]
                     },
                     {
@@ -25171,7 +25171,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Dusze, ciało, skórę, mięso, narządy, penisa, mózg\n Pragnę wszystkich części ciebie…♡」"
+                            "「Dusze, ciało, skórę, mięso, narządy, penisa, mózg Pragnę wszystkich części ciebie…\n ♡」"
                         ]
                     },
                     {
@@ -25219,7 +25219,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Haa…ahh… haa…haa…\n Czemu…czemu uciekaaaasz?!?!」"
+                            "「Haa…\n ahh… haa…haa… Czemu…czemu uciekaaaasz?!?!」"
                         ]
                     },
                     {
@@ -25529,7 +25529,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Może i świat się wali, al co z tego?…\n Dopóki nie wydrę z ciebie wszystkich dusz, mój rumak\nnie spocznie」"
+                            "「Może i świat się wali,\n al co z tego?… Dopóki nie wydrę z ciebie wszystkich dusz,\n mój rumak nie spocznie」"
                         ]
                     },
                     {
@@ -25553,7 +25553,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Nie okażę litości.\nPrzygotuj się」"
+                            "「Nie okażę litości.\n Przygotuj się」"
                         ]
                     },
                     {
@@ -25645,7 +25645,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Jeśli jesteś gotów zabić,\n to chyba też jesteś gotów umrzeć, prawda?」"
+                            "「Jeśli jesteś gotów zabić, to chyba też jesteś gotów umrzeć,\n prawda?」"
                         ]
                     },
                     {
@@ -25932,7 +25932,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Tak…masz racje. złamałam obietnice,\n jestem najgorsza」"
+                            "「Tak…masz racje.\n złamałam obietnice, jestem najgorsza」"
                         ]
                     },
                     {
@@ -25949,7 +25949,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Ale…Już zdecydowałam. Więc…………przestań.」"
+                            "「Ale…Już zdecydowałam. Więc…………\n przestań.」"
                         ]
                     },
                     {
@@ -25983,7 +25983,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Poro……\nTy i ja… nie istniejemy.」"
+                            "「Poro……\n Ty i ja… nie istniejemy.」"
                         ]
                     },
                     {
@@ -26076,7 +26076,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Wybacz.\nJuż niedługo będziemy razem.」"
+                            "「Wybacz.\n Już niedługo będziemy razem.」"
                         ]
                     },
                     {
@@ -26236,7 +26236,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「A teraz… zamknij oczy i powierz swą duszę\n mnie.」"
+                            "「A teraz…\n zamknij oczy i powierz swą duszę mnie.」"
                         ]
                     },
                     {
@@ -26421,7 +26421,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Dlaczego odrzucasz zmianę…? To proste… Ludzie boją\nsię tego, czego nie rozumieją…」"
+                            "「Dlaczego odrzucasz zmianę…?\n To proste…\n Ludzie boją się tego, czego nie rozumieją…」"
                         ]
                     },
                     {
@@ -26445,7 +26445,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Widok, jak jednym machnięciem palca zmiata wszystko\nwokół, jest naprawdę rozkoszny… Jakże głupio jest nie\nprzyjąć tej wielkiej mocy…」"
+                            "「Widok, jak jednym machnięciem palca zmiata wszystko wokół,\n jest naprawdę rozkoszny…\n Jakże głupio jest nie przyjąć tej wielkiej mocy…」"
                         ]
                     },
                     {
@@ -26469,7 +26469,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Cóż… W końcu wszyscy przede mną klękną… Ty też\npewnie tak skończysz…」"
+                            "「Cóż…\n W końcu wszyscy przede mną klękną…\n Ty też pewnie tak skończysz…」"
                         ]
                     },
                     {
@@ -26673,7 +26673,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Niedługo świat się skończy……. A potem stworzę inny\nświat.」"
+                            "「Niedługo świat się skończy…….\n A potem stworzę inny świat.」"
                         ]
                     },
                     {
@@ -26690,7 +26690,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「\\n[1]. Przejmę twoją wolę, no! Będę tworzył dla ciebie\ncoraz więcej bardzo ciekawych bajek!」"
+                            "「\\n[1].\n Przejmę twoją wolę, no!\n Będę tworzył dla ciebie coraz więcej bardzo ciekawych bajek!」"
                         ]
                     },
                     {
@@ -26707,7 +26707,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Usunę dla ciebie tę przemianę w nieumarłego. Więc\numrzyj bez żalu, no!」"
+                            "「Usunę dla ciebie tę przemianę w nieumarłego.\n Więc umrzyj bez żalu, no!」"
                         ]
                     },
                     {
@@ -26762,7 +26762,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Chichocze…… Wciąż nie poddajesz się i stawiasz opór…\n Właśnie taki powinien być bohater!」"
+                            "「Chichocze……\n Wciąż nie poddajesz się i stawiasz opór…\n Właśnie taki powinien być bohater!」"
                         ]
                     },
                     {
@@ -26779,7 +26779,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「……Ja też, wiesz. Szczerze mówiąc, nie chcę z tobą\n walczyć.」"
+                            "「……\n Ja też, wiesz. Szczerze mówiąc, nie chcę z tobą walczyć.」"
                         ]
                     },
                     {
@@ -26796,7 +26796,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「………Kihihihihi!!! Żartowałem! Koniec przedstawienia!\n Biorę się na poważnie, więc szybko giń!」"
+                            "「………\n Kihihihihi!!! Żartowałem!\n Koniec przedstawienia! Biorę się na poważnie, więc szybko giń!」"
                         ]
                     },
                     {
@@ -27093,7 +27093,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Jeszcze nie możesz upaść……. To Ty doczekasz końca tej\n opowieści.」"
+                            "「Jeszcze nie możesz upaść…….\n To Ty doczekasz końca tej opowieści.」"
                         ]
                     },
                     {
@@ -27110,7 +27110,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「No dalej, ściśnij broń……. Jestem przy Tobie………」"
+                            "「No dalej, ściśnij broń…….\n Jestem przy Tobie………」"
                         ]
                     },
                     {
@@ -27337,7 +27337,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Jeszcze nie możesz upaść……. To Ty doczekasz końca tej\n opowieści.」"
+                            "「Jeszcze nie możesz upaść…….\n To Ty doczekasz końca tej opowieści.」"
                         ]
                     },
                     {
@@ -27354,7 +27354,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「No dalej, ściśnij broń……. Jestem przy Tobie………」"
+                            "「No dalej, ściśnij broń…….\n Jestem przy Tobie………」"
                         ]
                     },
                     {
@@ -27581,7 +27581,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Jeszcze nie możesz upaść……. To Ty doczekasz końca tej\n opowieści.」"
+                            "「Jeszcze nie możesz upaść…….\n To Ty doczekasz końca tej opowieści.」"
                         ]
                     },
                     {
@@ -27598,7 +27598,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「No dalej, ściśnij broń……. Jestem przy Tobie………」"
+                            "「No dalej, ściśnij broń…….\n Jestem przy Tobie………」"
                         ]
                     },
                     {
@@ -27733,7 +27733,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Ah, \\n[1]… nie rozumiesz? Twoje czyny są całkowicie\n pozbawione sensu, wiesz.」"
+                            "「Ah, \\n[1]…\n nie rozumiesz?\n Twoje czyny są całkowicie pozbawione sensu, wiesz.」"
                         ]
                     },
                     {
@@ -27757,7 +27757,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Po mojej śmierci czeka cię pusta okładka bez stron.\n Nie ujrzysz upragnionego krajobrazu.」"
+                            "「Po mojej śmierci czeka cię pusta okładka\n bez stron. Nie ujrzysz upragnionego\n krajobrazu.」"
                         ]
                     },
                     {
@@ -27781,7 +27781,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Gdy opowieść dobiegnie końca, świat zastyga. Tylko ty\n oddychasz, a wszyscy inni powtarzają w kółko te same\n słowa. Kiedy uświadomisz sobie, że to samotny świat, w\n końcu zapadniesz w wieczny sen.」"
+                            "「Gdy opowieść dobiegnie końca, świat zastyga.\n Tylko ty oddychasz,\n a wszyscy inni powtarzają w kółko te same słowa. Kiedy uświadomisz sobie,\n że to samotny świat, w końcu zapadniesz w wieczny sen.」"
                         ]
                     },
                     {
@@ -28423,7 +28423,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Ja… ja… nie jestem wróżką. Nagle pojawiłam się w\n Świętym Lesie… przez niego…」"
+                            "「Ja…\n ja… nie jestem wróżką. Nagle pojawiłam się w Świętym Lesie…\n przez niego…」"
                         ]
                     },
                     {
@@ -29704,7 +29704,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Wszystkie czyny mają swoją zapłatę… Pokuta jest\ndaremna. Przestępcy, zdrajcy, buntownicy… tylko\npotępienie. Jesteśmy wcieleniem zemsty, \\c[2]Mroczny\nTrybunał\\c[0]!」"
+                            "「Wszystkie czyny mają swoją zapłatę…\n Pokuta jest daremna.\n Przestępcy, zdrajcy, buntownicy… tylko potępienie.\n Jesteśmy wcieleniem zemsty, \\c[2]Mroczny Trybunał\\c[0]!」"
                         ]
                     },
                     {
@@ -29817,7 +29817,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Głwaaaaa! Zostałem pokonanyyy! Że ja, w takim\n miejscuuu…」"
+                            "「Głwaaaaa!\n Zostałem pokonanyyy! Że ja, w takim miejscuuu…」"
                         ]
                     },
                     {
@@ -29834,7 +29834,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「…Tak, cóż. Gdyby to był zwykły niskopoziomowy demon,\n to na tym by się skończyło, ale~」"
+                            "「…\n Tak, cóż.\n Gdyby to był zwykły niskopoziomowy demon, to na tym by się skończyło, ale~」"
                         ]
                     },
                     {
@@ -30173,7 +30173,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Cholera…! Dlaczego, dlaczego nie chcesz mnie puścić…!」"
+                            "「Cholera…!\n Dlaczego, dlaczego nie chcesz mnie puścić…!」"
                         ]
                     },
                     {
@@ -30197,7 +30197,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Dla Jasia i Małgosi…! Nie mogę tu zginąć!」"
+                            "「Dla Jasia i Małgosi…!\n Nie mogę tu zginąć!」"
                         ]
                     },
                     {
@@ -30245,7 +30245,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Hej… Co z tobą? To, że jestem starszym bratem tych\ndziewczyn…? Zazdrościsz mi…?」"
+                            "「Hej…\n Co z tobą? To, że jestem starszym bratem tych dziewczyn…?\n Zazdrościsz mi…?」"
                         ]
                     },
                     {
@@ -30474,7 +30474,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Ah………urocze dziewczynki i chłopcy……」"
+                            "「Ah………\n urocze dziewczynki i chłopcy……」"
                         ]
                     },
                     {
@@ -30546,7 +30546,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Ah… Jak to możliwe… Znęcać się nad tymi dziećmi,\nco za bezduszny rodzic…」"
+                            "「Ah…\n Jak to możliwe… Znęcać się nad tymi dziećmi, co za bezduszny rodzic…」"
                         ]
                     },
                     {
@@ -30570,7 +30570,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Muszę zostać ich starszym bratem… Muszę uratować te\ndzieci przed tą tragedią…」"
+                            "「Muszę zostać ich starszym bratem…\n Muszę uratować te dzieci przed tą tragedią…」"
                         ]
                     },
                     {
@@ -30594,7 +30594,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「JA ICH URATUJĘĘĘĘ～～～～! NIE PRZESZKADZAJCIE\nMIIIIIIII～～～～!!」"
+                            "「JA ICH URATUJĘĘĘĘ～～～～! NIE\n PRZESZKADZAJCIE\n MIIIIIIII～～～～!!」"
                         ]
                     },
                     {
@@ -33807,7 +33807,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Wybacz mi… Proszę, wybacz mi…」"
+                            "「Wybacz mi…\n Proszę, wybacz mi…」"
                         ]
                     },
                     {
@@ -33855,7 +33855,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Bracie… żono… królu… ludu… … Wybaczcie mi,\n głupiemu i nieświadomemu… … Wybaczcie…」"
+                            "「Bracie… żono…\n królu… ludu… … Wybaczcie mi, głupiemu i nieświadomemu… … Wybaczcie…」"
                         ]
                     },
                     {
@@ -33952,7 +33952,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Ohohohoho… wy głupi motłochu. Idę na bal… Najpierw\n jednak muszę skosztować odrobiny mojego bento…」"
+                            "「Ohohohoho…\n wy głupi motłochu.\n Idę na bal… Najpierw jednak muszę skosztować odrobiny mojego bento…」"
                         ]
                     },
                     {
@@ -34000,7 +34000,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Idę na bal…! Mój wymarzony bal…! A jednak…!」"
+                            "「Idę na bal…!\n Mój wymarzony bal…!\n A jednak…!」"
                         ]
                     },
                     {
@@ -34048,7 +34048,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Nie mogę się ruuuuszyć!!!! Nieeeee!!!! Nieee\n mogęęę!!!!」"
+                            "「Nie mogę się ruuuuszyć!!!! Nieeeee!!!! Nieee mogęęę!!!!」"
                         ]
                     },
                     {
@@ -34291,7 +34291,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Och, jest tu mężczyzna……Ufufu, ufufufu…ufufufu\n ufufu……ufufufu」"
+                            "「Och, jest tu mężczyzna……Ufufu, ufufufu… ufufufu ufufu……\n ufufufu」"
                         ]
                     },
                     {
@@ -34511,7 +34511,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Stawanie się magiczną bestią jest niesamowicie\n przyjemne…♡ Mogę pożerać mężczyzn, jak mi się\n podoba……♡」"
+                            "「Stawanie się magiczną bestią jest niesamowicie przyjemne…♡ Mogę pożerać mężczyzn, jak mi się podoba……\n ♡」"
                         ]
                     },
                     {
@@ -34535,7 +34535,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Ah… Boże……♡ Dziękuję, dziękuję……」"
+                            "「Ah…\n Boże…… ♡ Dziękuję, dziękuję……」"
                         ]
                     },
                     {
@@ -34638,7 +34638,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Ah… Co za pech! Że też akurat źli złodzieje musieli\n nas napaść!」"
+                            "「Ah…\n Co za pech!\n Że też akurat źli złodzieje musieli nas napaść!」"
                         ]
                     },
                     {
@@ -34686,7 +34686,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Dokładnie! Zabijmy ich! Pokażmy im naszą rodzeństwową\n więź!」"
+                            "「Dokładnie!\n Zabijmy ich! Pokażmy im naszą rodzeństwową więź!」"
                         ]
                     },
                     {
@@ -34734,7 +34734,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Małgosiaaaaaaaa!!! Moja siostraaaaaa!!!」"
+                            "「Małgosiaaaaaaaa!!!\n Moja siostraaaaaa!!!」"
                         ]
                     },
                     {
@@ -34758,7 +34758,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Ty draniuuu!!! Ty… jak śmiałeś! Na pewno, naa pewno\n cię zabiję!!!」"
+                            "「Ty draniuuu!!! Ty…\n jak śmiałeś! Na pewno, naa pewno cię zabiję!!!」"
                         ]
                     },
                     {
@@ -34839,7 +34839,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Naprawdę, do samego końca byłeś bezużytecznym bratem.\nHihihi… Cóż, teraz ten domek z cukierków jest tylko\nmój……」"
+                            "「Naprawdę, do samego końca byłeś bezużytecznym bratem.\n Hihihi… Cóż, teraz ten domek z cukierków jest tylko mój……」"
                         ]
                     },
                     {
@@ -35237,7 +35237,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Ha… ha… ha…! Ruchać!! Nie mogę wytrzymaaać!!」"
+                            "「Ha…\n ha… ha…! Ruchać!! Nie mogę wytrzymaaać!!」"
                         ]
                     },
                     {
@@ -35357,7 +35357,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Higihigihigiiii!!! Nie wytrzymam! Za dobrze mięęęę!!!」"
+                            "「Higihigihigiiii!!!\n Nie wytrzymam! Za dobrze mięęęę!!!」"
                         ]
                     },
                     {
@@ -35455,7 +35455,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「A teraz… zamknij oczy i powierz swą duszę\n mnie.」"
+                            "「A teraz…\n zamknij oczy i powierz swą duszę mnie.」"
                         ]
                     },
                     {
@@ -35640,7 +35640,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Dlaczego odrzucasz zmianę…? To proste… Ludzie boją\nsię tego, czego nie rozumieją…」"
+                            "「Dlaczego odrzucasz zmianę…?\n To proste…\n Ludzie boją się tego, czego nie rozumieją…」"
                         ]
                     },
                     {
@@ -35664,7 +35664,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Widok, jak jednym machnięciem palca zmiata wszystko\nwokół, jest naprawdę rozkoszny… Jakże głupio jest nie\nprzyjąć tej wielkiej mocy…」"
+                            "「Widok, jak jednym machnięciem palca zmiata wszystko wokół,\n jest naprawdę rozkoszny…\n Jakże głupio jest nie przyjąć tej wielkiej mocy…」"
                         ]
                     },
                     {
@@ -35688,7 +35688,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Cóż… W końcu wszyscy przede mną klękną… Ty też\npewnie tak skończysz…」"
+                            "「Nieważne…\n W końcu wszyscy przede mną klękną…\n Ty też, z czasem…」"
                         ]
                     },
                     {
@@ -35932,7 +35932,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Ha ha ha ha ha! Nie dasz rady mnie zabić! W końcu\n jesteśmy dzielnym rodzeństwem, które pokonało\n czarownicę!」"
+                            "「Ahahahaha! Nie dasz rady mnie zabić!\n W końcu jesteśmy dzielnym rodzeństwem,\n które pokonało czarownicę!」"
                         ]
                     },
                     {
@@ -35980,7 +35980,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Ałaaaa!! To boli…! Krew leci, krew leci!」"
+                            "「Ałaaaa!! To boli…!\n Krew leci, krew leci!」"
                         ]
                     },
                     {
@@ -36004,7 +36004,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Uu, Małgosiu… Gdzie jesteś, Małgosiu…?」"
+                            "「Uu, Małgosiu…\n Gdzie jesteś, Małgosiu…?」"
                         ]
                     },
                     {
@@ -36028,7 +36028,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Moja ukochana siostrzyczka… Muszę ją chronić przed\n złą wiedźmą…」"
+                            "「Moja ukochana siostrzyczka…\n Muszę ją chronić przed złą wiedźmą…」"
                         ]
                     },
                     {
@@ -36101,7 +36101,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Ah, \\n[1], onii-sama……. Spójrz, czyż nie jest ohydna ta\n postać……」"
+                            "「Ah, \\n[1], braciszku.\n Spójrz, czyż nie jest ohydna ta postać……」"
                         ]
                     },
                     {
@@ -36125,7 +36125,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Dlaczego wybrałeś takiego cholernego brata……? Nie\n rozumiem……」"
+                            "「Dlaczego wybrałeś mojego chujowego brata……?\n takie niezrozumiałę……」"
                         ]
                     },
                     {
@@ -36173,7 +36173,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「Ah… aaa… Auć… Dlaczego ja to przechodzę…」"
+                            "「Ah… aaa… Auć…\n Dlaczego ja to przechodzę…」"
                         ]
                     },
                     {
@@ -36197,7 +36197,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「\\n[1] oniisama… To wszystko twoja wina…」"
+                            "「Bracie \\n[1]…\n To wszystko twoja wina…」"
                         ]
                     },
                     {
@@ -36221,7 +36221,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「To twoja winaaaaaaa!! Ty przeklęty pedaaaaale!!」"
+                            "「To twoja winaaaaaaa!!\n TY PRZEKLĘTY PEDALE!!」"
                         ]
                     },
                     {
