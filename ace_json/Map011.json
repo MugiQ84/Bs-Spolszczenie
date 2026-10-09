@@ -2701,9 +2701,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Pet head",
-                                    "Murder",
-                                    "Walk away"
+                                    "Pogłaskaj",
+                                    "Zabij",
+                                    "Odejdź"
                                 ],
                                 3
                             ]
@@ -8191,8 +8191,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "That's exciting.",
-                                    "Do your best."
+                                    "Brzmi super.",
+                                    "Powodzenia."
                                 ],
                                 2
                             ]

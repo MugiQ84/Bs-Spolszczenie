@@ -1018,7 +1018,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Ah… Kiedy mnie zabraknie… proszę, nie smuć się,\n mój panie… …żartuję.」"
+                                "「Ah… Kiedy mnie zabraknie…\n proszę, nie smuć się,\n …mój panie.」"
                             ]
                         },
                         {
@@ -1035,7 +1035,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Zbytnia zarozumiałość, prawda…」"
+                                "「Chyba zbyt wiele sobie wyobrażam………」"
                             ]
                         },
                         {
@@ -1063,7 +1063,7 @@
                             "code": 655,
                             "indent": 2,
                             "parameters": [
-                                "steam.set_achievement 'Wiktoria'"
+                                "steam.set_achievement 'VICTORIA'"
                             ]
                         },
                         {
@@ -1152,7 +1152,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Zobaczysz prawdę, prawda?」"
+                                "「Czy zobaczysz prawdę?」"
                             ]
                         },
                         {
@@ -1348,7 +1348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "To jest prawda. Święty Las pierwotnie tak wyglądał."
+                                "To jest prawda.\n Święty Las pierwotnie tak wyglądał."
                             ]
                         },
                         {
@@ -1372,7 +1372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Daliśmy się wodzić za nos Mary Sue. Doprawdy, nie\nuważasz, że to niedorzeczne?"
+                                "Daliśmy się wodzić za nos Mary Sue.\n Doprawdy, nie uważasz, że to niedorzeczne?"
                             ]
                         },
                         {
@@ -1503,7 +1503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Nie możemy dopuścić, by ten świat stał się częścią jej\nopowieści. My żyjemy."
+                                "Nie możemy dopuścić, by ten świat stał się częścią jej\n opowieści. My tu żyjemy."
                             ]
                         },
                         {
