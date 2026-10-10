@@ -395,7 +395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「……Czy zamierzasz iść dalej?」"
+                                "「……Hej, zamierzasz iść dalej?」"
                             ]
                         },
                         {
@@ -1290,7 +1290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Dalej bedzię naprawde niebezpiecznie. Może lepiej nie iść za daleko~?」"
+                                "「Dalej może być niebezpiecznie. Może lepiej nie iść do środka, co~?」"
                             ]
                         },
                         {

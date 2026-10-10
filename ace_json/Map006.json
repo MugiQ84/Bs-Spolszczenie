@@ -3021,7 +3021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Jestem Iz, rycerz na szkoleniu wojennym. To wyraz\n mojej wdzięczności. Proszę, przyjmij to.」"
+                                "「Jestem Iz, podróżujący rycerz. To wyraz\n mojej wdzięczności. Proszę, przyjmij to.」"
                             ]
                         },
                         {
@@ -7085,7 +7085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Otoczona mgłą…"
+                                "Gęsta mgła otoczyła ścieżkę…"
                             ]
                         },
                         {
@@ -7093,7 +7093,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Wejdź do środka.",
+                                    "Przejdź przez mgłę.",
                                     "Odejdź."
                                 ],
                                 2

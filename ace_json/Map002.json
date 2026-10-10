@@ -494,7 +494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Kto… jesteś?」"
+                                "「Kim… kim ty jesteś?」"
                             ]
                         },
                         {
@@ -518,7 +518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Myślałem, że tamten drań wrócił, ale… otworzyłeś\n zamek, więc teraz mogę wyjść.」"
+                                "「Myślałem, że tamten drań wrócił…\n otworzyłeś zamek, prawda?\n A więc w końcu mogę wyjść.」"
                             ]
                         },
                         {
@@ -542,7 +542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Jestem Lumirage z Andoru. Przybyłem do tego kraju, bo\n podobno jest tu \\c[2]legendarny skarb\\c[0].」"
+                                "「Jestem Lumirage z Andoru. Przybyłem do tego kraju,\n bo podobno jest tu \\c[2]legendarny skarb\\c[0].」"
                             ]
                         },
                         {
@@ -566,7 +566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Po drodze dołączył do mnie pewien rycerz, ale…\n cholera! Ten drań mnie zdradził!」"
+                                "「Po drodze dołączył do mnie pewien rycerz, ale…\n cholera…Tylko po to aby mnie zdradził!」"
                             ]
                         },
                         {
@@ -599,7 +599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ale dzięki tobie udało mi się uratować. Inaczej\n zostałbym pożarty przez bestie.」"
+                                "「Ale dzieki tobie, już nie grozi mi\n zmiana w paszę dla demonicznych besti.」"
                             ]
                         },
                         {
@@ -959,7 +959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「To ten facet w zielonej zbroi, Adaman. Nie zapomnij.\n Nie wierz w nic, co mówi ten drań, jasne?」"
+                                "「Ten facet w zielonej zbroi, Adaman. Nie zapomnij.\n Nie wierz w nic, co mówi ten drań, jasne?」"
                             ]
                         },
                         {
@@ -983,7 +983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Znajdę tego drania i zabiję… hihihi…」"
+                                "「Znajdę tego go i zabiję… Hehehe…」"
                             ]
                         },
                         {
@@ -1054,7 +1054,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Cholera…!」"
+                                "「Ty draniu……」"
                             ]
                         },
                         {
@@ -2319,7 +2319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Jest zamknięty…"
+                                "Zamknięte…"
                             ]
                         },
                         {
@@ -2528,7 +2528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Jest zamknięty…"
+                                "Zamknięte…"
                             ]
                         },
                         {
@@ -2737,7 +2737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Jest zamknięty…"
+                                "Zamknięte…"
                             ]
                         },
                         {
@@ -2946,7 +2946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Jest zamknięty…"
+                                "Zamknięte…"
                             ]
                         },
                         {
@@ -3155,7 +3155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Podobno mgła unosząca się z Zamku Zaginionego Imperium\n gdy tylko człowiek jej dotknie,\n prędko wyssie z niego wszystkie Dusze.」"
+                                "「Ta mgła, wiesz, ta rozpościerająca się z\n Zamku Zaginionego Imperium. Wystaczy tylko dotyk aby\n szybko wyssała z człowieka wszystkie Dusze.」"
                             ]
                         },
                         {
@@ -4278,7 +4278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Jest zamknięty…"
+                                "Zamknięte…"
                             ]
                         },
                         {

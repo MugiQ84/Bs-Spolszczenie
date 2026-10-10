@@ -1430,7 +1430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "zamknięte."
+                                "Zamknięte."
                             ]
                         },
                         {
@@ -2037,7 +2037,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「…Masz tę bajkę? Rozumiem. Więc ją masz.」"
+                                "「…Czy masz bajkę? Rozumiem. Więc masz jakąś.」"
                             ]
                         },
                         {
@@ -2875,7 +2875,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「…Masz tę bajkę? Rozumiem. Więc ją masz.」"
+                                "「…Czy masz bajkę? Rozumiem. Więc masz jakąś.」"
                             ]
                         },
                         {
