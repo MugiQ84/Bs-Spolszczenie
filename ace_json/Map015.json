@@ -2436,7 +2436,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Wygląda na to, że jeszcze nie popełniłeś żadnych\ngrzechów. To wspaniałe. Niewinna dusza jest piękna…"
+                                "「Wygląda na to, że jeszcze nie popełniłeś żadnych grzechów.\n To wspaniałe. Niewinna dusza jest piękna…」"
                             ]
                         },
                         {
@@ -2506,7 +2506,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Gha… ha… No cóż… Wygląda na to, że zostanę przez ciebie\nzabity…"
+                                "「Gha… ha… No cóż…\n Wygląda na to, że zostanę przez ciebie zabity…」"
                             ]
                         },
                         {
@@ -2530,7 +2530,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "……………Co?! Żebym miał umrzeć?! Nie ma mowy! Jestem\nhonorowym członkiem Mrocznego Trybunału! Umierać w\ntakim odludnym miejscu…!"
+                                "「……………Co?! Żebym miał umrzeć?! Nie ma mowy! Jestem\n honorowym członkiem Mrocznego Trybunału!\n Umierać w takim odludnym miejscu…!」"
                             ]
                         },
                         {
@@ -2554,7 +2554,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Cholera… cholera… Nie… Nie chcę umiera… ć…"
+                                "「Cholera……jasna…Nie……Nie chcę…umier… a…ać」"
                             ]
                         },
                         {
@@ -2687,7 +2687,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Wygląda na to, że popełniłeś \\v[38] grzechów. Gromadząc\ngrzechy, twoja dusza staje się czarna i splugawiona. W\nkońcu \\c[2]Mroczny Trybunał\\c[0] zacznie na ciebie polować."
+                                "「Wygląda na to, że popełniłeś \\v[38] grzechów. Gromadząc\ngrzechy, twoja dusza staje się czarna i splugawiona. W\nkońcu \\c[2]Mroczny Trybunał\\c[0] zacznie na ciebie polować.」"
                             ]
                         },
                         {
@@ -2711,7 +2711,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Zanim to nastąpi, złagodzę twój grzech. Wezmę za to\n5000 Dusz.\\$"
+                                "「Zanim to nastąpi, złagodzę twój grzech. Wezmę za to\n5000 Dusz.\\$」"
                             ]
                         },
                         {
@@ -2794,7 +2794,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Złagodziłem jeden z twoich grzechów. Ale nie zapominaj:\ngrzech to grzech. Nie ma grzechu, który by zniknął bez\nśladu. Grzechy nie powinny być wybaczane."
+                                "「Złagodziłem jeden z twoich grzechów. Ale nie zapominaj:\ngrzech to grzech. Nie ma grzechu, który by zniknął bez\nśladu. Grzechy nie powinny być wybaczane.」"
                             ]
                         },
                         {
@@ -2828,7 +2828,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Szkoda. Brakuje ci Dusz."
+                                "「Szkoda. Brakuje ci Dusz.」"
                             ]
                         },
                         {
@@ -2902,7 +2902,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Gha… ha… No cóż… Wygląda na to, że zostanę przez ciebie\nzabity…"
+                                "「Gha… ha… No cóż…\n Wygląda na to, że zostanę przez ciebie zabity…」"
                             ]
                         },
                         {
@@ -2926,7 +2926,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "……………Co?! Żebym miał umrzeć?! Nie ma mowy! Jestem\nhonorowym członkiem Mrocznego Trybunału! Umierać w\ntakim odludnym miejscu…!"
+                                "「……………Co?! Żebym miał umrzeć?! Nie ma mowy! Jestem\n honorowym członkiem Mrocznego Trybunału!\n Umierać w takim odludnym miejscu…!」"
                             ]
                         },
                         {
@@ -2950,7 +2950,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Cholera… cholera… Nie… Nie chcę umiera… ć…"
+                                "「Cholera……jasna…Nie……Nie chcę…umier… a…ać」"
                             ]
                         },
                         {
@@ -5272,7 +5272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rozpocząć Nową Grę Plus? (※ Karma zostanie zresetowana,\na niektóre przedmioty nie zostaną przeniesione.)"
+                                "Rozpocząć Nową Grę Plus?\n(※ Grzechy zostaną zresetowane, a niektóre przedmioty\n nie zostaną przeniesione.)"
                             ]
                         },
                         {
