@@ -182,11 +182,11 @@ module A1_System::NameWindow
 
     "gu-su"    => "Bogata Gęś Goose",
 
-    "kata"    => "Święta Katarina",
+    "kata"    => "Święta Katarzyna",
 
     "miranda"    => "Mroczna Miranda",
 
-    "kaeru"    => "Księżniczka Żaba",
+    "kaeru"    => "Żabia Księżniczka",
 
     "nin"    => "Syrena",
 
