@@ -800,7 +800,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「\\c[2]Roszpunka\\c[0]…\\c[2]Księżniczka Syrenka\\c[0]…\\c[2]Księżniczka Żaba\\c[0]……. Te\n trzy……zabij……」"
+                                "「\\c[2]Roszpunka\\c[0]…\\c[2]Księżniczka Syrenka\\c[0]…\\c[2]Żabia Księżniczka\\c[0]……. Te\n trzy……zabij……」"
                             ]
                         },
                         {
@@ -1089,7 +1089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「\\c[2]Roszpunka\\c[0]…\\c[2]Księżniczka Syrenka\\c[0]…\\c[2]Księżniczka Żaba\\c[0]…….\n Zabij… te trzy…」"
+                                "「\\c[2]Roszpunka\\c[0]…\\c[2]Księżniczka Syrenka\\c[0]…\\c[2]Żabia Księżniczka\\c[0]…….\n Zabij… te trzy…」"
                             ]
                         },
                         {

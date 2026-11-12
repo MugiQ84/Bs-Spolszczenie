@@ -1096,8 +1096,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "About Alice 01",
-                                    "Where is this?",
+                                    "Zapytaj o Alicje 01",
+                                    "Co to za miejsce?",
                                     "Zgwałć",
                                     "Odejdź"
                                 ],
@@ -9494,7 +9494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Baśń【Księżniczka Żaba】\\c[0]"
+                                "\\c[2]Baśń【Żabia Księżniczka】\\c[0]"
                             ]
                         },
                         {

@@ -1133,7 +1133,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Zakończenie Katarina."
+                                "Zakończenie Katarzyna."
                             ]
                         },
                         {
@@ -1147,7 +1147,7 @@
                             "code": 655,
                             "indent": 1,
                             "parameters": [
-                                "steam.set_achievement 'KATARINA_END'"
+                                "steam.set_achievement 'KatarzynA_END'"
                             ]
                         },
                         {

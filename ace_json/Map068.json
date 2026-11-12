@@ -8699,7 +8699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「W obliczu niewytłumaczalnych zjawisk trawiących ten\n kraj, czy modlitwa jest aż tak bezsilna…?」"
+                                "「W obliczu niewytłumaczalnych zjawisk trawiących ten\n kraj, czy nawet modlitwa jest aż tak bezsilna…?」"
                             ]
                         },
                         {
@@ -8716,7 +8716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Czy Bóg naprawdę…! Ależ… to, co powiedziałam, było\n niestosowne. Przepraszam, proszę zapomnieć te słowa…」"
+                                "「Czy Bóg naprawdę……\\!\n Nie…… To było niestosowne. Przepraszam, proszę zapomnij te słowa…」"
                             ]
                         },
                         {
@@ -8801,7 +8801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Kult w tym mieście najwyraźniej czcił boga o imieniu\n \\c[2]Mary Sue\\c[0]. Nigdy o nim nie słyszałem, ale…」"
+                                "「Kult w tym mieście najwyraźniej czcił boga o imieniu\n \\c[2]Mary Sue\\c[0]. Nigdy o nim nie słyszałam, ale…」"
                             ]
                         },
                         {
@@ -8818,7 +8818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Z pewnością jest to wielka osoba. Proszę, wyciągnij\n pomocną dłoń do ludu tego kraju……」"
+                                "「Z pewnością jest to życzliwa osoba.\n Jeśliby tylko wyciągneła dłoń w stronę tego kraju……」"
                             ]
                         },
                         {
@@ -8911,7 +8911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Teraz jedyne, co mogę zrobić, to opłakiwać zmarłych i\n modlić się za nich…」"
+                                "「Teraz jedyne, co mogę zrobić, to opłakiwać zmarłych\n i modlić się za nich…」"
                             ]
                         },
                         {
@@ -9021,7 +9021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Sandoria… co to za miejsce? Próbuję je sobie\n przypomnieć, ale nie mogę odtworzyć jego widoku…」"
+                                "「Aleksandria……mój ojczysty kraj.\n Jego krajobrazy……Próbuję je sobie przypomnieć, ale nie mogę\n odtworzyć jego widoku…」"
                             ]
                         },
                         {
@@ -9029,7 +9029,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Kup Biblię",
+                                    "Kup Pisma Święte",
                                     "Zgwałć",
                                     "Odejdź"
                                 ],
@@ -9206,7 +9206,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Uwięziłeś Katarinę w piwnicy."
+                                "Uwięziłeś Katarzynę w piwnicy."
                             ]
                         },
                         {
@@ -9282,7 +9282,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Uwięziłeś Katarinę w piwnicy."
+                                "Uwięziłeś Katarzynę w piwnicy."
                             ]
                         },
                         {
@@ -9434,7 +9434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Sandoria… co to za miejsce? Próbuję sobie\n przypomnieć, ale nie mogę przywołać żadnych obrazów…」"
+                                "「「Aleksandria……mój ojczysty kraj.\n Jego krajobrazy……Próbuję je sobie przypomnieć, ale nie mogę\n odtworzyć jego widoku…」"
                             ]
                         },
                         {
@@ -9638,7 +9638,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Uwięziłeś Katarinę w piwnicy."
+                                "Uwięziłeś Katarzynę w piwnicy."
                             ]
                         },
                         {
@@ -9714,7 +9714,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Uwięziłeś Katarinę w piwnicy."
+                                "Uwięziłeś Katarzynę w piwnicy."
                             ]
                         },
                         {
@@ -9943,7 +9943,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「Ty jesteś… Katarina-sama…?」"
+                                "「Ty jesteś… Katarzyna-sama…?」"
                             ]
                         },
                         {
@@ -10011,7 +10011,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Katarina słania się na nogach, jej krok jest niepewny."
+                                "Katarzyna słania się na nogach, jej krok jest niepewny."
                             ]
                         },
                         {
@@ -10037,7 +10037,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「\\n[1]-san… To straszne! Dusza pani Katariny słabnie!」"
+                                "「\\n[1]-san… To straszne! Dusza pani Katarzyny słabnie!」"
                             ]
                         },
                         {
@@ -10172,7 +10172,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「Katarina-sama!…」"
+                                "「Katarzyna-sama!…」"
                             ]
                         },
                         {
@@ -10255,7 +10255,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「\\n[1]-san. Zabiorę Katarinę-sama do Świętego Lasu.\n Proszę przyjść, gdy już będzie spokojnie.」"
+                                "「\\n[1]-san. Zabiorę Katarzynę-sama do Świętego Lasu.\n Proszę przyjść, gdy już będzie spokojnie.」"
                             ]
                         },
                         {
@@ -10339,7 +10339,7 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "Kup Biblię",
+                                    "Kup Pisma Święte",
                                     "Zgwałć",
                                     "Odejdź"
                                 ],
@@ -10516,7 +10516,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Uwięziłeś Katarinę w piwnicy."
+                                "Uwięziłeś Katarzynę w piwnicy."
                             ]
                         },
                         {
@@ -10592,7 +10592,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Uwięziłeś Katarinę w piwnicy."
+                                "Uwięziłeś Katarzynę w piwnicy."
                             ]
                         },
                         {
@@ -10670,7 +10670,7 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Kup Biblię",
+                                    "Kup Pisma Święte",
                                     "Zgwałć",
                                     "Odejdź"
                                 ],
@@ -10847,7 +10847,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Uwięziłeś Katarinę w piwnicy."
+                                "Uwięziłeś Katarzynę w piwnicy."
                             ]
                         },
                         {
@@ -10923,7 +10923,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Uwięziłeś Katarinę w piwnicy."
+                                "Uwięziłeś Katarzynę w piwnicy."
                             ]
                         },
                         {
@@ -11110,7 +11110,7 @@
                             "code": 655,
                             "indent": 1,
                             "parameters": [
-                                "steam.set_achievement 'SEIJOKATARINA'"
+                                "steam.set_achievement 'SEIJOKatarzynA'"
                             ]
                         },
                         {
