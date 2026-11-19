@@ -5134,7 +5134,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Zużywa wszystkie Dusze, aby powrócić do Świętego Lasu.\n\"Powstań tyle razy, ile musisz, by doświadczyć tej\npowieści.\"",
+        "description": "Zużywa wszystkie Dusze, aby powrócić do Świętego Lasu.\n\"Powstań tyle razy, ile musisz, by doświadczyć tej powieści.\"",
         "effects": [
             {
                 "code": 44,
