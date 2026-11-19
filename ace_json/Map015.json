@@ -749,7 +749,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Ale samemu może być niespokojnie, więc… użyczę ci\n moją moc!」"
+                                "「Ale samemu może być niespokojnie, więc… użyczę ci\n mojej mocy!」"
                             ]
                         },
                         {
@@ -2687,7 +2687,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Wygląda na to, że popełniłeś \\v[38] grzechów. Gromadząc\ngrzechy, twoja dusza staje się czarna i splugawiona. W\nkońcu \\c[2]Mroczny Trybunał\\c[0] zacznie na ciebie polować.」"
+                                "「Wygląda na to, że popełniłeś \\v[38] grzechów. Gromadząc\n grzechy, twoja dusza staje się czarna i splugawiona.\n W końcu \\c[2]Mroczny Trybunał\\c[0] zacznie na ciebie polować.」"
                             ]
                         },
                         {
@@ -2711,7 +2711,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Zanim to nastąpi, złagodzę twój grzech. Wezmę za to\n5000 Dusz.\\$」"
+                                "「Zanim to nastąpi, złagodzę twój grzech. Wezmę za to 5000 Dusz.」"
                             ]
                         },
                         {
@@ -2794,7 +2794,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Złagodziłem jeden z twoich grzechów. Ale nie zapominaj:\ngrzech to grzech. Nie ma grzechu, który by zniknął bez\nśladu. Grzechy nie powinny być wybaczane.」"
+                                "「Złagodziłem jeden z twoich grzechów. Ale nie zapominaj:\n grzech to grzech. Nie ma grzechu, który by zniknął bez\n śladu. Grzechy nie powinny być wybaczane.」"
                             ]
                         },
                         {
@@ -3572,7 +3572,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Ale samemu może być niespokojnie, więc… użyczę ci\n moją moc!」"
+                                "「Ale samemu może być niespokojnie, więc… użyczę ci\n mojej mocy!」"
                             ]
                         },
                         {
@@ -5272,7 +5272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rozpocząć Nową Grę Plus?\n(※ Grzechy zostaną zresetowane, a niektóre przedmioty\n nie zostaną przeniesione.)"
+                                "Rozpocząć Nową Grę Plus?\n(※ Grzechy zostaną zresetowane, a niektóre przedmioty\nnie zostaną przeniesione.)"
                             ]
                         },
                         {

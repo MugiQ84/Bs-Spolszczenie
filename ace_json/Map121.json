@@ -1147,7 +1147,7 @@
                             "code": 655,
                             "indent": 1,
                             "parameters": [
-                                "steam.set_achievement 'KatarzynA_END'"
+                                "steam.set_achievement 'KATARINA_END'"
                             ]
                         },
                         {

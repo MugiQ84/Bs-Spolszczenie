@@ -8496,7 +8496,7 @@
         "effects": [],
         "hitType": 0,
         "iconIndex": 116,
-        "message1": " chichocze…",
+        "message1": " Hihihihihi…",
         "message2": "",
         "mpCost": 0,
         "name": "Śmiech",
@@ -10449,7 +10449,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Cała drużyna przez jakiś czas unika krytyków wrogów.",
+        "description": "Cała drużyna przez jakiś czas unika obrażeń krytycznych wrogów.",
         "effects": [
             {
                 "code": 21,

@@ -3929,7 +3929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Teraz na pewno wrócimy do domu!\n Pani wiedźma jest taka miła, że nawet pozwoliła nam tu zostać!\n Prawda, Małgosiu?」"
+                                "「Teraz na pewno wrócimy do domu!\n Pani wiedźma jest taka miła, że nawet\n pozwoliła nam tu zostać! Prawda, Małgosiu?」"
                             ]
                         },
                         {
@@ -10415,7 +10415,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hmm…? Znowu klient. Jestem zajęty, więc przejdź do\nrzeczy."
+                                "Hmm…? Znowu klient. Jestem zajęta, więc przejdź do\nrzeczy."
                             ]
                         },
                         {
@@ -10879,7 +10879,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "chcę pójść do Zaginionego Imperium",
+                                    "Chcę pójść do Zaginionego Imperium",
                                     "Kup Magiczne Księgi",
                                     "Zgwałć",
                                     "Odejdź"
@@ -10952,7 +10952,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Cóż, nie będę cię powstrzymywał. Jeśli chcesz iść, to\n idź.」"
+                                "「Cóż, nie będę cię powstrzymywała. Jeśli chcesz iść, to\n idź.」"
                             ]
                         },
                         {
@@ -11589,7 +11589,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Ale zamierzam cię zagonić na śmierć. Bądź gotowa.\n Hehe…」"
+                                "「Ale zamierzam cię zagonić na śmierć. Bądź gotów.\n Hehe…」"
                             ]
                         },
                         {
@@ -12127,7 +12127,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Chcę, żebyś zabił pewne magiczne bestie. \\c[2]Strach na\n Wróble, Blaszany i Lew\\c[0] -te trzy.」"
+                                "「Chcę, żebyś zabił pewne magiczne bestie. \\c[2]Strach na\n Wróble, Blaszany Drwal i Lew\\c[0] — te trzy.」"
                             ]
                         },
                         {
@@ -12205,7 +12205,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「Chcę, żebyś zabił pewne magiczne bestie. \\c[2]Strach na\n Wróble, Blaszany i Lew\\c[0] -te trzy.」"
+                                "「Chcę, żebyś zabił pewne magiczne bestie. \\c[2]Strach na\n Wróble, Blaszany Drwal i Lew\\c[0] -te trzy.」"
                             ]
                         },
                         {
@@ -12748,7 +12748,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「…To mój były uczeń. Został dopadnięty przez mgłę i\nzamienił się w potwora.」"
+                                "「…To mój były uczeń. Został dopadnięty przez mgłę i\n zamienił się w potwora.」"
                             ]
                         },
                         {
@@ -14537,7 +14537,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「D-dama? …Hihi,\nNaprawdę tak mnie widzisz?」"
+                                "「D-dama? …Hihi,\n Naprawdę tak mnie widzisz?」"
                             ]
                         },
                         {
@@ -14605,7 +14605,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "「przestań, ty…\nHihi, hihihi…… To krępujące.」"
+                                "「przestań, ty…\n Hihi, hihihi…… To krępujące.」"
                             ]
                         },
                         {
@@ -15703,7 +15703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……Kim jesteś?"
+                                "「……Kim jesteś?」"
                             ]
                         },
                         {
@@ -15720,7 +15720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]?\n Bleh…… nieważne."
+                                "「\\n[1]?\n Bleh…… nieważne.」"
                             ]
                         },
                         {
@@ -15807,7 +15807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mimo że zostaliśmy porzuceni…\n A on nie umie spojrzeć prawdzie w oczy,\n mój biedny brat."
+                                "「Mimo że zostaliśmy porzuceni…\n A on nie umie spojrzeć prawdzie w oczy,\n mój biedny brat.」"
                             ]
                         },
                         {
@@ -15816,7 +15816,7 @@
                             "parameters": [
                                 [
                                     "Zgwałć",
-                                    "Walk away"
+                                    "Odejdź"
                                 ],
                                 2
                             ]
@@ -16578,7 +16578,7 @@
                             "parameters": [
                                 [
                                     "Zgwałć",
-                                    "Walk away"
+                                    "Odejdź"
                                 ],
                                 2
                             ]
@@ -17898,7 +17898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wygląda na to, że nic nie zostało,\n na rozdartych kościach."
+                                "Wygląda na to, że nic nie zostało,\nna rozdartych kościach."
                             ]
                         },
                         {

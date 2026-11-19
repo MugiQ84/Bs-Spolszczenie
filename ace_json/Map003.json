@@ -1474,7 +1474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Jak widzisz, jestem zajęta.\nPrzyjdź proszę później?」"
+                                "「Jak widzisz, jestem zajęta.\n Przyjdź proszę później?」"
                             ]
                         },
                         {
@@ -1592,7 +1592,7 @@
                             "parameters": [
                                 [
                                     "Zgwałć",
-                                    "Odejść"
+                                    "Odejdź"
                                 ],
                                 2
                             ]

@@ -4409,7 +4409,7 @@
                             "parameters": [
                                 [
                                     "Zgwałć",
-                                    "Odejść"
+                                    "Odejdź"
                                 ],
                                 2
                             ]
@@ -5007,7 +5007,7 @@
                             "parameters": [
                                 [
                                     "Zgwałć",
-                                    "Odejść"
+                                    "Odejdź"
                                 ],
                                 2
                             ]
@@ -6240,7 +6240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Co takiego widzi w takim śmierdzącym trupie? Hej, nie\n zbliżaj się, dobrze?」"
+                                "「Co ona niby widzi w takim śmierdzącym trupie? Hej, nie\n zbliżaj się, dobrze?」"
                             ]
                         },
                         {
@@ -6249,7 +6249,7 @@
                             "parameters": [
                                 [
                                     "Zgwałć",
-                                    "Odejść"
+                                    "Odejdź"
                                 ],
                                 2
                             ]
@@ -10157,7 +10157,7 @@
                             "parameters": [
                                 [
                                     "Zgwałć",
-                                    "Odejść"
+                                    "Odejdź"
                                 ],
                                 2
                             ]
@@ -10755,7 +10755,7 @@
                             "parameters": [
                                 [
                                     "Zgwałć",
-                                    "Odejść"
+                                    "Odejdź"
                                 ],
                                 2
                             ]
@@ -11196,7 +11196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Dzień dobry.\nTen las jest spokojny i przyjemny, prawda?」"
+                                "「Dzień dobry.\n Ten las jest spokojny i przyjemny, prawda?」"
                             ]
                         },
                         {
@@ -11213,7 +11213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Jestem Katarzyna, przybywam z Sandorii.\nCzyżbyście o mnie nie słyszeli?」"
+                                "「Jestem Katarzyna, przybywam z Sandorii.\n Czyżbyście o mnie nie słyszeli?」"
                             ]
                         },
                         {
@@ -11409,7 +11409,7 @@
                             "parameters": [
                                 [
                                     "Zgwałć",
-                                    "Odejść"
+                                    "Odejdź"
                                 ],
                                 2
                             ]
@@ -14947,7 +14947,7 @@
                                     "Przekaż Dusze",
                                     "Chcę kupić Dusze",
                                     "Zgwałć",
-                                    "Odejść"
+                                    "Odejdź"
                                 ],
                                 4
                             ]

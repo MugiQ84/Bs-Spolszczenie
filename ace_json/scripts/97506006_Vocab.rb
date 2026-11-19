@@ -74,7 +74,7 @@ module Vocab
 
   ObtainExp       = "Zdobyto %s EXP!"
 
-  ObtainGold      = "Zdobyto %s\G Dusz!"
+  ObtainGold      = "Zdobyto %s Dusz!"
 
   ObtainItem      = "Zdobyto %s!"
 

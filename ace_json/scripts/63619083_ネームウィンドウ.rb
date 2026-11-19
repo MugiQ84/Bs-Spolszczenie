@@ -188,7 +188,7 @@ module A1_System::NameWindow
 
     "kaeru"    => "Żabia Księżniczka",
 
-    "nin"    => "Syrena",
+    "nin"    => "Mała Syrenka",
 
     "lap"    => "Roszpunka",
 

@@ -44,7 +44,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Leczy 50% MP. Uzupełnij przy ognisku.\n\"Jednak nie daj sie pochłonąć magii..\"",
+        "description": "Leczy 50% MP. Uzupełnij przy ognisku.\n\"Jednak nie daj się pochłonąć magii…\"",
         "effects": [
             {
                 "code": 12,
@@ -710,7 +710,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Powrót do ostatniego odwiedzonego ogniska. \"Ciepło przyciąga\ndo siebie nieumarłych którzy obrócili się w proch.\"",
+        "description": "Powrót do ostatniego odwiedzonego ogniska. \"Ciepło przyciąga\ndo siebie nieumarłych, którzy obrócili się w proch.\"",
         "effects": [
             {
                 "code": 44,
@@ -776,7 +776,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rozsypanie na ciele zmyli wzrok wroga. \"Moich bestii, takim\npyłem nie oszukasz!\" - Księżniczka Demonów Roszpunka",
+        "description": "Rozsypanie na ciele zmyli wzrok wroga. \"Moich bestii takim\npyłem nie oszukasz!\" - Księżniczka Demonów Roszpunka",
         "effects": [
             {
                 "code": 44,
@@ -1255,7 +1255,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użyj aby zyskać Dusze.",
+        "description": "Użyj, aby zyskać Dusze.",
         "effects": [
             {
                 "code": 44,
@@ -1288,7 +1288,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użyj aby zyskać Dusze.",
+        "description": "Użyj, aby zyskać Dusze.",
         "effects": [
             {
                 "code": 44,
@@ -1321,7 +1321,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użyj aby zyskać Dusze.",
+        "description": "Użyj, aby zyskać Dusze.",
         "effects": [
             {
                 "code": 44,
@@ -1354,7 +1354,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użyj aby zyskać Dusze.",
+        "description": "Użyj, aby zyskać Dusze.",
         "effects": [
             {
                 "code": 44,
@@ -1387,7 +1387,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użyj aby zyskać Dusze.",
+        "description": "Użyj, aby zyskać Dusze.",
         "effects": [
             {
                 "code": 44,
@@ -1420,7 +1420,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użyj aby zyskać Dusze.",
+        "description": "Użyj, aby zyskać Dusze.",
         "effects": [
             {
                 "code": 44,
@@ -1453,7 +1453,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użyj aby zyskać Dusze.",
+        "description": "Użyj, aby zyskać Dusze.",
         "effects": [
             {
                 "code": 44,
@@ -1486,7 +1486,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użyj aby zyskać Dusze.",
+        "description": "Użyj, aby zyskać Dusze.",
         "effects": [
             {
                 "code": 44,
@@ -1519,7 +1519,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użyj aby zyskać Dusze.",
+        "description": "Użyj, aby zyskać Dusze.",
         "effects": [
             {
                 "code": 44,
@@ -1552,7 +1552,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Użyj aby zyskać Dusze.",
+        "description": "Użyj, aby zyskać Dusze.",
         "effects": [
             {
                 "code": 44,
@@ -1670,7 +1670,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Pyszny cukierek. Może stanie się coś dobrego jeśli zbierzesz\nich więcej.",
+        "description": "Pyszny cukierek. Może stanie się coś dobrego, jeśli zbierzesz\nich więcej.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 340,
@@ -1774,7 +1774,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Zgniłe. Jeśli to zjesz, odzyskasz 50 HP….",
+        "description": "Zgniłe. Jeśli to zjesz, odzyskasz 50 HP…",
         "effects": [
             {
                 "code": 11,
@@ -5134,7 +5134,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Zużywa wszystkie Dusze, aby powrócić do świętego Lasu.\n\"Powstań tyle razy, ile musisz, by doświadczyć tej\npowieści.\"",
+        "description": "Zużywa wszystkie Dusze, aby powrócić do Świętego Lasu.\n\"Powstań tyle razy, ile musisz, by doświadczyć tej\npowieści.\"",
         "effects": [
             {
                 "code": 44,
@@ -5792,7 +5792,7 @@
         "hitType": 0,
         "iconIndex": 96,
         "itypeId": 2,
-        "name": "Las Zapomnienia",
+        "name": "Las Porzuconych",
         "note": "",
         "occasion": 0,
         "price": 0,
