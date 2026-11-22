@@ -5974,7 +5974,7 @@
         "hitType": 0,
         "iconIndex": 96,
         "itypeId": 2,
-        "name": "Miasto Cmentarne Elixir",
+        "name": "Cmentarne Miasto Elixir",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -8947,7 +8947,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Uzdrowienie duszy. Ilość przywróconego HP zależy od\nsiły magicznejużytkownika.",
+        "description": "Uzdrowienie duszy. Ilość przywróconego HP zależy od\nsiły magicznej użytkownika.",
         "effects": [
             {
                 "code": 43,
