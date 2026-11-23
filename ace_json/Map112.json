@@ -1308,7 +1308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Zdobądź pewną miksturę i pokonaj w walce Wróżkę A."
+                                "Zdobądź pewną miksturę i pokonaj Wróżkę A."
                             ]
                         },
                         {
@@ -1376,7 +1376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz przywołać wspomnienie \\c[2]Wróżka A (Gwałt)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Wróżka A (Gwałt)\\c[0]?"
                             ]
                         },
                         {
@@ -1608,7 +1608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Zdobądź pewną miksturę i pokonaj Fairy B."
+                                "Zdobądź pewną miksturę i pokonaj Wróżkę B."
                             ]
                         },
                         {
@@ -1676,7 +1676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz przywołać wspomnienie \\c[2]Wróżka B (Gwałt)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Wróżka B (Gwałt)\\c[0]?"
                             ]
                         },
                         {
@@ -1824,7 +1824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Zdobywasz pewne lekarstwo i wygrywasz walkę z Wróżką C."
+                                "Zdobądź pewną miksturę i pokonaj Wróżkę C."
                             ]
                         },
                         {
@@ -1892,7 +1892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Czy chcesz odtworzyć wspomnienie Fairy C (Gwałt)?\\c[0]"
+                                "Przywołać wspomnienie \\c[2]Wróżka C (Gwałt)\\c[0]?"
                             ]
                         },
                         {
@@ -2040,7 +2040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Daj Dusze Leaf"
+                                "Ofiaruj Dusze Leaf."
                             ]
                         },
                         {
@@ -2108,7 +2108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz przywołać wspomnienie \\c[2]Leaf (Ofiarowanie\nDusz)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Leaf (Ofiarowanie Dusz)\\c[0]?"
                             ]
                         },
                         {
@@ -2256,7 +2256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Daj Dusze Leaf (drugi raz)"
+                                "Ofiaruj Dusze Leaf (drugi raz)."
                             ]
                         },
                         {
@@ -2324,7 +2324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz przywołać wspomnienie \\c[2]Leaf (Dusze +2)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Leaf (Ofiarowanie Dusz 2)\\c[0]?"
                             ]
                         },
                         {
@@ -2472,7 +2472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Podnieś poziom Leaf do 99 lub więcej, a potem przenocuj\nz nią w Hotelu Posejdon."
+                                "Podnieś poziom Leaf do 99 lub więcej\ni przenocuj z nią w Hotelu Posejdon."
                             ]
                         },
                         {
@@ -2540,7 +2540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Odtworzyć \\c[2]Leaf (Hotel)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Leaf (Hotel)\\c[0]?"
                             ]
                         },
                         {
@@ -2756,7 +2756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz odtworzyć wspomnienie \\c[2]Dorota (Uwięzienie)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Dorota (Uwięzienie)\\c[0]?"
                             ]
                         },
                         {
@@ -2972,7 +2972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz przypomnieć sobie \\c[2]Dorota (Nagroda)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Dorota (Nagroda)\\c[0]?"
                             ]
                         },
                         {
@@ -3120,7 +3120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Przekaż Dusze Dorocie."
+                                "Ofiaruj Dusze Dorocie."
                             ]
                         },
                         {
@@ -3188,7 +3188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Czy chcesz przypomnieć sobie Dorota (Ofiarowanie\nDusz)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Dorota (Ofiarowanie Dusz)\\c[0]?"
                             ]
                         },
                         {
@@ -3336,7 +3336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Przekaż Dusze Dorocie (2. raz)"
+                                "Ofiaruj Dusze Dorocie (drugi raz)."
                             ]
                         },
                         {
@@ -3404,7 +3404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz odtworzyć wspomnienie \\c[2]Dorota (ofiarowanie\nDusz 2)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Dorota (Ofiarowanie Dusz 2)\\c[0]?"
                             ]
                         },
                         {
@@ -3552,7 +3552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Zwiększ poziom Doroty do 99 lub więcej i przenocuj z\nnią w Hotelu Posejdon."
+                                "Podnieś poziom Doroty do 99 lub więcej\ni przenocuj z nią w Hotelu Posejdon."
                             ]
                         },
                         {
@@ -3620,7 +3620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Przypomnieć \\c[2]Dorota (Hotel)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Dorota (Hotel)\\c[0]?"
                             ]
                         },
                         {
@@ -3836,7 +3836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz wrócić do wspomnienia \\c[2]Elma (Gwałt)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Elma (Gwałt)\\c[0]?"
                             ]
                         },
                         {
@@ -4052,7 +4052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Odtworzyć \\c[2]Elma (Uwięzienie)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Elma (Uwięzienie)\\c[0]?"
                             ]
                         },
                         {
@@ -4200,7 +4200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ocal Elmę i bezpiecznie dotrzyj do Świętego Lasu."
+                                "Uratuj Elmę i pomóż jej bezpiecznie dotrzeć do Świętego Lasu."
                             ]
                         },
                         {
@@ -4268,7 +4268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Elma (Podziękowanie)\\c[0] ― Czy chcesz to wspominać?"
+                                "Przywołać wspomnienie \\c[2]Elma (Podziękowanie)\\c[0]?"
                             ]
                         },
                         {
@@ -4416,7 +4416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Przekaż Dusze Elmie."
+                                "Ofiaruj Dusze Elmie."
                             ]
                         },
                         {
@@ -4484,7 +4484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Czy chcesz przypomnieć sobie Elmę (Ofiarowanie Dusz)?\\c[0]"
+                                "Przywołać wspomnienie \\c[2]Elma (Ofiarowanie Dusz)\\c[0]?"
                             ]
                         },
                         {
@@ -4632,7 +4632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Dusze dla Elmy (2)"
+                                "Ofiaruj Dusze Elmie (drugi raz)."
                             ]
                         },
                         {
@@ -4700,7 +4700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Elma (ofiarowanie Dusz 2)\\c[0] – wspomnienie?"
+                                "Przywołać wspomnienie \\c[2]Elma (Ofiarowanie Dusz 2)\\c[0]?"
                             ]
                         },
                         {
@@ -4916,7 +4916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz obejrzeć \\c[2]Dorota (Gwałt)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Dorota (Gwałt)\\c[0]?"
                             ]
                         },
                         {
@@ -5132,7 +5132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz odtworzyć wspomnienie \\c[2]Wiktoria (gwałt)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Wiktoria (Gwałt)\\c[0]?"
                             ]
                         },
                         {
@@ -5348,7 +5348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz przypomnieć sobie \\c[2]Wiktorię (uwięzienie)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Wiktoria (Uwięzienie)\\c[0]?"
                             ]
                         },
                         {
@@ -5564,7 +5564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz przypomnieć sobie \\c[2]Wiktorię (seks za zgodą)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Wiktoria (Za Zgodą)\\c[0]?"
                             ]
                         },
                         {
@@ -5712,7 +5712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Podnieś poziom Elmy do 99 lub wyżej i przenocujcie\nrazem w Hotelu Poseidon."
+                                "Podnieś poziom Elmy do 99 lub więcej\ni przenocuj z nią w Hotelu Posejdon."
                             ]
                         },
                         {
@@ -5780,7 +5780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Elma (Hotel)\\c[0] – Czy chcesz odtworzyć wspomnienie?"
+                                "Przywołać wspomnienie \\c[2]Elma (Hotel)\\c[0]?"
                             ]
                         },
                         {
@@ -5928,7 +5928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Podnieś poziom Wiktoriii do co najmniej 99 i\nprzenocujcie razem w Hotelu Poseidon."
+                                "Podnieś poziom Wiktorii do 99 lub więcej\ni przenocuj z nią w Hotelu Posejdon."
                             ]
                         },
                         {
@@ -5996,7 +5996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz powspominać \\c[2]Wiktoria (Hotel)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Wiktoria (Hotel)\\c[0]?"
                             ]
                         },
                         {
@@ -6144,7 +6144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Daj Dusze Wiktorii."
+                                "Ofiaruj Dusze Wiktorii."
                             ]
                         },
                         {
@@ -6212,7 +6212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Przywołać \\c[2]Wiktoria (ofiarowanie Dusz)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Wiktoria (Ofiarowanie Dusz)\\c[0]?"
                             ]
                         },
                         {
@@ -6360,7 +6360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Przekaż Dusze Wiktoriii (2. raz)"
+                                "Ofiaruj Dusze Wiktorii (drugi raz)."
                             ]
                         },
                         {
@@ -6428,7 +6428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Wiktoria (ofiarowanie Dusz 2)\\c[0] – przywołać wspomnienie?"
+                                "Przywołać wspomnienie \\c[2]Wiktoria (Ofiarowanie Dusz 2)\\c[0]?"
                             ]
                         },
                         {
@@ -6644,7 +6644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Przywołać wspomnienie \\c[2]Goose (gwałt)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Goose (Gwałt)\\c[0]?"
                             ]
                         },
                         {
@@ -6947,7 +6947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Zgwałć uwięzionego Goose'a."
+                                "Zgwałć uwięzionego Goose."
                             ]
                         },
                         {
@@ -7015,7 +7015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz przywołać wspomnienie: \\c[2]Goose (Uwięzienie)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Goose (Uwięzienie)\\c[0]?"
                             ]
                         },
                         {
@@ -7163,7 +7163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Zaprowadź Goose'a z powrotem do Świętego Lasu."
+                                "Zaprowadź Goose z powrotem do Świętego Lasu."
                             ]
                         },
                         {
@@ -7231,7 +7231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Czy chcesz odtworzyć scenę: Goose (za zgodą)?\\c[0]"
+                                "Przywołać wspomnienie \\c[2]Goose (Za Zgodą)\\c[0]?"
                             ]
                         },
                         {
@@ -7379,7 +7379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Przekaż Dusze do Goose."
+                                "Ofiaruj Dusze Goose'owi."
                             ]
                         },
                         {
@@ -7447,7 +7447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz przypomnieć sobie \\c[2]Goose (Zaopatrzenie w\nDusze)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Goose (Ofiarowanie Dusz)\\c[0]?"
                             ]
                         },
                         {
@@ -7595,7 +7595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Drugie dostarczenie dusz dla Goose."
+                                "Ofiaruj Dusze Goose'owi (drugi raz)."
                             ]
                         },
                         {
@@ -7663,7 +7663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Goose (Ofiarowanie Dusz 2)\\c[0] Czy chcesz zobaczyć\nwspomnienie?"
+                                "Przywołać wspomnienie \\c[2]Goose (Ofiarowanie Dusz 2)\\c[0]?"
                             ]
                         },
                         {
@@ -7811,7 +7811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Podnieś poziom Goose'a do 99 lub więcej i zatrzymajcie\nsię razem w Hotelu Posejdon."
+                                "Podnieś poziom Goose do 99 lub więcej\ni przenocuj z nią w Hotelu Posejdon."
                             ]
                         },
                         {
@@ -7879,7 +7879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Odtworzyć \\c[2]Goose (hotel)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Goose (Hotel)\\c[0]?"
                             ]
                         },
                         {
@@ -8027,7 +8027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Zgwałć Elisabeth."
+                                "Zgwałć Elżbietę."
                             ]
                         },
                         {
@@ -8095,7 +8095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Elizabeth (Gwałt)\\c[0] przypomnieć?"
+                                "Przywołać wspomnienie \\c[2]Elżbieta (Gwałt)\\c[0]?"
                             ]
                         },
                         {
@@ -8243,7 +8243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Zgwałć Elżbietę."
+                                "Zgwałć uwięzioną Elżbietę."
                             ]
                         },
                         {
@@ -8311,7 +8311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy przywołać wspomnienie \\c[2]Elizabeth (Uwięzienie)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Elżbieta (Uwięzienie)\\c[0]?"
                             ]
                         },
                         {
@@ -8459,7 +8459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Znajdź pierścień Żelaznej Dziewicy i daj go Elżbiecie."
+                                "Znajdź pierścień Żelaznej Dziewicy\ni oddaj go Elżbiecie."
                             ]
                         },
                         {
@@ -8527,7 +8527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Odtworzyć \\c[2]Elisabeth (Bonus)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Elżbieta (Nagroda)\\c[0]?"
                             ]
                         },
                         {
@@ -8675,7 +8675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Przekaż Dusze do Elizabeth."
+                                "Ofiaruj Dusze Elżbiecie."
                             ]
                         },
                         {
@@ -8743,7 +8743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz przywołać wspomnienie \\c[2]Elżbieta (Dostawa\nDusz)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Elżbieta (Ofiarowanie Dusz)\\c[0]?"
                             ]
                         },
                         {
@@ -8891,7 +8891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Drugie dostarczenie Dusz dla Elżbiety."
+                                "Ofiaruj Dusze Elżbiecie (drugi raz)."
                             ]
                         },
                         {
@@ -8959,7 +8959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Czy chcesz przywołać wspomnienie Elizabeth (Dostawa\nDusz 2)?\\c[0]"
+                                "Przywołać wspomnienie \\c[2]Elżbieta (Ofiarowanie Dusz 2)\\c[0]?"
                             ]
                         },
                         {
@@ -9107,7 +9107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Podnieś poziom Elizabeth do 99 lub wyższego i\nzatrzymajcie się razem w Hotelu Posejdon."
+                                "Podnieś poziom Elżbiety do 99 lub więcej\ni przenocuj z nią w Hotelu Posejdon."
                             ]
                         },
                         {
@@ -9175,7 +9175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Elżbieta (Hotel)\\c[0] – czy odtworzyć wspomnienie?"
+                                "Przywołać wspomnienie \\c[2]Elżbieta (Hotel)\\c[0]?"
                             ]
                         },
                         {
@@ -9391,7 +9391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz przywołać wspomnienie \\c[2]Katarzyna (gwałt)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Katarzyna (Gwałt)\\c[0]?"
                             ]
                         },
                         {
@@ -9539,7 +9539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Zgwałć uwięzioną Catalinę."
+                                "Zgwałć uwięzioną Katarzynę."
                             ]
                         },
                         {
@@ -9607,7 +9607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Przywołać wspomnienie \\c[2]Katarzyny (Uwięzienie)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Katarzyna (Uwięzienie)\\c[0]?"
                             ]
                         },
                         {
@@ -9755,7 +9755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Uratuj Katarzynę i zaprowadź ją do Joanna."
+                                "Uratuj Katarzynę i pomóż jej spotkać się z Joanną."
                             ]
                         },
                         {
@@ -9823,7 +9823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy odtworzyć wspomnienie \\c[2]Katarzyna (seks za zgodą)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Katarzyna (Za Zgodą)\\c[0]?"
                             ]
                         },
                         {
@@ -9971,7 +9971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Przekaż Dusze Katarzynie."
+                                "Ofiaruj Dusze Katarzynie."
                             ]
                         },
                         {
@@ -10039,7 +10039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Przypomnieć sobie \\c[2]Katarzynę (ofiarowanie Dusz)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Katarzyna (Ofiarowanie Dusz)\\c[0]?"
                             ]
                         },
                         {
@@ -10187,7 +10187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Druga ofiarowanie Dusz dla Katarzyny."
+                                "Ofiaruj Dusze Katarzynie (drugi raz)."
                             ]
                         },
                         {
@@ -10255,7 +10255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Katarzyna (ofiarowanie Dusz 2)\\c[0] Czy chcesz przywołać\nwspomnienie?"
+                                "Przywołać wspomnienie \\c[2]Katarzyna (Ofiarowanie Dusz 2)\\c[0]?"
                             ]
                         },
                         {
@@ -10403,7 +10403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Podnieś poziom Katarzyny do 99 lub więcej i przenocuj z\nnią w Hotelu Poseidon."
+                                "Podnieś poziom Katarzyny do 99 lub więcej\ni przenocuj z nią w Hotelu Posejdon."
                             ]
                         },
                         {
@@ -10471,7 +10471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Odtworzyć \\c[2]Katarzyna (Hotel)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Katarzyna (Hotel)\\c[0]?"
                             ]
                         },
                         {
@@ -10619,7 +10619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Zgwałć Joanna."
+                                "Zgwałć Joannę."
                             ]
                         },
                         {
@@ -10687,7 +10687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz przypomnieć sobie \\c[2]Joanna (Gwałt)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Joanna (Gwałt)\\c[0]?"
                             ]
                         },
                         {
@@ -10835,7 +10835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Zgwałć uwięzioną Joanna."
+                                "Zgwałć uwięzioną Joannę."
                             ]
                         },
                         {
@@ -10903,7 +10903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Joanna (Uwięziona)\\c[0] – czy chcesz przywołać wspomnienie?"
+                                "Przywołać wspomnienie \\c[2]Joanna (Uwięzienie)\\c[0]?"
                             ]
                         },
                         {
@@ -11051,7 +11051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wskrześ Joanna."
+                                "Wskrześ Joannę."
                             ]
                         },
                         {
@@ -11119,7 +11119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz odtworzyć wspomnienie: Joanna (za obopólną\nzgodą)?"
+                                "Przywołać wspomnienie \\c[2]Joanna (Za Zgodą)\\c[0]?"
                             ]
                         },
                         {
@@ -11267,7 +11267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Daj Dusze Joanna."
+                                "Ofiaruj Dusze Joannie."
                             ]
                         },
                         {
@@ -11335,7 +11335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Odtworzyć \\c[2]Joanna (Ofiarowanie Dusz)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Joanna (Ofiarowanie Dusz)\\c[0]?"
                             ]
                         },
                         {
@@ -11483,7 +11483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Drugi dopływ dusz dla Joanna."
+                                "Ofiaruj Dusze Joannie (drugi raz)."
                             ]
                         },
                         {
@@ -11551,7 +11551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz przywołać wspomnienie: \\c[2]Joanna (Dusze\n-dostawa 2)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Joanna (Ofiarowanie Dusz 2)\\c[0]?"
                             ]
                         },
                         {
@@ -11699,7 +11699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Doprowadź poziom Joanna do 99 lub więcej i przenocujcie\nrazem w hotelu Posejdon."
+                                "Podnieś poziom Joanny do 99 lub więcej\ni przenocuj z nią w Hotelu Posejdon."
                             ]
                         },
                         {
@@ -11767,7 +11767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Odtworzyć \\c[2]Joanna (Hotel)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Joanna (Hotel)\\c[0]?"
                             ]
                         },
                         {
@@ -11983,7 +11983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Przywołać wspomnienie \\c[2]Mirandy (Uwięziona)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Miranda (Uwięzienie)\\c[0]?"
                             ]
                         },
                         {
@@ -12131,7 +12131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Przekaż Dusze Mirandzie."
+                                "Ofiaruj Dusze Mirandzie."
                             ]
                         },
                         {
@@ -12199,7 +12199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz przypomnieć sobie \\c[2]Mirandę (ofiarowanie\nDusz)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Miranda (Ofiarowanie Dusz)\\c[0]?"
                             ]
                         },
                         {
@@ -12347,7 +12347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Drugie dostarczenie dusz Mirandzie."
+                                "Ofiaruj Dusze Mirandzie (drugi raz)."
                             ]
                         },
                         {
@@ -12415,7 +12415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz przywołać wspomnienie \\c[2]Miranda (ofiarowanie\nDusz 2)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Miranda (Ofiarowanie Dusz 2)\\c[0]?"
                             ]
                         },
                         {
@@ -12563,7 +12563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Podnieś poziom Mirandy do 99 lub więcej i przenocuj z\nnią w Hotelu Posejdon."
+                                "Podnieś poziom Mirandy do 99 lub więcej\ni przenocuj z nią w Hotelu Posejdon."
                             ]
                         },
                         {
@@ -12631,7 +12631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz powspominać \\c[2]Mirandę (Hotel)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Miranda (Hotel)\\c[0]?"
                             ]
                         },
                         {
@@ -12847,7 +12847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Przypomnieć sobie 「\\c[2]Karmazynowy Kapturek (Gwałt we\n śnie)\\c[0]」?"
+                                "Przywołać wspomnienie \\c[2]Czerwony Kapturek (Gwałt we Śnie)\\c[0]?"
                             ]
                         },
                         {
@@ -12995,7 +12995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Zgwałć Czerwony Kapturek."
+                                "Zgwałć Czerwonego Kapturka."
                             ]
                         },
                         {
@@ -13063,7 +13063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz przywołać wspomnienie \\c[2]Czerwony Kapturek\n(Gwałt)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Czerwony Kapturek (Gwałt)\\c[0]?"
                             ]
                         },
                         {
@@ -13279,7 +13279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz przypomnieć sobie \\c[2]Czerwony Kapturek\n(prostytucja)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Czerwony Kapturek (Prostytucja)\\c[0]?"
                             ]
                         },
                         {
@@ -13427,7 +13427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Zgwałć ???"
+                                "Zgwałć ???."
                             ]
                         },
                         {
@@ -13495,7 +13495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz powrócić do wspomnienia \\c[2]Alicja (gwałt)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Alicja (Gwałt)\\c[0]?"
                             ]
                         },
                         {
@@ -13643,7 +13643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Zbierz określoną liczbę bajek i porozmawiaj z ???."
+                                "Zbierz określoną liczbę bajek\ni porozmawiaj z ???."
                             ]
                         },
                         {
@@ -13711,7 +13711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz odtworzyć \\c[2]Alicja (Nagroda)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Alicja (Nagroda)\\c[0]?"
                             ]
                         },
                         {
@@ -13859,7 +13859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Zbierz określoną liczbę bajek i porozmawiaj z ???."
+                                "Zbierz określoną liczbę bajek\ni porozmawiaj z ???."
                             ]
                         },
                         {
@@ -13927,7 +13927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz przypomnieć sobie \\c[2]Alicję (zgoda)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Alicja (Za Zgodą)\\c[0]?"
                             ]
                         },
                         {
@@ -14143,7 +14143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz przywołać wspomnienie \\c[2]La Belle (Gwałt)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]La Belle (Gwałt)\\c[0]?"
                             ]
                         },
                         {
@@ -14359,7 +14359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz przypomnieć sobie \\c[2]La Belle (Uwięzienie)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]La Belle (Uwięzienie)\\c[0]?"
                             ]
                         },
                         {
@@ -14575,7 +14575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy przypomnieć \\c[2]Żabia Księżniczka (seks konsensualny)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Żabia Księżniczka (Za Zgodą)\\c[0]?"
                             ]
                         },
                         {
@@ -14791,7 +14791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz powrócić do sceny \\c[2]Syrenia Księżniczka (Seks\nza zgodą)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Syrenia Księżniczka (Za Zgodą)\\c[0]?"
                             ]
                         },
                         {
@@ -14939,7 +14939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Poślub Roszpunkę"
+                                "Zawrzyj pakt z Roszpunką."
                             ]
                         },
                         {
@@ -15007,7 +15007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Roszpunka (seks za zgodą)\\c[0] Czy chcesz przywołać\nwspomnienie?"
+                                "Przywołać wspomnienie \\c[2]Roszpunka (Za Zgodą)\\c[0]?"
                             ]
                         },
                         {
@@ -15155,7 +15155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Złóż przysięgę Królewnie Śnieżce."
+                                "Zawrzyj pakt z Królewną Śnieżką."
                             ]
                         },
                         {
@@ -15223,7 +15223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Odtworzyć \\c[2]Snow White (seks za zgodą)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Snow White (Za Zgodą)\\c[0]?"
                             ]
                         },
                         {
@@ -15371,7 +15371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Przegrywasz z Kopciuszkiem."
+                                "Przegraj z Kopciuszkiem."
                             ]
                         },
                         {
@@ -15439,7 +15439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Przywołać wspomnienie \\c[2]Kopciuszka (odwrotny gwałt)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Kopciuszek (Odwrotny Gwałt)\\c[0]?"
                             ]
                         },
                         {
@@ -15587,7 +15587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pokonaj ukrytego bossa trasy C."
+                                "Pokonaj ostatniego bossa trasy C."
                             ]
                         },
                         {
@@ -15655,7 +15655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz powspominać \\c[2]Mary Sue (gwałt)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Mary Sue (Gwałt)\\c[0]?"
                             ]
                         },
                         {
@@ -15803,7 +15803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Przekaż Dusze Czerwonemu Kapturkowi."
+                                "Ofiaruj Dusze Czerwonemu Kapturkowi."
                             ]
                         },
                         {
@@ -15871,7 +15871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Przypomnieć sobie \\c[2]Szkarłatny Kaptur (ofiarowanie Dusz)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Czerwony Kapturek (Ofiarowanie Dusz)\\c[0]?"
                             ]
                         },
                         {
@@ -16019,7 +16019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Daj Dusze Czerwonemu Kapturkowi (2. raz)"
+                                "Ofiaruj Dusze Czerwonemu Kapturkowi (drugi raz)."
                             ]
                         },
                         {
@@ -16087,7 +16087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Przypomnieć sobie Czerwonego Kapturka (Dusze +2)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Czerwony Kapturek (Ofiarowanie Dusz 2)\\c[0]?"
                             ]
                         },
                         {
@@ -16235,7 +16235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Podnieś poziom Czerwonego Kapturka do 99 lub więcej i\nzatrzymajcie się razem w Hotelu Poseidon."
+                                "Podnieś poziom Czerwonego Kapturka do 99 lub więcej\ni przenocuj z nią w Hotelu Posejdon."
                             ]
                         },
                         {
@@ -16451,7 +16451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Naprawić błąd slotu przywołania?"
+                                "Naprawić błąd wyświetlania przywołania?"
                             ]
                         },
                         {
@@ -16658,7 +16658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Odtworzyć wspomnienie: \\c[2]Małgosia (Seks za zgodą)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Małgosia (Za Zgodą)\\c[0]?"
                             ]
                         },
                         {
@@ -16806,7 +16806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Zawierasz pakt z Kopciuszkiem."
+                                "Zawrzyj pakt z Kopciuszkiem."
                             ]
                         },
                         {
@@ -16874,7 +16874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy odtworzyć wspomnienie \\c[2]Kopciuszek (Dobrowolna)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Kopciuszek (Za Zgodą)\\c[0]?"
                             ]
                         },
                         {
@@ -17022,7 +17022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wydarzenie z Jasiem i Małgosią – wybierz Jasia."
+                                "Wybierz Jasia w wydarzeniu Jasia i Małgosi."
                             ]
                         },
                         {
@@ -17090,7 +17090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz wspomnieć \\c[2]Jaś (za zgodą)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Jaś (Za Zgodą)\\c[0]?"
                             ]
                         },
                         {
@@ -17238,7 +17238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz powspominać \\c[2]Jasia i Małgosię (W)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Jaś i Małgosia (Oboje)\\c[0]?"
                             ]
                         },
                         {
@@ -17386,7 +17386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wybierz oboje w wydarzeniu o Jasiu i Małgosi."
+                                "Wybierz oboje w wydarzeniu Jasia i Małgosi."
                             ]
                         },
                         {
@@ -17454,7 +17454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz powspominać \\c[2]Jasia i Małgosię (W)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Jaś i Małgosia (Oboje)\\c[0]?"
                             ]
                         },
                         {
@@ -17602,7 +17602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kup prostytutkę na Ulicy Rozpusty."
+                                "Kup prostytutkę w Rozpustnej Dzielnicy."
                             ]
                         },
                         {
@@ -17670,7 +17670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz powspominać \\c[2]Mariannę (Prostytucja)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Marianna (Prostytucja)\\c[0]?"
                             ]
                         },
                         {
@@ -17886,7 +17886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy przypomnieć sobie \\c[2]Marianna (gwałt)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Marianna (Gwałt)\\c[0]?"
                             ]
                         },
                         {
@@ -18102,7 +18102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wspomnieć \\c[2]Mariannę (uwięzienie)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Marianna (Uwięzienie)\\c[0]?"
                             ]
                         },
                         {
@@ -18250,7 +18250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pakt z Bafometem."
+                                "Zawrzyj pakt z Bafometem."
                             ]
                         },
                         {
@@ -18318,7 +18318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Baphomet (Przysięga)\\c[0] czy chcesz powspominać?"
+                                "Przywołać wspomnienie \\c[2]Baphomet (Przymierze)\\c[0]?"
                             ]
                         },
                         {
@@ -18466,7 +18466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pakt z Bafometem."
+                                "Zawrzyj pakt z Bafometem."
                             ]
                         },
                         {
@@ -18534,7 +18534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz przywołać wspomnienie \\c[2]Baphomet (Przymierze\n2)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Baphomet (Przymierze 2)\\c[0]?"
                             ]
                         },
                         {
@@ -18682,7 +18682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Obejrzyj wydarzenie wodne Leaf."
+                                "Obejrzyj, jak Leaf bawi się w wodzie."
                             ]
                         },
                         {
@@ -18750,7 +18750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz wspominać \\c[2]Leaf (zabawa w wodzie)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Leaf (Zabawa w Wodzie)\\c[0]?"
                             ]
                         },
                         {
@@ -18898,7 +18898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Zobacz wydarzenie: Zabawa Elmy w wodzie."
+                                "Obejrzyj, jak Elma bawi się w wodzie."
                             ]
                         },
                         {
@@ -18966,7 +18966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz powspominać \\c[2]Ermę (Zabawa w wodzie)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Elma (Zabawa w Wodzie)\\c[0]?"
                             ]
                         },
                         {
@@ -19114,7 +19114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Zobacz wydarzenie wodnych zabaw Joanny i Katarzyny."
+                                "Obejrzyj, jak Joanna i Katarzyna bawią się w wodzie."
                             ]
                         },
                         {
@@ -19182,7 +19182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz powspominać \\c[2]Joannę i Katarzynę (zabawy w\nwodzie)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Joanna i Katarzyna (Zabawa w Wodzie)\\c[0]?"
                             ]
                         },
                         {
@@ -19330,7 +19330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz powspominać \\c[2]Joannę i Katarzynę (zabawy w\nwodzie)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Joanna i Katarzyna (Zabawa w Wodzie)\\c[0]?"
                             ]
                         },
                         {
@@ -19478,7 +19478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Obejrzyj wydarzenie wodnych zabaw Wiktorii."
+                                "Obejrzyj, jak Wiktoria bawi się w wodzie."
                             ]
                         },
                         {
@@ -19546,7 +19546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy przywołać wspomnienie \\c[2]Wiktoria (zabawa w wodzie)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Wiktoria (Zabawa w Wodzie)\\c[0]?"
                             ]
                         },
                         {
@@ -19694,7 +19694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Obejrzyj wydarzenie wodnej zabawy Czerwonego Kapturka."
+                                "Obejrzyj, jak Czerwony Kapturek bawi się w wodzie."
                             ]
                         },
                         {
@@ -19762,7 +19762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Odtworzyć wspomnienie \\c[2]Czerwony Kapturek (Zabawa w\nwodzie)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Czerwony Kapturek (Zabawa w Wodzie)\\c[0]?"
                             ]
                         },
                         {
@@ -19910,7 +19910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Zobacz wodną zabawę Doroty."
+                                "Obejrzyj, jak Dorota bawi się w wodzie."
                             ]
                         },
                         {
@@ -19978,7 +19978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Przywołać wspomnienie \\c[2]Doroty (Zabawa w wodzie)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Dorota (Zabawa w Wodzie)\\c[0]?"
                             ]
                         },
                         {
@@ -20126,7 +20126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Obejrzyj wydarzenie z zabawą w wodzie Gęsi."
+                                "Obejrzyj, jak Goose bawi się w wodzie."
                             ]
                         },
                         {
@@ -20194,7 +20194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz przypomnieć sobie \\c[2]Gęś (Zabawa w wodzie)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Goose (Zabawa w Wodzie)\\c[0]?"
                             ]
                         },
                         {
@@ -20342,7 +20342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Zobacz wodną zabawę Mirandy."
+                                "Obejrzyj, jak Miranda bawi się w wodzie."
                             ]
                         },
                         {
@@ -20410,7 +20410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wspomnieć \\c[2]Mirandę (zabawa w wodzie)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Miranda (Zabawa w Wodzie)\\c[0]?"
                             ]
                         },
                         {
@@ -20558,7 +20558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Zobacz Elżbietę bawiącą się w wodzie."
+                                "Obejrzyj, jak Elżbieta bawi się w wodzie."
                             ]
                         },
                         {
@@ -20626,7 +20626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz przywołać wspomnienie \\c[2]Elżbieta (zabawa w\nwodzie)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Elżbieta (Zabawa w Wodzie)\\c[0]?"
                             ]
                         },
                         {
@@ -20774,7 +20774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Podnieś Leaf do poziomu 99 i pokonaj Kopciuszka."
+                                "Podnieś poziom Leaf do 99 i pokonaj Kopciuszka."
                             ]
                         },
                         {
@@ -20842,7 +20842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz odtworzyć \\c[2]Leaf (Indywidualne Zakończenie)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Leaf (Indywidualne Zakończenie)\\c[0]?"
                             ]
                         },
                         {
@@ -20990,7 +20990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Doprowadź Elma do poziomu 99 i pokonaj Kopciuszka."
+                                "Podnieś poziom Elmy do 99 i pokonaj Kopciuszka."
                             ]
                         },
                         {
@@ -21058,7 +21058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Przypomnieć \\c[2]Elma (Indywidualne Zakończenie)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Elma (Indywidualne Zakończenie)\\c[0]?"
                             ]
                         },
                         {
@@ -21206,7 +21206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Zwiększ poziom Joanny do Poz 99 i pokonaj Kopciuszka."
+                                "Podnieś poziom Joanny do 99 i pokonaj Kopciuszka."
                             ]
                         },
                         {
@@ -21274,7 +21274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Powspominać \\c[2]Joannę (Indywidualne Zakończenie)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Joanna (Indywidualne Zakończenie)\\c[0]?"
                             ]
                         },
                         {
@@ -21422,7 +21422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Awansuj Katarzynę na Poz 99 i pokonaj Kopciuszka."
+                                "Podnieś poziom Katarzyny do 99 i pokonaj Kopciuszka."
                             ]
                         },
                         {
@@ -21490,7 +21490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz odtworzyć \\c[2]Katarzyna (indywidualne\nzakończenie)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Katarzyna (Indywidualne Zakończenie)\\c[0]?"
                             ]
                         },
                         {
@@ -21638,7 +21638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Podnieś Wiktorię do poziomu 99 i pokonaj Kopciuszek."
+                                "Podnieś poziom Wiktorii do 99 i pokonaj Kopciuszka."
                             ]
                         },
                         {
@@ -21706,7 +21706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Wiktoria (Indywidualne Zakończenie)\\c[0]: czy chcesz je\nprzywołać?"
+                                "Przywołać wspomnienie \\c[2]Wiktoria (Indywidualne Zakończenie)\\c[0]?"
                             ]
                         },
                         {
@@ -21854,7 +21854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Podnieś Dorotę do Poz 99 i pokonaj Kopciuszka."
+                                "Podnieś poziom Doroty do 99 i pokonaj Kopciuszka."
                             ]
                         },
                         {
@@ -21922,7 +21922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz obejrzeć \\c[2]Dorota (indywidualne zakończenie)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Dorota (Indywidualne Zakończenie)\\c[0]?"
                             ]
                         },
                         {
@@ -22070,7 +22070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Doprowadź Gęś do poziomu 99 i pokonaj Kopciuszka."
+                                "Podnieś poziom Goose do 99 i pokonaj Kopciuszka."
                             ]
                         },
                         {
@@ -22138,7 +22138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy przywołać wspomnienie \\c[2]Gęś (indywidualne\nzakończenie)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Goose (Indywidualne Zakończenie)\\c[0]?"
                             ]
                         },
                         {
@@ -22286,7 +22286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Doprowadź Mirandę do Poz 99 i pokonaj Kopciuszka."
+                                "Podnieś poziom Mirandy do 99 i pokonaj Kopciuszka."
                             ]
                         },
                         {
@@ -22354,7 +22354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Miranda (Indywidualne Zakończenie)\\c[0] – przypomnieć sobie?"
+                                "Przywołać wspomnienie \\c[2]Miranda (Indywidualne Zakończenie)\\c[0]?"
                             ]
                         },
                         {
@@ -22502,7 +22502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Doprowadź Elizabeth do Poz 99 i pokonaj Kopciuszka."
+                                "Podnieś poziom Elżbiety do 99 i pokonaj Kopciuszka."
                             ]
                         },
                         {
@@ -22570,7 +22570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz wspomnieć \\c[2]Elżbieta (Zakończenie\nIndywidualne)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Elżbieta (Indywidualne Zakończenie)\\c[0]?"
                             ]
                         },
                         {
@@ -22718,7 +22718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Podnieś Czerwonego Kapturka do Poz 99 i pokonaj\nKopciuszka."
+                                "Podnieś poziom Czerwonego Kapturka do 99 i pokonaj Kopciuszka."
                             ]
                         },
                         {
@@ -22786,7 +22786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Czy chcesz wrócić do \\c[2]Czerwonego Kapturka (Zakończenie\nIndywidualne)\\c[0]?"
+                                "Przywołać wspomnienie \\c[2]Czerwony Kapturek (Indywidualne Zakończenie)\\c[0]?"
                             ]
                         },
                         {

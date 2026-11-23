@@ -271,7 +271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Ah… witaj,\\n[1]. Kupisz zapałki?」"
+                                "「Ah… witaj, \\n[1]. Kupisz zapałki?」"
                             ]
                         },
                         {
@@ -326,7 +326,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Tata pokłócił się z mamą i odszedł… Erma tak bardzo\n lubiła opowieści taty o jego interesach.」"
+                                "「Tata pokłócił się z mamą i odszedł… Elma tak bardzo\n lubiła opowieści taty o jego interesach.」"
                             ]
                         },
                         {
