@@ -1,0 +1,50 @@
+##
+name: Discord Notifications
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  discord:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send Discord notification
+        if: "!contains(github.event.head_commit.message, '[skip discord]')"
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          COMMIT_MESSAGE: ${{ github.event.head_commit.message }}
+          COMMIT_URL: ${{ github.event.head_commit.url }}
+        run: |
+          jq -n \
+            --arg message "$COMMIT_MESSAGE" \
+            --arg url "$COMMIT_URL" \
+            '{
+              embeds: [{
+                title: "Aktualizacja spolszczenia",
+                description: (
+                  "**Zmiany:**\n" +
+                  " • " + ($message | split("\n") | .[0]) + "\n" +
+                  (
+                    ($message | split("\n") | .[1:] | join("\n") | ltrimstr("\n")) as $description |
+                    if ($description | length) > 0 then
+                      ">  *" + ($description | gsub("\n"; "\n> • ")) + "*\n\n"
+                    else
+                      "\n"
+                    end
+                  ) +
+                  "[Szczegóły na GitHubie](" + $url + ") - Zaktualizuj za pomocą Patchera"
+                ),
+                color: 3447003,
+                footer: {
+                  text: "MugiQ84 / Bs-Spolszczenie"
+                },
+                timestamp: (now | todate)
+              }]
+            }' > payload.json
+
+          curl -sS -f -H "Content-Type: application/json" \
+            -X POST \
+            -d @payload.json \
+            "$DISCORD_WEBHOOK"
