@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"compareFolders.excludeFilter": [
+			"/Map006.json"
+		]
+	}
+}

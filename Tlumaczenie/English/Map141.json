@@ -1,0 +1,35 @@
+{
+  "autoplayBgm": true,
+  "autoplayBgs": true,
+  "battleback1Name": null,
+  "battleback2Name": null,
+  "bgm": {
+    "name": "彼女の部屋",
+    "pan": null,
+    "pitch": 80,
+    "volume": 100
+  },
+  "bgs": {
+    "name": "",
+    "pan": null,
+    "pitch": 100,
+    "volume": 80
+  },
+  "disableDashing": false,
+  "displayName": "Her Room",
+  "encounterList": [],
+  "encounterStep": 30,
+  "height": 36,
+  "note": "",
+  "parallaxLoopX": true,
+  "parallaxLoopY": true,
+  "parallaxName": "BlueSky",
+  "parallaxShow": true,
+  "parallaxSx": 1,
+  "parallaxSy": 1,
+  "scrollType": 0,
+  "specifyBattleback": false,
+  "tilesetId": 3,
+  "width": 33,
+  "events": []
+}
